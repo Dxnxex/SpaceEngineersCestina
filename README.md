@@ -15,3 +15,5 @@ Důležité změny v překladu:
 1. Conveyor - Dopravník
 2. Light armor - Lehký pancíř
 3. Heavy armor - Těžký pancíř
+4. Survival kit - Základní modul
+
