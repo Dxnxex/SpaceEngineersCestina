@@ -1,6 +1,6 @@
 # Space Engineers Čeština
 
-Návod na instalaci. (Upozornění - Přepisujete officiální soubor s češtinou, nejedná se o modifikaci)
+Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci)
 
 1. Stáhnete si aktuální nebo libovolný starší soubor s češtinou "MyTexts.cs-CZ.resx"
 
