@@ -6,8 +6,9 @@
 3. Vložíte soubor a je to.
 
 **Další informace:**
-Dokončeno z 50%
-Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/
+1. Dokončeno z 50%
+2. Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/
+
 **Důležité změny v překladu:**
 1. Conveyor - Dopravník
 2. Light armor - Lehký pancíř
