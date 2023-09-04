@@ -9,7 +9,8 @@ Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtino
 
 3. Vložíte soubor a je to.
 
-
+Další informace:
+Dokončeno z 50%
 
 Důležité změny v překladu:
 1. Conveyor - Dopravník
