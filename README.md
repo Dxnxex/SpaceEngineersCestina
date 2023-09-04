@@ -1,6 +1,6 @@
 # Space Engineers Čeština
 
-Návod na instalaci
+Návod na instalaci. (Upozornění - Přepisujete officiální soubor s češtinou, nejedná se o modifikaci)
 
 1. Stáhnete si aktuální nebo libovolný starší soubor s češtinou "MyTexts.cs-CZ.resx"
 
@@ -8,6 +8,8 @@ Návod na instalaci
 *\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization
 
 3. Vložíte soubor a je to.
+
+
 
 Důležité změny v překladu:
 1. Conveyor - Dopravník
