@@ -10,6 +10,6 @@ Návod na instalaci
 3. Vložíte soubor a je to.
 
 Důležité změny v překladu:
-Conveyor - Dopravník
-Light armor - Lehký pancíř
-Heavy armor - Těžký pancíř
+1. Conveyor - Dopravník
+2. Light armor - Lehký pancíř
+3. Heavy armor - Těžký pancíř
