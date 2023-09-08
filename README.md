@@ -6,7 +6,7 @@
 3. Vložíte soubor a je to.
 
 **Další informace:**
-1. Dokončeno z 50%
+1. Dokončeno z 50% 
 2. Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/
 3. Korektura ještě není bohužel kompletní, jsou tam překlepy.
 4. Možné změny v budoucnosti co se týče překladů už přeloženého.
@@ -17,3 +17,8 @@
 3. Heavy armor - Těžký pancíř
 4. Survival kit - Základní modul
 
+08.09.2023 - Verze 1.01 
+- Montéry
+- Trysky
+- Rafinérie
+  
