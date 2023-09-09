@@ -17,6 +17,8 @@
 4. Survival kit - Základní modul
 5. Willis Duct - Průchod
 6. Assembler - Montér
+7. Safe Zone - Ochranné pole
+8. Event Controler - Ovladač Událostí
    
 **08.09.2023 - Verze 1.01** 
 1. Montéry a Rafinérie
@@ -30,3 +32,8 @@
 4. Varovné cedule
 5. Začaty práce na Event controlleru - Ovladač údálost
 6. Další menší změny
+
+**09.09.2023 - Verze 1.03** 
+1. Dokončené Mřížované lešení
+2. Ochranné pole
+3. Ovladač události
