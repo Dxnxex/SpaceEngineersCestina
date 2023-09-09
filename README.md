@@ -15,7 +15,9 @@
 2. Light armor - Lehký pancíř
 3. Heavy armor - Těžký pancíř
 4. Survival kit - Základní modul
-
+5. Willis Duct - Průchod
+6. Assembler - Montér
+   
 **08.09.2023 - Verze 1.01** 
 1. Montéry a Rafinérie
 2. Trysky
