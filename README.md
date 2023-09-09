@@ -17,6 +17,7 @@
 4. Survival kit - Základní modul
 5. Willis Duct - Průchod
 6. Assembler - Montér
+7. Merge block - Spojovač
    
 **08.09.2023 - Verze 1.01** 
 1. Montéry a Rafinérie
