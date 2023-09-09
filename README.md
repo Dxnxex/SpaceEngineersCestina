@@ -17,8 +17,12 @@
 4. Survival kit - Základní modul
 5. Willis Duct - Průchod
 6. Assembler - Montér
+<<<<<<< HEAD
 7. Safe Zone - Ochranné pole
 8. Event Controler - Ovladač Událostí
+=======
+7. Merge block - Spojovač
+>>>>>>> 86a3360c7ebb2ad32409cb077c4ce10fcdccf9a9
    
 **08.09.2023 - Verze 1.01** 
 1. Montéry a Rafinérie
