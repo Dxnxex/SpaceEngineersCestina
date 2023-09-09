@@ -17,8 +17,15 @@
 3. Heavy armor - Těžký pancíř
 4. Survival kit - Základní modul
 
-08.09.2023 - Verze 1.01 
-- Montéry
-- Trysky
-- Rafinérie
+**08.09.2023 - Verze 1.01** 
+1. Montéry a Rafinérie
+2. Trysky
+
   
+**09.09.2023 - Verze 1.02** 
+1. Zkrácené názvy části pancířů
+2. Všechny kokpity mají před sebou název "Kokpit"
+3. Přídány Willis Duct = Průchod
+4. Varovné cedule
+5. Začaty práce na Event controlleru - Ovladač údálost
+6. Další menší změny

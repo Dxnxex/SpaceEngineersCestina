@@ -134,7 +134,7 @@
 <comment>CZE</comment>
 </data>
 <data name="AGravity" xml:space="preserve">
-<value>Umělá grav.</value>
+<value>Umělá gravitace</value>
 <comment>CZE</comment>
 </data>
 <data name="Weather" xml:space="preserve">
@@ -1918,7 +1918,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Cockpit2" xml:space="preserve">
-<value>Kokpit - Řídící stanoviště</value>
+<value>Řídící stanoviště</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Cockpit3" xml:space="preserve">
@@ -2026,7 +2026,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_FighterCockpit" xml:space="preserve">
-<value>Kokpit - Letecký</value>
+<value>Letecký kokpit</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_FoodDispenser" xml:space="preserve">
@@ -2150,223 +2150,223 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HalfHeavyArmorBlock" xml:space="preserve">
-<value>Těžký pancíř - Půlka                                   </value>
+<value>Těžký pancíř - Půlka                                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HalfLightArmorBlock" xml:space="preserve">
-<value>Lehký pancíř - Půlka                                   </value>
+<value>Lehký pancíř - Půlka                                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HalfSlopeHeavyArmorBlock" xml:space="preserve">
-<value>Těžký pancíř - Půlka - Úkos                            </value>
+<value>Těžký pancíř - Půlka - Úkos                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HalfSlopeLightArmorBlock" xml:space="preserve">
-<value>Lehký pancíř - Půlka - Úkos                            </value>
+<value>Lehký pancíř - Půlka - Úkos                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyAngledArmorCorner" xml:space="preserve">
-<value>Těžký pancíř - Roh - Úhel                              </value>
+<value>Těžký pancíř - Roh - Úhel                               </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyAngledArmorSlope" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Úhel                             </value>
+<value>Těžký pancíř - Úkos - Úhel                              </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorBlock" xml:space="preserve">
-<value>Těžký pancíř                                           </value>
+<value>Těžký pancíř                                            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner" xml:space="preserve">
-<value>Těžký pancíř - Roh                                     </value>
+<value>Těžký pancíř - Roh                                      </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner2" xml:space="preserve">
-<value>Těžký pancíř - Roh - 2x1x1                             </value>
+<value>Těžký pancíř - Roh - 2x1x1                              </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner2Base" xml:space="preserve">
-<value>Těžký pancíř - Roh - 2x1x1 - Základ                    </value>
+<value>Těžký pancíř - Roh - 2x1x1 - Základ                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner2BaseSmooth" xml:space="preserve">
-<value>Těžký pancíř - Roh - 2x1x1 -Základ - Hladký            </value>
+<value>Těžký pancíř - Roh - 2x1x1 -Základ - Hladký             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner2Smooth" xml:space="preserve">
-<value>Těžký pancíř - Roh - 2x1x1 - Hladký                    </value>
+<value>Těžký pancíř - Roh - 2x1x1 - Hladký                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner2Tip" xml:space="preserve">
-<value>Těžký pancíř - Roh - 2x1x1 - Špička                    </value>
+<value>Těžký pancíř - Roh - 2x1x1 - Špička                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCorner2TipSmooth" xml:space="preserve">
-<value>Těžký pancíř - Roh - 2x1x1 - Špička - Hladký           </value>
+<value>Těžký pancíř - Roh - 2x1x1 - Špička - Hladký            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh                          </value>
+<value>Těžký pancíř - Obrácený - Roh                           </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner2" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - 2x1x1                  </value>
+<value>Těžký pancíř - Obrácený - Roh - 2x1x1                   </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner2Base" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Základ         </value>
+<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Základ          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner2BaseSmooth" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Základ - Hladký</value>
+<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Základ - Hladký </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner2Smooth" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Hladký         </value>
+<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Hladký          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner2Tip" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička         </value>
+<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorInvCorner2TipSmooth" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký</value>
+<value>Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope" xml:space="preserve">
-<value>Těžký pancíř - Úkos                                    </value>
+<value>Těžký pancíř - Úkos                                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope2" xml:space="preserve">
-<value>Těžký pancíř - Úkos - 2x1x1                            </value>
+<value>Těžký pancíř - Úkos - 2x1x1                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope2Base" xml:space="preserve">
-<value>Těžký pancíř - Úkos - 2x1x1 - Základ                   </value>
+<value>Těžký pancíř - Úkos - 2x1x1 - Základ                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope2BaseSmooth" xml:space="preserve">
-<value>Těžký pancíř - Úkos - 2x1x1 - Základ - Hladký          </value>
+<value>Těžký pancíř - Úkos - 2x1x1 - Základ - Hladký           </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope2Smooth" xml:space="preserve">
-<value>Těžký pancíř - Úkos - 2x1x1 - Hladký                   </value>
+<value>Těžký pancíř - Úkos - 2x1x1 - Hladký                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope2Tip" xml:space="preserve">
-<value>Těžký pancíř - Úkos - 2x1x1 - Špička                   </value>
+<value>Těžký pancíř - Úkos - 2x1x1 - Špička                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlope2TipSmooth" xml:space="preserve">
-<value>Těžký pancíř - Úkos - 2x1x1 - Špička - Hladký          </value>
+<value>Těžký pancíř - Úkos - 2x1x1 - Špička - Hladký           </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyRoundArmorCorner" xml:space="preserve">
-<value>Těžký pancíř - Kulatý - Roh                            </value>
+<value>Těžký pancíř - Kulatý - Roh                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyRoundArmorInvCorner" xml:space="preserve">
-<value>Těžký pancíř - Kulatý - Obrácený - Roh                 </value>
+<value>Těžký pancíř - Kulatý - Obrácený - Roh                  </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyRoundArmorSlope" xml:space="preserve">
-<value>Těžký pancíř - Kulatý - Úkos                           </value>
+<value>Těžký pancíř - Kulatý - Úkos                            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyRoundedArmorCorner" xml:space="preserve">
-<value>Těžký pancíř - Zakulacený - Roh                        </value>
+<value>Těžký pancíř - Zakulacený - Roh                         </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyRoundedArmorSlope" xml:space="preserve">
-<value>Těžký pancíř - Zakulacený - Úkos                       </value>
+<value>Těžký pancíř - Zakulacený - Úkos                        </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorHalfSlopeInverted" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Půlka - Úkos                 </value>
+<value>Lehký pancíř - Obrácený - Půlka - Úkos                  </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorHalfSlopeInverted" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Půlka - Úkos                 </value>
+<value>Těžký pancíř - Obrácený - Půlka - Úkos                  </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorHalfSlopeCorner" xml:space="preserve">
-<value>Lehký pancíř - Půlka - Úkos - Roh                      </value>
+<value>Lehký pancíř - Půlka - Úkos - Roh                       </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorHalfSlopeCorner" xml:space="preserve">
-<value>Těžký pancíř - Půlka - Úkos - Roh                      </value>
+<value>Těžký pancíř - Půlka - Úkos - Roh                       </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorHalfSlopeCornerInverted" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Půlka - Úkos - Roh           </value>
+<value>Lehký pancíř - Obrácený - Půlka - Úkos - Roh            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorHalfSlopeCornerInverted" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Půlka - Úkos - Roh           </value>
+<value>Těžký pancíř - Obrácený - Půlka - Úkos - Roh            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopedCornerTip" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Roh - Špička                     </value>
+<value>Lehký pancíř - Úkos - Roh - Špička                      </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopedCornerTip" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Roh - Špička                     </value>
+<value>Těžký pancíř - Úkos - Roh - Špička                      </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopedCornerBase" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Roh - Základ                     </value>
+<value>Lehký pancíř - Úkos - Roh - Základ                      </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopedCornerBase" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Roh - Základ                     </value>
+<value>Těžký pancíř - Úkos - Roh - Základ                      </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopedCorner" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Roh                              </value>
+<value>Lehký pancíř - Úkos - Roh                               </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopedCorner" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Roh                              </value>
+<value>Těžký pancíř - Úkos - Roh                               </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorHalfSlopedCornerBase" xml:space="preserve">
-<value>Lehký pancíř - Půlka - Úkos - Roh - Základ             </value>
+<value>Lehký pancíř - Půlka - Úkos - Roh - Základ              </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorHalfSlopedCornerBase" xml:space="preserve">
-<value>Těžký pancíř - Půlka - Úkos - Roh - Základ             </value>
+<value>Těžký pancíř - Půlka - Úkos - Roh - Základ              </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorHalfCorner" xml:space="preserve">
-<value>Lehký pancíř - Půlka - Roh - Základ                    </value>
+<value>Lehký pancíř - Půlka - Roh - Základ                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorHalfCorner" xml:space="preserve">
-<value>Těžký pancíř - Půlka - Roh - Základ                    </value>
+<value>Těžký pancíř - Půlka - Roh - Základ                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCornerSquare" xml:space="preserve">
-<value>Lehký pancíř - Roh - Čtverec                           </value>
+<value>Lehký pancíř - Roh - Čtvereční                          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCornerSquare" xml:space="preserve">
-<value>Těžký pancíř - Roh - Čtverec                           </value>
+<value>Těžký pancíř - Roh - Čtvereční                          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCornerSquareInverted" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - Čtverec                </value>
+<value>Lehký pancíř - Obrácený - Roh - Čtvereční               </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorCornerSquareInverted" xml:space="preserve">
-<value>Těžký pancíř - Obrácený - Roh - Čtverec                </value>
+<value>Těžký pancíř - Obrácený - Roh - Čtvereční               </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorHalfSlopedCorner" xml:space="preserve">
-<value>Lehký pancíř - Půlka - Úkos - Roh                      </value>
+<value>Lehký pancíř - Půlka - Úkos - Roh                       </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorHalfSlopedCorner" xml:space="preserve">
-<value>Těžký pancíř - Půlka - Úkos - Roh                      </value>
+<value>Těžký pancíř - Půlka - Úkos - Roh                       </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HydrogenTank" xml:space="preserve">
@@ -2434,143 +2434,143 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightAngledArmorCorner" xml:space="preserve">
-<value>Lehký pancíř - Roh - Úhlový                            </value>
+<value>Lehký pancíř - Roh - Úhlový                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightAngledArmorSlope" xml:space="preserve">
-<value>Lehký pancíř- Úkos - Úhlový                            </value>
+<value>Lehký pancíř- Úkos - Úhlový                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorBlock" xml:space="preserve">
-<value>Lehký pancíř                                           </value>
+<value>Lehký pancíř                                            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner" xml:space="preserve">
-<value>Lehký pancíř - Roh                                     </value>
+<value>Lehký pancíř - Roh                                      </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner2" xml:space="preserve">
-<value>Lehký pancíř - Roh - 2x1x1                             </value>
+<value>Lehký pancíř - Roh - 2x1x1                              </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner2Base" xml:space="preserve">
-<value>Lehký pancíř - Roh - 2x1x1 - Základ                    </value>
+<value>Lehký pancíř - Roh - 2x1x1 - Základ                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner2BaseSmooth" xml:space="preserve">
-<value>Lehký pancíř - Roh - 2x1x1 - Základ - Hladký           </value>
+<value>Lehký pancíř - Roh - 2x1x1 - Základ - Hladký            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner2Smooth" xml:space="preserve">
-<value>Lehký pancíř - Roh - 2x1x1 - Hladký                    </value>
+<value>Lehký pancíř - Roh - 2x1x1 - Hladký                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner2Tip" xml:space="preserve">
-<value>Lehký pancíř - Roh - 2x1x1 - Špička                    </value>
+<value>Lehký pancíř - Roh - 2x1x1 - Špička                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner2TipSmooth" xml:space="preserve">
-<value>Lehký pancíř - Roh - 2x1x1 - Špička - Hladký           </value>
+<value>Lehký pancíř - Roh - 2x1x1 - Špička - Hladký            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner3" xml:space="preserve">
-<value>Lehký pancíř - Roh - 3x1x1                             </value>
+<value>Lehký pancíř - Roh - 3x1x1                              </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorCorner3Smooth" xml:space="preserve">
-<value>Lehký pancíř - Roh - 3x1x1 - Hladký                    </value>
+<value>Lehký pancíř - Roh - 3x1x1 - Hladký                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh                          </value>
+<value>Lehký pancíř - Obrácený - Roh                           </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner2" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 2x1x1                  </value>
+<value>Lehký pancíř - Obrácený - Roh - 2x1x1                   </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner2Base" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Základ         </value>
+<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Základ          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner2BaseSmooth" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Základ - Hladký</value>
+<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Základ - Hladký </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner2Smooth" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Hladký         </value>
+<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Hladký          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner2Tip" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička         </value>
+<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner2TipSmooth" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký</value>
+<value>Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner3" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 3x1x1                  </value>
+<value>Lehký pancíř - Obrácený - Roh - 3x1x1                   </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorInvCorner3Smooth" xml:space="preserve">
-<value>Lehký pancíř - Obrácený - Roh - 3x1x1 - Hladký         </value>
+<value>Lehký pancíř - Obrácený - Roh - 3x1x1 - Hladký          </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope" xml:space="preserve">
-<value>Lehký pancíř - Úkos                                    </value>
+<value>Lehký pancíř - Úkos                                     </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope2" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 2x1x1                            </value>
+<value>Lehký pancíř - Úkos - 2x1x1                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope2Base" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 2x1x1 - Základ                   </value>
+<value>Lehký pancíř - Úkos - 2x1x1 - Základ                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope2BaseSmooth" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 2x1x1 - Základ - Hladký          </value>
+<value>Lehký pancíř - Úkos - 2x1x1 - Základ - Hladký           </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope2Smooth" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 2x1x1 - Hladký                   </value>
+<value>Lehký pancíř - Úkos - 2x1x1 - Hladký                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope2Tip" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 2x1x1 - Špička                   </value>
+<value>Lehký pancíř - Úkos - 2x1x1 - Špička                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope2TipSmooth" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 2x1x1 - Špička - Hladký          </value>
+<value>Lehký pancíř - Úkos - 2x1x1 - Špička - Hladký           </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope3" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 3x1x1                            </value>
+<value>Lehký pancíř - Úkos - 3x1x1                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlope3Smooth" xml:space="preserve">
-<value>Lehký pancíř - Úkos - 3x1x1 - Hladký                   </value>
+<value>Lehký pancíř - Úkos - 3x1x1 - Hladký                    </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightRoundArmorCorner" xml:space="preserve">
-<value>Lehký pancíř - Kulatý - Roh                            </value>
+<value>Lehký pancíř - Kulatý - Roh                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightRoundArmorInvCorner" xml:space="preserve">
-<value>Lehký pancíř - Kulatý - Obrácený - Roh                 </value>
+<value>Lehký pancíř - Kulatý - Obrácený - Roh                  </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightRoundArmorSlope" xml:space="preserve">
-<value>Lehký pancíř - Kulatý - Úkos                           </value>
+<value>Lehký pancíř - Kulatý - Úkos                            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightRoundedArmorCorner" xml:space="preserve">
-<value>Lehký pancíř - Kulatý - Roh                            </value>
+<value>Lehký pancíř - Kulatý - Roh                             </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightRoundedArmorSlope" xml:space="preserve">
-<value>Lehký pancíř - Kulatý - Úkos                           </value>
+<value>Lehký pancíř - Kulatý - Úkos                            </value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_MedicalRoom" xml:space="preserve">
@@ -2590,11 +2590,11 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_OpenCockpitLarge" xml:space="preserve">
-<value>Kokpit - Ovládací křeslo</value>
+<value>Ovládací křeslo</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_OpenCockpitSmall" xml:space="preserve">
-<value>Kokpit - Ovládací křeslo</value>
+<value>Ovládací křeslo</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_OreDetector" xml:space="preserve">
@@ -3546,7 +3546,7 @@
 <comment>CZE</comment>
 </data>
 <data name="PGravity" xml:space="preserve">
-<value>Přírodní grav.</value>
+<value>Přírodní gravitace</value>
 <comment>CZE</comment>
 </data>
 <data name="Planets" xml:space="preserve">
@@ -7602,7 +7602,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_TurretControlBlock" xml:space="preserve">
-<value>Ovladač věže</value>
+<value>Ovladač veže</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SlidingHatchDoor" xml:space="preserve">
@@ -7666,7 +7666,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_CockpitStandingBridge" xml:space="preserve">
-<value>Kokpit - Můstek</value>
+<value>Můstek</value>
 <comment>CZE</comment>
 </data>
 <data name="TssTargetingInfo_NoMainCockpit" xml:space="preserve">
@@ -7750,87 +7750,87 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransitionBase" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Přechod - Základ                 </value>
+<value>Těžký pancíř - Úkos - Přechod - Základ</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransitionBaseMirrored" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Přechod - Základ - Zrcadlový     </value>
+<value>Těžký pancíř - Úkos - Přechod - Základ - Zrcadlový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransitionTip" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Přechod - Špička                 </value>
+<value>Těžký pancíř - Úkos - Přechod - Špička</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransitionTipMirrored" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Přechod - Špička - Zrcadlový     </value>
+<value>Těžký pancíř - Úkos - Přechod - Špička - Zrcadlový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSquareSlopedCornerBase" xml:space="preserve">
-<value>Těžký pancíř - Čtverec - Úkos - Roh - Základ           </value>
+<value>Těžký pancíř - Čtvereční - Úkos - Rohový - Základ</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSquareSlopedCornerTip" xml:space="preserve">
-<value>Těžký pancíř - Čtverec - Úkos - Roh - Špička           </value>
+<value>Těžký pancíř - Čtvereční - Úkos - Rohový - Špička</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorRaisedSlopedCorner" xml:space="preserve">
-<value>Těžký pancíř - Vyvýšený - Úkos - Roh                   </value>
+<value>Těžký pancíř - Vyvýšený - Úkos - Rohový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransition" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Přechod                          </value>
+<value>Těžký pancíř - Úkos - Přechod</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransitionMirrored" xml:space="preserve">
-<value>Těžký pancíř - Úkos - Přechod - Zrcadlový              </value>
+<value>Těžký pancíř - Úkos - Přechod - Zrcadlový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavytArmorSquareSlopedCornerTip" xml:space="preserve">
-<value>Těžký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený</value>
+<value>Těžký pancíř - Čtvereční - Úkos - Rohový - Špička - Obrácený</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorRaisedSlopedCorner" xml:space="preserve">
-<value>Lehký pancíř - Vyvýšený - Úkos - Roh                   </value>
+<value>Lehký pancíř - Vyvýšený - Úkos - Rohový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopeTransition" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Přechod                          </value>
+<value>Lehký pancíř - Úkos - Přechod</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopeTransitionBase" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Přechod - Základ                 </value>
+<value>Lehký pancíř - Úkos - Přechod - Základ</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopeTransitionBaseMirrored" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Přechod - Základ - Zrcadlový     </value>
+<value>Lehký pancíř - Úkos - Přechod - Základ - Zrcadlový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopeTransitionMirrored" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Přechod - Zrcadlový              </value>
+<value>Lehký pancíř - Úkos - Přechod - Zrcadlový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopeTransitionTip" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Přechod - Špička                 </value>
+<value>Lehký pancíř - Úkos - Přechod - Špička</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSlopeTransitionTipMirrored" xml:space="preserve">
-<value>Lehký pancíř - Úkos - Přechod - Špička - Zrcadlový     </value>
+<value>Lehký pancíř - Úkos - Přechod - Špička - Zrcadlový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSquareSlopedCornerBase" xml:space="preserve">
-<value>Lehký pancíř - Čtverec - Úkos - Roh - Základ           </value>
+<value>Lehký pancíř - Čtvereční - Úkos - Rohový - Základ</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSquareSlopedCornerTip" xml:space="preserve">
-<value>Lehký pancíř - Čtverec - Úkos - Roh - Špička           </value>
+<value>Lehký pancíř - Čtvereční - Úkos - Rohový - Špička</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LightArmorSquareSlopedCornerTipInv" xml:space="preserve">
-<value>Lehký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený</value>
+<value>Lehký pancíř - Čtvereční - Úkos - Rohový - Špička - Obrácený</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSquareSlopedCornerTipInv" xml:space="preserve">
-<value>Těžký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený</value>
+<value>Těžký pancíř - Čtvereční - Úkos - Rohový - Špička - Obrácený</value>
 <comment>CZE</comment>
 </data>
 <data name="ChatScreen_TerminalSendMessage" xml:space="preserve">
@@ -10154,7 +10154,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Hint21Text" xml:space="preserve">
-<value>Veděl jsi že? Můžeš manuálně ovládat věže k lepšímu vybrání tvého cíle.</value>
+<value>Veděl jsi že? Můžeš manuálně ovládat veže k lepšímu vybrání tvého cíle.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint22Text" xml:space="preserve">
@@ -11405,10 +11405,6 @@
 <value>Překladatelé</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_EventController" xml:space="preserve">
-<value>Ovladač událostí spouští akce založené na vložených podmínkách.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_GatlingTurret" xml:space="preserve">
 <value>Rychlopalební věž, která je nabíjena skrze dopravníky. Používá Kulomet - Náboje. Maximální dosah: 800 m</value>
 <comment>CZE</comment>
@@ -11455,10 +11451,6 @@
 </data>
 <data name="Description_Bed" xml:space="preserve">
 <value>Postel jako dekorace. Zachovává hráčský inventář a nástrojový panel v případě, že je odpojený a drží Astronauta naživu pokud je v prostoru kyslík.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_EventController" xml:space="preserve">
-<value>Ovladač události</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Window1x1Face" xml:space="preserve">
@@ -11562,7 +11554,7 @@
 <comment>CZE</comment>
 </data>
 <data name="HudEnergyGroupConveyors" xml:space="preserve">
-<value>Dopravníky</value>
+<value>Potrubí</value>
 <comment>CZE</comment>
 </data>
 <data name="HudEnergyGroupDefense" xml:space="preserve">
@@ -11653,16 +11645,8 @@
 <value>Jetpack VYP (Není vodík)</value>
 <comment>CZE</comment>
 </data>
-<data name="NotificationSuitFuelCritical" xml:space="preserve">
-<value>Bez paliva pro jetpack</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationSuitFuelLow" xml:space="preserve">
-<value>Dochází palivo pro jetpack</value>
-<comment>CZE</comment>
-</data>
 <data name="PressNumberAgain" xml:space="preserve">
-<value>Stiskni stejné tlačítko pro změnu velikosti.</value>
+<value>Stiskni stejné tlačítko pro prohození velikosti.</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_TimeOfDay" xml:space="preserve">
@@ -11957,294 +11941,6 @@
 <value>Ventilace (Celý blok)</value>
 <comment>CZE</comment>
 </data>
-<data name="PathRecorderBlock_Waypoints" xml:space="preserve">
-<value>Trasy</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_Record" xml:space="preserve">
-<value>Nahrát</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_Stop" xml:space="preserve">
-<value>Zastavit</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_ShowPath" xml:space="preserve">
-<value>Ukázat trasu na HUD</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_Waypoint" xml:space="preserve">
-<value>Trasa</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_Action" xml:space="preserve">
-<value>Akce</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_HideWaypoints" xml:space="preserve">
-<value>Schovat trasy</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_DeleteSelected" xml:space="preserve">
-<value>Smazat označené</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_DeleteAllWaypoints" xml:space="preserve">
-<value>Smazat všechny trasy</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_MinimalDistance" xml:space="preserve">
-<value>Minimální vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_SetupAction" xml:space="preserve">
-<value>Nastavit akci</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveBlock_SetupActions" xml:space="preserve">
-<value>Nastavit akce</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_ShowSelectedPoints" xml:space="preserve">
-<value>Ukázat zvolené body</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_ReversePathOrder" xml:space="preserve">
-<value>Obrátit pořadí</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderBlock_AddWaypoint" xml:space="preserve">
-<value>Přidat trasu</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMission_FollowHome" xml:space="preserve">
-<value>Následovat domů</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMission_FollowPlayer" xml:space="preserve">
-<value>Následovat hráče</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMission_Autopilot" xml:space="preserve">
-<value>Autopilot</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_FollowMe_Title" xml:space="preserve">
-<value>Následovat mě</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_StopFollowing_Title" xml:space="preserve">
-<value>Přestat následovat</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_AvailableEvents" xml:space="preserve">
-<value>Událost</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_Threshold_Title" xml:space="preserve">
-<value>Práh překročení</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_Threshold_Tooltip" xml:space="preserve">
-<value>Práh překročení</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_SelectActions_Title" xml:space="preserve">
-<value>Zvolit akce</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_SelectActions_Tooltip" xml:space="preserve">
-<value>Zvolit akce</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_AvailableBlocks_Title" xml:space="preserve">
-<value>Dostupné bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_AvailableBlocks_Tooltip" xml:space="preserve">
-<value>Dostupné bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_AddBlocks_Title" xml:space="preserve">
-<value>Přidat bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_AddBlocks_Tooltip" xml:space="preserve">
-<value>Přidat bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_SelectedBlocks_Title" xml:space="preserve">
-<value>Zvolené bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_SelectedBlocks_Tooltip" xml:space="preserve">
-<value>Zvolené bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_RemoveBlocks_Title" xml:space="preserve">
-<value>Odebrat bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_RemoveBlocks_Tooltip" xml:space="preserve">
-<value>Odebrat bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_EventBlockIntegrity" xml:space="preserve">
-<value>Zdraví bloku %</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger_Never" xml:space="preserve">
-<value>Nikdy</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger_Always" xml:space="preserve">
-<value>Vždy</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionAutopilot_Waypoints" xml:space="preserve">
-<value>Trasy</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionAutopilot_GPS" xml:space="preserve">
-<value>GPS</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_EventStoredPower" xml:space="preserve">
-<value>Uložená energie %</value>
-<comment>CZE</comment>
-</data>
-<data name="AttackMode_EnemiesOnly" xml:space="preserve">
-<value>Pouze nepřátelé</value>
-<comment>CZE</comment>
-</data>
-<data name="AttackMode_EnemiesAndNeutrals" xml:space="preserve">
-<value>Nepřátelé a neutrální</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_TargetPriority" xml:space="preserve">
-<value>Priorita zacílení</value>
-<comment>CZE</comment>
-</data>
-<data name="TargetPriority_Closest" xml:space="preserve">
-<value>Nejbližší</value>
-<comment>CZE</comment>
-</data>
-<data name="TargetPriority_Largest" xml:space="preserve">
-<value>Největší</value>
-<comment>CZE</comment>
-</data>
-<data name="TargetPriority_Smallest" xml:space="preserve">
-<value>Nejmenší</value>
-<comment>CZE</comment>
-</data>
-<data name="TargetPriority_CircleOrOrbit" xml:space="preserve">
-<value>Kroužit / Obíhat</value>
-<comment>CZE</comment>
-</data>
-<data name="TargetPriority_StayAtRange" xml:space="preserve">
-<value>Zůstat ve vzdálenosti</value>
-<comment>CZE</comment>
-</data>
-<data name="TargetPriority_HitAndRun" xml:space="preserve">
-<value>Zaútočit a odletět</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_MinHeightAboveTerrain" xml:space="preserve">
-<value>Minimální výška</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RetreatAngle_Title" xml:space="preserve">
-<value>Úhel návratu</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_AddWeapon_Title" xml:space="preserve">
-<value>Přidat zbraň</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RemoveWeapon_Title" xml:space="preserve">
-<value>Odebrat zbraň</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_AvailiableWeapons_Title" xml:space="preserve">
-<value>Dostupné zbraně</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_SelectedWeapons_Title" xml:space="preserve">
-<value>Označené zbraně</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_PatternName" xml:space="preserve">
-<value>Zaútočit a odletět</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatCircleOrbit_PatternName" xml:space="preserve">
-<value>Kroužit / Obíhat</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatStayAtRange_PatternName" xml:space="preserve">
-<value>Zůstat ve vzdálenosti</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatStayAtRange_MinimalDistance_Title" xml:space="preserve">
-<value>Minimální vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatStayAtRange_MaximalDistance_Title" xml:space="preserve">
-<value>Maximální vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_MyEventBlockOnOff" xml:space="preserve">
-<value>Blok přepnutí Zap/Vyp</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_EventDoorOpened" xml:space="preserve">
-<value>Dveře otevřeny</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_HalfBed" xml:space="preserve">
-<value>Postel - Půlka</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_HalfBedOffset" xml:space="preserve">
-<value>Postel - Půlka - Posunutá</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_EventSurfaceHeight" xml:space="preserve">
-<value>Výška</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_Height_Title" xml:space="preserve">
-<value>Výška</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_PipeWorkBlockA" xml:space="preserve">
-<value>Potrubí A</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_PipeWorkBlockB" xml:space="preserve">
-<value>Potrubí B</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_AccessPanel" xml:space="preserve">
-<value>Přístupové panely jako dekorazivní blok, který skrývá eletrické systémy konstrukcí.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AccessPanel1" xml:space="preserve">
-<value>Přístupový panel #1</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AccessPanel2" xml:space="preserve">
-<value>Přístupový panel #2</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AccessPanel3" xml:space="preserve">
-<value>Přístupový panel #3</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AccessPanel4" xml:space="preserve">
-<value>Přístupový panel #4</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_Block_AirVentFan" xml:space="preserve">
 <value>Ventilace - Větrák (Automatoni)</value>
 <comment>CZE</comment>
@@ -12259,126 +11955,6 @@
 </data>
 <data name="DisplayName_DLC_AIUpdateDLC" xml:space="preserve">
 <value>[DLC] Automatoni              </value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_PathRecorder_ClearWaypoints" xml:space="preserve">
-<value>Odznačit všechny trasy.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_PathRecorder_DeleteSelectedWaypoints" xml:space="preserve">
-<value>Smazat označené trasy.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_PathRecorder_SetupActionForSelectedWaypoint" xml:space="preserve">
-<value>Nastavit akci pro zvolenou trasu</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_PathRecorder_ReversePath" xml:space="preserve">
-<value>Obrátit pořadí všech tras.</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_FollowMe_Tooltip" xml:space="preserve">
-<value>Toto zapříciný, že daná konstruce se tě pokusí následovat.</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_StopFollowing_Tooltip" xml:space="preserve">
-<value>Přestane následovat hráče.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_SensorReskin" xml:space="preserve">
-<value>Senzor (Automatoni)</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_SignBlocks" xml:space="preserve">
-<value>Cedule mohou být použity jako upozornění na různé události.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign1" xml:space="preserve">
-<value>Cedule - Obchod</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign10" xml:space="preserve">
-<value>Cedule - Stavba</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign11" xml:space="preserve">
-<value>Cedule - Gravitace</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign12" xml:space="preserve">
-<value>Cedule - Přechodová komora</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign13" xml:space="preserve">
-<value>Cedule - Riziko</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign2" xml:space="preserve">
-<value>Cedule - Přístup</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign3" xml:space="preserve">
-<value>Cedule - Bezpečnost</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign4" xml:space="preserve">
-<value>Cedule - Skladiště</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign5" xml:space="preserve">
-<value>Cedule - Výbušniny</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign6" xml:space="preserve">
-<value>Cedule - Oznámení</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign7" xml:space="preserve">
-<value>Cedule - Zdravotnická stanice</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign8" xml:space="preserve">
-<value>Cedule - Opatrnost</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WarningSign9" xml:space="preserve">
-<value>Cedule - Atmosféra</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_AirDucts" xml:space="preserve">
-<value>Průchody mohou být použity jako průchody do zakázaných prostor v připadě přikrčení.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuct1" xml:space="preserve">
-<value>Průchod</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuct2" xml:space="preserve">
-<value>Průchod #2</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuctCorner" xml:space="preserve">
-<value>Průchod - Rohový</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuctGrate" xml:space="preserve">
-<value>Průchod - Mříž</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuctLight" xml:space="preserve">
-<value>Průchod - Osvětlený</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuctRamp" xml:space="preserve">
-<value>Průchod - Rampa</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuctT" xml:space="preserve">
-<value>Průchod - Téčko</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AirDuctX" xml:space="preserve">
-<value>Průchod - Spojka</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_OffroadSuspension2x2" xml:space="preserve">
@@ -12403,10 +11979,6 @@
 </data>
 <data name="DisplayName_Block_Wheel2x2" xml:space="preserve">
 <value>Kolo 2x2</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Programmable_BlockReskin" xml:space="preserve">
-<value>Programovatelný blok (Automatoni)</value>
 <comment>CZE</comment>
 </data>
 <data name="StoreBuy_Error_StoreNotOwnedByFaction" xml:space="preserve">
@@ -12454,7 +12026,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_TimerBlockReskin" xml:space="preserve">
-<value>Časovač (Automatoni)</value>
+<value>Časovač (Automaton)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SpeederCockpit" xml:space="preserve">
@@ -12463,14 +12035,6 @@
 </data>
 <data name="DisplayName_GridAutomation" xml:space="preserve">
 <value>Automatizace                  </value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_SpeederCockpitCompact" xml:space="preserve">
-<value>Kokpit - Sedlový - Kompaktní</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_EmotionController" xml:space="preserve">
-<value>Ovladač Emocí</value>
 <comment>CZE</comment>
 </data>
 <data name="EmotionControll_UsableLCDs" xml:space="preserve">
@@ -12565,10 +12129,6 @@
 <value>Otevřít PlayStation™Store</value>
 <comment>CZE</comment>
 </data>
-<data name="EmotionControll_SelectedLCDs" xml:space="preserve">
-<value>Označené LCD</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_Block_BeaconReskin" xml:space="preserve">
 <value>Maják - Kulatý</value>
 <comment>CZE</comment>
@@ -12579,10 +12139,6 @@
 </data>
 <data name="DisplayName_DLC_DecorativeBlocks3" xml:space="preserve">
 <value>Dekorace #3                   </value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_CapCockpit" xml:space="preserve">
-<value>Kokpit - Kabina</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LargeAtmoThrustFlat" xml:space="preserve">
@@ -13226,6 +12782,9 @@
 <data name="Description_Ejector" xml:space="preserve">
 <value>The ejector allows small items to be ejected from small ships. Can also be used to access inventories.You can use the ejector together with the conveyor sorter to collect and throw out specific items. </value>
 </data>
+<data name="Description_EventController" xml:space="preserve">
+<value>Event Controllers trigger actions based on grid or block conditions.</value>
+</data>
 <data name="Description_FlightSeat" xml:space="preserve">
 <value>Flight seats are used to control a large ship and access all of its functions. </value>
 </data>
@@ -13459,6 +13018,9 @@
 </data>
 <data name="DisplayName_Block_Electronics_Assembler" xml:space="preserve">
 <value>Electronics Assembler</value>
+</data>
+<data name="DisplayName_Block_EventController" xml:space="preserve">
+<value>Event Controller</value>
 </data>
 <data name="DisplayName_BlueprintClass_Base_Components" xml:space="preserve">
 <value>Base Comp.</value>
@@ -14332,6 +13894,12 @@
 </data>
 <data name="NotificationSuitEnergyLowNoDamage" xml:space="preserve">
 <value>Warning: Suit energy is low.</value>
+</data>
+<data name="NotificationSuitFuelCritical" xml:space="preserve">
+<value>Jetpack fuel is critical</value>
+</data>
+<data name="NotificationSuitFuelLow" xml:space="preserve">
+<value>Jetpack fuel is low</value>
 </data>
 <data name="NotificationUsingWeaponType" xml:space="preserve">
 <value>Using {0}</value>
@@ -20195,17 +19763,62 @@
 <data name="PathRecorderBlock_RecordInterval" xml:space="preserve">
 <value>Record interval</value>
 </data>
+<data name="PathRecorderBlock_Waypoints" xml:space="preserve">
+<value>Waypoints</value>
+</data>
+<data name="PathRecorderBlock_Record" xml:space="preserve">
+<value>Record</value>
+</data>
+<data name="PathRecorderBlock_Stop" xml:space="preserve">
+<value>Stop</value>
+</data>
+<data name="PathRecorderBlock_ShowPath" xml:space="preserve">
+<value>Show path on HUD</value>
+</data>
+<data name="PathRecorderBlock_Waypoint" xml:space="preserve">
+<value>Waypoint</value>
+</data>
+<data name="PathRecorderBlock_Action" xml:space="preserve">
+<value>Action</value>
+</data>
 <data name="PathRecorderBlock_ClearWaypointSelection" xml:space="preserve">
 <value>Clear selection</value>
+</data>
+<data name="PathRecorderBlock_HideWaypoints" xml:space="preserve">
+<value>Hide waypoints</value>
+</data>
+<data name="PathRecorderBlock_DeleteSelected" xml:space="preserve">
+<value>Delete selected</value>
+</data>
+<data name="PathRecorderBlock_DeleteAllWaypoints" xml:space="preserve">
+<value>Delete all waypoints</value>
+</data>
+<data name="PathRecorderBlock_MinimalDistance" xml:space="preserve">
+<value>Minimal distance</value>
 </data>
 <data name="PathRecorderBlock_MinimalDistanceBetweenPoints" xml:space="preserve">
 <value>A waypoint is added when the distance to the last waypoint is greater than this value, and the time since the previous waypoint exceeds the Waypoint Addition Interval value.</value>
 </data>
+<data name="PathRecorderBlock_SetupAction" xml:space="preserve">
+<value>Setup action</value>
+</data>
+<data name="DefensiveBlock_SetupActions" xml:space="preserve">
+<value>Setup actions</value>
+</data>
 <data name="DefensiveBlock_SetupActions_Tooltip" xml:space="preserve">
 <value>The first slot triggers when fleeing, the second slot triggers when it stops fleeing.</value>
 </data>
+<data name="PathRecorderBlock_ShowSelectedPoints" xml:space="preserve">
+<value>Show selected points</value>
+</data>
+<data name="PathRecorderBlock_ReversePathOrder" xml:space="preserve">
+<value>Reverse order</value>
+</data>
 <data name="PathRecorderBlock_ReferenceBeacon" xml:space="preserve">
 <value>Reference Beacon</value>
+</data>
+<data name="PathRecorderBlock_AddWaypoint" xml:space="preserve">
+<value>Add Waypoint</value>
 </data>
 <data name="PathRecorderBlock_Play" xml:space="preserve">
 <value>Play</value>
@@ -20216,8 +19829,23 @@
 <data name="BasicMissionBlock_SelectMission_Tooltip" xml:space="preserve">
 <value>Follow Home - Allows you to select a home beacon or GPS that the grid should follow.Can be set up to wander while it is within range.Follow Player - The grid will follow the player who presses the “Follow Me” button.Autopilot - Allows the grid to move to GPS locations and patrol/circle between several locations.Patrol and Circle requires 2 GPS locations!</value>
 </data>
+<data name="BasicMission_FollowHome" xml:space="preserve">
+<value>Follow Home</value>
+</data>
+<data name="BasicMission_FollowPlayer" xml:space="preserve">
+<value>Follow Player</value>
+</data>
+<data name="BasicMission_Autopilot" xml:space="preserve">
+<value>Autopilot</value>
+</data>
+<data name="FollowPlayer_FollowMe_Title" xml:space="preserve">
+<value>Follow Me</value>
+</data>
 <data name="LeadIndicator_OutOfWeaponRange" xml:space="preserve">
 <value>Out of weapon range</value>
+</data>
+<data name="FollowPlayer_StopFollowing_Title" xml:space="preserve">
+<value>Stop Following</value>
 </data>
 <data name="PathRecorderBlock_FarAwayBeacon" xml:space="preserve">
 <value>Faraway beacon</value>
@@ -20258,11 +19886,53 @@
 <data name="FollowHome_Wander_Tooltip" xml:space="preserve">
 <value>If set, the grid will wander to random positions within the min and max range from home.</value>
 </data>
+<data name="EventControllerBlock_AvailableEvents" xml:space="preserve">
+<value>Event</value>
+</data>
+<data name="EventControllerBlock_Threshold_Title" xml:space="preserve">
+<value>Threshold</value>
+</data>
+<data name="EventControllerBlock_Threshold_Tooltip" xml:space="preserve">
+<value>Threshold</value>
+</data>
+<data name="EventControllerBlock_SelectActions_Title" xml:space="preserve">
+<value>Select Actions</value>
+</data>
+<data name="EventControllerBlock_SelectActions_Tooltip" xml:space="preserve">
+<value>Select Actions</value>
+</data>
+<data name="EventControllerBlock_AvailableBlocks_Title" xml:space="preserve">
+<value>Available Blocks</value>
+</data>
+<data name="EventControllerBlock_AvailableBlocks_Tooltip" xml:space="preserve">
+<value>Available Blocks</value>
+</data>
+<data name="EventControllerBlock_AddBlocks_Title" xml:space="preserve">
+<value>Add Blocks</value>
+</data>
+<data name="EventControllerBlock_AddBlocks_Tooltip" xml:space="preserve">
+<value>Add Blocks</value>
+</data>
+<data name="EventControllerBlock_SelectedBlocks_Title" xml:space="preserve">
+<value>Selected Blocks</value>
+</data>
+<data name="EventControllerBlock_SelectedBlocks_Tooltip" xml:space="preserve">
+<value>Selected Blocks</value>
+</data>
+<data name="EventControllerBlock_RemoveBlocks_Title" xml:space="preserve">
+<value>Remove Blocks</value>
+</data>
+<data name="EventControllerBlock_RemoveBlocks_Tooltip" xml:space="preserve">
+<value>Remove Blocks</value>
+</data>
 <data name="EventControllerBlock_AgregateEvent_Title" xml:space="preserve">
 <value>AND Gate</value>
 </data>
 <data name="EventControllerBlock_AgregateEvent_Tooltip" xml:space="preserve">
 <value>The first action is triggered if each block meets the condition. Else, the second action is triggered.</value>
+</data>
+<data name="DisplayName_EventBlockIntegrity" xml:space="preserve">
+<value>Block Integrity %</value>
 </data>
 <data name="DefensiveCombatBlock_DefendAgainst" xml:space="preserve">
 <value>Defend Against</value>
@@ -20297,6 +19967,12 @@
 <data name="DefensiveCombatBlock_FleeTrigger_Tooltip" xml:space="preserve">
 <value>When to flee?Never - This grid never flees.Always - This grid flees when it detects another grid within 2500m and the "defend against" and "With Subsystem" conditions are met.When being Target Locked - When another grid that meets the "Defend against" and "With Subsystem" conditions locks this grid.When taking damage - When taking damage from any source while a grid that meets the "Defend against" and "With Subsystem" is within 2500m.</value>
 </data>
+<data name="DefensiveCombatBlock_FleeTrigger_Never" xml:space="preserve">
+<value>Never</value>
+</data>
+<data name="DefensiveCombatBlock_FleeTrigger_Always" xml:space="preserve">
+<value>Always</value>
+</data>
 <data name="DefensiveCombatBlock_FleeTrigger_WhenTargetLocked" xml:space="preserve">
 <value>When target locked</value>
 </data>
@@ -20330,17 +20006,53 @@
 <data name="DisplayName_EventGasTankFilled" xml:space="preserve">
 <value>Gas Tank Filled %</value>
 </data>
+<data name="BasicMissionAutopilot_Waypoints" xml:space="preserve">
+<value>Waypoints</value>
+</data>
+<data name="BasicMissionAutopilot_GPS" xml:space="preserve">
+<value>GPS</value>
+</data>
+<data name="DisplayName_EventStoredPower" xml:space="preserve">
+<value>Stored Power %</value>
+</data>
 <data name="BlockPropertyTitle_AttackMode" xml:space="preserve">
 <value>Attack</value>
 </data>
 <data name="BlockPropertyTitle_SetAttackModeFormat" xml:space="preserve">
 <value>Set Attack Mode: {0}</value>
 </data>
+<data name="AttackMode_EnemiesOnly" xml:space="preserve">
+<value>Enemies Only</value>
+</data>
+<data name="AttackMode_EnemiesAndNeutrals" xml:space="preserve">
+<value>Enemies And Neutrals</value>
+</data>
+<data name="BlockPropertyTitle_TargetPriority" xml:space="preserve">
+<value>Target Priority</value>
+</data>
 <data name="BlockPropertyTitle_SetTargetPriorityFormat" xml:space="preserve">
 <value>Set Target Priority: {0}</value>
 </data>
+<data name="TargetPriority_Closest" xml:space="preserve">
+<value>Closest</value>
+</data>
+<data name="TargetPriority_Largest" xml:space="preserve">
+<value>Largest</value>
+</data>
+<data name="TargetPriority_Smallest" xml:space="preserve">
+<value>Smallest</value>
+</data>
 <data name="BlockPropertyTitle_AttackPattern" xml:space="preserve">
 <value>Attack Pattern</value>
+</data>
+<data name="TargetPriority_CircleOrOrbit" xml:space="preserve">
+<value>Circle/Orbit</value>
+</data>
+<data name="TargetPriority_StayAtRange" xml:space="preserve">
+<value>Stay at range</value>
+</data>
+<data name="TargetPriority_HitAndRun" xml:space="preserve">
+<value>Hit and run</value>
 </data>
 <data name="TargetPriority_Intercept" xml:space="preserve">
 <value>Intercept</value>
@@ -20359,6 +20071,9 @@
 </data>
 <data name="BlockPropertyTitle_AlignToGravity" xml:space="preserve">
 <value>Align to P-Gravity</value>
+</data>
+<data name="BlockPropertyTitle_MinHeightAboveTerrain" xml:space="preserve">
+<value>Min. altitude</value>
 </data>
 <data name="OffensiveCombatCircleOrbit_Front" xml:space="preserve">
 <value>Front</value>
@@ -20393,6 +20108,9 @@
 <data name="OffensiveCombatHitAndRun_RetreatTimeout_Tooltip" xml:space="preserve">
 <value>The time this grid should take to attempt to reach its retreat distance. If it runs out of time, a new attack run will start regardless of distance from the target.</value>
 </data>
+<data name="OffensiveCombatHitAndRun_RetreatAngle_Title" xml:space="preserve">
+<value>Retreat angle</value>
+</data>
 <data name="OffensiveCombatHitAndRun_RetreatAngle_Tooltip" xml:space="preserve">
 <value>The angle of the retreat vector relative to the attack run.A value of 180 means the grid will retreat back in the same direction it started the attack run from.A value of 0 means the retreat will continue in a straight line from the attack run.</value>
 </data>
@@ -20402,17 +20120,44 @@
 <data name="OffensiveCombatHitAndRun_PassOverTarget_Tooltip" xml:space="preserve">
 <value>If the retreat angle is greater than 90° and the engagement is taking place in P-gravity, this will set the retreat waypoint to the far side over the target</value>
 </data>
+<data name="OffensiveCombatHitAndRun_AddWeapon_Title" xml:space="preserve">
+<value>Add Weapon</value>
+</data>
 <data name="OffensiveCombatHitAndRun_AddWeapon_Tooltip" xml:space="preserve">
 <value>Add the selected weapon to the Selected Weapons list</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RemoveWeapon_Title" xml:space="preserve">
+<value>Remove Weapon</value>
 </data>
 <data name="OffensiveCombatHitAndRun_RemoveWeapon_Tooltip" xml:space="preserve">
 <value>Remove the selected weapon from the Selected Weapons list</value>
 </data>
+<data name="OffensiveCombatHitAndRun_AvailiableWeapons_Title" xml:space="preserve">
+<value>Availiable Weapons</value>
+</data>
+<data name="OffensiveCombatHitAndRun_SelectedWeapons_Title" xml:space="preserve">
+<value>Selected Weapons</value>
+</data>
 <data name="DisplayName_EventPistonPosition" xml:space="preserve">
 <value>Piston Position %</value>
 </data>
+<data name="OffensiveCombatHitAndRun_PatternName" xml:space="preserve">
+<value>Hit And Run</value>
+</data>
+<data name="OffensiveCombatCircleOrbit_PatternName" xml:space="preserve">
+<value>Circle/Orbit</value>
+</data>
+<data name="OffensiveCombatStayAtRange_PatternName" xml:space="preserve">
+<value>Stay At Range</value>
+</data>
+<data name="OffensiveCombatStayAtRange_MinimalDistance_Title" xml:space="preserve">
+<value>Minimal Distance</value>
+</data>
 <data name="OffensiveCombatStayAtRange_MinimalDistance_Tooltip" xml:space="preserve">
 <value>The minimal distance the grid should (try to) stay from the target</value>
+</data>
+<data name="OffensiveCombatStayAtRange_MaximalDistance_Title" xml:space="preserve">
+<value>Maximal Distance</value>
 </data>
 <data name="OffensiveCombatStayAtRange_MaximalDistance_Tooltip" xml:space="preserve">
 <value>The maximal distance the grid should (try to) stay from the target</value>
@@ -20456,6 +20201,9 @@
 <data name="DisplayName_EventRotorHingeAttachedDetached" xml:space="preserve">
 <value>Rotor/Hinge Attached/Detached</value>
 </data>
+<data name="DisplayName_MyEventBlockOnOff" xml:space="preserve">
+<value>Block On/Off Switched</value>
+</data>
 <data name="DisplayName_Block_ConveyorCap" xml:space="preserve">
 <value>Conveyor Cap</value>
 </data>
@@ -20464,6 +20212,15 @@
 </data>
 <data name="DisplayName_Block_PipeCap" xml:space="preserve">
 <value>Conveyor Pipe Cap</value>
+</data>
+<data name="DisplayName_EventDoorOpened" xml:space="preserve">
+<value>Door Opened</value>
+</data>
+<data name="DisplayName_Block_HalfBed" xml:space="preserve">
+<value>Half Bed</value>
+</data>
+<data name="DisplayName_Block_HalfBedOffset" xml:space="preserve">
+<value>Half Bed Offset</value>
 </data>
 <data name="DisplayName_Block_AngledInteriorWallA" xml:space="preserve">
 <value>Angled Interior Wall A</value>
@@ -20483,8 +20240,35 @@
 <data name="DisplayName_EventAngleChanged" xml:space="preserve">
 <value>Angle Changed</value>
 </data>
+<data name="DisplayName_EventSurfaceHeight" xml:space="preserve">
+<value>Altitude</value>
+</data>
+<data name="EventControllerBlock_Height_Title" xml:space="preserve">
+<value>Altitude</value>
+</data>
 <data name="Terminal_ActivateBehavior_Tooltip" xml:space="preserve">
 <value>Sets this block as the active block of its type. Deactivates all other blocks of the same type</value>
+</data>
+<data name="DisplayName_Block_PipeWorkBlockA" xml:space="preserve">
+<value>Pipeworks A</value>
+</data>
+<data name="DisplayName_Block_PipeWorkBlockB" xml:space="preserve">
+<value>Pipeworks B</value>
+</data>
+<data name="Description_AccessPanel" xml:space="preserve">
+<value>Access Panels decorative blocks that hide the internal electrical systems of structures and ships.</value>
+</data>
+<data name="DisplayName_Block_AccessPanel1" xml:space="preserve">
+<value>Access Panel 1</value>
+</data>
+<data name="DisplayName_Block_AccessPanel2" xml:space="preserve">
+<value>Access Panel 2</value>
+</data>
+<data name="DisplayName_Block_AccessPanel3" xml:space="preserve">
+<value>Access Panel 3</value>
+</data>
+<data name="DisplayName_Block_AccessPanel4" xml:space="preserve">
+<value>Access Panel 4</value>
 </data>
 <data name="BlockPropertyTooltip_PathRecorder_Play" xml:space="preserve">
 <value>Start/stop playing the recorded path.</value>
@@ -20492,8 +20276,20 @@
 <data name="BlockPropertyTooltip_PathRecorder_Repeat" xml:space="preserve">
 <value>Repeat the path.</value>
 </data>
+<data name="BlockPropertyTooltip_PathRecorder_ClearWaypoints" xml:space="preserve">
+<value>Deselect all waypoints.</value>
+</data>
 <data name="BlockPropertyTooltip_PathRecorder_DeleteAllWaypoints" xml:space="preserve">
 <value>Delete all waypoints.</value>
+</data>
+<data name="BlockPropertyTooltip_PathRecorder_DeleteSelectedWaypoints" xml:space="preserve">
+<value>Delete selected waypoints.</value>
+</data>
+<data name="BlockPropertyTooltip_PathRecorder_SetupActionForSelectedWaypoint" xml:space="preserve">
+<value>Setup action for selected waypoint.</value>
+</data>
+<data name="BlockPropertyTooltip_PathRecorder_ReversePath" xml:space="preserve">
+<value>Reverse order of all waypoints.</value>
 </data>
 <data name="BlockPropertyTooltip_PathRecorder_ShowPath" xml:space="preserve">
 <value>Displays the recorded path on the HUD.To see this, ensure you have “Show on HUD” enabled on this block, as well as “Show AI Functions” in the Info screen, and have an Antenna connection to this grid.</value>
@@ -20534,6 +20330,12 @@
 <data name="BlockPropertyTooltip_MinHeightAboveTerrain" xml:space="preserve">
 <value>Set the minimum altitude the grid should keep when in P-Gravity.</value>
 </data>
+<data name="FollowPlayer_FollowMe_Tooltip" xml:space="preserve">
+<value>This will make the grid attempt to follow you.</value>
+</data>
+<data name="FollowPlayer_StopFollowing_Tooltip" xml:space="preserve">
+<value>Stop following the player.</value>
+</data>
 <data name="BasicMissionAutopilot_Waypoints_Tooltip" xml:space="preserve">
 <value>List of waypoints for autopilot to move to.</value>
 </data>
@@ -20560,6 +20362,51 @@
 </data>
 <data name="BasicMissionAutopilot_Paste_Tooltip" xml:space="preserve">
 <value>Paste waypoints from the clipboard to the waypoint list.</value>
+</data>
+<data name="DisplayName_Block_SensorReskin" xml:space="preserve">
+<value>Automaton Sensor</value>
+</data>
+<data name="Description_SignBlocks" xml:space="preserve">
+<value>Warning Signs can be used to attend crew to the dangers of their environment.</value>
+</data>
+<data name="DisplayName_Block_WarningSign1" xml:space="preserve">
+<value>Warning Sign Trade</value>
+</data>
+<data name="DisplayName_Block_WarningSign10" xml:space="preserve">
+<value>Warning Sign Construction</value>
+</data>
+<data name="DisplayName_Block_WarningSign11" xml:space="preserve">
+<value>Warning Sign Gravity</value>
+</data>
+<data name="DisplayName_Block_WarningSign12" xml:space="preserve">
+<value>Warning Sign Airlock</value>
+</data>
+<data name="DisplayName_Block_WarningSign13" xml:space="preserve">
+<value>Warning Sign Hazard</value>
+</data>
+<data name="DisplayName_Block_WarningSign2" xml:space="preserve">
+<value>Warning Sign Access</value>
+</data>
+<data name="DisplayName_Block_WarningSign3" xml:space="preserve">
+<value>Warning Sign Safety</value>
+</data>
+<data name="DisplayName_Block_WarningSign4" xml:space="preserve">
+<value>Warning Sign Storage</value>
+</data>
+<data name="DisplayName_Block_WarningSign5" xml:space="preserve">
+<value>Warning Sign Explosive</value>
+</data>
+<data name="DisplayName_Block_WarningSign6" xml:space="preserve">
+<value>Warning Sign Notice</value>
+</data>
+<data name="DisplayName_Block_WarningSign7" xml:space="preserve">
+<value>Warning Sign Medical</value>
+</data>
+<data name="DisplayName_Block_WarningSign8" xml:space="preserve">
+<value>Warning Sign Caution</value>
+</data>
+<data name="DisplayName_Block_WarningSign9" xml:space="preserve">
+<value>Warning Sign Atmosphere</value>
 </data>
 <data name="AI_NoMovementBlock" xml:space="preserve">
 <value>[Color=#FFFF0000]ERROR: Grid has no active Move type block! Please add and/or enable a Move type block.[/Color]</value>
@@ -20675,6 +20522,36 @@
 <data name="EventControllerBlock_Condition_Lower" xml:space="preserve">
 <value>Equal or less than</value>
 </data>
+<data name="Description_AirDucts" xml:space="preserve">
+<value>Willis Ducts can be used to crawl through and enter restricted spaces.</value>
+</data>
+<data name="DisplayName_Block_AirDuct1" xml:space="preserve">
+<value>Willis Duct</value>
+</data>
+<data name="DisplayName_Block_AirDuct2" xml:space="preserve">
+<value>Willis Duct 2</value>
+</data>
+<data name="DisplayName_Block_AirDuctCorner" xml:space="preserve">
+<value>Willis Duct Corner</value>
+</data>
+<data name="DisplayName_Block_AirDuctGrate" xml:space="preserve">
+<value>Willis Duct Grate</value>
+</data>
+<data name="DisplayName_Block_AirDuctLight" xml:space="preserve">
+<value>Willis Duct Light</value>
+</data>
+<data name="DisplayName_Block_AirDuctRamp" xml:space="preserve">
+<value>Willis Duct Ramp</value>
+</data>
+<data name="DisplayName_Block_AirDuctT" xml:space="preserve">
+<value>Willis Duct T Junction</value>
+</data>
+<data name="DisplayName_Block_AirDuctX" xml:space="preserve">
+<value>Willis Duct X Junction</value>
+</data>
+<data name="DisplayName_Programmable_BlockReskin" xml:space="preserve">
+<value>Automaton Programmable Block</value>
+</data>
 <data name="EventActionInfo" xml:space="preserve">
 <value>Output: Action slot {0}</value>
 </data>
@@ -20762,8 +20639,14 @@
 <data name="Description_SpeederCockpit" xml:space="preserve">
 <value>The Saddle Cockpit can be used to pilot anything from modest rovers to small-scale ships.</value>
 </data>
+<data name="DisplayName_Block_SpeederCockpitCompact" xml:space="preserve">
+<value>Saddle Cockpit Compact</value>
+</data>
 <data name="Description_EmotionController" xml:space="preserve">
 <value>The Emotion Controller displays emoticons and can copy those to other assigned LCD panels and screens. </value>
+</data>
+<data name="DisplayName_EmotionController" xml:space="preserve">
+<value>Emotion Controller</value>
 </data>
 <data name="Autopilot_Collision_Avoidance_Error" xml:space="preserve">
 <value>[Color=#FFFF0000]ERROR: Destination cannot be reached. Collision avoidance prevents this grid from moving inside the bounding box of a static grid. Move this grid and/or the destination outside any static grid’s bounding box or disable collision avoidance.[/Color]</value>
@@ -20926,6 +20809,12 @@
 </data>
 <data name="DefensiveCombatBlock_StatusMessage_ReadyToFlee" xml:space="preserve">
 <value>Status: Defending against {0}</value>
+</data>
+<data name="EmotionControll_SelectedLCDs" xml:space="preserve">
+<value>Selected LCDs</value>
+</data>
+<data name="DisplayName_Block_CapCockpit" xml:space="preserve">
+<value>Cab Cockpit</value>
 </data>
 <data name="DisplayName_Screen_Center" xml:space="preserve">
 <value>Center Screen</value>
