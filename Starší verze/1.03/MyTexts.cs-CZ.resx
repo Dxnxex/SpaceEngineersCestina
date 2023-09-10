@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-<data name="Add" xml:space="preserve">
+ <data name="Add" xml:space="preserve">
 <value>Přidat</value>
 <comment>CZE</comment>
 </data>
@@ -194,7 +194,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BiggestGrids" xml:space="preserve">
-<value>Největší</value>
+<value>Největší konstrukce</value>
 <comment>CZE</comment>
 </data>
 <data name="BlindJump" xml:space="preserve">
@@ -11294,7 +11294,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BiggestDistanceFromPlayers" xml:space="preserve">
-<value>Nejvzdálenější</value>
+<value>Největší vzálenost od hráčů</value>
 <comment>CZE</comment>
 </data>
 <data name="BlockActionTooltip_SelectedJumpTarget" xml:space="preserve">
@@ -11365,10 +11365,6 @@
 <value>Přímý přístup</value>
 <comment>CZE</comment>
 </data>
-<data name="Characters" xml:space="preserve">
-<value>Postavy</value>
-<comment>CZE</comment>
-</data>
 <data name="ControlName_RollLeft" xml:space="preserve">
 <value>Naklonit vlevo (loď / jetpack)</value>
 <comment>CZE</comment>
@@ -11421,10 +11417,6 @@
 <value>Překladatelé</value>
 <comment>CZE</comment>
 </data>
-<data name="Depower" xml:space="preserve">
-<value>Odpojit od energie</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_EventController" xml:space="preserve">
 <value>Ovladač událostí spouští akce založené na vložených podmínkách.</value>
 <comment>CZE</comment>
@@ -11475,10 +11467,6 @@
 </data>
 <data name="Description_Bed" xml:space="preserve">
 <value>Postel jako dekorace. Zachovává hráčský inventář a nástrojový panel v případě, že je odpojený a drží Astronauta naživu pokud je v prostoru kyslík.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName" xml:space="preserve">
-<value>Název</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_EventController" xml:space="preserve">
@@ -11571,14 +11559,6 @@
 </data>
 <data name="DisplayName_RespawnPodSpace" xml:space="preserve">
 <value>Vesmírná loď</value>
-<comment>CZE</comment>
-</data>
-<data name="Fastest" xml:space="preserve">
-<value>Nejrychlejší</value>
-<comment>CZE</comment>
-</data>
-<data name="FloatingObjects" xml:space="preserve">
-<value>Poletující objekty</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint10Text" xml:space="preserve">
@@ -11725,34 +11705,6 @@
 <value>Přepravovaná hmotnost: </value>
 <comment>CZE</comment>
 </data>
-<data name="LargeGrids" xml:space="preserve">
-<value>Velké konstrukce</value>
-<comment>CZE</comment>
-</data>
-<data name="MostActiveDrills" xml:space="preserve">
-<value>Nejvíce aktivních vrtáků</value>
-<comment>CZE</comment>
-</data>
-<data name="MostActiveProductionBuildings" xml:space="preserve">
-<value>Nejvíce aktivních výrobních budov</value>
-<comment>CZE</comment>
-</data>
-<data name="MostActiveReactors" xml:space="preserve">
-<value>Nejvíce aktivních reaktorů</value>
-<comment>CZE</comment>
-</data>
-<data name="MostActiveSensors" xml:space="preserve">
-<value>Nejvíce aktivních senzorů</value>
-<comment>CZE</comment>
-</data>
-<data name="MostActiveThrusters" xml:space="preserve">
-<value>Nejvíce aktivních trysek</value>
-<comment>CZE</comment>
-</data>
-<data name="MostWheels" xml:space="preserve">
-<value>Nejvíce kol</value>
-<comment>CZE</comment>
-</data>
 <data name="NotificationJetpackOff" xml:space="preserve">
 <value>Jetpack VYP</value>
 <comment>CZE</comment>
@@ -11769,18 +11721,6 @@
 <value>Dochází palivo pro jetpack</value>
 <comment>CZE</comment>
 </data>
-<data name="OwnerLastLogin" xml:space="preserve">
-<value>Poslední připojení vlastníka</value>
-<comment>CZE</comment>
-</data>
-<data name="OwnerLoginTime" xml:space="preserve">
-<value>Dle času připojení vlastníka</value>
-<comment>CZE</comment>
-</data>
-<data name="OwnerName" xml:space="preserve">
-<value>Jméno vlastníka</value>
-<comment>CZE</comment>
-</data>
 <data name="PressNumberAgain" xml:space="preserve">
 <value>Stejné tlačíko = Změna velikosti</value>
 <comment>CZE</comment>
@@ -11789,36 +11729,8 @@
 <value>Krychlový</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_Cleanup" xml:space="preserve">
-<value>Nástroj čištění</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Controlled" xml:space="preserve">
-<value>Ovládáné</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_GlobalSafeZone" xml:space="preserve">
-<value>Globální oprávnění</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Powered" xml:space="preserve">
-<value>Napájené</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_RemoveOwner" xml:space="preserve">
-<value>Smazat vše neaktivnímu vlastníkovi</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_RemoveOwnerToolTip" xml:space="preserve">
-<value>Smaže všechno neaktivnímu vlatníkovi, včetně konstrukci. Vlastník musí být offline, vyhozen či zabanován.</value>
-<comment>CZE</comment>
-</data>
 <data name="ScreenDebugAdminMenu_SafeZones" xml:space="preserve">
-<value>Ochranná pole</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_SafeZones_ChangePosition" xml:space="preserve">
-<value>Změnit pozici</value>
+<value>Ochraná pole</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_SafeZones_ConfigureFilter" xml:space="preserve">
@@ -11837,44 +11749,8 @@
 <value>Zvolit ochranné pole:</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_SafeZones_ZoneEnabled" xml:space="preserve">
-<value>Ochranné pole povoleno</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_SafeZones_ZoneRadius" xml:space="preserve">
-<value>Poloměr ochraného pole:</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_SortBy" xml:space="preserve">
-<value>Tříděno dle</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Stationary" xml:space="preserve">
-<value>Nehybné</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Stations" xml:space="preserve">
-<value>Stanice</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_TeleportHere" xml:space="preserve">
-<value>Přesunout sem</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_TeleportHereToolTip" xml:space="preserve">
-<value>Přesuneš svou postavu na pozici kamery diváka</value>
-<comment>CZE</comment>
-</data>
 <data name="ScreenDebugAdminMenu_TimeOfDay" xml:space="preserve">
 <value>Denní doba:</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_WithMedBay" xml:space="preserve">
-<value>S oživovacím bodem</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_WithProduction" xml:space="preserve">
-<value>S výrobou</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugSpawnMenu_CurrentTarget" xml:space="preserve">
@@ -11895,14 +11771,6 @@
 </data>
 <data name="ScreenDebugSpawnMenu_SpawnTargeted" xml:space="preserve">
 <value>Vytvořit do zaměřeného kontejneru</value>
-<comment>CZE</comment>
-</data>
-<data name="SmallGrids" xml:space="preserve">
-<value>Malé konstrukce</value>
-<comment>CZE</comment>
-</data>
-<data name="StaticObjects" xml:space="preserve">
-<value>Nehybné objekty</value>
 <comment>CZE</comment>
 </data>
 <data name="TerminalTab_Info_Description" xml:space="preserve">
@@ -11935,14 +11803,6 @@
 </data>
 <data name="IngameHelp_StuckTip_Detail1" xml:space="preserve">
 <value>Výborně! Teď můžeš pokračovat ve svém tréninku.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_KeepOriginalOwnershipOnPaste" xml:space="preserve">
-<value>Neměnit vlastníka při vkládání</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_KeepOriginalOwnershipOnPasteTip" xml:space="preserve">
-<value>Když je konstrukce vložena, původní vlastník a autor se nezmění.</value>
 <comment>CZE</comment>
 </data>
 <data name="ShareProgress" xml:space="preserve">
@@ -12121,20 +11981,8 @@
 <value>Ignorovat ochranná pole</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_IgnoreSafeZonesTip" xml:space="preserve">
-<value>Pokud je povoleno, tak jsi úplně imuní vůči efektům ochraných polí. VAROVÁNÍ: Toto platí pouze pro postavu, nikoliv pro konstrukce.</value>
-<comment>CZE</comment>
-</data>
 <data name="TerminalSafeZoneNeedsStation" xml:space="preserve">
 <value>Ochranné pole - Pouze stanice</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_IgnorePcuTip" xml:space="preserve">
-<value>Pokud je povoleno, tak budeš úplně ignorovat nastavené limity pro PCU. Toto může vyústit v negativní PCU a horší výkon.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Pcu" xml:space="preserve">
-<value>Ignorovat PCU limity</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Powerkit" xml:space="preserve">
@@ -12179,18 +12027,6 @@
 </data>
 <data name="LCD_Exploration_Portrait" xml:space="preserve">
 <value>Plakát - Průzkum V</value>
-<comment>CZE</comment>
-</data>
-<data name="NotReplicated" xml:space="preserve">
-<value>Nereplikované</value>
-<comment>CZE</comment>
-</data>
-<data name="Replicated" xml:space="preserve">
-<value>Replikované</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_None" xml:space="preserve">
-<value>Žádné</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_TSS_Weather_ElectricStorm" xml:space="preserve">
@@ -12495,10 +12331,6 @@
 </data>
 <data name="LCD_HI_Poster3_Square" xml:space="preserve">
 <value>Platák - My checeme tebe</value>
-<comment>CZE</comment>
-</data>
-<data name="OwnerLastLogout" xml:space="preserve">
-<value>Poslední odpojení vlastníka</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ConveyorSorterIndustrial" xml:space="preserve">
@@ -13920,6 +13752,9 @@
 <data name="CannotFindBlueprintSteam" xml:space="preserve">
 <value>Couldn't load blueprints from {0} workshop</value>
 </data>
+<data name="Characters" xml:space="preserve">
+<value>Characters</value>
+</data>
 <data name="ContainerDropSystemBeaconText" xml:space="preserve">
 <value>Container drop</value>
 </data>
@@ -14099,6 +13934,9 @@
 </data>
 <data name="Department_Testers" xml:space="preserve">
 <value>QA Testers</value>
+</data>
+<data name="Depower" xml:space="preserve">
+<value>Depower</value>
 </data>
 <data name="Description_NotAvailable" xml:space="preserve">
 <value>Context help not available.</value>
@@ -14304,6 +14142,9 @@
 <data name="DisableTransformation" xml:space="preserve">
 <value>Disable Transformation</value>
 </data>
+<data name="DisplayName" xml:space="preserve">
+<value>DisplayName</value>
+</data>
 <data name="DisplayName_AlienLander" xml:space="preserve">
 <value>Alien Planet Landing</value>
 </data>
@@ -14460,11 +14301,17 @@
 <data name="Factions_YourBlock" xml:space="preserve">
 <value>Your block (no faction)</value>
 </data>
+<data name="Fastest" xml:space="preserve">
+<value>Fastest</value>
+</data>
 <data name="FirstApril2014" xml:space="preserve">
 <value>1st April! Don't tell anyone!</value>
 </data>
 <data name="FlaresIntensity" xml:space="preserve">
 <value>Flares intensity</value>
+</data>
+<data name="FloatingObjects" xml:space="preserve">
+<value>Floating Objects</value>
 </data>
 <data name="GPS_Respawn_Location_Name" xml:space="preserve">
 <value>Respawn Pod</value>
@@ -14880,6 +14727,9 @@
 <data name="Jump_ObstacleTruncation" xml:space="preserve">
 <value>Obstacle Detected! Jump Distance will be truncated.</value>
 </data>
+<data name="LargeGrids" xml:space="preserve">
+<value>LargeGrids</value>
+</data>
 <data name="LaserAntennaOnlyPerm" xml:space="preserve">
 <value>Only receivers set to permanent connection found</value>
 </data>
@@ -14951,6 +14801,24 @@
 </data>
 <data name="MissionTriggerReachPosition" xml:space="preserve">
 <value>Reach GPS position</value>
+</data>
+<data name="MostActiveDrills" xml:space="preserve">
+<value>MostActiveDrills</value>
+</data>
+<data name="MostActiveProductionBuildings" xml:space="preserve">
+<value>MostActiveProductionBuildings</value>
+</data>
+<data name="MostActiveReactors" xml:space="preserve">
+<value>MostActiveReactors</value>
+</data>
+<data name="MostActiveSensors" xml:space="preserve">
+<value>MostActiveSensors</value>
+</data>
+<data name="MostActiveThrusters" xml:space="preserve">
+<value>MostActiveThrusters</value>
+</data>
+<data name="MostWheels" xml:space="preserve">
+<value>MostWheels</value>
 </data>
 <data name="MultiplayerJoinProductionMultipliers" xml:space="preserve">
 <value>Production multipliers</value>
@@ -15203,6 +15071,15 @@
 </data>
 <data name="Number" xml:space="preserve">
 <value>Number</value>
+</data>
+<data name="OwnerLastLogin" xml:space="preserve">
+<value>OwnerLastLogin</value>
+</data>
+<data name="OwnerLoginTime" xml:space="preserve">
+<value>OwnerLoginTime</value>
+</data>
+<data name="OwnerName" xml:space="preserve">
+<value>OwnerName</value>
 </data>
 <data name="Oxygen_Disabled" xml:space="preserve">
 <value>Oxygen or Airtightness disabled in world settings!</value>
@@ -15780,6 +15657,12 @@
 <data name="ScreenDebugAdminMenu_Caption" xml:space="preserve">
 <value>Space Master</value>
 </data>
+<data name="ScreenDebugAdminMenu_Cleanup" xml:space="preserve">
+<value>Trash Removal</value>
+</data>
+<data name="ScreenDebugAdminMenu_Controlled" xml:space="preserve">
+<value>Controlled</value>
+</data>
 <data name="ScreenDebugAdminMenu_Depower" xml:space="preserve">
 <value>Depower</value>
 </data>
@@ -15789,8 +15672,14 @@
 <data name="ScreenDebugAdminMenu_EntityList" xml:space="preserve">
 <value>Entity List</value>
 </data>
+<data name="ScreenDebugAdminMenu_GlobalSafeZone" xml:space="preserve">
+<value>Global Permissions</value>
+</data>
 <data name="ScreenDebugAdminMenu_MedbayNotification" xml:space="preserve">
 <value>Removing ships or stations with Respawn point can be dangerous, because you can remove players' only respawn points, be careful</value>
+</data>
+<data name="ScreenDebugAdminMenu_Powered" xml:space="preserve">
+<value>Powered</value>
 </data>
 <data name="ScreenDebugAdminMenu_RemoveCharacterNotification" xml:space="preserve">
 <value>Cannot remove online player!</value>
@@ -15801,17 +15690,47 @@
 <data name="ScreenDebugAdminMenu_RemoveFloating" xml:space="preserve">
 <value>Remove floating obj.</value>
 </data>
+<data name="ScreenDebugAdminMenu_RemoveOwner" xml:space="preserve">
+<value>Remove inactive owner and his grids</value>
+</data>
+<data name="ScreenDebugAdminMenu_RemoveOwnerToolTip" xml:space="preserve">
+<value>Remove inactive owner and all his grids, remove him from checkpoint too. Owner must be offline, or kicked/banned first</value>
+</data>
 <data name="ScreenDebugAdminMenu_ReplicateEverythingServer_Tooltip" xml:space="preserve">
 <value>You are on server and allready have all objects</value>
+</data>
+<data name="ScreenDebugAdminMenu_SafeZones_ChangePosition" xml:space="preserve">
+<value>Change Position</value>
 </data>
 <data name="ScreenDebugAdminMenu_SafeZones_FilterContained" xml:space="preserve">
 <value>Add Contained</value>
 </data>
+<data name="ScreenDebugAdminMenu_SafeZones_ZoneEnabled" xml:space="preserve">
+<value>Zone Enabled</value>
+</data>
+<data name="ScreenDebugAdminMenu_SafeZones_ZoneRadius" xml:space="preserve">
+<value>Zone Radius:</value>
+</data>
+<data name="ScreenDebugAdminMenu_SortBy" xml:space="preserve">
+<value>Sort by</value>
+</data>
 <data name="ScreenDebugAdminMenu_SortOptions" xml:space="preserve">
 <value>Sort Options</value>
 </data>
+<data name="ScreenDebugAdminMenu_Stationary" xml:space="preserve">
+<value>Stationary</value>
+</data>
+<data name="ScreenDebugAdminMenu_Stations" xml:space="preserve">
+<value>Fixed (stations)</value>
+</data>
 <data name="ScreenDebugAdminMenu_StopAll" xml:space="preserve">
 <value>Stop All Entities</value>
+</data>
+<data name="ScreenDebugAdminMenu_TeleportHere" xml:space="preserve">
+<value>Teleport Here</value>
+</data>
+<data name="ScreenDebugAdminMenu_TeleportHereToolTip" xml:space="preserve">
+<value>Teleports your character to the spectator camera.</value>
 </data>
 <data name="ScreenDebugAdminMenu_Player" xml:space="preserve">
 <value>Player</value>
@@ -15831,8 +15750,14 @@
 <data name="ScreenDebugAdminMenu_CheaterRowTooltip" xml:space="preserve">
 <value>Reason: {0} Happened at: {1}</value>
 </data>
+<data name="ScreenDebugAdminMenu_WithMedBay" xml:space="preserve">
+<value>With respawn point</value>
+</data>
 <data name="ScreenDebugAdminMenu_RevertCloseToNPCGrids" xml:space="preserve">
 <value>Revert close to NPC grids</value>
+</data>
+<data name="ScreenDebugAdminMenu_WithProduction" xml:space="preserve">
+<value>With production</value>
 </data>
 <data name="ScreenDebugSpawnMenu_Asteroid" xml:space="preserve">
 <value>Select Type :</value>
@@ -15990,6 +15915,9 @@
 <data name="SharedBlueprintQuestion" xml:space="preserve">
 <value>Do you want to open this blueprint in {0} workshop?</value>
 </data>
+<data name="SmallGrids" xml:space="preserve">
+<value>SmallGrids</value>
+</data>
 <data name="SoundBlock_SoundName_ObjectiveComplete" xml:space="preserve">
 <value>Objective complete</value>
 </data>
@@ -16001,6 +15929,9 @@
 </data>
 <data name="SpectatorControls_Static_Desc" xml:space="preserve">
 <value>Static spectator. You control character / cockpit, but camera is static</value>
+</data>
+<data name="StaticObjects" xml:space="preserve">
+<value>StaticObjects</value>
 </data>
 <data name="StationRotation_Static" xml:space="preserve">
 <value>Cycle placement modes</value>
@@ -17556,6 +17487,12 @@
 <data name="CustomWorld_LearningToSurvive" xml:space="preserve">
 <value>Learning to Survive</value>
 </data>
+<data name="ScreenDebugAdminMenu_KeepOriginalOwnershipOnPaste" xml:space="preserve">
+<value>Keep original ownership on paste</value>
+</data>
+<data name="ScreenDebugAdminMenu_KeepOriginalOwnershipOnPasteTip" xml:space="preserve">
+<value>When grid is pasted keep original ownership and authorship.</value>
+</data>
 <data name="IngameHelp_Turbine2_Detail1" xml:space="preserve">
 <value>Your base will require more power as you add more functional blocks. Be sure to build more wind turbines or solar panels or turn blocks off to prevent them from consuming power.</value>
 </data>
@@ -18747,6 +18684,9 @@
 <data name="SafeZone_Texture_DLCReq_TTIP" xml:space="preserve">
 <value>Economy DLC Required. Changes texture of safe zone.</value>
 </data>
+<data name="ScreenDebugAdminMenu_IgnoreSafeZonesTip" xml:space="preserve">
+<value>When enabled you will be completely immune to the effects of safezone.WARNING: This affects only your characters. Grids will still be affected.</value>
+</data>
 <data name="ScreenDebugAdminMenu_AddReputation_FactionLabel" xml:space="preserve">
 <value>with faction</value>
 </data>
@@ -18758,6 +18698,12 @@
 </data>
 <data name="ScreenDebugAdminMenu_AddReputation_ReputationPropagate_Tooltip" xml:space="preserve">
 <value>Propagate reputation to friends and enemies of faction. Warning: Propagation of positive and negative reputation is not symmetric.Propagating 1000 and then -1000 won't have zero sum for friends and foes of the faction.</value>
+</data>
+<data name="ScreenDebugAdminMenu_IgnorePcuTip" xml:space="preserve">
+<value>When enabled, you will completely ignore all PCU limits. This may cause you to go into negative PCUs.</value>
+</data>
+<data name="ScreenDebugAdminMenu_Pcu" xml:space="preserve">
+<value>Ignore PCU limits</value>
 </data>
 <data name="Trash_KickAFKWarning" xml:space="preserve">
 <value>Please note: If you remain inactive for 1 minute you will be disconnected.</value>
@@ -19896,6 +19842,12 @@
 <data name="TieredUpdate_PlayerPresenceTier" xml:space="preserve">
 <value>Player presence tier: </value>
 </data>
+<data name="NotReplicated" xml:space="preserve">
+<value>Not replicated</value>
+</data>
+<data name="Replicated" xml:space="preserve">
+<value>Replicated</value>
+</data>
 <data name="TieredUpdate_IsReplicated" xml:space="preserve">
 <value>Is replicated: </value>
 </data>
@@ -19973,6 +19925,9 @@
 </data>
 <data name="ScreenDebugAdminMenu_Free" xml:space="preserve">
 <value>Free</value>
+</data>
+<data name="ScreenDebugAdminMenu_None" xml:space="preserve">
+<value>None</value>
 </data>
 <data name="ScreenDebugAdminMenu_Orbit" xml:space="preserve">
 <value>Orbit</value>
@@ -20291,6 +20246,9 @@
 </data>
 <data name="ScreenDebugAdminMenu_Spectator" xml:space="preserve">
 <value>Spectator Tool</value>
+</data>
+<data name="OwnerLastLogout" xml:space="preserve">
+<value>Owner Last Logout</value>
 </data>
 <data name="PCU" xml:space="preserve">
 <value>PCU</value>
@@ -21240,5 +21198,5 @@
 <data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
 <value>Warning: One or more selected weapons are not facing the forwards direction and are not used.</value>
 </data>
-  
+ 
 </root>
