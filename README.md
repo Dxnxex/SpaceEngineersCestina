@@ -37,3 +37,6 @@
 1. Dokončené Mřížované lešení
 2. Ochranné pole
 3. Ovladač události
+
+**10.09.2023 - Verze 1.04** 
+1. Zlepšení věcí pro ADMINA
