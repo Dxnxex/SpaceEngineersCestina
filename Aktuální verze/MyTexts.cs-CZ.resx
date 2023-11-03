@@ -21167,55 +21167,70 @@
 <value>Status: Defending against {0}</value>
 </data>
 <data name="DisplayName_Screen_Center" xml:space="preserve">
-<value>Center Screen</value>
+<value>Středová obrazovka</value>
 </data>
 <data name="BlueprintshareTimeOutText" xml:space="preserve">
-<value>You cannot share blueprints so fast</value>
+<value>Nemůžete sdílet blueprinty tak rychle</value>
+<comment>CZE</comment>
 </data>
 <data name="BlueprintshareTimeOut" xml:space="preserve">
-<value>Blueprint-share TimeOut</value>
+<value>Časový limit pro Sdílení blueprintu</value>
+<comment>CZE</comment>
 </data>
 <data name="Blueprintshare_Label" xml:space="preserve">
-<value>Blueprint share</value>
+<value>Sdílení blueprintu</value>
+<comment>CZE</comment>
 </data>
 <data name="Blueprintshare_Tooltip" xml:space="preserve">
-<value>Enables/Disables recieving of blueprints</value>
+<value>Povoluje/Zakazuje přijímání blueprintů</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeDistance_Title" xml:space="preserve">
-<value>Flee distance</value>
+<value>Úniková vzdálenost</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeDistance_Tooltip" xml:space="preserve">
-<value>Flee up to this distance from the last known location of the threat.</value>
+<value>Útěk do této vzdálenosti od posledního známého místa ohrožení.</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuvers_Title" xml:space="preserve">
-<value>Evasive Maneuvers</value>
+<value>Úhybné Manévry</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuvers_Tooltip" xml:space="preserve">
-<value>The AI will take evasive maneuvers to attempt to avoid incoming projectiles.</value>
+<value>Umělá inteligence bude provádět úhybné manévry, aby se vyhnula přilétajícím střelám.</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_RandomDeviations_Title" xml:space="preserve">
-<value>Random Deviations Angle</value>
+<value>Úhel Náhodných Odchylek</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_RandomDeviations_Tooltip" xml:space="preserve">
-<value>To make it hard to predict where it will flee to, the AI will alter its course to this angle at the Random Deviations Interval.Note: Setting a high angle will reduce the effective speed.</value>
+<value>Aby bylo obtížné předpovědět, kam poletí, změní umělá inteligence svůj kurz na tento úhel v Intervalu Náhodných Odchylek.Poznámka: Nastavení velkého úhlu sníží efektivní rychlost.</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuverIntervalRange_Title" xml:space="preserve">
-<value>Random Deviations Interval</value>
+<value>Interval Náhodných Odchylek</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuverIntervalRange_Tooltip" xml:space="preserve">
-<value>When fleeing, the grid will change directions at this interval.</value>
+<value>Při útěku bude kontrukce v tomto intervalu měnit směr.</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_Title" xml:space="preserve">
-<value>Flee Destination</value>
+<value>Cíl Útěku</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_Tooltip" xml:space="preserve">
-<value>Determines where the grid will flee to.Away from target - The grid will flee into the opposite direction of a threat.To GPS / Beacon - The grid will flee towards a selected GPS or Beacon</value>
+<value>Určuje, kam kontrukce poletí.Pryč od cíle - Konstrukce poletí do opačného směru než hrozba.K GPS / Majáku - Konstrukce poletí směrem k vybranému GPS nebo Majáku.</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_AwayFromTarget" xml:space="preserve">
-<value>Away from target</value>
+<value>Pryč od cíle</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_ToGPSOrBeacon" xml:space="preserve">
-<value>Do GPS / Majáku</value>
+<value>K GPS / Majáku</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
