@@ -13746,7 +13746,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_TrussSloped" xml:space="preserve">
-<value>Lešení - Zkošené</value>
+<value>Lešení - Zkosené</value>
 <comment>CZE</comment>
 </data>
 <data name="ProgrammableBlock_OpenInWorkshop" xml:space="preserve">
@@ -21131,25 +21131,32 @@
 <value>If you experience any issues, please do not hesitate to visit the support site or our Discord server where there are developers and many experienced players available to assist you!Good luck engineering your dreams!</value>
 </data>
 <data name="PlayersScreen_Help_PlayersList_ProfileDisabled" xml:space="preserve">
-<value>{CONTROL:GUI:BUTTON_X} Trade   {CONTROL:GUI:BUTTON_Y} Toggle mute</value>
+<value>{CONTROL:GUI:BUTTON_X} Obchod   {CONTROL:GUI:BUTTON_Y} Přepnout ztišení</value>
+<comment>CZE</comment>
 </data>
 <data name="ScreenModIoConsent_ConsentTextPart2_ps" xml:space="preserve">
-<value> •   Sign-in ID•   Display name•   Avatar</value>
+<value> •   Přihlašovací ID•   Zobrazované jméno•   Avatar</value>
+<comment>CZE</comment>
 </data>
 <data name="EnableCrossplay" xml:space="preserve">
-<value>Enable Crossplay</value>
+<value>Povolení Crossplay</value>
+<comment>CZE</comment>
 </data>
 <data name="ToolTipOptionsGame_Crossplay" xml:space="preserve">
-<value>Allows games not created on PlayStation®4 console and PlayStation®5 console</value>
+<value>Umožňuje hrát hry, které nebyly vytvořeny pro konzole PlayStation®4 a PlayStation®5</value>
+<comment>CZE</comment>
 </data>
 <data name="Crossplay_Disabled_Warning" xml:space="preserve">
-<value>Crossplay servers are disabled. Go to the Game Options menu to enable.</value>
+<value>Servery crossplay jsou vypnuté. Přejděte do nabídky Možnosti Hry a povolte je.</value>
+<comment>CZE</comment>
 </data>
 <data name="WorldSettings_Error_MustSignIn" xml:space="preserve">
-<value>To be able to change online mode you need to sign-in</value>
+<value>Abyste mohli změnit online režim, musíte se přihlásit</value>
+<comment>CZE</comment>
 </data>
 <data name="DedicatedServer_Join_CrossPlayError" xml:space="preserve">
-<value>To be able to join a dedicated server you need to enable crossplay in Game Options</value>
+<value>Abyste se mohli připojit k dedikovanému serveru, musíte v Možnostech Hry povolit crossplay</value>
+<comment>CZE</comment>
 </data>
 <data name="Bitmap1" xml:space="preserve">
 <value>[base64 mime encoded serialized .NET Framework object]</value>
