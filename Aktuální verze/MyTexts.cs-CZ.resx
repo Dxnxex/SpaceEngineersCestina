@@ -21164,10 +21164,12 @@
 <value>Determines how much of the glow effect is dependent on power consumption percentage of the grid.</value>
 </data>
 <data name="DefensiveCombatBlock_StatusMessage_ReadyToFlee" xml:space="preserve">
-<value>Status: Defending against {0}</value>
+<value>Stav: Obrana proti {0}</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_Screen_Center" xml:space="preserve">
 <value>Středová Obrazovka</value>
+<comment>CZE</comment>
 </data>
 <data name="BlueprintshareTimeOutText" xml:space="preserve">
 <value>Nemůžete sdílet blueprinty tak rychle</value>
