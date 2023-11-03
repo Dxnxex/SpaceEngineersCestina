@@ -21215,28 +21215,35 @@
 <value>Away from target</value>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_ToGPSOrBeacon" xml:space="preserve">
-<value>To GPS / Beacon</value>
+<value>Do GPS / Majáku</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
-<value>Twin-blade Wind Turbine</value>
+<value>Dvoulopatková Větrná Turbína</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_MedicalRoomReskin" xml:space="preserve">
-<value>Corner Medical Room</value>
+<value>Rohová Zdravotnická Místnost</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_DefensiveBasicMission_SavedBeacon" xml:space="preserve">
-<value>(Saved Beacon)</value>
+<value>(Zachráněný Maják)</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ButtonPanelPedestal" xml:space="preserve">
-<value>Button Panel Pedestal</value>
+<value>Podstavec pro Ppanel s Tlačítky</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ControlPanelPedestal" xml:space="preserve">
-<value>Control Panel Pedestal</value>
+<value>Podstavec Ovládacího Panelu</value>
+<comment>CZE</comment>
 </data>
 <data name="DisplayName_DLC_Major203DLC" xml:space="preserve">
-<value>Decorative Blocks 3</value>
+<value>Dekorativní Bloky 3</value>
+<comment>CZE</comment>
 </data>
 <data name="Description_DLC_Major203DLC" xml:space="preserve">
-<value>Dekorativní bloky 3</value>
+<value>Dekorativní Bloky 3</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
