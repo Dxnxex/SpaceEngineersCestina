@@ -21236,10 +21236,12 @@
 <value>Decorative Blocks 3</value>
 </data>
 <data name="Description_DLC_Major203DLC" xml:space="preserve">
-<value>Decorative Blocks 3</value>
+<value>Dekorativní bloky 3</value>
+<comment>CZE</comment>
 </data>
 <data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
-<value>Warning: One or more selected weapons are not facing the forwards direction and are not used.</value>
+<value>Varování: Jedna nebo více vybraných zbraní nesměřuje dopředu a není použita.</value>
+<comment>CZE</comment>
 </data>
   
 </root>
