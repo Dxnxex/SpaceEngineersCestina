@@ -18130,7 +18130,8 @@
 <value>If you can build with it, we sell it. If you can shoot with it, we sell that too. </value>
 </data>
 <data name="EconomyFaction_Description_Builder0" xml:space="preserve">
-<value>The best choice for reliable ships of industrial grade. We offer the finest quality money can buy.</value>
+<value>Nejlepší volba pro spolehlivé lodě průmyslové třídy. Nabízíme tu nejlepší kvalitu, jakou lze za peníze koupit.</value>
+<comment>CZE</comment>
 </data>
 <data name="EconomyFaction_Description_Builder1" xml:space="preserve">
 <value>Top manufacturer of ships for the best prices. We offer excellent service that fit your needs.</value>
