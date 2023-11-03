@@ -21158,10 +21158,12 @@
 <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
 </data>
 <data name="Medical_EnableAutorespawn_Tooltip" xml:space="preserve">
-<value>This is not the nearest medical room. The "Autorespawn" world setting prevents you from spawning here.</value>
+<value>Tohle není nejbližší zdravotnická místnost. "Auto-oživení" v nastavení světa, vám zabrání se zde znovu zrodit.</value>
+<comment>CZE</comment>
 </data>
 <data name="BlockPropertyDescription_PowerDependency" xml:space="preserve">
-<value>Determines how much of the glow effect is dependent on power consumption percentage of the grid.</value>
+<value>Určuje, jak moc je efekt záření závislý na procentuální spotřebě energie v síti.</value>
+<comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_StatusMessage_ReadyToFlee" xml:space="preserve">
 <value>Stav: Obrana proti {0}</value>
