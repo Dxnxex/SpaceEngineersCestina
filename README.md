@@ -48,3 +48,9 @@
 3. Přidány do překladu (zatím nepřelozené) ID pro update 10th Anniversary
 
 Děkuji za pomoc a ochotu @pa4k
+
+![](https://www.givingloop.org/blog/wp-content/uploads/2019/03/image-12.png)
+
+Pokud chcete podpořit tvorbu můžete zde: [PAYPAL DONATE](https://www.paypal.com/donate/?hosted_button_id=PLFUUKBL3D3P6)
+
+
