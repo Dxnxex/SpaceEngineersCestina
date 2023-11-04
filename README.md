@@ -1,7 +1,7 @@
 # Space Engineers Čeština
 
 
-**Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor)**
+**Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
 1. Stáhnete si aktuální nebo libovolný starší soubor s češtinou: "MyTexts.cs-CZ.resx"
 3. Najdete si cestu kam vložit aktuální soubor s češtinou: *\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization
 4. Vložíte soubor a je to.
