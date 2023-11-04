@@ -1,6 +1,6 @@
 # Space Engineers Čeština
 
-**Překlad: (Verze 1.203.5) (Verze češtiny 1.05)**
+**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.05)**
 <li>Přeložitelných řádků: 5937</li>
 <li>Přeložených řádků: 3697</li>
 <li>Nepřeložených řádků: 2240</li>
