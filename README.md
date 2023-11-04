@@ -1,5 +1,4 @@
 # Space Engineers Čeština
-**https://github.com/Dxnxex/SpaceEngineersCestina.wiki.git*
 
 **Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
 1. Stáhnete si aktuální nebo libovolný starší soubor s češtinou: "MyTexts.cs-CZ.resx"
