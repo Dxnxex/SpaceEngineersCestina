@@ -46,4 +46,4 @@
 2. Různé popisy předmětů
 3. Přidány do překladu (zatím nepřelozené) ID pro update 10th Anniversary
 
-Děkuji za poomoc a ochotu @pa4k
+Děkuji za pomoc a ochotu @pa4k
