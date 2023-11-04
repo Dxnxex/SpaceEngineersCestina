@@ -40,3 +40,10 @@
 
 **10.09.2023 - Verze 1.04** 
 1. Zlepšení věcí pro ADMINA
+
+**04.11.2023 - Verze 1.05** 
+1. Velká část oken
+2. Různé popisy předmětů
+3. Přidány do překladu (zatím nepřelozené) ID pro update 10th Anniversary
+
+Děkuji za poomoc a ochotu @pa4k
