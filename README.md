@@ -20,7 +20,8 @@
 7. Safe Zone - Ochranné pole
 8. Merge block - Spojovač
 9. Event Controler - Ovladač Událostí
-      
+10. Fractions - Klany (Ano "Frakce" se mně moc nelibí)
+
 **08.09.2023 - Verze 1.01** 
 1. Montéry a Rafinérie
 2. Trysky
