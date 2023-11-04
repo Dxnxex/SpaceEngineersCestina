@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
- <data name="Add" xml:space="preserve">
+<data name="Add" xml:space="preserve">
 <value>Přidat</value>
 <comment>CZE</comment>
 </data>
@@ -1846,11 +1846,11 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_AdvancedRotor" xml:space="preserve">
-<value>Rotor - Pokročilý</value>
+<value>Pokročilý rotor</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_AdvancedRotorPart" xml:space="preserve">
-<value>Rotor - Pokročilý (Část)</value>
+<value>Pokročilý rotor (Část)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_AirtightHangarDoor" xml:space="preserve">
@@ -5434,7 +5434,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_CockpitIndustrial" xml:space="preserve">
-<value>Kokpit (Industrial)</value>
+<value>Kokpit (Průmyslový)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Console" xml:space="preserve">
@@ -7174,7 +7174,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SmallThrustSciFi" xml:space="preserve">
-<value>Iontová tryska - Malá (Sci-Fi)</value>
+<value>Intová tryska - Malá (Sci-Fi)</value>
 <comment>CZE</comment>
 </data>
 <data name="RadialMenuGroupTitle_Symbols" xml:space="preserve">
@@ -10906,7 +10906,7 @@
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_GrinderTip_Detail2" xml:space="preserve">
-<value>*Tip:* Bruska může být použita k odstranění stromů.</value>
+<value>Good.bot: Bruska</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_HandDrill_Title" xml:space="preserve">
@@ -11250,7 +11250,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_ReplayTool_ChangeCharacter" xml:space="preserve">
-<value>Změnit postavu</value>
+<value>Změnit osobnost</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlMenuItemLabel_PertamSand" xml:space="preserve">
@@ -11293,14 +11293,6 @@
 <value>Extrémní vedro</value>
 <comment>CZE</comment>
 </data>
-<data name="AdminMenuNotAvailable" xml:space="preserve">
-<value>Menu admina je pouze dostupné pokud jsi adminem či tě admin povýší na pozorovatele či dále</value>
-<comment>CZE</comment>
-</data>
-<data name="AUTO" xml:space="preserve">
-<value>AUTO</value>
-<comment>CZE</comment>
-</data>
 <data name="BiggestDistanceFromPlayers" xml:space="preserve">
 <value>Nejvzdálenější</value>
 <comment>CZE</comment>
@@ -11317,15 +11309,11 @@
 <value>Pouze vlastník</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockComboBoxValue_TextPanelAccessReadAll" xml:space="preserve">
-<value>Všichni - Pouze čtění</value>
-<comment>CZE</comment>
-</data>
 <data name="BlockComboBoxValue_TextPanelAccessReadFaction" xml:space="preserve">
 <value>Klan - pouze čtení</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockComboBoxValue_TwextPanelAccessReadWriteAll" xml:space="preserve">
+<data name="BlockComboBoxValue_TextPanelAccessReadWriteAll" xml:space="preserve">
 <value>Všichni - číst/psát</value>
 <comment>CZE</comment>
 </data>
@@ -11341,12 +11329,8 @@
 <value>Hledám určitou Hlavu k připojení.</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyDescription_BreakForce" xml:space="preserve">
-<value>Podvozek se automaticky odemkne pokud vyvinutá síla, která drží podvozek přichycený je vyšší jako tato hodnota</value>
-<comment>CZE</comment>
-</data>
 <data name="BlockPropertyTitle_BreakForce" xml:space="preserve">
-<value>Síla zlomu</value>
+<value>Brzdná síla</value>
 <comment>CZE</comment>
 </data>
 <data name="BlockPropertyTitle_Motor_SteerSpeed" xml:space="preserve">
@@ -11369,34 +11353,6 @@
 <value>Nauč se základní pohyby a jak udržet tvého Astronauta naživu pomocí energie a kyslíku. Dále jak používat ruční nástroje jako svářečka, bruska a ruční vrták.</value>
 <comment>CZE</comment>
 </data>
-<data name="BroadcastScreen_NoOwnership" xml:space="preserve">
-<value>Špatné nastavení vlastnictví:</value>
-<comment>CZE</comment>
-</data>
-<data name="BroadcastScreen_Ownership" xml:space="preserve">
-<value>Vlastníctví správné</value>
-<comment>CZE</comment>
-</data>
-<data name="BroadcastScreen_TerminalButtonDisabled_ToolTip" xml:space="preserve">
-<value>Nemohu otevřít termínál cílené konstrukce. Přejeď myší přes ikonu stavu pro více informací.</value>
-<comment>CZE</comment>
-</data>
-<data name="BroadcastScreen_TerminalButton_NoStableConnectionToolTip" xml:space="preserve">
-<value>Nemohu ustálit spojení ke konstrukci.</value>
-<comment>CZE</comment>
-</data>
-<data name="BroadcastScreen_TerminalButton_PlayerBroadcastOffToolTip" xml:space="preserve">
-<value>Anténa hráče vypnuta</value>
-<comment>CZE</comment>
-</data>
-<data name="BroadcastScreen_UnavailableControlButton" xml:space="preserve">
-<value>Nedostupný</value>
-<comment>CZE</comment>
-</data>
-<data name="BroadcastStatus_IsPreviewGrid" xml:space="preserve">
-<value>Náhled konstrukce</value>
-<comment>CZE</comment>
-</data>
 <data name="BroadcastStatus_Me" xml:space="preserve">
 <value>Já</value>
 <comment>CZE</comment>
@@ -11405,32 +11361,12 @@
 <value>Mimo dosah vysílání</value>
 <comment>CZE</comment>
 </data>
-<data name="BroadcastStatus_OutOfReceivingRange" xml:space="preserve">
-<value>Mimo dosah vysílání</value>
-<comment>CZE</comment>
-</data>
 <data name="BroadcastStatus_PhysicallyConnected" xml:space="preserve">
 <value>Přímý přístup</value>
 <comment>CZE</comment>
 </data>
-<data name="BuilderModeOff" xml:space="preserve">
-<value>Režim stavby vypnut</value>
-<comment>CZE</comment>
-</data>
-<data name="BuilderModeOn" xml:space="preserve">
-<value>Režim stavby zapnut</value>
-<comment>CZE</comment>
-</data>
 <data name="Characters" xml:space="preserve">
 <value>Postavy</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemValue_FPP" xml:space="preserve">
-<value>FPP</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemValue_TPP" xml:space="preserve">
-<value>TPP</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlName_RollLeft" xml:space="preserve">
@@ -11489,56 +11425,16 @@
 <value>Odpojit od energie</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_ConveyorSorter" xml:space="preserve">
-<value>Dopravníkový třídič může být nastaven, aby pouze pustil či zastavil zvolené předměty. Třídič může být nastaven na filtrování nechtěného materiálu nebo k získání určitého předmětu v kontejneru.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Drill" xml:space="preserve">
-<value>Lodní vrtáky jsou nástrojem pro dolování na planetách či asteroidech a k získání rud. Může být použit z kokpitu či spuštěn manuálně. Opatrně nepřibližujte se přílíš blízko pokud jsou aktivní. Použíjte dopravníky k propojení vrtáku s více kontejnery či rafinériemi.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Ejector" xml:space="preserve">
-<value>Vyhazovač dovoluje vyhodit malé předmět z malých lodí. Může být také použit k přístupu do inventáře. Můžete použít vykopávač společně s dopravníkovým třídičem k vyhození určitého typu předmětu.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_EventController" xml:space="preserve">
 <value>Ovladač událostí spouští akce založené na vložených podmínkách.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FlightSeat" xml:space="preserve">
-<value>Letecké sedadlo je používáno k ovládání velkých lodí společně se všemi funkcemi.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_GatlingGun" xml:space="preserve">
-<value>Rychlopalebná zbraň nabíjená skrze dopravníky. Používá Kulomet - Náboje ke střelbě. Maximální dosah: 800 m</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_GatlingTurret" xml:space="preserve">
 <value>Rychlopalební věž, která je nabíjena skrze dopravníky. Používá Kulomet - Náboje. Maximální dosah: 800 m</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_HydrogenTank" xml:space="preserve">
-<value>Vodíkové nádrže zadržují vodík. Vodík je používán pro vodíkové trysky, motory či jetpack. Vodík je vyroben z ledu v O2/H2 Generátoru. Může být použit ke znovudoplnění láhví.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_HydrogenThrust" xml:space="preserve">
-<value>Vodíkové trysky jsou velice silné. K fungování spotřebovávají vodík a fungují v každém prostředí. Vodík je vyroben z ledu v O2/H2 Generátoru. Použijte vodíkové nádrže jako skladiště a dopravníky pro přepravu vodíku.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_InteriorLight" xml:space="preserve">
-<value>Světla dokáží osvětlit interiéry či mohou být použity jako referenčí body v exteriéru.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_PistonTop" xml:space="preserve">
 <value>Tato část pístu je vrchní část pístu. Nemá žádnou funkci ale může být použita jako dekorace.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Reactor" xml:space="preserve">
-<value>Reaktory generují velké množství energie za spotřebovávané uranové ingoty. Uranová ruda je nejvzácnější minerál a nemůže být nalezen na planetách, ale pouze ve vesmíru na asteroidech či po dopadu meteoritů.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_SpaceBall" xml:space="preserve">
-<value>Kulatý blok reagující na gravitaci.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_WindTurbine" xml:space="preserve">
@@ -11563,22 +11459,6 @@
 </data>
 <data name="Description_Shower" xml:space="preserve">
 <value>Sprcha jako dekorace a ideální místo k procvičení zpěvu. Ukaž všem že dbáš na hygienu.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_LockerRoom" xml:space="preserve">
-<value>Skříňka pro uložení nástrojů, zbraní, munice a láhví.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_LockerRoomCorner" xml:space="preserve">
-<value>Skříňka pro uložení nástrojů, zbraní, munice a láhví.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Couch" xml:space="preserve">
-<value>Pohovka je dekorace. Může být použito jako sedadlo.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_CornerCouch" xml:space="preserve">
-<value>Pohovka je dekorace. Může být použito jako sedadlo.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Bathroom" xml:space="preserve">
@@ -11699,30 +11579,6 @@
 </data>
 <data name="FloatingObjects" xml:space="preserve">
 <value>Poletující objekty</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiScenarioPlayerName" xml:space="preserve">
-<value>Jméno hráče</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiScenarioStart" xml:space="preserve">
-<value>Spustit</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiScenarioTimeout10min" xml:space="preserve">
-<value>10 min</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiScenarioTimeout3min" xml:space="preserve">
-<value>3 min</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiScenarioTimeout5min" xml:space="preserve">
-<value>5 min</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiScenarioTimeoutUnlimited" xml:space="preserve">
-<value>Neomezený</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint10Text" xml:space="preserve">
@@ -11925,312 +11781,12 @@
 <value>Jméno vlastníka</value>
 <comment>CZE</comment>
 </data>
-<data name="PlayerCharacterColorBlack" xml:space="preserve">
-<value>Černá</value>
-<comment>CZE</comment>
-</data>
 <data name="PressNumberAgain" xml:space="preserve">
 <value>Stejné tlačíko = Změna velikosti</value>
 <comment>CZE</comment>
 </data>
-<data name="QuickstartDX11PleaseRestartGame" xml:space="preserve">
-<value>Prosím restartujte k dokončení přepnutí na DX11</value>
-<comment>CZE</comment>
-</data>
-<data name="QuickstartDX11SwitchQuestion" xml:space="preserve">
-<value>Prosím přepněte na DirectX 11 ke spuštění scénáře</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote00Author" xml:space="preserve">
-<value>Theodore Von Karman</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote01Author" xml:space="preserve">
-<value>Max Planck</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote02Author" xml:space="preserve">
-<value>Archimedes</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote03Author" xml:space="preserve">
-<value>Arthur C. Clarke</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote04Author" xml:space="preserve">
-<value>Bertrand Russell</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote05Author" xml:space="preserve">
-<value>Indiana Jones</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote06Author" xml:space="preserve">
-<value>Immanuel Kant</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote07Author" xml:space="preserve">
-<value>Max Planck</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote09Author" xml:space="preserve">
-<value>Albert Einstein</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote10Author" xml:space="preserve">
-<value>Leonardo da Vinci</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote11Author" xml:space="preserve">
-<value>Leonardo da Vinci</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote12Author" xml:space="preserve">
-<value>Leonardo da Vinci</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote13Author" xml:space="preserve">
-<value>Leonardo da Vinci</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote14Author" xml:space="preserve">
-<value>Leonardo da Vinci</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote15Author" xml:space="preserve">
-<value>Galileo Galilei</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote16Author" xml:space="preserve">
-<value>Galileo Galilei</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote17Author" xml:space="preserve">
-<value>Galileo Galilei</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote18Author" xml:space="preserve">
-<value>Johann W. Goethe</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote19Author" xml:space="preserve">
-<value>Niels H. D. Bohr</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote20Text" xml:space="preserve">
-<value>Ancient paradox</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote21Author" xml:space="preserve">
-<value>Richard Feynman</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote22Author" xml:space="preserve">
-<value>Walter Bagehot</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote23Author" xml:space="preserve">
-<value>Thomas A. Edison</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote24Author" xml:space="preserve">
-<value>Socrates</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote25Author" xml:space="preserve">
-<value>Arthur C. Clarke</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote26Author" xml:space="preserve">
-<value>William Gibson</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote27Author" xml:space="preserve">
-<value>Scott Adams</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote28Author" xml:space="preserve">
-<value>Robert A. Heinlein</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote29Author" xml:space="preserve">
-<value>Freeman Dyson</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote30Author" xml:space="preserve">
-<value>Freeman Dyson</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote30Text" xml:space="preserve">
-<value>Letectví je odvětší inženýrství, které nejméně odpouští chyby.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote31Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote32Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote33Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote34Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote35Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote36Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote37Author" xml:space="preserve">
-<value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote38Author" xml:space="preserve">
-<value>Anonym</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote38Text" xml:space="preserve">
-<value>Optimista vidí sklenici z půlky plnou. Pesimista vidí sklednici z půlky prázdnou. Inženýr vidí sklenici dvakrát větší než by měla být.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote39Author" xml:space="preserve">
-<value>Albert Einstein</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote41Author" xml:space="preserve">
-<value>USAF Ammo Troop</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote41Text" xml:space="preserve">
-<value>Pokud vidíte bombového technika utíkat, rychle utíkejte za ním.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote42Author" xml:space="preserve">
-<value>Anonym</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote43Author" xml:space="preserve">
-<value>Anonym</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote43Text" xml:space="preserve">
-<value>Nikdy nevyměnuj dovednosti za štěstí.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote44Author" xml:space="preserve">
-<value>Jon McBride</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote44Text" xml:space="preserve">
-<value>Pilot, která nemá strach pravděpodobně nelétá s letadlem na jeho limity.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote45Author" xml:space="preserve">
-<value>Alexander Calder</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote46Author" xml:space="preserve">
-<value>Buzz Aldrin</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote46Text" xml:space="preserve">
-<value>Mars je támhle, čekající na jeho dosažení.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote47Author" xml:space="preserve">
-<value>Neil Armstrong</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote47Text" xml:space="preserve">
-<value>Toto je malý krok pro člověka, ale obrovský skok pro lidstvo.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote48Author" xml:space="preserve">
-<value>Yuri Gagarin</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote49Author" xml:space="preserve">
-<value>Yuri Gagarin</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote50Author" xml:space="preserve">
-<value>Michael Collins</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote51Author" xml:space="preserve">
-<value>Ralph W. Emerson</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote51Text" xml:space="preserve">
-<value>Nechoď tam kam vede už cesta, běž tam kde cesta není a zanechej zasebou stopy.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote52Author" xml:space="preserve">
-<value>Yuri Gagarin</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote53Author" xml:space="preserve">
-<value>Yuri Gagarin</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote54Author" xml:space="preserve">
-<value>Robert H. Goddard</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote54Text" xml:space="preserve">
-<value>Sny včerejška jsou nadějí dneška a realitou zítřka.</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote55Author" xml:space="preserve">
-<value>Gene Kranz</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote56Author" xml:space="preserve">
-<value>Albert Einstein</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote57Author" xml:space="preserve">
-<value>George B. Shaw</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote70Author" xml:space="preserve">
-<value>Albert Einstein</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote70Text" xml:space="preserve">
-<value>Kreativita je inteligence která se baví</value>
-<comment>CZE</comment>
-</data>
-<data name="Reactor" xml:space="preserve">
-<value>Reaktor</value>
-<comment>CZE</comment>
-</data>
-<data name="SafeZone_CubeAxis" xml:space="preserve">
-<value>Osa krychle:</value>
-<comment>CZE</comment>
-</data>
 <data name="SafeZone_Cubical" xml:space="preserve">
 <value>Krychlový</value>
-<comment>CZE</comment>
-</data>
-<data name="SafeZone_ListOfEntities" xml:space="preserve">
-<value>Výpis objektů:</value>
-<comment>CZE</comment>
-</data>
-<data name="ScenarioProgressLoseConditions" xml:space="preserve">
-<value>Podmínky prohry</value>
-<comment>CZE</comment>
-</data>
-<data name="ScenarioProgressWinConditions" xml:space="preserve">
-<value>Podmínky vítězství</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_Cleanup" xml:space="preserve">
@@ -12357,42 +11913,6 @@
 <value>Výzkum je momentálně nedostupný, můžeš jej povolit v pokročilém nastavení světa.</value>
 <comment>CZE</comment>
 </data>
-<data name="IngameHelp_HUD_Detail1" xml:space="preserve">
-<value>Listuj skrze různé režimy HUD. Liší se množstvím ukázaných informací. Můžeš také změnit jak se signály zobrazují na tvém HUD.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HUD_Detail2" xml:space="preserve">
-<value>Stiskni {CONTROL:TOGGLE_HUD} k změně režimu zobrazení HUD</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HUD_Detail3" xml:space="preserve">
-<value>Stiskni {CONTROL:TOGGLE_SIGNALS} k změně režimu zobrazení signálů.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Building_Detail2" xml:space="preserve">
-<value>Press {CONTROL:BUILD_SCREEN} k otevření nástrojového panelu.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Building2_Detail3" xml:space="preserve">
-<value>Použij {CONTROL:CUBE_ROTATE_ROLL_POSITIVE}, {CONTROL:CUBE_ROTATE_VERTICAL_NEGATIVE}, {CONTROL:CUBE_ROTATE_HORISONTAL_POSITIVE}, {CONTROL:CUBE_ROTATE_HORISONTAL_NEGATIVE}, {CONTROL:CUBE_ROTATE_ROLL_NEGATIVE} a {CONTROL:CUBE_ROTATE_VERTICAL_POSITIVE} k otáčení bloku.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Building3_Detail1" xml:space="preserve">
-<value>V režimu přežití nejdříve musíš mít první komponent k položení bloku. Můžeš ho vyrobit v montéru a základním modulu či je získat bruskou z ostatních konstrukcí.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Building3_Detail2" xml:space="preserve">
-<value>Umísti blok pomocí {CONTROL:BUILD:PRIMARY_TOOL_ACTION}.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HUDTip_Detail1" xml:space="preserve">
-<value>Nemohl bych do udělat lépe.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HUDTip_Detail2" xml:space="preserve">
-<value>*Tip:* HUD signály mohou být jednotlivě vypnuty v terminálu / GPS</value>
-<comment>CZE</comment>
-</data>
 <data name="IngameHelp_MagneticBootsTip_Detail1" xml:space="preserve">
 <value>Poslednímu Astronautovi trvalo moc dlouho než na to přišel.</value>
 <comment>CZE</comment>
@@ -12413,102 +11933,6 @@
 <value>Good.bot: Magnetické boty.</value>
 <comment>CZE</comment>
 </data>
-<data name="IngameHelp_Grinder_Detail2" xml:space="preserve">
-<value>Drž {CONTROL:TOOLS:PRIMARY_TOOL_ACTION} k rozdělání bloku. Veškeré suroviny jsou vráceny zpět do invetnáře. (Existují i vyjímky)</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HandDrill_Detail1" xml:space="preserve">
-<value>Ruční vrták používá k dolování, získávání minerálů nebo dělání tunelů. Ruda může být nalezna na asteroidech na tmavých skrvnách na planetách. Všechny ruční vrtáky jsou vybaveny detektorem rud s krátkým dosahem.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HandDrill_Detail2" xml:space="preserve">
-<value>Drž {CONTROL:TOOLS:PRIMARY_TOOL_ACTION} k dolování povrchu.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HandDrill_Detail3" xml:space="preserve">
-<value>Stiskni {CONTROL:USE} ke zvednutí materiálu a následného vložení do inventáře.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_HandDrill_Detail4" xml:space="preserve">
-<value>Drž {CONTROL:TOOLS:SECONDARY_TOOL_ACTION} ke hloubení tunelů. (Nevytváří žádný materiál)</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_ComponentsTip_Detail1" xml:space="preserve">
-<value>Tvoje dovednosti se rychle blíží dokonalosti.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_ComponentsTip_Detail2" xml:space="preserve">
-<value>*Tip:* Bloky se symbolem + mají více dostupných variant skrze které můžete listovat.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Components_Detail1" xml:space="preserve">
-<value>Komponenty jsou používány k vystavbě nebo opravě bloků. Můžeš použít svářečku na blok k přidání požadovaných komponentů. Tento nástroj si vybereš ze svého nástrojového panelu.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Components_Detail2" xml:space="preserve">
-<value>Oprav blok</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Components_Title" xml:space="preserve">
-<value>Good.bot: Komponenty</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_FlashlightTip_Detail1" xml:space="preserve">
-<value>Malé světlo dohlédne daleko.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_FlashlightTip_Detail2" xml:space="preserve">
-<value>*Tip:* Pamatuj, že baterka spotřebovává energii ze tvého obleku.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Flashlight_Detail1" xml:space="preserve">
-<value>Použij svou baterku ve tmaách prostorech.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Flashlight_Detail2" xml:space="preserve">
-<value>Stiskni {CONTROL:HEADLIGHTS} v přepnutí baterky.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Flashlight_Title" xml:space="preserve">
-<value>Good.bot: Baterka</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_InteractiveTip_Detail1" xml:space="preserve">
-<value>Tyto dovednosti ti dobře poslouží!</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_InteractiveTip_Detail2" xml:space="preserve">
-<value>*Tip:* Nezapomentě postavit ovládací panel k jednoduchému přístupu do lodního terminálu</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Interactive_Detail1" xml:space="preserve">
-<value>Spousta bloků jako dveře, ovládací panely, inventáře, kokpity podporují různé způsoby ke spuštění akcí.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Interactive_Detail2" xml:space="preserve">
-<value>Stiskni {CONTROL:USE} k aktivaci bloku.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Interactive_Detail3" xml:space="preserve">
-<value>Stiskni {CONTROL:TERMINAL} k otevření terminálu bloku</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Interactive_Detail4" xml:space="preserve">
-<value>Stiskni {CONTROL:INVENTORY} k otevření inventáře bloku.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Interactive_Title" xml:space="preserve">
-<value>Good.bot: Interaktivní objekty.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_BuildingTip2_Detail1" xml:space="preserve">
-<value>Jsi si jistý že jsi to předtím už nedělal?</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_BuildingTip2_Detail2" xml:space="preserve">
-<value>*Tip:* Vždycky měj u sebe pár základních komponentů.</value>
-<comment>CZE</comment>
-</data>
 <data name="IngameHelp_StuckTip_Detail1" xml:space="preserve">
 <value>Výborně! Teď můžeš pokračovat ve svém tréninku.</value>
 <comment>CZE</comment>
@@ -12527,10 +11951,6 @@
 </data>
 <data name="TerminalTab_Factions_ShareProgressToolTip" xml:space="preserve">
 <value>Sdílej tvůj postup hrou se zvoleným členem.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Battery_Detail1" xml:space="preserve">
-<value>Tvá základna získává tvar. Teď je když máš baterii může začít rozšiřovat základnu ještě více. Zkus najít další rudy k výraznému zvýšení tvé produkce.</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Battery_Title" xml:space="preserve">
@@ -12605,10 +12025,6 @@
 <value>Nastavit přístup ochraného pole</value>
 <comment>CZE</comment>
 </data>
-<data name="DatapadEditScreen_ContentUsage" xml:space="preserve">
-<value>Použité bajty: {0}/{1}</value>
-<comment>CZE</comment>
-</data>
 <data name="Beacon_SafeZone_AllowConvertToStation_TTIP" xml:space="preserve">
 <value>Povolí/Zakáže převádění velkých konstrukcí na stanice v ochraném poli.</value>
 <comment>CZE</comment>
@@ -12625,180 +12041,8 @@
 <value>Čipy ochraného pole:</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_ReplayTool" xml:space="preserve">
-<value>Nástroj záznamu</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_ReloadWorld" xml:space="preserve">
-<value>Obnovit svět</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_ReloadWorld_Tooltip" xml:space="preserve">
-<value>Obnovuje svět</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_ReloadWorldClient_Tooltip" xml:space="preserve">
-<value>Nemůžeš obnovit svět pokud nejsi hostitel.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_ManageCharacters" xml:space="preserve">
-<value>Spravovat postavy</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_AddCharacter" xml:space="preserve">
-<value>Přidat postavu</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_AddCharacter_Tooltip" xml:space="preserve">
-<value>Přidá ovladatelnou postavu do světa.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_RemoveCharacter" xml:space="preserve">
-<value>Odebrat postavu</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_RemoveCharacter_Tooltip" xml:space="preserve">
-<value>Odebere aktivní postavu ze světa.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_ManageRecordings" xml:space="preserve">
-<value>Spravovat nahrávky</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_DeleteRecordings" xml:space="preserve">
-<value>Smazat nahrávky</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_DeleteRecordings_Tooltip" xml:space="preserve">
-<value>Smaže všechny nahrávky.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_DeleteRecordings_Confirm" xml:space="preserve">
-<value>Prosím potvrďte že chceme opravdu smazat uložené nahrávky.</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_Replay" xml:space="preserve">
-<value>Záznam</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_StopRecording" xml:space="preserve">
-<value>Zastavit nahrávání</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_StopReplay" xml:space="preserve">
-<value>Zastavit záznam</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_DLC_PreorderPack" xml:space="preserve">
-<value>Pre-order Pack</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_DLC_DeluxeEdition" xml:space="preserve">
-<value>Deluxe Edition</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_DLC_StylePack" xml:space="preserve">
-<value>Style Pack</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienGreenGrass" xml:space="preserve">
-<value>Alien grass green</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienGreenGrassBare" xml:space="preserve">
-<value>Alien grass green bare</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienIce" xml:space="preserve">
-<value>Alien ice</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienIce_03" xml:space="preserve">
-<value>Alien ice 03</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienOrangeGrass" xml:space="preserve">
-<value>Alien grass orange</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienOrangeGrassBare" xml:space="preserve">
-<value>Alien grass orange bare</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienRockGrass" xml:space="preserve">
-<value>Alien grass rock</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienRockGrassBare" xml:space="preserve">
-<value>Alient grass rock bare</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienRockyMountain" xml:space="preserve">
-<value>Alien rocky mountain</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_AlienRockyTerrain" xml:space="preserve">
-<value>Alien rocky terrain</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_DebugMaterial" xml:space="preserve">
-<value>Debug material</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Soil" xml:space="preserve">
-<value>Soil</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Stone" xml:space="preserve">
-<value>Stone</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Stone01" xml:space="preserve">
-<value>Stone 01</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Stone02" xml:space="preserve">
-<value>Stone 02</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Stone03" xml:space="preserve">
-<value>Stone 03</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Stone04" xml:space="preserve">
-<value>Stone 04</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Stone05" xml:space="preserve">
-<value>Stone 05</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_Uraninite_01" xml:space="preserve">
-<value>Uraninite 01</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_WoodsGrass" xml:space="preserve">
-<value>Woods grass</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_WoodsGrassBare" xml:space="preserve">
-<value>Woods grass bare</value>
-<comment>CZE</comment>
-</data>
-<data name="RadialMenuGroupTitle_VoxelAlien" xml:space="preserve">
-<value>Alien</value>
-<comment>CZE</comment>
-</data>
-<data name="RadialMenuGroupTitle_VoxelAlienGrass" xml:space="preserve">
-<value>Alien grass</value>
-<comment>CZE</comment>
-</data>
 <data name="EconomyFaction_Description_Builder4" xml:space="preserve">
 <value>Číslo jedna ve výrobně vozidel pro průmysl, vojenství, těžbu a objevování.</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintPressToOpenStore" xml:space="preserve">
-<value>Stiskni {0} k otevření obchodu</value>
 <comment>CZE</comment>
 </data>
 <data name="SafeZone_Color_TTP" xml:space="preserve">
@@ -12893,10 +12137,6 @@
 <value>Ignorovat PCU limity</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenAdmin_Safezone_TextureColorLabel" xml:space="preserve">
-<value>Vzor a barva:</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_Powerkit" xml:space="preserve">
 <value>Nabíječka je přenosná baterie k doplnění energie obleku astronauta.</value>
 <comment>CZE</comment>
@@ -12925,10 +12165,6 @@
 <value>[DLC] Sparks Of The Future    </value>
 <comment>CZE</comment>
 </data>
-<data name="Description_NeonTubes" xml:space="preserve">
-<value>Neonové trubky jako dekorace, která může být postavena ve všech barvách.</value>
-<comment>CZE</comment>
-</data>
 <data name="LCD_CosmicTeam_Landscape" xml:space="preserve">
 <value>Plakát - Vesmírný tým H</value>
 <comment>CZE</comment>
@@ -12953,32 +12189,8 @@
 <value>Replikované</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_CameraSmoothness" xml:space="preserve">
-<value>Plynulost kamery</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Follow" xml:space="preserve">
-<value>Následující</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Free" xml:space="preserve">
-<value>Volná</value>
-<comment>CZE</comment>
-</data>
 <data name="ScreenDebugAdminMenu_None" xml:space="preserve">
 <value>Žádné</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_Orbit" xml:space="preserve">
-<value>Oběžná</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenSpectatorAdminMenu_SavedPositions" xml:space="preserve">
-<value>Uložené pozice</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenSpectatorAdminMenu_Shortcuts" xml:space="preserve">
-<value>Zkratky</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_TSS_Weather_ElectricStorm" xml:space="preserve">
@@ -13015,30 +12227,6 @@
 </data>
 <data name="ElectricStorm" xml:space="preserve">
 <value>Eletrická Bouře</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_ReplayTool_ChangeCharacter_Tooltip" xml:space="preserve">
-<value>Změní aktuálně aktivní postavu.</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_BarredWindow" xml:space="preserve">
-<value>Okno - Mřížované</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_BarredWindowFace" xml:space="preserve">
-<value>Okno - Mřížované - Ukosené</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_BarredWindowSide" xml:space="preserve">
-<value>Okno - Mřížované - Postraní</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_BarredWindowSlope" xml:space="preserve">
-<value>Okno - Mřížované - Kolmé</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_BlockGroup_BarredWindows" xml:space="preserve">
-<value>Okna - Mřížované</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_DLC_Warfare1" xml:space="preserve">
@@ -13309,28 +12497,12 @@
 <value>Platák - My checeme tebe</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_Spectator" xml:space="preserve">
-<value>Nástroje diváka</value>
-<comment>CZE</comment>
-</data>
 <data name="OwnerLastLogout" xml:space="preserve">
 <value>Poslední odpojení vlastníka</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ConveyorSorterIndustrial" xml:space="preserve">
 <value>Dopravník - Třídič (Industrial)</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_BlockGroup_BridgeWindowsGroup" xml:space="preserve">
-<value>Okna - Můstek</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_BridgeWindow1x1Face" xml:space="preserve">
-<value>Okno - Můstek - Ukosené</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_BridgeWindow1x1Slope" xml:space="preserve">
-<value>Okno - Můstek - Kolmé</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_DLC_Warfare2DLC" xml:space="preserve">
@@ -13363,22 +12535,6 @@
 </data>
 <data name="TargetingControlHint" xml:space="preserve">
 <value>[RMB] k zameření cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintLockTarget" xml:space="preserve">
-<value>{0} k zameření cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintUnlockTarget" xml:space="preserve">
-<value>{0} ke zrušení zameření</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockActionTitle_LargeTurretCopyTarget" xml:space="preserve">
-<value>Kopírovat cíl</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockActionTooltip_LargeTurretCopyTarget" xml:space="preserve">
-<value>Nastaví veže na stejný cíl</value>
 <comment>CZE</comment>
 </data>
 <data name="MeasurementUnit_Meter" xml:space="preserve">
@@ -13437,14 +12593,6 @@
 <value>Dopravník - Trubka - Téčko</value>
 <comment>CZE</comment>
 </data>
-<data name="DisplayName_Block_AdvancedRotor3x3" xml:space="preserve">
-<value>Rotor - Pokročilý - 3x3</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_AdvancedRotorPart3x3" xml:space="preserve">
-<value>Rotor - Pokročilý - 3x3 (Část)</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_Block_ConveyorConverter" xml:space="preserve">
 <value>Dopravník - Přechodka</value>
 <comment>CZE</comment>
@@ -13497,10 +12645,6 @@
 <value>Okno - Zaoblené - Vnitrní roh - Obrácený   </value>
 <comment>CZE</comment>
 </data>
-<data name="DisplayName_Block_BridgeWindow1x1FaceInverted" xml:space="preserve">
-<value>Okno - Můstek - Ukosené (Obrácené)</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_Block_ConveyorTubeDuctCurved" xml:space="preserve">
 <value>Dopravník - Vystužený - Zatočený</value>
 <comment>CZE</comment>
@@ -13550,7 +12694,7 @@
 <comment>CZE</comment>
 </data>
 <data name="PathRecorderBlock_DeleteAllWaypoints" xml:space="preserve">
-<value>Smazat všechny body trasy</value>
+<value>Smazat všechny trasy</value>
 <comment>CZE</comment>
 </data>
 <data name="PathRecorderBlock_MinimalDistance" xml:space="preserve">
@@ -13574,7 +12718,7 @@
 <comment>CZE</comment>
 </data>
 <data name="PathRecorderBlock_AddWaypoint" xml:space="preserve">
-<value>Přidat bod trasy</value>
+<value>Přidat trasu</value>
 <comment>CZE</comment>
 </data>
 <data name="BasicMission_FollowHome" xml:space="preserve">
@@ -13965,88 +13109,8 @@
 <value>Cedule - Atmosféra</value>
 <comment>CZE</comment>
 </data>
-<data name="AIBlocks_HudMessage_Error" xml:space="preserve">
-<value>CHYBA</value>
-<comment>CZE</comment>
-</data>
-<data name="Terminal_ShowAiWaypointOnHud" xml:space="preserve">
-<value>- Bod trasy</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StatusMessage_Idle" xml:space="preserve">
-<value>Stav: Nečinný</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StatusMessage_MaintainingMinimalHeight" xml:space="preserve">
-<value>Stav: Udržuji minimální výšku: {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_StatusMessage_Searching" xml:space="preserve">
-<value>Stav: Vyhledávání nepřátel... {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_StatusMessage_TargetLocking" xml:space="preserve">
-<value>Stav: Zaměřování cíle {0}. Zbývá {1}.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_StatusMessage_TargetLocked" xml:space="preserve">
-<value>Stav: Cíl uzamčen {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_StatusMessage_Fleeing" xml:space="preserve">
-<value>Stav: Utěk před {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StatusMessage_Fleeing" xml:space="preserve">
-<value>Stav: Utěk před {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_StatusMessage_Attacking" xml:space="preserve">
-<value>Stav: Útočení na {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_HitRun_StatusMessage_Retreating" xml:space="preserve">
-<value>Stav: Ustupuje z {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_HitRun_StatusMessage_Attacking" xml:space="preserve">
-<value>Stav: Útočím na {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StayAtRange_StatusMessage_Keeping" xml:space="preserve">
-<value>Stav: Zůstávám v dostřelu od {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_Circle_StatusMessage_Circling" xml:space="preserve">
-<value>Stav: Kroužení {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_Intercept_StatusMessage_Intercepting" xml:space="preserve">
-<value>Stav: Zachycování {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_Idle" xml:space="preserve">
-<value>Stav: Nečinný</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_Recording" xml:space="preserve">
-<value>Stav: Nahrávání</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightMovementBlock_NoGyro" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Konstrukce se nemůže otáčet, přidejte prosím gyroskop![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightMovementBlock_NoThrustInAllDirections" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Konstrukce se nemůže pohybovat jedním nebo více směry, zajistěte, aby byl pro každý směr k dispozici tryska!</value>
-<comment>CZE</comment>
-</data>
 <data name="EventControllerBlock_Condition" xml:space="preserve">
 <value>Podmínka</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_Condition_Tooltip" xml:space="preserve">
-<value>Nastavuje, za jakých podmínek se akce spustí.</value>
 <comment>CZE</comment>
 </data>
 <data name="EventControllerBlock_Condition_Higher" xml:space="preserve">
@@ -14133,20 +13197,8 @@
 <value>Podmínka: {0}</value>
 <comment>CZE</comment>
 </data>
-<data name="StoreBuy_Error_Caption_StoreNotOwnedByFaction" xml:space="preserve">
-<value>Transakce selhala</value>
-<comment>CZE</comment>
-</data>
 <data name="StoreBuy_Error_StoreNotOwnedByFaction" xml:space="preserve">
 <value>Obchod není vlastněn klanem.</value>
-<comment>CZE</comment>
-</data>
-<data name="StoreSell_Error_Caption_NoFaction" xml:space="preserve">
-<value>Transakce selhala</value>
-<comment>CZE</comment>
-</data>
-<data name="StoreSell_Error_Text_NoFaction" xml:space="preserve">
-<value>Obchod není vlatněn klanem.</value>
 <comment>CZE</comment>
 </data>
 <data name="EventOutputInfo" xml:space="preserve">
@@ -14217,18 +13269,6 @@
 <value>Vstup: {0} {1}</value>
 <comment>CZE</comment>
 </data>
-<data name="FollowHome_HomeNotSet" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Domovská pozice není nastavena, zvolte prosím domovskou pozici![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_Following" xml:space="preserve">
-<value>Stav: Následuji {0}.</value>
-<comment>CZE</comment>
-</data>
-<data name="Autopilot_MovingToGPS" xml:space="preserve">
-<value>Stav: Přesouvám se na GPS {0}.</value>
-<comment>CZE</comment>
-</data>
 <data name="EventAboveEqualInfo" xml:space="preserve">
 <value>Podmínka: &gt;=</value>
 <comment>CZE</comment>
@@ -14239,34 +13279,6 @@
 </data>
 <data name="EventThresholdInfo" xml:space="preserve">
 <value>Práh překročení: {0} {1}</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_AccesPanel" xml:space="preserve">
-<value>Přístupové Panely umožňují přístup pro případ nouze nebo údržby a dodávají plochým povrchům detailnější vzhled.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_LockTarget" xml:space="preserve">
-<value>Uzamčení cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_LockTarget_Tooltip" xml:space="preserve">
-<value>Uzamkne zacílení na konstrukce, které splňují výše uvedené podmínky</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_Nominal" xml:space="preserve">
-<value>NOMINÁL: {0} použitý jako referenční cíl</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_ErrorNotFacingForward" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: {0} nesměřuje dopředu, tato zbraň nebude použita![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_WarningMultipleAmmo" xml:space="preserve">
-<value>[Color=#FFFFBB00]VAROVÁNÍ: Zjištěno více typů munice, přesnost může být snížena[/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_FacingPriority_Title" xml:space="preserve">
-<value>Priorita nasměrování</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_TimerBlockReskin" xml:space="preserve">
@@ -14373,60 +13385,8 @@
 <value>[DLC]Automatoni               </value>
 <comment>CZE</comment>
 </data>
-<data name="Autopilot_Collision_Avoidance_Error" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Cíl není dosažitelný. Funkce zamezení kolize zabraňuje pohybu této konstrukce uvnitř ohraničeného pole statické konstrukce. Přesuňte tuto konstrukci a/nebo cíl mimo ohraničený rámeček jakékoli statické konstrukce nebo vypněte vyhýbání se kolizím.[/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_HitAndRun_CustomWaypoint" xml:space="preserve">
-<value>Vlastní bod trasy</value>
-<comment>CZE</comment>
-</data>
 <data name="FlightMovementBlock_MaxPitchAngle" xml:space="preserve">
-<value>Maximální naklonění #??#</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightMovementBlock_MaxRollAngle_Tooltip" xml:space="preserve">
-<value>Při přesunu k bodu trasy v přírodní gravitaci se může konstrukce přetočit doleva nebo doprava o tento úhel</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft" xml:space="preserve">
-<value>Stav: Zaměřování cíle {0}. Zbývá {1}s.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveDefensiveCombatBlock_TargetLocked" xml:space="preserve">
-<value>Stav: Cíl uzamčen {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_CharacterLocked" xml:space="preserve">
-<value>Útočení {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_CharacterLocked" xml:space="preserve">
-<value>Stav: Obrana proti {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveDefensiveCombatBlock_CanTargetCharacters" xml:space="preserve">
-<value>Cílit postavy</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_SavedGps" xml:space="preserve">
-<value>(Uloženo)</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionBlock_SavedGps" xml:space="preserve">
-<value>(Uloženo)</value>
-<comment>CZE</comment>
-</data>
-<data name="Assembler_ItemsInQueue" xml:space="preserve">
-<value>Předměty v frontě: {0}/{1}</value>
-<comment>CZE</comment>
-</data>
-<data name="EventState_Merged" xml:space="preserve">
-<value>Sloučeno</value>
-<comment>CZE</comment>
-</data>
-<data name="EventState_NotMerged" xml:space="preserve">
-<value>Nesloučeno</value>
+<value>Maximální naklonění</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_EventMerged" xml:space="preserve">
@@ -14489,14 +13449,6 @@
 <value>Přírodní gravitace:</value>
 <comment>CZE</comment>
 </data>
-<data name="CombatBlock_OffensivePatternsTooltip" xml:space="preserve">
-<value>Určuje způsob, jakým bude konstrukce útočit na nepřítele.Kroužit/Obíhat - Konstrukce se bude snažit obletět nepřítele v nastavitelné vzdálenosti.Zůstat na Dostřel - Konstrukce se bude snažit udržet nepřítele v nastavitelné minimální/maximální vzdálenosti.Udeřit a Utéct - Konstrukce bude neustále útočit na cíl, a když se k němu přiblíží, přeruší útok a ustoupí. Zachycení - Konstrukce se bude snažit zadržet nepřítele a vrazit do něj.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_SabiroidPlushie" xml:space="preserve">
-<value>Pokročilé motivujicí zařízení prvotřídní kvality. Nelze vyrobit ani rozebrat.</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_Block_SabiroidPlushie" xml:space="preserve">
 <value>Plyšák - Saberoid</value>
 <comment>CZE</comment>
@@ -14513,56 +13465,8 @@
 <value>(Nezacílený)</value>
 <comment>CZE</comment>
 </data>
-<data name="Department_XboxPort" xml:space="preserve">
-<value>Xbox Port</value>
-<comment>CZE</comment>
-</data>
-<data name="Department_PlaystationPort" xml:space="preserve">
-<value>PlayStation®4 a PlayStation®5 Port</value>
-<comment>CZE</comment>
-</data>
-<data name="WelcomeScreen_Text3_console" xml:space="preserve">
-<value>Pokud se vyskytnou nějaké problémy, neváhejte navštívit stránky podpory nebo náš Discord server, kde jsou k dispozici vývojáři a mnoho zkušených hráčů, kteří vám pomohou!Hodně štěstí při budování vašich snů!</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenModIoConsent_ConsentTextPart2_ps" xml:space="preserve">
-<value> •   Přihlašovací ID•   Zobrazované jméno•   Avatar</value>
-<comment>CZE</comment>
-</data>
-<data name="EnableCrossplay" xml:space="preserve">
-<value>Povolit Crossplay</value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipOptionsGame_Crossplay" xml:space="preserve">
-<value>Umožňuje hrát hry, které nebyly vytvořeny pro konzole PlayStation®4 a PlayStation®5</value>
-<comment>CZE</comment>
-</data>
-<data name="Crossplay_Disabled_Warning" xml:space="preserve">
-<value>Servery Crossplay jsou vypnuté. Přejděte do nabídky Možnosti Hry a povolte je.</value>
-<comment>CZE</comment>
-</data>
-<data name="WorldSettings_Error_MustSignIn" xml:space="preserve">
-<value>byste mohli změnit online režim, musíte se přihlásit"</value>
-<comment>CZE</comment>
-</data>
-<data name="DedicatedServer_Join_CrossPlayError" xml:space="preserve">
-<value>Abyste se mohli připojit k dedikovanému serveru, musíte v Možnostech Hry povolit crossplay</value>
-<comment>CZE</comment>
-</data>
-<data name="Medical_EnableAutorespawn_Tooltip" xml:space="preserve">
-<value>Tohle není nejbližší Zdravotnická místnost. Automatické oživení v nastavení světa, vám zabrání se zde znovu zrodit.</value>
-<comment>CZE</comment>
-</data>
 <data name="OpenDlcShop_ps" xml:space="preserve">
 <value>Otevřít PlayStation™Store</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyDescription_PowerDependency" xml:space="preserve">
-<value>Určuje, jak moc je efekt záření závislý na procentuální spotřebě energie v síti.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_StatusMessage_ReadyToFlee" xml:space="preserve">
-<value>Stav: Obrana proti {0}</value>
 <comment>CZE</comment>
 </data>
 <data name="EmotionControll_SelectedLCDs" xml:space="preserve">
@@ -14583,58 +13487,6 @@
 </data>
 <data name="DisplayName_Block_CapCockpit" xml:space="preserve">
 <value>Kokpit - Kabina</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Screen_Center" xml:space="preserve">
-<value>Obrazovka - Středová</value>
-<comment>CZE</comment>
-</data>
-<data name="BlueprintshareTimeOutText" xml:space="preserve">
-<value>Nemůžete sdílej plánky takto rychle</value>
-<comment>CZE</comment>
-</data>
-<data name="BlueprintshareTimeOut" xml:space="preserve">
-<value>Časovový limit pro sdílení plánku</value>
-<comment>CZE</comment>
-</data>
-<data name="Blueprintshare_Label" xml:space="preserve">
-<value>Sdílet plánek</value>
-<comment>CZE</comment>
-</data>
-<data name="Blueprintshare_Tooltip" xml:space="preserve">
-<value>Povoluje / Zakazuje přijímání plánků</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeDistance_Title" xml:space="preserve">
-<value>Úniková vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeDistance_Tooltip" xml:space="preserve">
-<value>Útěk do této vzdálenosti od posledního známého místa ohrožení.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_EvasiveManeuvers_Title" xml:space="preserve">
-<value>Úhybné manévry</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_EvasiveManeuvers_Tooltip" xml:space="preserve">
-<value>Umělá inteligence se pokusí o úhybné manévry před příchozími projektily.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeMode_AwayFromTarget" xml:space="preserve">
-<value>Pryč od cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeMode_ToGPSOrBeacon" xml:space="preserve">
-<value>K GPS / Majáku</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
-<value>Větrná turbína - Dvoulistá</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_MedicalRoomReskin" xml:space="preserve">
-<value>Zdravotnická místnost - Rohová</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LargeAtmoThrustFlat" xml:space="preserve">
@@ -14774,7 +13626,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_CrateBlock" xml:space="preserve">
-<value>Velká bedna, jejíchž opancéřování drží tvé předměty uvnitř a v bezpečí.</value>
+<value>Velká bedna, jejíchž opanvéřování drží tvé předměty uvnitř a v bezpečí.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_ExplosiveBarrel" xml:space="preserve">
@@ -14819,14 +13671,6 @@
 </data>
 <data name="DisplayName_Block_HoloLCD" xml:space="preserve">
 <value>LCD - Hologram</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_DLC_Major203DLC" xml:space="preserve">
-<value>Dekorativní bloky 3</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
-<value>Varování: Jedna nebo více vybraných zbraní nesměřuje dopředu a není použita.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Aquarium" xml:space="preserve">
@@ -14894,7 +13738,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_OffroadShortSuspension5x5mirrored" xml:space="preserve">
-<value>Náprava - Krátká - Terénní kolo - 5x (Levá)</value>
+<value>Náprava - Krátká - Terénní kolo - 5x</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_InsetKitchen" xml:space="preserve">
@@ -14902,11 +13746,14 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_TrussSloped" xml:space="preserve">
-<value>Lešení - Zkosené</value>
+<value>Lešení - Zkošené</value>
 <comment>CZE</comment>
 </data>
 <data name="ProgrammableBlock_OpenInWorkshop" xml:space="preserve">
 <value></value>
+</data>
+<data name="AdminMenuNotAvailable" xml:space="preserve">
+<value>Admin menu is available only when you're admin or when admin promotes you to Observer and beyond</value>
 </data>
 <data name="Afterburner" xml:space="preserve">
 <value>Sprint</value>
@@ -14923,8 +13770,17 @@
 <data name="AttachToSelectedEntity" xml:space="preserve">
 <value>Attach to selected entity</value>
 </data>
+<data name="AUTO" xml:space="preserve">
+<value>AUTO</value>
+</data>
+<data name="BlockComboBoxValue_TextPanelAccessReadAll" xml:space="preserve">
+<value>Everyone read-only</value>
+</data>
 <data name="BlockPropertiesTooltip_Projector_GetOwnership" xml:space="preserve">
 <value>All blocks from the spawned ship will have the same ownership settings as this projector</value>
+</data>
+<data name="BlockPropertyDescription_BreakForce" xml:space="preserve">
+<value>Landing gear will unlock automatically when force applied to keep it attached is larger than this value</value>
 </data>
 <data name="BlockPropertyDescription_Connector_Strength" xml:space="preserve">
 <value>Connector strength when aligning ship (yellow color), smaller strength of two connectors is used</value>
@@ -15031,6 +13887,36 @@
 <data name="BriefingTutorial10Grids" xml:space="preserve">
 <value>This tutorial aims to illuminate the nature of small, large and station grids, the rules that govern them and how you can join them with the merge block. There is also a brief section on floating objects.</value>
 </data>
+<data name="BroadcastScreen_NoOwnership" xml:space="preserve">
+<value>Wrong ownership setting:</value>
+</data>
+<data name="BroadcastScreen_Ownership" xml:space="preserve">
+<value>Ownership correct</value>
+</data>
+<data name="BroadcastScreen_TerminalButtonDisabled_ToolTip" xml:space="preserve">
+<value>Cannot open terminal of target grid.Hover over status icons for more info.</value>
+</data>
+<data name="BroadcastScreen_TerminalButton_NoStableConnectionToolTip" xml:space="preserve">
+<value>Cannot establish connection to grid</value>
+</data>
+<data name="BroadcastScreen_TerminalButton_PlayerBroadcastOffToolTip" xml:space="preserve">
+<value>Players antenna off</value>
+</data>
+<data name="BroadcastScreen_UnavailableControlButton" xml:space="preserve">
+<value>Unavailable</value>
+</data>
+<data name="BroadcastStatus_IsPreviewGrid" xml:space="preserve">
+<value>Preview Grid</value>
+</data>
+<data name="BroadcastStatus_OutOfReceivingRange" xml:space="preserve">
+<value>Out of receiving range</value>
+</data>
+<data name="BuilderModeOff" xml:space="preserve">
+<value>Builder mode off</value>
+</data>
+<data name="BuilderModeOn" xml:space="preserve">
+<value>Builder mode on</value>
+</data>
 <data name="CannotFindBlueprintSteam" xml:space="preserve">
 <value>Couldn't load blueprints from {0} workshop</value>
 </data>
@@ -15069,6 +13955,12 @@
 </data>
 <data name="ControlMenuItemLabel_CameraMode" xml:space="preserve">
 <value>Toggle Camera Mode</value>
+</data>
+<data name="ControlMenuItemValue_FPP" xml:space="preserve">
+<value>FPP</value>
+</data>
+<data name="ControlMenuItemValue_TPP" xml:space="preserve">
+<value>TPP</value>
 </data>
 <data name="ControlMenuItemLabel_QuickLoad" xml:space="preserve">
 <value>Quick Load / Reconnect</value>
@@ -15223,8 +14115,23 @@
 <data name="Description_ControlPanel" xml:space="preserve">
 <value>Control panels are simple panels that allow access to grid menus.When highlighted, press {CONTROL:TERMINAL} to interact with the panel. </value>
 </data>
+<data name="Description_ConveyorSorter" xml:space="preserve">
+<value>Conveyor sorters can be configured to only pass specific items through or stop specific items from passing through.Sorters can be used to filter out unwanted materials or to collect specific items in a container. </value>
+</data>
+<data name="Description_Drill" xml:space="preserve">
+<value>Ship drills are utility tools for mining on planets or asteroids to collect raw ores.Can be used from a cockpit or turned on manually. Be careful not to get too close while it's active. Use conveyors to connect the drill with more storage blocks or refineries. </value>
+</data>
+<data name="Description_Ejector" xml:space="preserve">
+<value>The ejector allows small items to be ejected from small ships. Can also be used to access inventories.You can use the ejector together with the conveyor sorter to collect and throw out specific items. </value>
+</data>
+<data name="Description_FlightSeat" xml:space="preserve">
+<value>Flight seats are used to control a large ship and access all of its functions. </value>
+</data>
 <data name="Description_FullCoverWall" xml:space="preserve">
 <value>Armored walls provide cover in interiors or can be used to prevent players from walking off ledges. </value>
+</data>
+<data name="Description_GatlingGun" xml:space="preserve">
+<value>Fast-shooting gun that can be loaded through conveyors. Uses Gatling Ammo Boxes.Maximum range: 800 m</value>
 </data>
 <data name="Description_GravityGenerator" xml:space="preserve">
 <value>Gravity generators create configurable artificial gravity fields that affect players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. </value>
@@ -15240,6 +14147,15 @@
 </data>
 <data name="Description_HangarDoor" xml:space="preserve">
 <value>Hangar doors can be linked together to create large gates that can seal spaces air tight while allowing vehicles in and out. You can build and use a button panel to open hangar doors by interacting with it or sensors to make them open and close automatically.</value>
+</data>
+<data name="Description_HydrogenTank" xml:space="preserve">
+<value>Hydrogen tanks are used for storing hydrogen fuel.Hydrogen is used for hydrogen thrusters, engines or jetpack fuel. Hydrogen can be produced from ice in a O2/H2 generator. Can store and refill hydrogen bottles. </value>
+</data>
+<data name="Description_HydrogenThrust" xml:space="preserve">
+<value>Hydrogen thrusters are powerful thrusters that consume hydrogen and function in every environment.Hydrogen can be produced from ice in a O2/H2 generator. Use a hydrogen tank for storage. Use Conveyors to transport the hydrogen.</value>
+</data>
+<data name="Description_InteriorLight" xml:space="preserve">
+<value>Lights are used to illuminate interiors or can be used to act as reference points on exteriors. </value>
 </data>
 <data name="Description_InteriorTurret" xml:space="preserve">
 <value>Autonomous anti-personnel turret. Must be manually loaded with MR-50A Rifle Magazines.Maximum range: 800 m</value>
@@ -15274,6 +14190,9 @@
 <data name="Description_Projector" xml:space="preserve">
 <value>The projector block projects saved blueprints of ships so that they can be built easily.Projection requires a connection with a grid from a projector in order to start construction. </value>
 </data>
+<data name="Description_Reactor" xml:space="preserve">
+<value>Reactors generate high amounts of power at the cost of refined uranium ingots.Uranium is one of the rarest elements and cannot be found on planets. Uranium can be found in asteroids, and in some craters left by meteorite impacts. </value>
+</data>
 <data name="Description_RocketLauncherReload" xml:space="preserve">
 <value>An advanced version of the rocket launcher, capable of using the conveyor system to automatically reload. Uses Rockets.Maximum range: 800 m</value>
 </data>
@@ -15288,6 +14207,9 @@
 </data>
 <data name="Description_Sensor" xml:space="preserve">
 <value>Sensors can be set up to activate ship systems when they detects players, ships or asteroids within a limited range. </value>
+</data>
+<data name="Description_SpaceBall" xml:space="preserve">
+<value>A spherical block that reacts to gravity.</value>
 </data>
 <data name="Description_Timer" xml:space="preserve">
 <value>Timer blocks can be used to activate configured ship systems after a set amount of time.Use multiple timer blocks to build sequences. Can be used to automate systems. </value>
@@ -15348,6 +14270,18 @@
 </data>
 <data name="Description_Lockers" xml:space="preserve">
 <value>Personalized lockers for decorating interiors and store your essentials. </value>
+</data>
+<data name="Description_LockerRoom" xml:space="preserve">
+<value>A locker to store tools, weapons, ammunition and bottles. </value>
+</data>
+<data name="Description_LockerRoomCorner" xml:space="preserve">
+<value>A locker to store tools, weapons, ammunition and bottles. </value>
+</data>
+<data name="Description_Couch" xml:space="preserve">
+<value>A couch for decorating interiors. Can be used as a seat.</value>
+</data>
+<data name="Description_CornerCouch" xml:space="preserve">
+<value>A couch for decorating interior corners. Can be used as a seat.</value>
 </data>
 <data name="Description_Console" xml:space="preserve">
 <value>A console table for decorating interiors, projecting ships and stations in custom scale, as well as displaying pictograms or customized text on its displays.</value>
@@ -15562,14 +14496,32 @@
 <data name="GuiScenarioEdit_CopyIdsTooltip" xml:space="preserve">
 <value>You can then paste them into "Block destroyed" trigger</value>
 </data>
+<data name="GuiScenarioPlayerName" xml:space="preserve">
+<value>Player name</value>
+</data>
 <data name="GuiScenarioPlayerStatus" xml:space="preserve">
 <value>Status</value>
 </data>
 <data name="GuiScenarioSend" xml:space="preserve">
 <value>Send</value>
 </data>
+<data name="GuiScenarioStart" xml:space="preserve">
+<value>Start</value>
+</data>
 <data name="GuiScenarioTimeout" xml:space="preserve">
 <value>Connection timeout:</value>
+</data>
+<data name="GuiScenarioTimeout10min" xml:space="preserve">
+<value>10 min</value>
+</data>
+<data name="GuiScenarioTimeout3min" xml:space="preserve">
+<value>3 min</value>
+</data>
+<data name="GuiScenarioTimeout5min" xml:space="preserve">
+<value>5 min</value>
+</data>
+<data name="GuiScenarioTimeoutUnlimited" xml:space="preserve">
+<value>Unlimited</value>
 </data>
 <data name="GuiTriggerBlockDestroyedSingleMessage" xml:space="preserve">
 <value>Message after each block is destroyed</value>
@@ -16270,6 +15222,9 @@
 <data name="PickColorFromCube" xml:space="preserve">
 <value>Pick color from cube into slot</value>
 </data>
+<data name="PlayerCharacterColorBlack" xml:space="preserve">
+<value>Black</value>
+</data>
 <data name="PlayerCharacterColorBlue" xml:space="preserve">
 <value>Blue</value>
 </data>
@@ -16393,6 +15348,12 @@
 <data name="QuickstartDX11NotAvailable" xml:space="preserve">
 <value>It seems that your system does not support DirectX 11, game will load scenario with no planets</value>
 </data>
+<data name="QuickstartDX11PleaseRestartGame" xml:space="preserve">
+<value>Please restart the game to finish switching to DX11</value>
+</data>
+<data name="QuickstartDX11SwitchQuestion" xml:space="preserve">
+<value>Please switch to DirectX 11 to play a planet scenario</value>
+</data>
 <data name="QuickstartNoDx9SelectDifferent" xml:space="preserve">
 <value>It seems that your system does not support DirectX 11, please select scenario with no planets</value>
 </data>
@@ -16402,14 +15363,71 @@
 <data name="QuickstartSelectDifferent" xml:space="preserve">
 <value>Please select scenario with no planets</value>
 </data>
+<data name="Quote00Author" xml:space="preserve">
+<value>Theodore Von Karman</value>
+</data>
+<data name="Quote01Author" xml:space="preserve">
+<value>Max Planck</value>
+</data>
+<data name="Quote02Author" xml:space="preserve">
+<value>Archimedes</value>
+</data>
+<data name="Quote03Author" xml:space="preserve">
+<value>Arthur C. Clarke</value>
+</data>
+<data name="Quote04Author" xml:space="preserve">
+<value>Bertrand Russell</value>
+</data>
+<data name="Quote05Author" xml:space="preserve">
+<value>Indiana Jones</value>
+</data>
+<data name="Quote06Author" xml:space="preserve">
+<value>Immanuel Kant</value>
+</data>
+<data name="Quote07Author" xml:space="preserve">
+<value>Max Planck</value>
+</data>
 <data name="Quote07Text" xml:space="preserve">
 <value>A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.</value>
+</data>
+<data name="Quote09Author" xml:space="preserve">
+<value>Albert Einstein</value>
+</data>
+<data name="Quote10Author" xml:space="preserve">
+<value>Leonardo da Vinci</value>
+</data>
+<data name="Quote11Author" xml:space="preserve">
+<value>Leonardo da Vinci</value>
+</data>
+<data name="Quote12Author" xml:space="preserve">
+<value>Leonardo da Vinci</value>
+</data>
+<data name="Quote13Author" xml:space="preserve">
+<value>Leonardo da Vinci</value>
+</data>
+<data name="Quote14Author" xml:space="preserve">
+<value>Leonardo da Vinci</value>
+</data>
+<data name="Quote15Author" xml:space="preserve">
+<value>Galileo Galilei</value>
+</data>
+<data name="Quote16Author" xml:space="preserve">
+<value>Galileo Galilei</value>
+</data>
+<data name="Quote17Author" xml:space="preserve">
+<value>Galileo Galilei</value>
 </data>
 <data name="Quote17Text" xml:space="preserve">
 <value>If I were again beginning my studies, I would follow the advice of Plato and start with mathematics.</value>
 </data>
+<data name="Quote18Author" xml:space="preserve">
+<value>Johann W. Goethe</value>
+</data>
 <data name="Quote18Text" xml:space="preserve">
 <value>We see only what we know.</value>
+</data>
+<data name="Quote19Author" xml:space="preserve">
+<value>Niels H. D. Bohr</value>
 </data>
 <data name="Quote19Text" xml:space="preserve">
 <value>If anybody says he can think about quantum problems without getting giddy, that only shows he has not understood the first thing about them.</value>
@@ -16417,47 +15435,113 @@
 <data name="Quote20Author" xml:space="preserve">
 <value>Ancient paradox</value>
 </data>
+<data name="Quote20Text" xml:space="preserve">
+<value>Only one thing is certain - that is, nothing is certain. If this statement is true, it is also false.</value>
+</data>
+<data name="Quote21Author" xml:space="preserve">
+<value>Richard Feynman</value>
+</data>
+<data name="Quote22Author" xml:space="preserve">
+<value>Walter Bagehot</value>
+</data>
 <data name="Quote22Text" xml:space="preserve">
 <value>A great pleasure in life is doing what people say you cannot do.</value>
+</data>
+<data name="Quote23Author" xml:space="preserve">
+<value>Thomas A. Edison</value>
 </data>
 <data name="Quote23Text" xml:space="preserve">
 <value>Genius is one percent inspiration and ninety-nine percent perspiration.</value>
 </data>
+<data name="Quote24Author" xml:space="preserve">
+<value>Socrates</value>
+</data>
+<data name="Quote25Author" xml:space="preserve">
+<value>Arthur C. Clarke</value>
+</data>
 <data name="Quote25Text" xml:space="preserve">
 <value>Any sufficiently advanced technology is indistinguishable from magic.</value>
+</data>
+<data name="Quote26Author" xml:space="preserve">
+<value>William Gibson</value>
 </data>
 <data name="Quote26Text" xml:space="preserve">
 <value>When you want to know how things really work, study them when they're coming apart.</value>
 </data>
+<data name="Quote27Author" xml:space="preserve">
+<value>Scott Adams</value>
+</data>
 <data name="Quote27Text" xml:space="preserve">
 <value>Engineers like to solve problems. If there are no problems handily available, they will create their own problems.</value>
+</data>
+<data name="Quote28Author" xml:space="preserve">
+<value>Robert A. Heinlein</value>
 </data>
 <data name="Quote28Text" xml:space="preserve">
 <value>One man's "magic" is another man's engineering. "Supernatural" is a null word.</value>
 </data>
+<data name="Quote29Author" xml:space="preserve">
+<value>Freeman Dyson</value>
+</data>
 <data name="Quote29Text" xml:space="preserve">
 <value>A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering.</value>
+</data>
+<data name="Quote30Author" xml:space="preserve">
+<value>Freeman Dyson</value>
+</data>
+<data name="Quote30Text" xml:space="preserve">
+<value>Aviation is the branch of engineering that is least forgiving of mistakes.</value>
+</data>
+<data name="Quote31Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
 </data>
 <data name="Quote31Text" xml:space="preserve">
 <value>A space engineer is a professional practitioner who uses scientific knowledge, mathematics, physics, astronomy, propulsion technology, materials science, structural analysis, manufacturing and ingenuity to solve practical problems in space.</value>
 </data>
+<data name="Quote32Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
+</data>
 <data name="Quote32Text" xml:space="preserve">
 <value>Space engineers design materials, structures, and systems while considering the limitations imposed by practicality, regulation, safety, ethicality and cost.</value>
+</data>
+<data name="Quote33Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
 </data>
 <data name="Quote33Text" xml:space="preserve">
 <value>Space engineers are grounded in applied sciences, and their work in research and development is distinct from the basic research focus of space scientists.</value>
 </data>
+<data name="Quote34Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
+</data>
 <data name="Quote34Text" xml:space="preserve">
 <value>In war times, space engineering involves military engineering as well. Such tasks typically include construction and demolition tasks under combat conditions.</value>
+</data>
+<data name="Quote35Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
 </data>
 <data name="Quote35Text" xml:space="preserve">
 <value>Space engineers are in a high demand, especially since the Second Space Race of 2029.</value>
 </data>
+<data name="Quote36Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
+</data>
 <data name="Quote36Text" xml:space="preserve">
 <value>Space engineers take pride for their ability to get the job done right - no matter how big, how complex, or how remote.</value>
 </data>
+<data name="Quote37Author" xml:space="preserve">
+<value>Wikipedia, 2077</value>
+</data>
 <data name="Quote37Text" xml:space="preserve">
 <value>The word engineer is derived from the Latin roots 'ingeniare' ("to contrive, devise") and 'ingenium' ("cleverness").</value>
+</data>
+<data name="Quote38Author" xml:space="preserve">
+<value>Anonym</value>
+</data>
+<data name="Quote38Text" xml:space="preserve">
+<value>To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be.</value>
+</data>
+<data name="Quote39Author" xml:space="preserve">
+<value>Albert Einstein</value>
 </data>
 <data name="Quote39Text" xml:space="preserve">
 <value>Scientists investigate that which already is; engineers create that which has never been.</value>
@@ -16468,26 +15552,98 @@
 <data name="Quote40Text" xml:space="preserve">
 <value>Tracers work both ways.</value>
 </data>
+<data name="Quote41Author" xml:space="preserve">
+<value>USAF Ammo Troop</value>
+</data>
+<data name="Quote41Text" xml:space="preserve">
+<value>If you see a bomb technician running, follow him.</value>
+</data>
+<data name="Quote42Author" xml:space="preserve">
+<value>Anonym</value>
+</data>
 <data name="Quote42Text" xml:space="preserve">
 <value>The only time you have too much fuel is when you're on fire.</value>
+</data>
+<data name="Quote43Author" xml:space="preserve">
+<value>Anonym</value>
+</data>
+<data name="Quote43Text" xml:space="preserve">
+<value>Never trade luck for skill.</value>
+</data>
+<data name="Quote44Author" xml:space="preserve">
+<value>Jon McBride</value>
+</data>
+<data name="Quote44Text" xml:space="preserve">
+<value>A pilot who doesn't have any fear probably isn't flying his plane to its maximum.</value>
+</data>
+<data name="Quote45Author" xml:space="preserve">
+<value>Alexander Calder</value>
 </data>
 <data name="Quote45Text" xml:space="preserve">
 <value>To an engineer, good enough means perfect. With an artist, there's no such thing as perfect.</value>
 </data>
+<data name="Quote46Author" xml:space="preserve">
+<value>Buzz Aldrin</value>
+</data>
+<data name="Quote46Text" xml:space="preserve">
+<value>Mars is there, waiting to be reached.</value>
+</data>
+<data name="Quote47Author" xml:space="preserve">
+<value>Neil Armstrong</value>
+</data>
+<data name="Quote47Text" xml:space="preserve">
+<value>This is one small step for a man, one giant leap for mankind.</value>
+</data>
+<data name="Quote48Author" xml:space="preserve">
+<value>Yuri Gagarin</value>
+</data>
+<data name="Quote49Author" xml:space="preserve">
+<value>Yuri Gagarin</value>
+</data>
 <data name="Quote49Text" xml:space="preserve">
 <value>I could have gone on flying through space forever.</value>
+</data>
+<data name="Quote50Author" xml:space="preserve">
+<value>Michael Collins</value>
 </data>
 <data name="Quote50Text" xml:space="preserve">
 <value>To go places and do things that have never been done before - that's what living is all about.</value>
 </data>
+<data name="Quote51Author" xml:space="preserve">
+<value>Ralph W. Emerson</value>
+</data>
+<data name="Quote51Text" xml:space="preserve">
+<value>Do not go where the path may lead, go instead where there is no path and leave a trail.</value>
+</data>
+<data name="Quote52Author" xml:space="preserve">
+<value>Yuri Gagarin</value>
+</data>
 <data name="Quote52Text" xml:space="preserve">
 <value>To be the first to enter the cosmos, to engage, single-handed, in an unprecedented duel with nature - could one dream of anything more?</value>
+</data>
+<data name="Quote53Author" xml:space="preserve">
+<value>Yuri Gagarin</value>
 </data>
 <data name="Quote53Text" xml:space="preserve">
 <value>The path of a cosmonaut is not an easy, triumphant march to glory. You have to get to know the meaning not just of joy but also of grief, before being allowed in the spacecraft cabin.</value>
 </data>
+<data name="Quote54Author" xml:space="preserve">
+<value>Robert H. Goddard</value>
+</data>
+<data name="Quote54Text" xml:space="preserve">
+<value>The dreams of yesterday are the hopes of today and the reality of tomorrow.</value>
+</data>
+<data name="Quote55Author" xml:space="preserve">
+<value>Gene Kranz</value>
+</data>
+<data name="Quote56Author" xml:space="preserve">
+<value>Albert Einstein</value>
+</data>
 <data name="Quote56Text" xml:space="preserve">
 <value>No amount of experimentation can ever prove me right; a single experiment can prove me wrong.</value>
+</data>
+<data name="Quote57Author" xml:space="preserve">
+<value>George B. Shaw</value>
 </data>
 <data name="Quote58Text" xml:space="preserve">
 <value>The law of conservation of energy states that energy can be neither created nor destroyed. However, energy can change forms, and energy can flow from one place to another. The total energy of an isolated system remains the same.</value>
@@ -16528,6 +15684,15 @@
 <data name="Quote69Text" xml:space="preserve">
 <value>Every point mass in the universe attracts every other point mass with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.</value>
 </data>
+<data name="Quote70Author" xml:space="preserve">
+<value>Albert Einstein</value>
+</data>
+<data name="Quote70Text" xml:space="preserve">
+<value>Creativity is intelligence having fun.</value>
+</data>
+<data name="Reactor" xml:space="preserve">
+<value>Reactor</value>
+</data>
 <data name="RemoteAccess_Description" xml:space="preserve">
 <value>You can remotely access grids in the world using the antenna in your suit. Make sure your antenna is enabled.(Check the antenna symbol in the bottom left corner of the in-game HUD)To access a grid, it must be powered and have an antenna. You also need to stay within the antenna broadcast range to be able to access it.You can control grids from a distance by equipping them with a remote control block.</value>
 </data>
@@ -16543,11 +15708,20 @@
 <data name="RunningStateMachines" xml:space="preserve">
 <value>Running State Machines</value>
 </data>
+<data name="SafeZone_CubeAxis" xml:space="preserve">
+<value>Cube Axis:</value>
+</data>
+<data name="SafeZone_ListOfEntities" xml:space="preserve">
+<value>List of Entities:</value>
+</data>
 <data name="ScenarioProgressDestroyBlocks" xml:space="preserve">
 <value>Destroy blocks:</value>
 </data>
 <data name="ScenarioProgressLimitedLives" xml:space="preserve">
 <value>Limited lives: {0} left</value>
+</data>
+<data name="ScenarioProgressLoseConditions" xml:space="preserve">
+<value>Lose conditions</value>
 </data>
 <data name="ScenarioProgressNoSpawn" xml:space="preserve">
 <value>Spend more than {0} seconds in respawn screen.</value>
@@ -16566,6 +15740,9 @@
 </data>
 <data name="ScenarioProgressTimeLimit" xml:space="preserve">
 <value>Scenario time limit {0} minutes</value>
+</data>
+<data name="ScenarioProgressWinConditions" xml:space="preserve">
+<value>Win conditions</value>
 </data>
 <data name="ScenarioSettings_CanJoinRunning" xml:space="preserve">
 <value>Players can join when game is already running</value>
@@ -17326,14 +16503,26 @@
 <data name="WwwLinkNotAllowed_Steam" xml:space="preserve">
 <value>This link is not allowed and will not open.Allowed sites: {0}community, youtube, KSH forum.</value>
 </data>
+<data name="IngameHelp_HUD_Detail1" xml:space="preserve">
+<value>Cycle through the various HUD states; they differ by amount of shown information.You can also change the way signals show up on your HUD.</value>
+</data>
+<data name="IngameHelp_HUD_Detail2" xml:space="preserve">
+<value>Press {CONTROL:TOGGLE_HUD} to cycle through HUD states.</value>
+</data>
 <data name="IngameHelp_HUD_Detail2:Gamepad" xml:space="preserve">
 <value>Press {CONTROL:SYSTEM_RADIAL_MENU} navigate to the [Quick Actions] tab and select the [Toggle HUD] option to cycle through HUD states.</value>
+</data>
+<data name="IngameHelp_HUD_Detail3" xml:space="preserve">
+<value>Press {CONTROL:TOGGLE_SIGNALS} to cycle through signal states.</value>
 </data>
 <data name="IngameHelp_HUD_Detail3:Gamepad" xml:space="preserve">
 <value>Press {CONTROL:SYSTEM_RADIAL_MENU} navigate to the [View] tab and select the [Signals] option to cycle through signal states.</value>
 </data>
 <data name="IngameHelp_Jetpack2_Detail2:Gamepad" xml:space="preserve">
 <value>Swith between dampener modes with {CONTROL:DAMPING} while flying.</value>
+</data>
+<data name="IngameHelp_Building_Detail2" xml:space="preserve">
+<value>Press {CONTROL:BUILD_SCREEN} to open toolbar config screen.</value>
 </data>
 <data name="IngameHelp_Building_Detail2_Gamepad" xml:space="preserve">
 <value>Press {CONTROL:TOOLBAR_RADIAL_MENU} to open the [Building Radial Menu].</value>
@@ -17344,6 +16533,9 @@
 <data name="IngameHelp_Building_Detail4_Gamepad" xml:space="preserve">
 <value>Highlight a block with {GAMEPAD:AXIS_MOTION} and press {CONTROL:GUI:SHIFT_RIGHT} to select a block.</value>
 </data>
+<data name="IngameHelp_Building2_Detail3" xml:space="preserve">
+<value>Use {CONTROL:CUBE_ROTATE_ROLL_POSITIVE}, {CONTROL:CUBE_ROTATE_VERTICAL_NEGATIVE}, {CONTROL:CUBE_ROTATE_HORISONTAL_POSITIVE}, {CONTROL:CUBE_ROTATE_HORISONTAL_NEGATIVE}, {CONTROL:CUBE_ROTATE_ROLL_NEGATIVE} and {CONTROL:CUBE_ROTATE_VERTICAL_POSITIVE} keys to rotate blocks.</value>
+</data>
 <data name="IngameHelp_Building2_Detail2_Gamepad" xml:space="preserve">
 <value>Press {CONTROL:BUILD:CUBE_BUILDER_CUBESIZE_MODE} to change block size.</value>
 </data>
@@ -17352,6 +16544,12 @@
 </data>
 <data name="IngameHelp_Building2_Detail4_Gamepad" xml:space="preserve">
 <value>Use {CONTROL:BUILD:ROTATE_AXIS_LEFT} and {CONTROL:BUILD:ROTATE_AXIS_RIGHT} to rotate around the axis.</value>
+</data>
+<data name="IngameHelp_Building3_Detail1" xml:space="preserve">
+<value>In survival mode you need the first component of a block to place it. You can produce components in assembler or salvage them from other blocks with a grinder.</value>
+</data>
+<data name="IngameHelp_Building3_Detail2" xml:space="preserve">
+<value>Place a block with the {CONTROL:BUILD:PRIMARY_TOOL_ACTION}.</value>
 </data>
 <data name="IngameHelp_Ownership_Detail1" xml:space="preserve">
 <value>Blocks owned by other players cannot be accessed if they are not shared with others. You can hack blocks by replacing their computer parts  with a grinder and welder to gain access.</value>
@@ -17364,6 +16562,12 @@
 </data>
 <data name="IngameHelp_BuildingTip_Detail2" xml:space="preserve">
 <value>*Tip:* Blocks with a + symbol have variations available that you can scroll through.</value>
+</data>
+<data name="IngameHelp_HUDTip_Detail1" xml:space="preserve">
+<value>I could not have done it better myself!</value>
+</data>
+<data name="IngameHelp_HUDTip_Detail2" xml:space="preserve">
+<value>*Tip:* HUD signals can be individually disabled in your terminal control panel.</value>
 </data>
 <data name="IngameHelp_HUDTip_Detail2:Gamepad" xml:space="preserve">
 <value>*Tip:* HUD signals can be individually disabled in your terminal control panel.In creative mode you can also cycle through signals using {CONTROL:TOGGLE_SIGNALS}.</value>
@@ -17431,6 +16635,21 @@
 <data name="IngameHelp_FlyingAShip_Detail4" xml:space="preserve">
 <value>Use {CONTROL:ROLL_LEFT} and {CONTROL:ROLL_RIGHT} to roll.</value>
 </data>
+<data name="IngameHelp_Grinder_Detail2" xml:space="preserve">
+<value>Hold {CONTROL:TOOLS:PRIMARY_TOOL_ACTION} to use grinder on any block.</value>
+</data>
+<data name="IngameHelp_HandDrill_Detail1" xml:space="preserve">
+<value>A hand drill is used to break down rock, collect minerals or to dig tunnels. Ores can be found in asteroids and dark spots on planets. All drills are equipped with a short-range detector.</value>
+</data>
+<data name="IngameHelp_HandDrill_Detail2" xml:space="preserve">
+<value>Hold {CONTROL:TOOLS:PRIMARY_TOOL_ACTION} to break down stone.</value>
+</data>
+<data name="IngameHelp_HandDrill_Detail3" xml:space="preserve">
+<value>Press {CONTROL:USE} to pick up rocks.</value>
+</data>
+<data name="IngameHelp_HandDrill_Detail4" xml:space="preserve">
+<value>Hold {CONTROL:TOOLS:SECONDARY_TOOL_ACTION} to quickly dig tunnels.</value>
+</data>
 <data name="IngameHelp_Rifle_Detail1" xml:space="preserve">
 <value>A basic weapon to protect yourself; requires small calibre ammunition.</value>
 </data>
@@ -17452,6 +16671,36 @@
 <data name="IngameHelp_RefiningOre_Title" xml:space="preserve">
 <value>Good.bot: Refining Ore</value>
 </data>
+<data name="IngameHelp_ComponentsTip_Detail1" xml:space="preserve">
+<value>Your skills are quickly becoming superior to mine!</value>
+</data>
+<data name="IngameHelp_ComponentsTip_Detail2" xml:space="preserve">
+<value>*Tip:* Blocks with a + symbol have variations available that you can scroll through.</value>
+</data>
+<data name="IngameHelp_Components_Detail1" xml:space="preserve">
+<value>Components are used to build and repair blocks. You can use a welder on any block to add the required component. You can select tools and blocks on your toolbar.</value>
+</data>
+<data name="IngameHelp_Components_Detail2" xml:space="preserve">
+<value>Repair a block</value>
+</data>
+<data name="IngameHelp_Components_Title" xml:space="preserve">
+<value>Good.bot: Components</value>
+</data>
+<data name="IngameHelp_FlashlightTip_Detail1" xml:space="preserve">
+<value>A little light goes a long way!</value>
+</data>
+<data name="IngameHelp_FlashlightTip_Detail2" xml:space="preserve">
+<value>*Tip:* Remember, your flashlight consumes power from your suit.</value>
+</data>
+<data name="IngameHelp_Flashlight_Detail1" xml:space="preserve">
+<value>Use your flashlight when entering dark areas.</value>
+</data>
+<data name="IngameHelp_Flashlight_Detail2" xml:space="preserve">
+<value>Press {CONTROL:HEADLIGHTS} to toggle your flashlight off and on.</value>
+</data>
+<data name="IngameHelp_Flashlight_Title" xml:space="preserve">
+<value>Good.bot: Flashlight</value>
+</data>
 <data name="IngameHelp_Ingots_Detail1" xml:space="preserve">
 <value>Ingots can be used by a survival kit or assembler to produce components, tools and weapons. You can select what component to produce in the assembler's or survival kit's menu.</value>
 </data>
@@ -17463,6 +16712,27 @@
 </data>
 <data name="IngameHelp_Ingots_Title" xml:space="preserve">
 <value>Good.bot: Ingots</value>
+</data>
+<data name="IngameHelp_InteractiveTip_Detail1" xml:space="preserve">
+<value>These skills will serve you well!</value>
+</data>
+<data name="IngameHelp_InteractiveTip_Detail2" xml:space="preserve">
+<value>*Tip:* Build control panels to easily access ship menus.</value>
+</data>
+<data name="IngameHelp_Interactive_Detail1" xml:space="preserve">
+<value>Many blocks like doors, button panels, consoles, medical rooms, inventories and cockpits support various different actions.</value>
+</data>
+<data name="IngameHelp_Interactive_Detail2" xml:space="preserve">
+<value>Press {CONTROL:USE} to activate a highlighted block.</value>
+</data>
+<data name="IngameHelp_Interactive_Detail3" xml:space="preserve">
+<value>Press {CONTROL:TERMINAL} to go to menu of highlighted block.</value>
+</data>
+<data name="IngameHelp_Interactive_Detail4" xml:space="preserve">
+<value>Press {CONTROL:INVENTORY} to open inventory of highlighted block.</value>
+</data>
+<data name="IngameHelp_Interactive_Title" xml:space="preserve">
+<value>Good.bot: Interactive objects</value>
 </data>
 <data name="IngameHelp_PowerTip_Detail1" xml:space="preserve">
 <value>Simple enough, is it not?!</value>
@@ -18154,6 +17424,12 @@
 <data name="ChatBot_Substitute3_D" xml:space="preserve">
 <value>strawberry dumplings</value>
 </data>
+<data name="IngameHelp_BuildingTip2_Detail1" xml:space="preserve">
+<value>Are you sure you have not done this before?</value>
+</data>
+<data name="IngameHelp_BuildingTip2_Detail2" xml:space="preserve">
+<value>*Tip:* Always make sure you keep a few components with you.</value>
+</data>
 <data name="IngameHelp_FlyingAShipLGTip_Detail1" xml:space="preserve">
 <value>One Engineer told me that flying a ship is as easy as riding a bike!</value>
 </data>
@@ -18298,6 +17574,9 @@
 <data name="IngameHelp_Battery2_Detail1" xml:space="preserve">
 <value>You can find ores by looking for dark or bright spots on the ground. Equip your drill to scan for nearby ores or build scouting vehicles with ore detectors to move large amounts of ore to your base.</value>
 </data>
+<data name="IngameHelp_Battery_Detail1" xml:space="preserve">
+<value>Your base is shaping up!Now that you have a battery you can start expanding your base even more. Try to find ores to increase your production significantly.</value>
+</data>
 <data name="IngameHelp_Temperature_Detail1" xml:space="preserve">
 <value>Temperature affects how quickly your suit energy drains. Hot or cold temperatures will hurt you when your suit is out of power. Tip: Pressurized environments will always maintain optimal temperatures.</value>
 </data>
@@ -18337,6 +17616,9 @@
 <data name="BlockPropertiesText_ConnectorDetail_Part2" xml:space="preserve">
 <value> ago Disconnect after: </value>
 </data>
+<data name="DatapadEditScreen_ContentUsage" xml:space="preserve">
+<value>Bytes used: {0}/{1}</value>
+</data>
 <data name="TradeScreenOtherOffer" xml:space="preserve">
 <value>Player's Offer</value>
 </data>
@@ -18345,6 +17627,48 @@
 </data>
 <data name="Beacon_SafeZone_Info_NextUnkeepIn" xml:space="preserve">
 <value>Next Upkeep in: </value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool" xml:space="preserve">
+<value>Replay Tool</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_ReloadWorld" xml:space="preserve">
+<value>Reload World</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_ReloadWorld_Tooltip" xml:space="preserve">
+<value>Reloads the world.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_ReloadWorldClient_Tooltip" xml:space="preserve">
+<value>You cannot reload the world if you are not the host.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_ManageCharacters" xml:space="preserve">
+<value>Manage Characters</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_AddCharacter" xml:space="preserve">
+<value>Add Character</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_AddCharacter_Tooltip" xml:space="preserve">
+<value>Adds a new controllable character to the world.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_RemoveCharacter" xml:space="preserve">
+<value>Remove Character</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_RemoveCharacter_Tooltip" xml:space="preserve">
+<value>Removes the currently active character from the world.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_ManageRecordings" xml:space="preserve">
+<value>Manage Recordings</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_DeleteRecordings" xml:space="preserve">
+<value>Delete Recordings</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_DeleteRecordings_Tooltip" xml:space="preserve">
+<value>Deletes all current recordings.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_DeleteRecordings_Confirm" xml:space="preserve">
+<value>Please confirm you wish to delete the stored recordings.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_Replay" xml:space="preserve">
+<value>Replay</value>
 </data>
 <data name="ScreenDebugAdminMenu_ReplayTool_Replay_Tooltip" xml:space="preserve">
 <value>Starts playing back all stored data.</value>
@@ -18355,8 +17679,14 @@
 <data name="ScreenDebugAdminMenu_ReplayTool_RecordAndReplay_Tooltip" xml:space="preserve">
 <value>Starts replay of stored data, as well as begins recording data for the current selected character.</value>
 </data>
+<data name="ScreenDebugAdminMenu_ReplayTool_StopRecording" xml:space="preserve">
+<value>Stop Recording</value>
+</data>
 <data name="ScreenDebugAdminMenu_ReplayTool_StopRecording_Tooltip" xml:space="preserve">
 <value>Stops recording for the currently selected character.</value>
+</data>
+<data name="ScreenDebugAdminMenu_ReplayTool_StopReplay" xml:space="preserve">
+<value>Stop Replay</value>
 </data>
 <data name="ScreenDebugAdminMenu_ReplayTool_StopReplay_Tooltip" xml:space="preserve">
 <value>Stops playback of recorded data.</value>
@@ -18393,6 +17723,15 @@
 </data>
 <data name="ScreenDebugAdminMenu_ReplayTool_Tutorial" xml:space="preserve">
 <value>How to use the Replay Tool:1. Add as many characters as you need, then position them how you want them and save the world. 2. Switch to the character you wish to control using F6.3. Click 'Record + Replay', and move the character as you wish.4. Press escape to stop recording.5. Reload the world, do not save!.6. Repeat from step 2.If you wish to clear the recorded data, press Delete Recordings to start over.If you wish to observe the recorded data, press 'Replay' and watch as the game replays the data.If you wish to store the recorded data, reload the world, then save the game. Then, it will carry over to other sessions.</value>
+</data>
+<data name="DisplayName_DLC_PreorderPack" xml:space="preserve">
+<value>Pre-order Pack</value>
+</data>
+<data name="DisplayName_DLC_DeluxeEdition" xml:space="preserve">
+<value>Deluxe Edition</value>
+</data>
+<data name="DisplayName_DLC_StylePack" xml:space="preserve">
+<value>Style Pack</value>
 </data>
 <data name="SimpleNewGame_Frostbite_Description" xml:space="preserve">
 <value>You are a member of a salvage crew, which has been tasked by a mysterious client to acquire something extremely valuable (yet unknown) on Triton. Play solo or with up to four players; explore this moon’s frigid landscape and remarkable architecture, and overcome numerous engineering challenges as you uncover this world’s secrets.</value>
@@ -18643,6 +17982,63 @@
 <data name="RadialMenuGroupTitle_DecoPack2" xml:space="preserve">
 <value>Deecortive Pack 2</value>
 </data>
+<data name="ControlMenuItemLabel_AlienGreenGrass" xml:space="preserve">
+<value>Alien grass green</value>
+</data>
+<data name="ControlMenuItemLabel_AlienGreenGrassBare" xml:space="preserve">
+<value>Alien grass green bare</value>
+</data>
+<data name="ControlMenuItemLabel_AlienIce" xml:space="preserve">
+<value>Alien ice</value>
+</data>
+<data name="ControlMenuItemLabel_AlienIce_03" xml:space="preserve">
+<value>Alien ice 03</value>
+</data>
+<data name="ControlMenuItemLabel_AlienOrangeGrass" xml:space="preserve">
+<value>Alien grass orange</value>
+</data>
+<data name="ControlMenuItemLabel_AlienOrangeGrassBare" xml:space="preserve">
+<value>Alien grass orange bare</value>
+</data>
+<data name="ControlMenuItemLabel_AlienRockGrass" xml:space="preserve">
+<value>Alien grass rock</value>
+</data>
+<data name="ControlMenuItemLabel_AlienRockGrassBare" xml:space="preserve">
+<value>Alient grass rock bare</value>
+</data>
+<data name="ControlMenuItemLabel_AlienRockyMountain" xml:space="preserve">
+<value>Alien rocky mountain</value>
+</data>
+<data name="ControlMenuItemLabel_AlienRockyTerrain" xml:space="preserve">
+<value>Alien rocky terrain</value>
+</data>
+<data name="ControlMenuItemLabel_DebugMaterial" xml:space="preserve">
+<value>Debug material</value>
+</data>
+<data name="ControlMenuItemLabel_Soil" xml:space="preserve">
+<value>Soil</value>
+</data>
+<data name="ControlMenuItemLabel_Stone" xml:space="preserve">
+<value>Stone</value>
+</data>
+<data name="ControlMenuItemLabel_Stone01" xml:space="preserve">
+<value>Stone 01</value>
+</data>
+<data name="ControlMenuItemLabel_Stone02" xml:space="preserve">
+<value>Stone 02</value>
+</data>
+<data name="ControlMenuItemLabel_Stone03" xml:space="preserve">
+<value>Stone 03</value>
+</data>
+<data name="ControlMenuItemLabel_Stone04" xml:space="preserve">
+<value>Stone 04</value>
+</data>
+<data name="ControlMenuItemLabel_Stone05" xml:space="preserve">
+<value>Stone 05</value>
+</data>
+<data name="ControlMenuItemLabel_Uraninite_01" xml:space="preserve">
+<value>Uraninite 01</value>
+</data>
 <data name="ControlMenuItemLabel_VoxelBrushAutoLevel" xml:space="preserve">
 <value>Select Terrain Auto-Level</value>
 </data>
@@ -18657,6 +18053,18 @@
 </data>
 <data name="ControlMenuItemLabel_VoxelBrushSphere" xml:space="preserve">
 <value>Select Sphere</value>
+</data>
+<data name="ControlMenuItemLabel_WoodsGrass" xml:space="preserve">
+<value>Woods grass</value>
+</data>
+<data name="ControlMenuItemLabel_WoodsGrassBare" xml:space="preserve">
+<value>Woods grass bare</value>
+</data>
+<data name="RadialMenuGroupTitle_VoxelAlien" xml:space="preserve">
+<value>Alien</value>
+</data>
+<data name="RadialMenuGroupTitle_VoxelAlienGrass" xml:space="preserve">
+<value>Alien grass</value>
 </data>
 <data name="RadialMenuGroupTitle_VoxelDebug" xml:space="preserve">
 <value>Debug</value>
@@ -18837,6 +18245,9 @@
 </data>
 <data name="Description_SafeZone" xml:space="preserve">
 <value>Projects safe zone around itself. Safe zone can be used to protect your assets</value>
+</data>
+<data name="NotificationHintPressToOpenStore" xml:space="preserve">
+<value>Press {0} to open store</value>
 </data>
 <data name="Description_ContractBlock" xml:space="preserve">
 <value>Block for contract management</value>
@@ -19356,6 +18767,9 @@
 </data>
 <data name="Economy_CantRemoveStation_Text" xml:space="preserve">
 <value>Economy stations are handled by Economy system. You may not remove them.</value>
+</data>
+<data name="ScreenAdmin_Safezone_TextureColorLabel" xml:space="preserve">
+<value>Texture and Color:</value>
 </data>
 <data name="StoreBlockView_OfferItem" xml:space="preserve">
 <value>Offer</value>
@@ -20314,6 +19728,9 @@
 <data name="DisplayName_Block_SciFiWall" xml:space="preserve">
 <value>Sci-Fi Interior Wall</value>
 </data>
+<data name="Description_NeonTubes" xml:space="preserve">
+<value>Neon Tubes are decorative blocks that can be built in all colors. </value>
+</data>
 <data name="ScreenModIoConsent_AgreeHelpText" xml:space="preserve">
 <value>{CONTROL:GUI:BUTTON_X} I Agree</value>
 </data>
@@ -20548,11 +19965,29 @@
 <data name="RadialMenuGroupTitle_Decoration3" xml:space="preserve">
 <value>Decoration #3</value>
 </data>
+<data name="ScreenDebugAdminMenu_CameraSmoothness" xml:space="preserve">
+<value>Camera Smoothness</value>
+</data>
+<data name="ScreenDebugAdminMenu_Follow" xml:space="preserve">
+<value>Follow</value>
+</data>
+<data name="ScreenDebugAdminMenu_Free" xml:space="preserve">
+<value>Free</value>
+</data>
+<data name="ScreenDebugAdminMenu_Orbit" xml:space="preserve">
+<value>Orbit</value>
+</data>
 <data name="ScreenSpectatorAdminMenu_Load" xml:space="preserve">
 <value>Num "number" - load camera position</value>
 </data>
 <data name="ScreenSpectatorAdminMenu_Save" xml:space="preserve">
 <value>Ctrl + Num "number" - save camera position</value>
+</data>
+<data name="ScreenSpectatorAdminMenu_SavedPositions" xml:space="preserve">
+<value>Saved Positions</value>
+</data>
+<data name="ScreenSpectatorAdminMenu_Shortcuts" xml:space="preserve">
+<value>Shortcuts</value>
 </data>
 <data name="ScreenDebugAdminMenu_Empty" xml:space="preserve">
 <value>&lt;Empty&gt;</value>
@@ -20569,6 +20004,9 @@
 <data name="Description_RoverCockpit" xml:space="preserve">
 <value>The Rover Cockpit is a compact cockpit designed for rovers but works just as well for small ships or large small grid interiors. </value>
 </data>
+<data name="ScreenDebugAdminMenu_ReplayTool_ChangeCharacter_Tooltip" xml:space="preserve">
+<value>Changes the currently active character.</value>
+</data>
 <data name="Description_OffsetLight" xml:space="preserve">
 <value>The Offset Light and Offset Spotlight function the same as regular lights and can be used to illuminate dark areas.</value>
 </data>
@@ -20580,6 +20018,21 @@
 </data>
 <data name="Description_BarredWindow" xml:space="preserve">
 <value>Barred windows have the same integrity as glass windows but are not air tight. Great for keeping big spiders outside.</value>
+</data>
+<data name="DisplayName_Block_BarredWindow" xml:space="preserve">
+<value>Barred Window</value>
+</data>
+<data name="DisplayName_Block_BarredWindowFace" xml:space="preserve">
+<value>Barred Window Face</value>
+</data>
+<data name="DisplayName_Block_BarredWindowSide" xml:space="preserve">
+<value>Barred Window Side</value>
+</data>
+<data name="DisplayName_Block_BarredWindowSlope" xml:space="preserve">
+<value>Barred Window Slope</value>
+</data>
+<data name="DisplayName_BlockGroup_BarredWindows" xml:space="preserve">
+<value>Barred Windows</value>
 </data>
 <data name="Description_StorageShelf" xml:space="preserve">
 <value>Storage Shelves can be used to store components and make your hangar or garage look messy and productive.</value>
@@ -20836,6 +20289,9 @@
 <data name="CustomWorld_PetramOrbiter" xml:space="preserve">
 <value>Pertam Orbiter</value>
 </data>
+<data name="ScreenDebugAdminMenu_Spectator" xml:space="preserve">
+<value>Spectator Tool</value>
+</data>
 <data name="PCU" xml:space="preserve">
 <value>PCU</value>
 </data>
@@ -20866,6 +20322,15 @@
 <data name="Item_Welder_Extra_Tooltip" xml:space="preserve">
 <value>Longer reach and faster welding</value>
 </data>
+<data name="DisplayName_BlockGroup_BridgeWindowsGroup" xml:space="preserve">
+<value>Bridge Windows</value>
+</data>
+<data name="DisplayName_Block_BridgeWindow1x1Face" xml:space="preserve">
+<value>Bridge Window Face</value>
+</data>
+<data name="DisplayName_Block_BridgeWindow1x1Slope" xml:space="preserve">
+<value>Bridge Window Slope</value>
+</data>
 <data name="DisplayName_Block_PassengerSeatOld" xml:space="preserve">
 <value>Passenger Seat Old</value>
 </data>
@@ -20878,11 +20343,23 @@
 <data name="TSS_TargetingInfo" xml:space="preserve">
 <value>Targeting Info</value>
 </data>
+<data name="NotificationHintLockTarget" xml:space="preserve">
+<value>{0} to lock target</value>
+</data>
+<data name="NotificationHintUnlockTarget" xml:space="preserve">
+<value>{0} to unlock target</value>
+</data>
 <data name="BlockActionTooltip_LargeTurretFocusLockedTarget" xml:space="preserve">
 <value>Prioritize locked target while target lock is maintained</value>
 </data>
 <data name="Notification_TargetOutOfRange" xml:space="preserve">
 <value>{0} Turret(s) have insufficient range</value>
+</data>
+<data name="BlockActionTitle_LargeTurretCopyTarget" xml:space="preserve">
+<value>Copy target</value>
+</data>
+<data name="BlockActionTooltip_LargeTurretCopyTarget" xml:space="preserve">
+<value>Make turret lock to your target.</value>
 </data>
 <data name="Description_Autocannon" xml:space="preserve">
 <value>Medium rate of fire, with a good punch. Uses Autocannon Magazines.Maximum range: 800 m</value>
@@ -21028,6 +20505,12 @@
 <data name="DisplayName_Block_HalfCoverWallMirror" xml:space="preserve">
 <value>Half Cover Wall Mirrored</value>
 </data>
+<data name="DisplayName_Block_AdvancedRotor3x3" xml:space="preserve">
+<value>Advanced Rotor 3x3</value>
+</data>
+<data name="DisplayName_Block_AdvancedRotorPart3x3" xml:space="preserve">
+<value>Advanced Rotor Part 3x3</value>
+</data>
 <data name="Description_EngineerPlushie" xml:space="preserve">
 <value>An advanced motivational device of pristine quality.Can not be crafted or disassembled.</value>
 </data>
@@ -21039,6 +20522,9 @@
 </data>
 <data name="ScreenVictory_Draw" xml:space="preserve">
 <value>Draw</value>
+</data>
+<data name="DisplayName_Block_BridgeWindow1x1FaceInverted" xml:space="preserve">
+<value>Bridge Window Face Inv.</value>
 </data>
 <data name="RadialMenuGroupTitle_Decoration5" xml:space="preserve">
 <value>Decoration #5</value>
@@ -21457,11 +20943,80 @@
 <data name="FlightBlock_StatusMessage_NoTaskBlock" xml:space="preserve">
 <value>[Color=#FFFF0000]ERROR: No movement input. Please add/activate a Task and/or Combat block![/Color]</value>
 </data>
+<data name="AIBlocks_HudMessage_Error" xml:space="preserve">
+<value>ERROR</value>
+</data>
+<data name="Terminal_ShowAiWaypointOnHud" xml:space="preserve">
+<value> - Waypoint</value>
+</data>
+<data name="FlightBlock_StatusMessage_Idle" xml:space="preserve">
+<value>Status: Idle</value>
+</data>
+<data name="FlightBlock_StatusMessage_MaintainingMinimalHeight" xml:space="preserve">
+<value>Status: Maintaining minimal altitude: {0}</value>
+</data>
+<data name="CombatBlock_StatusMessage_Searching" xml:space="preserve">
+<value>Status: Searching for enemies... {0}</value>
+</data>
+<data name="CombatBlock_StatusMessage_TargetLocking" xml:space="preserve">
+<value>Status: Target locking {0}. {1} remaining.</value>
+</data>
+<data name="OffensiveCombatBlock_StatusMessage_TargetLocked" xml:space="preserve">
+<value>Status: Target locked {0}</value>
+</data>
+<data name="DefensiveCombatBlock_StatusMessage_Fleeing" xml:space="preserve">
+<value>Status: Fleeing from {0}</value>
+</data>
+<data name="FlightBlock_StatusMessage_Fleeing" xml:space="preserve">
+<value>Status: Fleeing from {0}</value>
+</data>
+<data name="OffensiveCombatBlock_StatusMessage_Attacking" xml:space="preserve">
+<value>Status: Attacking {0}</value>
+</data>
 <data name="FollowHome_StatusMessage_Wandering" xml:space="preserve">
 <value>Status: Wandering around {0}</value>
 </data>
+<data name="FlightBlock_HitRun_StatusMessage_Retreating" xml:space="preserve">
+<value>Status: Retreating from {0}</value>
+</data>
 <data name="FlightBlock_PathRecorder_StatusMessage_MovingToWaypoint" xml:space="preserve">
 <value>Status: Moving to Recorder waypoint {0}</value>
+</data>
+<data name="FlightBlock_HitRun_StatusMessage_Attacking" xml:space="preserve">
+<value>Status: Attacking {0}</value>
+</data>
+<data name="FlightBlock_StayAtRange_StatusMessage_Keeping" xml:space="preserve">
+<value>Status: Stay at range from {0}</value>
+</data>
+<data name="FlightBlock_Circle_StatusMessage_Circling" xml:space="preserve">
+<value>Status: Circling {0}</value>
+</data>
+<data name="FlightBlock_Intercept_StatusMessage_Intercepting" xml:space="preserve">
+<value>Status: Intercepting {0}</value>
+</data>
+<data name="PathRecorderComponent_StatusMessage_Idle" xml:space="preserve">
+<value>Status: Idle</value>
+</data>
+<data name="PathRecorderComponent_StatusMessage_Recording" xml:space="preserve">
+<value>Status: Recording</value>
+</data>
+<data name="FlightMovementBlock_NoGyro" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: Grid cannot rotate, please add a gyroscope![/Color]</value>
+</data>
+<data name="FlightMovementBlock_NoThrustInAllDirections" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: Grid cannot move in one or more directions, please ensure a thruster is available for each direction![/Color]</value>
+</data>
+<data name="EventControllerBlock_Condition_Tooltip" xml:space="preserve">
+<value>Sets under what condition the actions trigger.</value>
+</data>
+<data name="StoreBuy_Error_Caption_StoreNotOwnedByFaction" xml:space="preserve">
+<value>Transaction Failed</value>
+</data>
+<data name="StoreSell_Error_Caption_NoFaction" xml:space="preserve">
+<value>Transaction Failed</value>
+</data>
+<data name="StoreSell_Error_Text_NoFaction" xml:space="preserve">
+<value>Store not owned by faction.</value>
 </data>
 <data name="ActiveContractsScreen_Help_Abandon" xml:space="preserve">
 <value>{CONTROL:GUI:BUTTON_A} Abandon</value>
@@ -21469,11 +21024,47 @@
 <data name="Plural_Seconds" xml:space="preserve">
 <value>seconds</value>
 </data>
+<data name="FollowHome_HomeNotSet" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: Home not set, please select a home position![/Color]</value>
+</data>
+<data name="FollowPlayer_Following" xml:space="preserve">
+<value>Status: Following {0}.</value>
+</data>
+<data name="Autopilot_MovingToGPS" xml:space="preserve">
+<value>Status: Moving to GPS {0}.</value>
+</data>
+<data name="Description_AccesPanel" xml:space="preserve">
+<value>Access Panels allow access for emergency or maintenance and make flat surfaces look more detailed.</value>
+</data>
+<data name="DefensiveCombatBlock_LockTarget" xml:space="preserve">
+<value>Lock Target</value>
+</data>
+<data name="DefensiveCombatBlock_LockTarget_Tooltip" xml:space="preserve">
+<value>Target lock grids that meet the above conditions</value>
+</data>
+<data name="OffensiveCombatBlock_Status_Nominal" xml:space="preserve">
+<value>NOMINAL: {0} used as aiming reference</value>
+</data>
+<data name="OffensiveCombatBlock_Status_ErrorNotFacingForward" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: {0} not facing in the forwards direction, this weapon will not be used![/Color]</value>
+</data>
+<data name="OffensiveCombatBlock_Status_WarningMultipleAmmo" xml:space="preserve">
+<value>[Color=#FFFFBB00]WARNING: Multiple ammo types detected, accuracy may be reduced[/Color]</value>
+</data>
+<data name="OffensiveCombatBlock_FacingPriority_Title" xml:space="preserve">
+<value>Facing Priority</value>
+</data>
 <data name="Description_EmotionController" xml:space="preserve">
 <value>The Emotion Controller displays emoticons and can copy those to other assigned LCD panels and screens. </value>
 </data>
+<data name="Autopilot_Collision_Avoidance_Error" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: Destination cannot be reached. Collision avoidance prevents this grid from moving inside the bounding box of a static grid. Move this grid and/or the destination outside any static grid’s bounding box or disable collision avoidance.[/Color]</value>
+</data>
 <data name="PathRecorderComponent_StatusMessage_BlockDisabled" xml:space="preserve">
 <value>Status: Block disabled</value>
+</data>
+<data name="DefensiveCombatBlock_HitAndRun_CustomWaypoint" xml:space="preserve">
+<value>Custom Waypoint</value>
 </data>
 <data name="FlightMovementBlock_MaxPitchAngle_Tooltip" xml:space="preserve">
 <value>When moving to a waypoint in P-Gravity, the grid may pitch up or down by this angle</value>
@@ -21481,23 +21072,125 @@
 <data name="FlightMovementBlock_MaxRollAngle" xml:space="preserve">
 <value>Max Roll Angle</value>
 </data>
+<data name="FlightMovementBlock_MaxRollAngle_Tooltip" xml:space="preserve">
+<value>When moving to a waypoint in P-Gravity, the grid may roll left or right by this angle</value>
+</data>
+<data name="OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft" xml:space="preserve">
+<value>Status: Target locking {0}. {1}s remaining.</value>
+</data>
+<data name="OffensiveDefensiveCombatBlock_TargetLocked" xml:space="preserve">
+<value>Status: Target locked {0}</value>
+</data>
+<data name="OffensiveCombatBlock_CharacterLocked" xml:space="preserve">
+<value>Attacking {0}</value>
+</data>
+<data name="DefensiveCombatBlock_CharacterLocked" xml:space="preserve">
+<value>Status: Defending against {0}</value>
+</data>
+<data name="OffensiveDefensiveCombatBlock_CanTargetCharacters" xml:space="preserve">
+<value>Target Characters</value>
+</data>
 <data name="OffensiveCombatBlock_FacingMode" xml:space="preserve">
 <value>Facing mode</value>
 </data>
 <data name="OffensiveCombatBlock_FacingMode_Tooltip" xml:space="preserve">
 <value>Use static weapons or manually set what side(s) should face the enemy</value>
 </data>
+<data name="DefensiveCombatBlock_SavedGps" xml:space="preserve">
+<value>(Saved) </value>
+</data>
+<data name="BasicMissionBlock_SavedGps" xml:space="preserve">
+<value>(Saved) </value>
+</data>
+<data name="Assembler_ItemsInQueue" xml:space="preserve">
+<value>Items in queue: {0}/{1}</value>
+</data>
+<data name="EventState_Merged" xml:space="preserve">
+<value>Merged</value>
+</data>
+<data name="EventState_NotMerged" xml:space="preserve">
+<value>Not Merged</value>
+</data>
 <data name="EventState_EventThrustPercentage" xml:space="preserve">
 <value>Tah: </value>
 </data>
+<data name="CombatBlock_OffensivePatternsTooltip" xml:space="preserve">
+<value>Determines how the grid will attack the enemy.Circle/Orbit - The grid will try to circle or orbit the enemy at a customizable distance.Stay at Range - The grid will try to keep the enemy between a customizable min/max distance.Hit and Run - The grid will continuously make an attack run on the target, and break off to retreat when it gets close.Intercept - The grid will attempt to intercept the enemy and ram it.</value>
+</data>
+<data name="Description_SabiroidPlushie" xml:space="preserve">
+<value>An advanced motivational device of pristine quality.Can not be crafted or disassembled.</value>
+</data>
+<data name="Department_XboxPort" xml:space="preserve">
+<value>Xbox Port</value>
+</data>
+<data name="Department_PlaystationPort" xml:space="preserve">
+<value>PlayStation®4 and PlayStation®5 Port</value>
+</data>
+<data name="WelcomeScreen_Text3_console" xml:space="preserve">
+<value>If you experience any issues, please do not hesitate to visit the support site or our Discord server where there are developers and many experienced players available to assist you!Good luck engineering your dreams!</value>
+</data>
 <data name="PlayersScreen_Help_PlayersList_ProfileDisabled" xml:space="preserve">
 <value>{CONTROL:GUI:BUTTON_X} Trade   {CONTROL:GUI:BUTTON_Y} Toggle mute</value>
+</data>
+<data name="ScreenModIoConsent_ConsentTextPart2_ps" xml:space="preserve">
+<value> •   Sign-in ID•   Display name•   Avatar</value>
+</data>
+<data name="EnableCrossplay" xml:space="preserve">
+<value>Enable Crossplay</value>
+</data>
+<data name="ToolTipOptionsGame_Crossplay" xml:space="preserve">
+<value>Allows games not created on PlayStation®4 console and PlayStation®5 console</value>
+</data>
+<data name="Crossplay_Disabled_Warning" xml:space="preserve">
+<value>Crossplay servers are disabled. Go to the Game Options menu to enable.</value>
+</data>
+<data name="WorldSettings_Error_MustSignIn" xml:space="preserve">
+<value>To be able to change online mode you need to sign-in</value>
+</data>
+<data name="DedicatedServer_Join_CrossPlayError" xml:space="preserve">
+<value>To be able to join a dedicated server you need to enable crossplay in Game Options</value>
 </data>
 <data name="Bitmap1" xml:space="preserve">
 <value>[base64 mime encoded serialized .NET Framework object]</value>
 </data>
 <data name="Icon1" xml:space="preserve">
 <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+</data>
+<data name="Medical_EnableAutorespawn_Tooltip" xml:space="preserve">
+<value>This is not the nearest medical room. The "Autorespawn" world setting prevents you from spawning here.</value>
+</data>
+<data name="BlockPropertyDescription_PowerDependency" xml:space="preserve">
+<value>Determines how much of the glow effect is dependent on power consumption percentage of the grid.</value>
+</data>
+<data name="DefensiveCombatBlock_StatusMessage_ReadyToFlee" xml:space="preserve">
+<value>Status: Defending against {0}</value>
+</data>
+<data name="DisplayName_Screen_Center" xml:space="preserve">
+<value>Center Screen</value>
+</data>
+<data name="BlueprintshareTimeOutText" xml:space="preserve">
+<value>You cannot share blueprints so fast</value>
+</data>
+<data name="BlueprintshareTimeOut" xml:space="preserve">
+<value>Blueprint-share TimeOut</value>
+</data>
+<data name="Blueprintshare_Label" xml:space="preserve">
+<value>Blueprint share</value>
+</data>
+<data name="Blueprintshare_Tooltip" xml:space="preserve">
+<value>Enables/Disables recieving of blueprints</value>
+</data>
+<data name="DefensiveCombatBlock_FleeDistance_Title" xml:space="preserve">
+<value>Flee distance</value>
+</data>
+<data name="DefensiveCombatBlock_FleeDistance_Tooltip" xml:space="preserve">
+<value>Flee up to this distance from the last known location of the threat.</value>
+</data>
+<data name="DefensiveCombatBlock_EvasiveManeuvers_Title" xml:space="preserve">
+<value>Evasive Maneuvers</value>
+</data>
+<data name="DefensiveCombatBlock_EvasiveManeuvers_Tooltip" xml:space="preserve">
+<value>The AI will take evasive maneuvers to attempt to avoid incoming projectiles.</value>
 </data>
 <data name="DefensiveCombatBlock_RandomDeviations_Title" xml:space="preserve">
 <value>Random Deviations Angle</value>
@@ -21517,6 +21210,18 @@
 <data name="DefensiveCombatBlock_FleeMode_Tooltip" xml:space="preserve">
 <value>Determines where the grid will flee to.Away from target - The grid will flee into the opposite direction of a threat.To GPS / Beacon - The grid will flee towards a selected GPS or Beacon</value>
 </data>
+<data name="DefensiveCombatBlock_FleeMode_AwayFromTarget" xml:space="preserve">
+<value>Away from target</value>
+</data>
+<data name="DefensiveCombatBlock_FleeMode_ToGPSOrBeacon" xml:space="preserve">
+<value>To GPS / Beacon</value>
+</data>
+<data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
+<value>Twin-blade Wind Turbine</value>
+</data>
+<data name="DisplayName_Block_MedicalRoomReskin" xml:space="preserve">
+<value>Corner Medical Room</value>
+</data>
 <data name="DisplayName_DefensiveBasicMission_SavedBeacon" xml:space="preserve">
 <value>(Saved Beacon)</value>
 </data>
@@ -21529,101 +21234,11 @@
 <data name="DisplayName_DLC_Major203DLC" xml:space="preserve">
 <value>Decorative Blocks 3</value>
 </data>
-<data name="BlockComboBoxValue_TextPanelAccessReadWriteAll" xml:space="preserve">
-<value>Everyone read/write</value>
+<data name="Description_DLC_Major203DLC" xml:space="preserve">
+<value>Decorative Blocks 3</value>
 </data>
-<data name="Description_LargeFlareLauncher" xml:space="preserve">
-<value>A launcher for signalling or putting up a spectacle.</value>
+<data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
+<value>Warning: One or more selected weapons are not facing the forwards direction and are not used.</value>
 </data>
-<data name="DisplayName_Block_FlareLauncher" xml:space="preserve">
-<value>Firework Launcher</value>
-</data>
-<data name="DisplayName_Item_FlareClip" xml:space="preserve">
-<value>Flare Gun Clip</value>
-</data>
-<data name="DisplayName_Item_FlareGun" xml:space="preserve">
-<value>Flare Gun</value>
-</data>
-<data name="DisplayName_Block_StatueEngineer" xml:space="preserve">
-<value>Anniversary Statue</value>
-</data>
-<data name="Description_StatueEngineer" xml:space="preserve">
-<value>A statue to celebrate the 10th anniversary of Space Engineers.</value>
-</data>
-<data name="Description_DLC_Anniversary" xml:space="preserve">
-<value>Anniversary</value>
-</data>
-<data name="DisplayName_DLC_Anniversary" xml:space="preserve">
-<value>Anniversary</value>
-</data>
-<data name="Description_FlareGun" xml:space="preserve">
-<value>Flare Guns can be used to signal your position to others or to temporarily illuminate your surroundings.</value>
-</data>
-<data name="DisplayName_Item_FireworksBoxBlue" xml:space="preserve">
-<value>Fireworks Blue</value>
-</data>
-<data name="DisplayName_Item_FireworksBoxGreen" xml:space="preserve">
-<value>Fireworks Green</value>
-</data>
-<data name="DisplayName_Item_FireworksBoxPink" xml:space="preserve">
-<value>Fireworks Pink</value>
-</data>
-<data name="DisplayName_Item_FireworksBoxRainbow" xml:space="preserve">
-<value>Fireworks Rainbow</value>
-</data>
-<data name="DisplayName_Item_FireworksBoxRed" xml:space="preserve">
-<value>Fireworks Red</value>
-</data>
-<data name="DisplayName_Item_FireworksBoxYellow" xml:space="preserve">
-<value>Fireworks Yellow</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_01" xml:space="preserve">
-<value>Aye</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_02" xml:space="preserve">
-<value>Clang The Conqueror</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_03" xml:space="preserve">
-<value>ClangDrive</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_04" xml:space="preserve">
-<value>Memory</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_05" xml:space="preserve">
-<value>New Order</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_06" xml:space="preserve">
-<value>Outnumbered</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_07" xml:space="preserve">
-<value>Oxygen</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_08" xml:space="preserve">
-<value>Quasar</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_09" xml:space="preserve">
-<value>SE MT Remix</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_10" xml:space="preserve">
-<value>Space Funk</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_11" xml:space="preserve">
-<value>Space Guardians</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_12" xml:space="preserve">
-<value>The Day Of Battle</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_13" xml:space="preserve">
-<value>The Hunt</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_14" xml:space="preserve">
-<value>The Motherload</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_15" xml:space="preserve">
-<value>To The Moon</value>
-</data>
-<data name="SoundBlock_SoundName_MusCompetition2_16" xml:space="preserve">
-<value>Voyage To Andromeda</value>
-</data>
- 
+  
 </root>
