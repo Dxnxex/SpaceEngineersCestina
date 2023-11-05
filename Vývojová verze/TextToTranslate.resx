@@ -1374,10 +1374,6 @@ ID=ControlName_InertialDampeners
 Czech="Tlumiče"
 Translate="Tlumiče"
 
-ID=ControlPanel
-Czech="Ovládací panel"
-Translate="Ovládací panel"
-
 ID=ControlRemote
 Czech="Ovládat"
 Translate="Ovládat"
@@ -1786,10 +1782,6 @@ ID=DisplayName_Block_Beacon
 Czech="Maják"
 Translate="Maják"
 
-ID=DisplayName_Block_ButtonPanel
-Czech="Panel s tlačítky"
-Translate="Panel s tlačítky"
-
 ID=DisplayName_Block_Camera
 Czech="Kamera"
 Translate="Kamera"
@@ -1817,10 +1809,6 @@ Translate="Konektor"
 ID=DisplayName_Block_ConnectorSmall
 Czech="Vyhazovač"
 Translate="Vyhazovač"
-
-ID=DisplayName_Block_ControlPanel
-Czech="Kontrolní panel"
-Translate="Kontrolní panel"
 
 ID=DisplayName_Block_Conveyor
 Czech="Dopravník - Spojka"
@@ -2123,12 +2111,12 @@ Czech="Těžký pancíř - Roh - 2x1x1 - Hladký"
 Translate="Těžký pancíř - Roh - 2x1x1 - Hladký                    "
 
 ID=DisplayName_Block_HeavyArmorCorner2Tip
-Czech="Těžký pancíř - Roh - 2x1x1 - Špička"
-Translate="Těžký pancíř - Roh - 2x1x1 - Špička                    "
+Czech="Těžký pancíř - Roh - 2x1x1 - Špice"
+Translate="Těžký pancíř - Roh - 2x1x1 - Špice                     "
 
 ID=DisplayName_Block_HeavyArmorCorner2TipSmooth
-Czech="Těžký pancíř - Roh - 2x1x1 - Špička - Hladký"
-Translate="Těžký pancíř - Roh - 2x1x1 - Špička - Hladký           "
+Czech="Těžký pancíř - Roh - 2x1x1 - Špice - Hladký"
+Translate="Těžký pancíř - Roh - 2x1x1 - Špice - Hladký            "
 
 ID=DisplayName_Block_HeavyArmorInvCorner
 Czech="Těžký pancíř - Obrácený - Roh"
@@ -2151,12 +2139,12 @@ Czech="Těžký pancíř - Obrácený - Roh - 2x1x1 - Hladký"
 Translate="Těžký pancíř - Obrácený - Roh - 2x1x1 - Hladký         "
 
 ID=DisplayName_Block_HeavyArmorInvCorner2Tip
-Czech="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička"
-Translate="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička         "
+Czech="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špice"
+Translate="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špice          "
 
 ID=DisplayName_Block_HeavyArmorInvCorner2TipSmooth
-Czech="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký"
-Translate="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký"
+Czech="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špice - Hladký"
+Translate="Těžký pancíř - Obrácený - Roh - 2x1x1 - Špice - Hladký "
 
 ID=DisplayName_Block_HeavyArmorSlope
 Czech="Těžký pancíř - Úkos"
@@ -2179,12 +2167,12 @@ Czech="Těžký pancíř - Úkos - 2x1x1 - Hladký"
 Translate="Těžký pancíř - Úkos - 2x1x1 - Hladký                   "
 
 ID=DisplayName_Block_HeavyArmorSlope2Tip
-Czech="Těžký pancíř - Úkos - 2x1x1 - Špička"
-Translate="Těžký pancíř - Úkos - 2x1x1 - Špička                   "
+Czech="Těžký pancíř - Úkos - 2x1x1 - Špice"
+Translate="Těžký pancíř - Úkos - 2x1x1 - Špice                    "
 
 ID=DisplayName_Block_HeavyArmorSlope2TipSmooth
-Czech="Těžký pancíř - Úkos - 2x1x1 - Špička - Hladký"
-Translate="Těžký pancíř - Úkos - 2x1x1 - Špička - Hladký          "
+Czech="Těžký pancíř - Úkos - 2x1x1 - Špice - Hladký"
+Translate="Těžký pancíř - Úkos - 2x1x1 - Špice - Hladký           "
 
 ID=DisplayName_Block_HeavyRoundArmorCorner
 Czech="Těžký pancíř - Kulatý - Roh"
@@ -2231,12 +2219,12 @@ Czech="Těžký pancíř - Obrácený - Půlka - Úkos - Roh"
 Translate="Těžký pancíř - Obrácený - Půlka - Úkos - Roh           "
 
 ID=DisplayName_Block_LightArmorSlopedCornerTip
-Czech="Lehký pancíř - Úkos - Roh - Špička"
-Translate="Lehký pancíř - Úkos - Roh - Špička                     "
+Czech="Lehký pancíř - Úkos - Roh - Špice"
+Translate="Lehký pancíř - Úkos - Roh - Špice                      "
 
 ID=DisplayName_Block_HeavyArmorSlopedCornerTip
-Czech="Těžký pancíř - Úkos - Roh - Špička"
-Translate="Těžký pancíř - Úkos - Roh - Špička                     "
+Czech="Těžký pancíř - Úkos - Roh - Špice"
+Translate="Těžký pancíř - Úkos - Roh - Špice                      "
 
 ID=DisplayName_Block_LightArmorSlopedCornerBase
 Czech="Lehký pancíř - Úkos - Roh - Základ"
@@ -2391,12 +2379,12 @@ Czech="Lehký pancíř - Roh - 2x1x1 - Hladký"
 Translate="Lehký pancíř - Roh - 2x1x1 - Hladký                    "
 
 ID=DisplayName_Block_LightArmorCorner2Tip
-Czech="Lehký pancíř - Roh - 2x1x1 - Špička"
-Translate="Lehký pancíř - Roh - 2x1x1 - Špička                    "
+Czech="Lehký pancíř - Roh - 2x1x1 - Špice"
+Translate="Lehký pancíř - Roh - 2x1x1 - Špice                     "
 
 ID=DisplayName_Block_LightArmorCorner2TipSmooth
-Czech="Lehký pancíř - Roh - 2x1x1 - Špička - Hladký"
-Translate="Lehký pancíř - Roh - 2x1x1 - Špička - Hladký           "
+Czech="Lehký pancíř - Roh - 2x1x1 - Špice - Hladký"
+Translate="Lehký pancíř - Roh - 2x1x1 - Špice - Hladký            "
 
 ID=DisplayName_Block_LightArmorCorner3
 Czech="Lehký pancíř - Roh - 3x1x1"
@@ -2427,12 +2415,12 @@ Czech="Lehký pancíř - Obrácený - Roh - 2x1x1 - Hladký"
 Translate="Lehký pancíř - Obrácený - Roh - 2x1x1 - Hladký         "
 
 ID=DisplayName_Block_LightArmorInvCorner2Tip
-Czech="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička"
-Translate="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička         "
+Czech="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špice"
+Translate="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špice          "
 
 ID=DisplayName_Block_LightArmorInvCorner2TipSmooth
-Czech="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký"
-Translate="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špička - Hladký"
+Czech="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špice - Hladký"
+Translate="Lehký pancíř - Obrácený - Roh - 2x1x1 - Špice - Hladký "
 
 ID=DisplayName_Block_LightArmorInvCorner3
 Czech="Lehký pancíř - Obrácený - Roh - 3x1x1"
@@ -2463,12 +2451,12 @@ Czech="Lehký pancíř - Úkos - 2x1x1 - Hladký"
 Translate="Lehký pancíř - Úkos - 2x1x1 - Hladký                   "
 
 ID=DisplayName_Block_LightArmorSlope2Tip
-Czech="Lehký pancíř - Úkos - 2x1x1 - Špička"
-Translate="Lehký pancíř - Úkos - 2x1x1 - Špička                   "
+Czech="Lehký pancíř - Úkos - 2x1x1 - Špice"
+Translate="Lehký pancíř - Úkos - 2x1x1 - Špice                    "
 
 ID=DisplayName_Block_LightArmorSlope2TipSmooth
-Czech="Lehký pancíř - Úkos - 2x1x1 - Špička - Hladký"
-Translate="Lehký pancíř - Úkos - 2x1x1 - Špička - Hladký          "
+Czech="Lehký pancíř - Úkos - 2x1x1 - Špice - Hladký"
+Translate="Lehký pancíř - Úkos - 2x1x1 - Špice - Hladký           "
 
 ID=DisplayName_Block_LightArmorSlope3
 Czech="Lehký pancíř - Úkos - 3x1x1"
@@ -3592,7 +3580,7 @@ Translate="Nezacílitelný"
 
 ID=ScreenDebugAdminMenu_UntargetableToolTip
 Czech="Můžeš použít všechny terminály"
-Translate="Můžeš použít všechny terminály"
+Translate="Udělá tě neviditelným pro všechny věže"
 
 ID=ScreenDebugAdminMenu_UseTerminals
 Czech="Můžeš použít všechny terminály, ikdyž je nevlastníš."
@@ -5540,7 +5528,7 @@ Translate="Animace - Zkontrolovat zápěstí"
 
 ID=DisplayName_EmoteFYou
 Czech="Animace - Kousni mě"
-Translate="Animace - Kousni mě"
+Translate="Animace - Ty víš co mně můžeš"
 
 ID=DisplayName_EmoteDrunk
 Czech="Animace - Opilý"
@@ -6790,10 +6778,6 @@ ID=DisplayName_BlockGroup_Symbols
 Czech="Znaky"
 Translate="Znaky"
 
-ID=DisplayName_Block_SciFiTerminal
-Czech="Sci-Fi Ovládácí panel"
-Translate="Sci-Fi Ovládácí panel"
-
 ID=DisplayName_Block_Symbol0
 Czech="Číslo 0"
 Translate="Číslo 0"
@@ -6946,17 +6930,13 @@ ID=DisplayName_Block_SymbolY
 Czech="Písmeno Y"
 Translate="Písmeno Y"
 
-ID=DisplayName_Block_SymbolZ
-Czech="Písmeno Z"
+ID=DisplayName_Block_SymbolZds
 Translate="Písmeno Z"
 
 ID=DisplayName_Category_Symbols
 Czech="Znaky"
 Translate="Znaky"
 
-ID=DisplayName_Block_SciFiButtonPanel
-Czech="Sci-Fi panel se 4 tlačítky"
-Translate="Sci-Fi panel se 4 tlačítky"
 
 ID=DisplayName_Screen_Numpad1
 Czech="Klávesa 1"
@@ -6977,10 +6957,6 @@ Translate="Klávesa 4"
 ID=DisplayName_Block_NeonTubesStraightDown
 Czech="Neon - Dolů 2"
 Translate="Neon - Dolů 2"
-
-ID=DisplayName_Block_SciFiButtonTerminal
-Czech="Sci-Fi Jednotlačítkový panel"
-Translate="Sci-Fi Jednotlačítkový panel"
 
 ID=DisplayName_Block_LargeHinge
 Czech="Kloub"
@@ -7326,9 +7302,45 @@ ID=DisplayName_Block_LargeIndustrialCargoContainer
 Czech="Velký kontejner (Industrial)"
 Translate="Velký kontejner (Industrial)"
 
+ID=DisplayName_Block_ButtonPanelPedestal
+Current="Button Panel Pedestal"
+Translate="XPanel - Tlačítko - Podstavec"
+
+ID=DisplayName_Block_ControlPanelPedestal
+Current="Control Panel Pedestal"
+Translate="XPanel - Ovládací - Podstavec"
+
+ID=DisplayName_Block_InsetButtonPanel
+Current="Inset Button Panel"
+Translate="XPanel - Tlačítkový - Věstavený"
+
+ID=ControlPanel
+Czech="Ovládací panel"
+Translate="XPanel - Ovládací"
+
+ID=DisplayName_Block_ButtonPanel
+Czech="Panel s tlačítky"
+Translate="XPanel - Tlačítkový"
+
+ID=DisplayName_Block_ControlPanel
+Czech="Kontrolní panel"
+Translate="XPanel - Ovládací"
+
+ID=DisplayName_Block_SciFiTerminal
+Czech="Sci-Fi Ovládácí panel"
+Translate="XPanel - Ovládací (Sci-Fi)"
+
+ID=DisplayName_Block_SciFiButtonPanel
+Czech="Sci-Fi panel se 4 tlačítky"
+Translate="XPanel - 4 Tlačítkový (Sci-Fi)"
+
+ID=DisplayName_Block_SciFiButtonTerminal
+Czech="Sci-Fi Jednotlačítkový panel"
+Translate="XPanel - Tlačítko (Sci-Fi)"
+
 ID=DisplayName_Block_VerticalButtonPanel
 Czech="Vertikální tlačíkový panel"
-Translate="Vertikální tlačíkový panel"
+Translate="XPanel - Tlačítkový - Vertikální"
 
 ID=DisplayName_DLC_IndustrialPackDLC
 Czech="[DLC] Industrial              "
@@ -7371,8 +7383,8 @@ Czech="Nosník - 2x1 - Základ"
 Translate="Nosník - 2x1 - Základ"
 
 ID=DisplayName_Block_BeamBlockSlope2x1Tip
-Czech="Nosník - 2x1 - Špička"
-Translate="Nosník - 2x1 - Špička"
+Czech="Nosník - 2x1 - Špice"
+Translate="Nosník - 2x1 - Špice"
 
 ID=DisplayName_Block_BeamBlockTJunction
 Czech="Nosník - T-Spojka"
@@ -7651,20 +7663,20 @@ Czech="Těžký pancíř - Úkos - Přechod - Základ - Zrcadlový"
 Translate="Těžký pancíř - Úkos - Přechod - Základ - Zrcadlový     "
 
 ID=DisplayName_Block_HeavyArmorSlopeTransitionTip
-Czech="Těžký pancíř - Úkos - Přechod - Špička"
-Translate="Těžký pancíř - Úkos - Přechod - Špička                 "
+Czech="Těžký pancíř - Úkos - Přechod - Špice"
+Translate="Těžký pancíř - Úkos - Přechod - Špice                  "
 
 ID=DisplayName_Block_HeavyArmorSlopeTransitionTipMirrored
-Czech="Těžký pancíř - Úkos - Přechod - Špička - Zrcadlový"
-Translate="Těžký pancíř - Úkos - Přechod - Špička - Zrcadlový     "
+Czech="Těžký pancíř - Úkos - Přechod - Špice - Zrcadlový"
+Translate="Těžký pancíř - Úkos - Přechod - Špice - Zrcadlový      "
 
 ID=DisplayName_Block_HeavyArmorSquareSlopedCornerBase
 Czech="Těžký pancíř - Čtverec - Úkos - Roh - Základ"
 Translate="Těžký pancíř - Čtverec - Úkos - Roh - Základ           "
 
 ID=DisplayName_Block_HeavyArmorSquareSlopedCornerTip
-Czech="Těžký pancíř - Čtverec - Úkos - Roh - Špička"
-Translate="Těžký pancíř - Čtverec - Úkos - Roh - Špička           "
+Czech="Těžký pancíř - Čtverec - Úkos - Roh - Špice"
+Translate="Těžký pancíř - Čtverec - Úkos - Roh - Špice            "
 
 ID=DisplayName_Block_HeavyArmorRaisedSlopedCorner
 Czech="Těžký pancíř - Vyvýšený - Úkos - Roh"
@@ -7679,8 +7691,8 @@ Czech="Těžký pancíř - Úkos - Přechod - Zrcadlový"
 Translate="Těžký pancíř - Úkos - Přechod - Zrcadlový              "
 
 ID=DisplayName_Block_HeavytArmorSquareSlopedCornerTip
-Czech="Těžký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený"
-Translate="Těžký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený"
+Czech="Těžký pancíř - Čtverec - Úkos - Roh - Špice - Obrácený"
+Translate="Těžký pancíř - Čtverec - Úkos - Roh - Špice - Obrácený "
 
 ID=DisplayName_Block_LightArmorRaisedSlopedCorner
 Czech="Lehký pancíř - Vyvýšený - Úkos - Roh"
@@ -7703,28 +7715,28 @@ Czech="Lehký pancíř - Úkos - Přechod - Zrcadlový"
 Translate="Lehký pancíř - Úkos - Přechod - Zrcadlový              "
 
 ID=DisplayName_Block_LightArmorSlopeTransitionTip
-Czech="Lehký pancíř - Úkos - Přechod - Špička"
-Translate="Lehký pancíř - Úkos - Přechod - Špička                 "
+Czech="Lehký pancíř - Úkos - Přechod - Špice"
+Translate="Lehký pancíř - Úkos - Přechod - Špice                  "
 
 ID=DisplayName_Block_LightArmorSlopeTransitionTipMirrored
-Czech="Lehký pancíř - Úkos - Přechod - Špička - Zrcadlový"
-Translate="Lehký pancíř - Úkos - Přechod - Špička - Zrcadlový     "
+Czech="Lehký pancíř - Úkos - Přechod - Špice - Zrcadlový"
+Translate="Lehký pancíř - Úkos - Přechod - Špice - Zrcadlový      "
 
 ID=DisplayName_Block_LightArmorSquareSlopedCornerBase
 Czech="Lehký pancíř - Čtverec - Úkos - Roh - Základ"
 Translate="Lehký pancíř - Čtverec - Úkos - Roh - Základ           "
 
 ID=DisplayName_Block_LightArmorSquareSlopedCornerTip
-Czech="Lehký pancíř - Čtverec - Úkos - Roh - Špička"
-Translate="Lehký pancíř - Čtverec - Úkos - Roh - Špička           "
+Czech="Lehký pancíř - Čtverec - Úkos - Roh - Špice"
+Translate="Lehký pancíř - Čtverec - Úkos - Roh - Špice            "
 
 ID=DisplayName_Block_LightArmorSquareSlopedCornerTipInv
-Czech="Lehký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený"
-Translate="Lehký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený"
+Czech="Lehký pancíř - Čtverec - Úkos - Roh - Špice - Obrácený"
+Translate="Lehký pancíř - Čtverec - Úkos - Roh - Špice - Obrácený "
 
 ID=DisplayName_Block_HeavyArmorSquareSlopedCornerTipInv
-Czech="Těžký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený"
-Translate="Těžký pancíř - Čtverec - Úkos - Roh - Špička - Obrácený"
+Czech="Těžký pancíř - Čtverec - Úkos - Roh - Špice - Obrácený"
+Translate="Těžký pancíř - Čtverec - Úkos - Roh - Špice - Obrácený "
 
 ID=ChatScreen_TerminalSendMessage
 Czech="Odeslat zprávu"
@@ -11216,7 +11228,7 @@ Translate="K provedění daného skoku, prosím přiřadte SKOČIT na nástrojov
 
 ID=BlockAction_RemoveFromToolbar
 Current="[remove from toolbar]"
-Translate="[odebrat z nástrojového panelu"
+Translate="[odebrat z nástrojového panelu]"
 
 ID=BlockComboBoxValue_TextPanelAccessOnlyOwner
 Current="Only owner"
@@ -17300,7 +17312,7 @@ Translate=""
 
 ID=DisplayName_EmotePointAggressive
 Current="Aggressive Point"
-Translate="Agresivní ukázání"
+Translate="Animace - Agresivní ukázání"
 
 ID=BuildPlanner_Controls
 Current="Inventory terminal controls"
@@ -20812,71 +20824,71 @@ Translate=""
 
 ID=SoundBlock_SoundName_MusCompetition_01
 Current="Colossus On Fire"
-Translate=""
+Translate="Colossus On Fire"
 
 ID=SoundBlock_SoundName_MusCompetition_02
 Current="Designing The Fleet"
-Translate=""
+Translate=Designing The Fleet""
 
 ID=SoundBlock_SoundName_MusCompetition_03
 Current="Entropy"
-Translate=""
+Translate="Entropy"
 
 ID=SoundBlock_SoundName_MusCompetition_04
 Current="EXODUS"
-Translate=""
+Translate="EXODUS"
 
 ID=SoundBlock_SoundName_MusCompetition_05
 Current="Growing Wild"
-Translate=""
+Translate="Growing Wild"
 
 ID=SoundBlock_SoundName_MusCompetition_06
 Current="Into the Asteroid Field"
-Translate=""
+Translate="Into the Asteroid Field"
 
 ID=SoundBlock_SoundName_MusCompetition_07
 Current="Last Day on Triton"
-Translate=""
+Translate="Last Day on Triton"
 
 ID=SoundBlock_SoundName_MusCompetition_08
 Current="Sands of the Slave Princess"
-Translate=""
+Translate="Sands of the Slave Princess"
 
 ID=SoundBlock_SoundName_MusCompetition_09
 Current="Sector 347"
-Translate=""
+Translate="Sector 347"
 
 ID=SoundBlock_SoundName_MusCompetition_10
 Current="Space Angels"
-Translate=""
+Translate="Space Angels"
 
 ID=SoundBlock_SoundName_MusCompetition_11
 Current="Space Elevator"
-Translate=""
+Translate="Space Elevator"
 
 ID=SoundBlock_SoundName_MusCompetition_12
 Current="Space Engineers Main Theme"
-Translate=""
+Translate="Space Engineers Main Theme"
 
 ID=SoundBlock_SoundName_MusCompetition_13
 Current="Space Pirates"
-Translate=""
+Translate="Space Pirates"
 
 ID=SoundBlock_SoundName_MusCompetition_14
 Current="SpaceItOut"
-Translate=""
+Translate="SpaceItOut"
 
 ID=SoundBlock_SoundName_MusCompetition_15
 Current="The City Lies"
-Translate=""
+Translate="The City Lies"
 
 ID=SoundBlock_SoundName_MusCompetition_16
 Current="Timeless Space"
-Translate=""
+Translate="Timeless Space"
 
 ID=BlockPropertyTitle_LargeTurretFireAtLockedTarget
 Current="Fire at locked target"
-Translate=""
+Translate="Vysvětlit na zamčený cíl"
 
 ID=BlockPropertyTooltip_LargeTurretFireAtLockedTarget
 Current="Enabling this will make the turrets aim and fire at a locked target"
@@ -20884,11 +20896,11 @@ Translate=""
 
 ID=Description_DLC_HeavyIndustry
 Current="Heavy Industry"
-Translate=""
+Translate="Heavy Industry"
 
 ID=DisplayName_DLC_HeavyIndustry
 Current="Heavy Industry"
-Translate=""
+Translate="Heavy Industry"
 
 ID=DisplayName_Block_Armor2x1SlopedPanelLight
 Current="Light Armor Panel 2x1 Slope Base"
@@ -21052,11 +21064,11 @@ Translate="Těžký pancíř - Panel - Zaoblený - Roh             "
 
 ID=String3
 Current="ERROR 4"
-Translate=""
+Translate="ERROR 4"
 
 ID=String3
 Current="ERROR 4"
-Translate=""
+Translate="ERROR 4"
 
 ID=LCD_HI_Poster1_Landscape
 Current="Poster Industry Of War H"
@@ -21108,11 +21120,11 @@ Translate="Poslední odpojení vlastníka"
 
 ID=PCU
 Current="PCU"
-Translate=""
+Translate="PCU"
 
 ID=SpawnMenu_KeepOriginalMaterial
 Current="Keep Original"
-Translate=""
+Translate="Držet původní"
 
 ID=SpawnMenu_KeepOriginalMaterial_Tooltip
 Current="Keep original asteroid material"
@@ -21120,7 +21132,7 @@ Translate=""
 
 ID=SpawnMenu_VoxelSize
 Current="Voxel Size:"
-Translate=""
+Translate="Velikost voxelu:"
 
 ID=Item_Drill4_Extra_Tooltip
 Current="Widest cutout, fastest mining"
@@ -21168,7 +21180,7 @@ Translate="[DLC] Warfare 2               "
 
 ID=DisplayName_Block_PassengerSeatOld
 Current="Passenger Seat Old"
-Translate=""
+Translate="Pasažérské sedadlo - staré"
 
 ID=Targeting_Distance
 Current="Distance"
@@ -21180,7 +21192,7 @@ Translate="Zaměřování"
 
 ID=Targeting_LosingLock
 Current="Losing Lock"
-Translate=""
+Translate="Ztracím uzamčení"
 
 ID=Targeting_NoTarget
 Current="No Target"
@@ -21192,7 +21204,7 @@ Translate="Stav"
 
 ID=Targeting_Subsystem
 Current="Subsystem"
-Translate=""
+Translate="Subsystém"
 
 ID=Targeting_Target
 Current="Target"
@@ -21292,11 +21304,11 @@ Translate="Výpis zbraní"
 
 ID=Description_DLC_Warfare2
 Current="Warfare II."
-Translate=""
+Translate="Warfare II."
 
 ID=DisplayName_DLC_Warfare2
 Current="Warfare II."
-Translate=""
+Translate="Warfare II."
 
 ID=BlockPropertyDescription_MultiplierAzimuth
 Current="Modify maximum velocity of azimuth rotor"
@@ -21360,7 +21372,7 @@ Translate=""
 
 ID=TurretControlBlock_Detail_Camera
 Current="Camera: '{0}'"
-Translate=""
+Translate="Kamera: '{0}'"
 
 ID=TurretControlBlock_Detail_Elev
 Current="Azimuth: '{0}'"
@@ -21368,15 +21380,15 @@ Translate=""
 
 ID=TurretControlBlock_Detail_Format
 Current="   '{0}'"
-Translate=""
+Translate="   '{0}'"
 
 ID=TurretControlBlock_Detail_Status
 Current="Status:"
-Translate=""
+Translate="Stav:"
 
 ID=TurretControlBlock_Detail_Status_Def
 Current="weapon/tool/camera"
-Translate=""
+Translate="zbraň/nástroj/kamera"
 
 ID=TurretControlBlock_Detail_Status_Error1
 Current="   ERROR: Missing elevation or azimuth rotor/hinge"
@@ -21396,15 +21408,15 @@ Translate=""
 
 ID=TurretControlBlock_Detail_Tool
 Current="Tools: "
-Translate=""
+Translate="Nástroje:"
 
 ID=TurretControlBlock_Detail_Weapon
 Current="Weapons: "
-Translate=""
+Translate="Zbraně:"
 
 ID=BlockPropertyTitle_SunTracking
 Current="Always aim at sun"
-Translate=""
+Translate="Nepřestále sledování slunce"
 
 ID=BlockPropertyTooltip_SunTracking
 Current="Makes the turret attempt to aim at the sun position and disables other AI features. Useful for solar collectors."
@@ -21412,11 +21424,11 @@ Translate=""
 
 ID=BlockPropertyTitle_EnableAI
 Current="Enable AI"
-Translate=""
+Translate="Povolit AI"
 
 ID=TssTargetingInfo_StaticGrid
 Current="Station"
-Translate=""
+Translate="Stanice"
 
 ID=Description_BlastDoor
 Current="Blast Doors are used to create custom doors in conjunction with mechanical blocks like pistons, rotors, or hinges."
@@ -21480,9 +21492,9 @@ Translate="Dopravník - Trubka - Téčko"
 
 ID=DisplayName_Block_HalfCoverWallMirror
 Current="Half Cover Wall Mirrored"
-Translate=""
+Translate="Krycí stěna - Půlka - Zrcadlová"
 
-ID=DisplayName_Block_AdvancedRotor3x3
+ID=DisplayName_Block_AdvancedRotor3x3rozdělené okno
 Current="Advanced Rotor 3x3"
 Translate="Rotor - Pokročilý - 3x3"
 
@@ -21500,11 +21512,11 @@ Translate=""
 
 ID=DisplayName_Block_HalfWindowDiagonal
 Current="Half Window Diagonal"
-Translate=""
+Translate="Půlené okno - Úhlopříčné"
 
 ID=DisplayName_Block_HalfWindowRound
 Current="Half Window Round"
-Translate=""
+Translate="Půlené okno - Zaoblené"
 
 ID=DisplayName_Block_AirVentFull
 Current="Air Vent Full"
@@ -21556,7 +21568,7 @@ Translate="Okno - Zaoblené - Vnitrní roh - Obrácený   "
 
 ID=ScreenVictory_Draw
 Current="Draw"
-Translate=""
+Translate="Remíza"
 
 ID=DisplayName_Block_BridgeWindow1x1FaceInverted
 Current="Bridge Window Face Inv."
@@ -21564,7 +21576,7 @@ Translate="Okno - Můstek - Ukosené (Obrácené)"
 
 ID=RadialMenuGroupTitle_Decoration5
 Current="Decoration #5"
-Translate=""
+Translate="Dekorace #5"
 
 ID=DisplayName_Item_Uncraftable
 Current="Non-craftable"
@@ -21648,11 +21660,11 @@ Translate=""
 
 ID=PathRecorderBlock_Repeat
 Current="Repeat"
-Translate=""
+Translate="Opakovat"
 
 ID=PathRecorderBlock_RecordInterval
 Current="Record interval"
-Translate=""
+Translate="Nahrát interval"
 
 ID=PathRecorderBlock_Waypoints
 Current="Waypoints"
@@ -21732,7 +21744,7 @@ Translate="Přidat bod trasy"
 
 ID=PathRecorderBlock_Play
 Current="Play"
-Translate=""
+Translate="Přehrát"
 
 ID=BasicMissionBlock_SelectMission
 Current="Select Objective"
@@ -22268,11 +22280,11 @@ Translate="Postel - Půlka - Posunutá"
 
 ID=DisplayName_Block_AngledInteriorWallA
 Current="Angled Interior Wall A"
-Translate=""
+Translate="Vnitřní stěna - Zešikmená A"
 
 ID=DisplayName_Block_AngledInteriorWallB
 Current="Angled Interior Wall B"
-Translate=""
+Translate="Vnitřní stěna - Zešikmená B"
 
 ID=DisplayName_EventBlockAddedRemoved
 Current="Block Added/Removed"
@@ -22664,7 +22676,7 @@ Translate="[Color=#FFFF0000]CHYBA: Konstrukce se nemůže otáčet, přidejte pr
 
 ID=FlightMovementBlock_NoThrustInAllDirections
 Current="[Color=#FFFF0000]ERROR: Grid cannot move in one or more directions, please ensure a thruster is available for each direction![/Color]"
-Translate="[Color=#FFFF0000]CHYBA: Konstrukce se nemůže pohybovat jedním nebo více směry, zajistěte, aby byl pro každý směr k dispozici tryska!"
+Translate="[Color=#FFFF0000]CHYBA: Konstrukce se nemůže pohybovat jedním nebo více směry, zajistěte, aby byl pro každý směr k dispozici tryska![/Color]"
 
 ID=EventControllerBlock_Condition
 Current="Condition"
@@ -22772,7 +22784,7 @@ Translate="Transakce selhala"
 
 ID=StoreSell_Error_Text_NoFaction
 Current="Store not owned by faction."
-Translate="Obchod není vlatněn klanem."
+Translate="Obchod není vlastněn klanem."
 
 ID=EventOutputInfo
 Current="Output: Action Slot {0}"
@@ -22924,11 +22936,11 @@ Translate="Kokpit - Sedlový - Kompaktní"
 
 ID=Description_EmotionController
 Current="The Emotion Controller displays emoticons and can copy those to other assigned LCD panels and screens. "
-Translate=""
+Translate="Ovladač emocí zobrazuje emotikovy a může je kopírovat na jiné LCD panely a obrazovky. "
 
 ID=DisplayName_EmotionController
 Current="Emotion Controller"
-Translate="Ovladač Emocí"+
+Translate="Ovladač Emocí"
 
 ID=EmotionControll_UsableLCDs
 Current="Available LCDs"
@@ -23100,7 +23112,7 @@ Translate="Tah trysek"
 
 ID=EventState_EventThrustPercentage
 Current="Tah: "
-Translate=""
+Translate="Tah: "
 
 ID=EventControllerBlock_SpeedThreshold_Title
 Current="Speed Threshold"
@@ -23188,7 +23200,7 @@ Translate="Pokud se vyskytnou nějaké problémy, neváhejte navštívit stránk
 
 ID=PlayersScreen_Help_PlayersList_ProfileDisabled
 Current="{CONTROL:GUI:BUTTON_X} Trade   {CONTROL:GUI:BUTTON_Y} Toggle mute"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} Obchodovat   {CONTROL:GUI:BUTTON_Y} Přepnout ztišení"
 
 ID=ScreenModIoConsent_ConsentTextPart2_ps
 Current=" •   Sign-in ID•   Display name•   Avatar"
@@ -23216,11 +23228,11 @@ Translate="Abyste se mohli připojit k dedikovanému serveru, musíte v Možnost
 
 ID=Bitmap1
 Current="[base64 mime encoded serialized .NET Framework object]"
-Translate=""
+Translate="[base64 mime encoded serialized .NET Framework object]"
 
 ID=Icon1
 Current="[base64 mime encoded string representing a byte array form of the .NET Framework object]"
-Translate=""
+Translate="[base64 mime encoded string representing a byte array form of the .NET Framework object]"
 
 ID=Medical_EnableAutorespawn_Tooltip
 Current="This is not the nearest medical room. The "Autorespawn" world setting prevents you from spawning here."
@@ -23348,19 +23360,11 @@ Translate="Atmosférická tryska - Malá - Plochá"
 
 ID=DisplayName_Block_SmallAtmoThrustFlatDShape
 Current="Flat Atmospheric Thruster D Shape"
-Translate=Atmosférická tryska - Malý - Plochá - Déčko"
+Translate="Atmosférická tryska - Malý - Plochá - Déčko"
 
 ID=DisplayName_DefensiveBasicMission_SavedBeacon
 Current="(Saved Beacon)"
-Translate=""
-
-ID=DisplayName_Block_ButtonPanelPedestal
-Current="Button Panel Pedestal"
-Translate=""
-
-ID=DisplayName_Block_ControlPanelPedestal
-Current="Control Panel Pedestal"
-Translate=""
+Translate="(Uložené majáky)"
 
 ID=Description_BlueprintClass_Equipment
 Current="Equipment- A variety of utility items and survival equipment."
@@ -23513,10 +23517,6 @@ Translate="Pohovka - Věstavená"
 ID=DisplayName_Block_InsetBookshelf
 Current="Inset Bookshelf"
 Translate="Knihovna  - Věstavená"
-
-ID=DisplayName_Block_InsetButtonPanel
-Current="Inset Button Panel"
-Translate="Panel s tlačitky - Věstavený"
 
 ID=DisplayName_Block_InsetEntertainmentCorner
 Current="Inset Entertainment Corner"
