@@ -1722,14 +1722,6 @@ ID=DisplayName_AstronautBackpack
 Czech="Batoh"
 Translate="Batoh"
 
-ID=DisplayName_Block_AdvancedRotor
-Czech="Pokročilý rotor"
-Translate="Rotor - Pokročilý"
-
-ID=DisplayName_Block_AdvancedRotorPart
-Czech="Pokročilý rotor (Část)"
-Translate="Rotor - Pokročilý (Část)"
-
 ID=DisplayName_Block_AirtightHangarDoor
 Czech="Vzduchotěsná hangárová vrata"
 Translate="Vzduchotěsná hangárová vrata"
@@ -2584,7 +2576,23 @@ Translate="Rotor"
 
 ID=DisplayName_Block_RotorPart
 Czech="Rotor - Část"
-Translate="Rotor - Část"
+Translate="Rotor - Vrchní část"
+
+ID=DisplayName_Block_AdvancedRotor3x3rozdělené okno
+Current="Advanced Rotor 3x3"
+Translate="Rotor - Pokročilý - 3x3"
+
+ID=DisplayName_Block_AdvancedRotorPart3x3
+Current="Advanced Rotor Part 3x3"
+Translate="Rotor - Pokročilý - 3x3 - Vrchní část"
+
+ID=DisplayName_Block_AdvancedRotor
+Czech="Pokročilý rotor"
+Translate="Rotor - Pokročilý"
+
+ID=DisplayName_Block_AdvancedRotorPart
+Czech="Pokročilý rotor (Část)"
+Translate="Rotor - Pokročilý - Vrchní část"
 
 ID=DisplayName_Block_Sensor
 Czech="Senzor"
@@ -9683,24 +9691,24 @@ Czech="Položit"
 Translate="Položit"
 
 ID=Hint00Text
-Czech="Věděl jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
-Translate="Věděl jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
+Czech="Věděli jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
+Translate="Věděli jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
 
 ID=HintKeyboardOnly05Text
-Czech="Věděl jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
-Translate="Věděl jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
+Czech="Věděli jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
+Translate="Věděli jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
 
 ID=Hint07Text
-Czech="Věděl jsi že? Meteor po sobě může zanechat cenné suroviny."
-Translate="Věděl jsi že? Meteor po sobě může zanechat cenné suroviny."
+Czech="Věděli jsi že? Meteor po sobě může zanechat cenné suroviny."
+Translate="Věděli jsi že? Meteor po sobě může zanechat cenné suroviny."
 
 ID=Hint08Text
-Czech="Věděl jsi že? Tmavé fleky na planetách ukazují na naleziště rudy."
-Translate="Věděl jsi že? Tmavé fleky na planetách ukazují na naleziště rudy."
+Czech="Věděli jsi že? Tmavé fleky na planetách ukazují na naleziště rudy."
+Translate="Věděli jsi že? Tmavé fleky na planetách ukazují na naleziště rudy."
 
 ID=Hint09Text
-Czech="Věděl jsi že? Kameny na povrchu země častu obsahují cenné suroviny."
-Translate="Věděl jsi že? Kameny na povrchu země častu obsahují cenné suroviny."
+Czech="Věděli jsi že? Kameny na povrchu země častu obsahují cenné suroviny."
+Translate="Věděli jsi že? Kameny na povrchu země častu obsahují cenné suroviny."
 
 ID=Hint10Control0
 Czech="SKOČ"
@@ -9715,16 +9723,16 @@ Czech="PODVOZEK"
 Translate="PODVOZEK"
 
 ID=Hint14Text
-Czech="Věděl jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
-Translate="Věděl jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
+Czech="Věděli jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
+Translate="Věděli jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
 
 ID=HintKeyboardOnly09Text
-Czech="Věděl jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
-Translate="Věděl jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
+Czech="Věděli jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
+Translate="Věděli jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
 
 ID=HintKeyboardOnly04Text
-Czech="Věděl jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
-Translate="Věděl jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
+Czech="Věděli jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
+Translate="Věděli jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
 
 ID=HintKeyboardOnly00Control0
 Czech="PŘEPNOUT_SIGNÁLY"
@@ -10067,12 +10075,12 @@ Czech="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo grav
 Translate="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
 
 ID=HintKeyboardOnly03Text
-Czech="Věděl jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
-Translate="Věděl jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
+Czech="Věděli jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
+Translate="Věděli jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
 
 ID=Hint24Text
-Czech="Věděl jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
-Translate="Věděl jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
+Czech="Věděli jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
+Translate="Věděli jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
 
 ID=IngameHelp_Jetpack_Detail2
 Czech="Přepínej jetpack klávesou {CONTROL:THRUSTS}."
@@ -10864,11 +10872,11 @@ Translate="Mimozemská půda"
 
 ID=ControlMenuItemLabel_AlienYellowGrass
 Czech="Mimozemská žlutá tráva"
-Translate="Mimozemská žlutá tráva"
+Translate="Mimozemská tráva - Žlutá"
 
 ID=ControlMenuItemLabel_AlienYellowGrassBare
 Czech="Mimozemská žlutá tráva (Holá)"
-Translate="Mimozemská žlutá tráva (Holá)"
+Translate="Mimozemská tráva - Žlutá (Holá)"
 
 ID=ControlMenuItemLabel_Cobalt01
 Czech="Kobalt 01"
@@ -11332,7 +11340,7 @@ Translate="Vytvořit projekci"
 
 ID=BlockPropertyTitle_Projector_BlocksPerProjection_Tooltip
 Current="The maximum number of blocks a projection can have when building instantly"
-Translate=""
+Translate="Maximální množství bloků, které může projektor okamžitě postavit"
 
 ID=BlockPropertyTitle_Projector_GetOwnership
 Current="Ownership from projector"
@@ -11800,7 +11808,7 @@ Translate=""
 
 ID=Description_Connector
 Current="The connector can be magnetically locked with other connectors to allow cross grid distribution of items and power.Toggle the magnetic lock from your toolbar or press {CONTROL:LANDING_GEAR}. Connectors will show up yellow when in range.  Unlocking it will briefly disable the magnetic function."
-Translate=""
+Translate="Konektory mohou být magneticky spojeni s dalším konektory. Toto spojení dovoluje konstrukci distribuovat předměty a energie. Přepni magnetický zámek z nástrojového panelu nebo stiskni {CONTROL:LANDING_GEAR}. Pokud je konektor v dosahu rozsvítí se žlutě. Odemknutí nachvíli vyřadí magnetickou funkci."
 
 ID=Description_ControlPanel
 Current="Control panels are simple panels that allow access to grid menus.When highlighted, press {CONTROL:TERMINAL} to interact with the panel. "
@@ -11828,7 +11836,7 @@ Translate="Letecké sedadlo je používáno k ovládání velkých lodí společ
 
 ID=Description_FullCoverWall
 Current="Armored walls provide cover in interiors or can be used to prevent players from walking off ledges. "
-Translate=""
+Translate="Krycí stěny poskytují kryt v interiérech nebo mohou být použity jako zábrana proti padů hráčů z říms."
 
 ID=Description_GatlingGun
 Current="Fast-shooting gun that can be loaded through conveyors. Uses Gatling Ammo Boxes.Maximum range: 800 m"
@@ -11876,7 +11884,7 @@ Translate="Autonomní protipěchotní věž. Musí být manuálně nabita MR-50A
 
 ID=Description_InteriorWall
 Current="Interior walls are blocks with emissive lights to function as interior walls, ceilings or floors. "
-Translate=""
+Translate="Vnitřní stějny jsou bloky s emisními světly, které slouží jako stěny, stropy nebo podlahy."
 
 ID=Description_LandingGear
 Current="Landing gears and Magnetic Plates are capable of magnetically locking to any surface.They can be locked and unlocked by pressing {CONTROL:SPACESHIP:LANDING_GEAR} when inside a cockpit. They will show up yellow when in range of a surface that they can lock onto. "
@@ -11900,7 +11908,7 @@ Translate="Hydroponické farmy vyrábí malé množství kyslíku při kontaktu 
 
 ID=Description_ParachuteHatch
 Current="Parachute hatches deploy parachutes to slow down the descent of ships when inside the atmosphere.Can be configured to open automatically or used manually from the toolbar or settings. "
-Translate=""
+Translate="Padáky slouží k zpomnalení sestupu lodi uvnitř atmosféry. Lze nakonfigurovat, tak aby se automaticky otevřel nebo lze použít ručně z panelu nástrojů."
 
 ID=Description_Piston
 Current="The piston is an expandable block that allows the transfer of power and items."
@@ -11936,7 +11944,7 @@ Translate="Pomalu střílející, výbušně poškozující raketomet, který mu
 
 ID=Description_RotorPart
 Current="The rotor part is the top section of the rotor.It can be reattached with a rotor within rotor settings. "
-Translate=""
+Translate="Vrchní část rotoru může být znovu připojena k hlavnímu rotoru v rámci nastavení."
 
 ID=Description_Sensor
 Current="Sensors can be set up to activate ship systems when they detects players, ships or asteroids within a limited range. "
@@ -11964,11 +11972,11 @@ Translate="Tlumiče jsou vysoce výdržné a dovolují vozidlům jet obťížný
 
 ID=Description_VerticalWindow
 Current="Vertical windows can be used to funnel air through and keep engineers out."
-Translate=""
+Translate="Svislé okno dovoluje proudění vzduchu, ale zamezuje přístupu astronautů."
 
 ID=Description_DiagonalWindow
 Current="Diagonal window shutters can be used as stairs. "
-Translate=""
+Translate="Úhlopříčné okenice mohou být použity jako schody."
 
 ID=Description_SurvivalKit
 Current="All in one factory to get a space engineer started, but it has limited refining and assembling capabilities. Allows the player to recharge. "
@@ -12004,7 +12012,7 @@ Translate="Zařízení na přehrávání hudby. Dobré pro pořádání tanečn�
 
 ID=Description_OpenCockpitLarge
 Current="Seat in between lots of consoles. More like a bridge seat."
-Translate=""
+Translate="Sedadlo mezi spoustou konzolí. Spíše sedalo jako můstek."
 
 ID=Description_OpenCockpitSmall
 Current="This control seat can be used to pilot anything from modest rovers to small-scale ships; they're also exceptionally comfortable."
@@ -12032,7 +12040,7 @@ Translate="Průhledná okna udrží vzduch uvnitř zatímco se stylově kocháte
 
 ID=Description_MedicalStation
 Current="A decorative station that allows engineers to examine their injuries."
-Translate=""
+Translate="Dekorativní stanice, která umožňuje astronautům zkoumat jejich zranění."
 
 ID=Description_TransparentLCD
 Current="Transparent LCD panels display pictograms, scripts or customized text."
@@ -12784,15 +12792,15 @@ Translate=""
 
 ID=Hint25Text
 Current="Did you know? O2/H2 generator can produce small amounts of hydrogen for thrusters without having a hydrogen tank involved."
-Translate=""
+Translate="Věděli jsi že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží."
 
 ID=HintKeyboardOnly00Text
 Current="Did you know?Press {0} to change the way GPS coordinates and Antennas are displayed on your HUD."
-Translate=""
+Translate="Věděli jsi že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD."
 
 ID=Hint27Text
 Current="Did you know?Blocks that are destroyed during collisions or combat can cause damage around them."
-Translate=""
+Translate="Věděli jsi že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich."
 
 ID=Hint26Text
 Current="Did you know?Pressurized environments will maintain optimal temperatures and recharge your health and oxygen."
@@ -12800,11 +12808,11 @@ Translate=""
 
 ID=Hint23Text
 Current="Did you know?Your suit's power drains faster when residing in cold or warm temperatures."
-Translate=""
+Translate="Věděli jsi že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách."
 
 ID=Hint20Text
 Current="Did you know?The medical room recharges your energy and health five times as fast as the survival kit."
-Translate=""
+Translate="Věděli jsi že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul."
 
 ID=Hint19Text
 Current="Did you know?You can use sensors to detect enemies located underground who are attempting to infiltrate your base."
@@ -12812,15 +12820,15 @@ Translate=""
 
 ID=Hint18Text
 Current="Did you know?Wind turbines are more efficient when placed in high and open spaces."
-Translate=""
+Translate="Věděli jsi že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství."
 
 ID=Hint16Text
 Current="Did you know?Rovers can use their wheel suspensions to jump out of tight situations."
-Translate=""
+Translate="Věděli jsi že? Rovery mohou použít tlumiče kol k výskoku z těsných situací."
 
 ID=Hint15Text
 Current="Did you know?Advanced refineries give better yield when refining minerals."
-Translate=""
+Translate="Věděli jsi že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů."
 
 ID=Hint05Text
 Current="Did you know?Your jet pack can match the velocity of nearby grids using relative dampeners."
@@ -13096,7 +13104,7 @@ Translate="Usazená posádka na palubě:"
 
 ID=Jump_Destination
 Current="Jump destination: "
-Translate=""
+Translate="Cíl skoku: "
 
 ID=Jump_Distance
 Current="Distance to the proximity of coordinate: "
@@ -13148,7 +13156,7 @@ Translate=""
 
 ID=LowMemSwitchToLowQuestion
 Current="Your game has ran out of memory last time. Do you want to switch to LOW preset and restart game to apply changes?"
-Translate=""
+Translate="Vaší hře minule došla pamět. Chcete přepnout grafické přednastavení na NÍZKÉ a restartovat hru k použití změn?"
 
 ID=MessageBoxCaptionRecommend
 Current="Recommend Space Engineers"
@@ -13204,11 +13212,11 @@ Translate=""
 
 ID=MessageBoxTextScenarioPublishFailed
 Current="Failed to publish on {0} Workshop"
-Translate=""
+Translate="Publikování na {0} Workshopu se nezdražilo."
 
 ID=MessageBoxTextTutorialQuestion
 Current="Do you want to see basic tutorial video?"
-Translate=""
+Translate="Chcete vidět základní výukové video?"
 
 ID=MessageBoxTextWatchVideo
 Current="Would you like to watch video before tutorial starts?"
@@ -17556,23 +17564,23 @@ Translate="Lehký pancíř"
 
 ID=RadialMenuGroupTitle_ProductionMedical
 Current="Production &amp; Medical"
-Translate=""
+Translate="Výroba &amp; Zdravotnictví"
 
 ID=RadialMenuGroupTitle_GasLogistics
 Current="Gas &amp; Logistics"
-Translate=""
+Translate="Plyny &amp; Přeprava"
 
 ID=RadialMenuGroupTitle_ShipEssentials
 Current="Ship Essentials"
-Translate=""
+Translate="Lodní náležitosti"
 
 ID=RadialMenuGroupTitle_WheelsWeapons
 Current="Wheels &amp; Weapons"
-Translate=""
+Translate="Kola &amp; Zbraně"
 
 ID=RadialMenuGroupTitle_CommsHangars
 Current="Comms &amp; Hangars"
-Translate=""
+Translate="Komunikace &amp; Hangáry"
 
 ID=RadialMenuGroupTitle_DecoPack2
 Current="Deecortive Pack 2"
@@ -17720,7 +17728,7 @@ Translate="Kameny                         "
 
 ID=BuildPlannerHint
 Current="Use {0} / {1} to add/remove to/from Build planner"
-Translate=""
+Translate="Použij {0} / {1} k přidání/odebrání do/z plánovače"
 
 ID=Notification_PlanetsNotSupported
 Current="Planets are not supported on this platform"
@@ -17760,7 +17768,7 @@ Translate="----"
 
 ID=Terminal_Factions_Unknown_Label_TTIP
 Current="Faction not discovered. Data is not available."
-Translate=""
+Translate="Klan dosud neobjeven. Data nejsou dostupná."
 
 ID=EconomyFaction_Description_Builder
 Current="Come and browse our selection of the finest ships available to us. We deliver top quality ships made from the highest grade materials."
@@ -17796,7 +17804,7 @@ Translate="Číslo jedna ve výrobně vozidel pro průmysl, vojenství, těžbu 
 
 ID=EconomyFaction_Description_Miner0
 Current="For the highest grade of minerals and gases come visit us. "
-Translate=""
+Translate="Navštivte náš pro ty nejkvalitnější minerály a plyny. "
 
 ID=EconomyFaction_Description_Miner1
 Current="We procure all manner of ores and gases, so you don't have to."
@@ -17872,7 +17880,7 @@ Translate=""
 
 ID=PlayersScreen_TradeBtn
 Current="Trade"
-Translate=""
+Translate="Obchodovat"
 
 ID=PlayersScreen_TradeBtn_TTP
 Current="Initiate trade with player. Be sure that player is in range of 5 meters from you."
@@ -17884,7 +17892,7 @@ Translate="Čekání..."
 
 ID=ScreenOptionsGame_CrosshairTransparency
 Current="Transparency:"
-Translate=""
+Translate="Průhlenost:"
 
 ID=ScreenOptionsGame_HitIndicatorLabel
 Current="Select hit type"
@@ -17896,23 +17904,23 @@ Translate=""
 
 ID=ScreenOptionsGame_HitIndicator_Character
 Current="Enemy"
-Translate=""
+Translate="Nepřítel"
 
 ID=ScreenOptionsGame_HitIndicator_Friendly
 Current="Friendly"
-Translate=""
+Translate="Přítel"
 
 ID=ScreenOptionsGame_HitIndicator_Headshot
 Current="Headshot"
-Translate=""
+Translate="Hlava"
 
 ID=ScreenOptionsGame_HitIndicator_Kill
 Current="Kill"
-Translate=""
+Translate="Zabít"
 
 ID=ScreenOptionsGame_HitIndicator_Grid
 Current="Grid"
-Translate=""
+Translate="Mřížka"
 
 ID=ScreenOptionsGame_CrosshairColor
 Current="Crosshair Color"
@@ -17920,7 +17928,7 @@ Translate=""
 
 ID=GameOptions_EnableTrading
 Current="Enable Trading"
-Translate=""
+Translate="Povolit obchodování"
 
 ID=GameOptions_EnableTrading_TTIP
 Current="Enables trading with other players in multiplayer games. If disabled all trade requests are ignored"
@@ -17940,11 +17948,11 @@ Translate="Stiskni {0} k otevření obchodu"
 
 ID=Description_ContractBlock
 Current="Block for contract management"
-Translate=""
+Translate="Blok pro správu zakázek"
 
 ID=NotificationHintPressToOpenContract
 Current="Press {0} to open contract"
-Translate=""
+Translate="Stiskni {0} k otevření zakázek"
 
 ID=IngameHelp_EconomyStation_Desc
 Current="Economy Stations can appear anywhere in space, on moons, planets and in orbit. These stations offer trade and contracts depending on their respective factions. "
@@ -17964,11 +17972,11 @@ Translate=""
 
 ID=DisplayName_DLC_EconomyExpansion
 Current="Economy Deluxe"
-Translate=""
+Translate="Economy Deluxe"
 
 ID=ScreenMainMenu_EconomyDlcLine1
 Current="Economy Deluxe is now available!"
-Translate=""
+Translate="Economy Deluxe je niný dostupný!"
 
 ID=ScreenMainMenu_EconomyDlcLine2
 Current="Grab it on {0}!"
@@ -17980,39 +17988,39 @@ Translate="{0} se stává vítězem!"
 
 ID=Contracts_Error_Caption_Abandon
 Current="Abandon failed"
-Translate=""
+Translate="Opuštění se nezdařilo"
 
 ID=Contracts_Error_Caption_Activation
 Current="Accept failed"
-Translate=""
+Translate="Přijmutí selhalo"
 
 ID=Contracts_Error_Caption_ActivationConditionNotMet
 Current="Cannot accept"
-Translate=""
+Translate="Nelze přijmout"
 
 ID=Contracts_Error_Caption_ActivationConditionNotMet_InsufficientFunds
 Current="Cannot accept"
-Translate=""
+Translate="Nelze přijmout"
 
 ID=Contracts_Error_Caption_ActivationConditionNotMet_InsufficientSpace
 Current="Cannot accept"
-Translate=""
+Translate="Nelze přijmout"
 
 ID=Contracts_Error_Caption_Finish
 Current="Finish failed"
-Translate=""
+Translate="Dokončení selhalo"
 
 ID=Contracts_Error_Caption_FinishCondition_IncorrectGrid
 Current="Contract finishing failed"
-Translate=""
+Translate="Dokončení zakázky se nezdařilo"
 
 ID=Contracts_Error_Caption_FinishCondition_MissingPackage
 Current="Contract finishing failed"
-Translate=""
+Translate="Dokončení zakázky se nezdařilo"
 
 ID=Contracts_Error_Caption_FinishingCondition
 Current="Contract finishing failed"
-Translate=""
+Translate="Dokončení zakázky se nezdařilo"
 
 ID=Contracts_Error_Text_Abandon
 Current="Contract cannot be abandoned as it has been deleted or finished by someone else."
@@ -18024,31 +18032,31 @@ Translate=""
 
 ID=Contracts_Error_Text_ActivationconditionNotMet
 Current="You do not meet requirements to accept this contract."
-Translate=""
+Translate="Nesplňujete podmínky pro přijetí této zakázky."
 
 ID=Contracts_Error_Text_ActivationConditionNotMet_InsufficientFunds
 Current="You do not meet requirements to accept this contract. You have not enough money."
-Translate=""
+Translate="Nesplňujete podmínky pro přijetí této zakázky. Nedostatečné finanční zdroje."
 
 ID=Contracts_Error_Text_ActivationConditionNotMet_InsufficientSpace
 Current="You do not meet requirements to accept this contract. You have not enough space in inventory."
-Translate=""
+Translate="Nesplňujete podmínky pro přijetí této zakázky. Nedostatek prostoru v inventáři."
 
 ID=Contracts_Error_Text_Finish
 Current="Contract cannot be finished as it has been deleted or already finished by someone else."
-Translate=""
+Translate="Zakázka nemůže být dokončena, protože byla smazána či dokončena někým jiným."
 
 ID=Contracts_Error_Text_FinishCondition_IncorrectGrid
 Current="Contract could not be finished as selected ship was invalid."
-Translate=""
+Translate="Zakázka nemůže být dokončena kvůli neplatné vybrané lodi."
 
 ID=Contracts_Error_Text_FinishCondition_MissingPackage
 Current="Contract could not be finished. You must carry the package in your inventory."
-Translate=""
+Translate="Zakázka nemůže být dokončena. Musíš nést balíček ve tvém inventáři."
 
 ID=Contracts_Error_Text_FinishingCondition
 Current="Contract could not be finished."
-Translate=""
+Translate="Zakázka nemůže být dokončena."
 
 ID=Contracts_Error_Caption_NoAccess
 Current="Cannot Access"
@@ -18184,31 +18192,31 @@ Translate=""
 
 ID=Contracts_Completed_Caption
 Current="Contract Completed"
-Translate=""
+Translate="Zakázka dokončena"
 
 ID=Contracts_Completed_Text
 Current="Thanks for doing the job. Here is your reward:Reputation: {0}Payment: {1}"
-Translate=""
+Translate="Díky za udělanou práci. Zde je tvá odměna: Reputace: {0} Platba {1}"
 
 ID=InventorySelection_All
 Current="All inventories"
-Translate=""
+Translate="Všechny inventáře"
 
 ID=InventorySelection_Character
 Current="Character inventory"
-Translate=""
+Translate="Inventář postavy"
 
 ID=ContractScreen_Deliver_Distance
 Current="Distance:"
-Translate=""
+Translate="Vzdálenost:"
 
 ID=ContractScreen_Hunt_Target
 Current="Target:"
-Translate=""
+Translate="Cíl:"
 
 ID=ContractScreen_ObtainDeliver_ItemAmount
 Current="Amount:"
-Translate=""
+Translate="Množství:"
 
 ID=ContractScreen_Deliver_Description_0
 Current="A priority package is to be delivered to a client of us and we are looking for the right person for the job.You will pay a mandatory collateral upon accepting this contract.Failing to complete the contract within the time limit will result our client being quite unpleased with our services and your collateral will be lost. We are sure you are up to the task."
@@ -18272,51 +18280,51 @@ Translate=""
 
 ID=ContractScreen_Aministration_CreatinResultText_BlockNotFound
 Current="Contract creation failed. Target block was not found."
-Translate=""
+Translate="Vytvoření zakázky selhalo. Cílený blok nebyl nalezen."
 
 ID=ContractScreen_Aministration_CreatinResultText_Error
 Current="Contract creation failed due to an error."
-Translate=""
+Translate="Vytvoření zakázky selhalo kvůli chybě."
 
 ID=ContractScreen_Aministration_CreatinResultText_Fail
 Current="Contract creation failed."
-Translate=""
+Translate="Vytvoření zakázky selhalo."
 
 ID=ContractScreen_Aministration_CreatinResultText_GridNotFound
 Current="Contract creation failed. Target grid was not found."
-Translate=""
+Translate="Vytvoření zakázky selhalo. Cíléná konstrukce nebyla nalezena."
 
 ID=ContractScreen_Aministration_CreatinResultText_NotAnOwnerOfBlock
 Current="Contract creation failed. You are not and owner of targeted block."
-Translate=""
+Translate="Vytvoření zakázky selhalo. Nejsi vlastníkem cílené konstrukce."
 
 ID=ContractScreen_Aministration_CreatinResultText_NotAnOwnerOfGrid
 Current="Contract creation failed. You are not and owner of targeted grid."
-Translate=""
+Translate="Vytvoření zakázky selhalo. Nejsi vlastníkem cílené konstrukce."
 
 ID=ContractScreen_Aministration_CreatinResultText_Success
 Current="Contract was successfully created."
-Translate=""
+Translate="Zakázka úspěšně vytvořena."
 
 ID=ContractScreen_Aministration_FailCaption_IsNaN_Duration
 Current="Invalid value"
-Translate=""
+Translate="Neplatná hodnota"
 
 ID=ContractScreen_Aministration_FailCaption_IsNaN_ItemAmount
 Current="Invalid value"
-Translate=""
+Translate="Neplatná hodnota"
 
 ID=ContractScreen_Aministration_FailCaption_IsNaN_MoneyReward
 Current="Invalid value"
-Translate=""
+Translate="Neplatná hodnota"
 
 ID=ContractScreen_Aministration_FailCaption_IsNaN_SearchRadius
 Current="Invalid value"
-Translate=""
+Translate="Neplatná hodnota"
 
 ID=ContractScreen_Aministration_FailCaption_IsNaN_StartingDeposit
 Current="Invalid value"
-Translate=""
+Translate="Neplatná hodnota"
 
 ID=ContractScreen_Aministration_FailCaption_ItemTypeNotSelected
 Current="Value not selected"
@@ -18344,7 +18352,7 @@ Translate=""
 
 ID=Format_OneParameter
 Current="{0}"
-Translate=""
+Translate="{0}"
 
 ID=ReputationBat_Tooltip_Friendly
 Current="Friendly relationFrom {0} to {1} reputation.Able to interact. Bonus deals.{2}% discount (up to {4}%), {3}% sell bonus (up to {5}%)."
@@ -18416,19 +18424,19 @@ Translate=""
 
 ID=IngameHelp_Economy_GPSName
 Current="Trading Station"
-Translate=""
+Translate="Obchodní stanice"
 
 ID=StoreScreen_GridTooltip_Pcu
 Current="PCU:"
-Translate=""
+Translate="PCU:"
 
 ID=StoreBuy_Error_Text_NotEnoughPCU
 Current="You don't have enough PCU to buy this item."
-Translate=""
+Translate="Nedostatek PCU ke koupi tohoto předmětu."
 
 ID=Grid_Name_Station
 Current="{0} {1} {2}"
-Translate=""
+Translate="{0} {1} {2}"
 
 ID=SafeZone_Name_Station
 Current="{0} Safe Zone {1}"
@@ -18468,11 +18476,11 @@ Translate="Aktivní zakázky"
 
 ID=ContractScreen_Aministration_CreatinResultCaption_CreationLimitHard
 Current="Failure"
-Translate=""
+Translate="Selhání"
 
 ID=ContractScreen_Aministration_CreatinResultCaption_CreationLimitSoft
 Current="Failure"
-Translate=""
+Translate="Selhání"
 
 ID=ContractScreen_Aministration_CreatinResultText_CreationLimitHard
 Current="Contract creation failed. You have reached limit amount of contracts for this block."
@@ -18480,11 +18488,11 @@ Translate=""
 
 ID=Store_Error_Caption_OrderOfferLimitReachedHard
 Current="Failure"
-Translate=""
+Translate="Selhání"
 
 ID=Store_Error_Caption_OrderOfferLimitReachedSoft
 Current="Failure"
-Translate=""
+Translate="Selhání"
 
 ID=Store_Error_Text_OrderOfferLimitReachedHard
 Current="Failed to create order/offer. You have reached order/offer limit for this block."
@@ -18492,11 +18500,11 @@ Translate=""
 
 ID=StoreBuy_Error_Text_NotEnoughSpaceInTank
 Current="Transfer of gas failed. Tank does not have enough free capacity."
-Translate=""
+Translate="Převod plynu se nezdrařil. Nádrž nemá dostatek volné kapacity."
 
 ID=StoreScreen_SelectInventory
 Current="Select inventory:"
-Translate=""
+Translate="Vybrat inventář:"
 
 ID=Economy_Contract_FinishTooltip_CannotFinishInBlock
 Current="This contract cannot be finished through contract block. It has different objective."
@@ -18504,7 +18512,7 @@ Translate=""
 
 ID=Economy_Contract_FinishTooltip_NotAFinishPoint
 Current="This contract cannot be finished at this station."
-Translate=""
+Translate="Tato zakázka nemůže být dokončena na této stanici."
 
 ID=Economy_Contract_FinishTooltip_YouCanFinish
 Current="Press to finish your contract."
@@ -18512,11 +18520,11 @@ Translate=""
 
 ID=Economy_Notification_ReputationDecreased
 Current="Reputace s {0} se snížila o {1}"
-Translate=""
+Translate="Reputace s {0} se snížila o {1}"
 
 ID=Economy_Notification_ReputationIncreased
 Current="Reputace s {0} se zvýšila o {1}"
-Translate=""
+Translate="Reputace s {0} se zvýšila o {1}"
 
 ID=Economy_FactionIcon_Tooltip_BuyEconomy
 Current="Buy Economy DLC to unlock these faction icons"
@@ -18536,11 +18544,11 @@ Translate=""
 
 ID=IngameHelp_Datapad_Title
 Current="Open datapad"
-Translate=""
+Translate="Otevřít datapad"
 
 ID=Contract_Repair_GpsDescription
 Current="Repair this ship"
-Translate=""
+Translate="Oprav tuto loď"
 
 ID=Contract_Repair_GpsName
 Current="---&gt; REPAIR HERE&lt;---"
@@ -18712,7 +18720,7 @@ Translate="Ignorovat PCU limity"
 
 ID=Trash_KickAFKWarning
 Current="Please note: If you remain inactive for 1 minute you will be disconnected."
-Translate=""
+Translate="Poznámka: POkud zůstanete neaktivní po dobu jedné minuty budu odpojení."
 
 ID=Economy_CantRemoveStation_Caption
 Current="Removal not allowed"
@@ -18728,35 +18736,35 @@ Translate="Vzor a barva:"
 
 ID=StoreBlockView_OfferItem
 Current="Offer"
-Translate=""
+Translate="Nabídnout"
 
 ID=StoreBlockView_OrderItem
 Current="Order"
-Translate=""
+Translate="Objednat"
 
 ID=StoreScreen_AllButton
 Current="All"
-Translate=""
+Translate="Vše"
 
 ID=Transaction_Form_ActivityLogLabel
 Current="Activity Log"
-Translate=""
+Translate="Záznam činnosti"
 
 ID=Transaction_Form_Log_AmountHeader
 Current="Amount"
-Translate=""
+Translate="Množství"
 
 ID=Transaction_Form_Log_DateHeader
 Current="Date"
-Translate=""
+Translate="Datum"
 
 ID=Transaction_Form_Log_NameHeader
 Current="Name"
-Translate=""
+Translate="Jméno"
 
 ID=ContractScreen_ObtainDeliver_ItemVolume
 Current="Volume: "
-Translate=""
+Translate="Hlasitost: "
 
 ID=StoreBlockView_CashBack
 Current="Cashback:"
@@ -18768,19 +18776,19 @@ Translate=""
 
 ID=StoreScreen_Preview
 Current="Show Preview"
-Translate=""
+Translate="Ukázat náhled"
 
 ID=ContractScreen_ContractFilterTitle
 Current="Show: "
-Translate=""
+Translate="Ukázat: "
 
 ID=Description_Datapad
 Current="A datapad is an electronic device used to store and display information."
-Translate=""
+Translate="Datapad je elektronické zařízení, které uschovává a zobrazuje informace."
 
 ID=Description_Medkit
 Current="A medkit is a case containing medical supplies for healing astronaut."
-Translate=""
+Translate="Lékarnička obsahuje medikamenty pro léčbu astronauta."
 
 ID=Description_Package
 Current="A package is a box used for storing items for Hauling contract."
@@ -18796,99 +18804,99 @@ Translate="Vesmírné kredity je měna určená k obchodování"
 
 ID=LCD_Economy_Badge
 Current="Badge"
-Translate=""
+Translate="Odznak"
 
 ID=LCD_Economy_Blueprint_2
 Current="Blueprint 2"
-Translate=""
+Translate="Plánek 2"
 
 ID=LCD_Economy_Blueprint_3
 Current="Blueprint 3"
-Translate=""
+Translate="Plánek 3"
 
 ID=LCD_Economy_Charts
 Current="Charts"
-Translate=""
+Translate="Grafy"
 
 ID=LCD_Economy_Clear
 Current="Clear"
-Translate=""
+Translate="Čisto"
 
 ID=LCD_Economy_Coins
 Current="Coins"
-Translate=""
+Translate="Mince"
 
 ID=LCD_Economy_Faction_1
 Current="Faction"
-Translate=""
+Translate="Klan"
 
 ID=LCD_Economy_Graph_1
 Current="Graph 1"
-Translate=""
+Translate="Graf 1"
 
 ID=LCD_Economy_Graph_2
 Current="Graph 2"
-Translate=""
+Translate="Graf 2"
 
 ID=LCD_Economy_Graph_3
 Current="Graph 3"
-Translate=""
+Translate="Graf 3"
 
 ID=LCD_Economy_Graph_4
 Current="Graph 4"
-Translate=""
+Translate="Graf 4"
 
 ID=LCD_Economy_Graph_5
 Current="Graph 5"
-Translate=""
+Translate="Graf 5"
 
 ID=LCD_Economy_KeenSWH
 Current="Keen SWH"
-Translate=""
+Translate="Keen SWH"
 
 ID=LCD_Economy_Poster_1
 Current="Poster"
-Translate=""
+Translate="Plakát"
 
 ID=LCD_Economy_SC_Here
 Current="SC Here"
-Translate=""
+Translate="SC Zde"
 
 ID=LCD_Economy_SC_Logo
 Current="SC Logo 1"
-Translate=""
+Translate="SC Logo 1"
 
 ID=LCD_Economy_SE_Logo_1
 Current="SE Logo 1"
-Translate=""
+Translate="SE Logo 1"
 
 ID=LCD_Economy_SE_Logo_2
 Current="SE Logo 2"
-Translate=""
+Translate="SE Logo 2"
 
 ID=LCD_Economy_SingleCoin
 Current="Single Coin"
-Translate=""
+Translate="Samotná mince"
 
 ID=LCD_Economy_StoreBlock
 Current="Store"
-Translate=""
+Translate="Obchod"
 
 ID=LCD_Economy_Trade
 Current="Trade"
-Translate=""
+Translate="Obchodování"
 
 ID=LCD_Economy_Trinity
 Current="Trinity"
-Translate=""
+Translate="Trinity"
 
 ID=LCD_SC_Blueprint
 Current="Blueprint 1"
-Translate=""
+Translate="Plánek 1"
 
 ID=LCD_SC_Logo_2
 Current="SC Logo 2"
-Translate=""
+Translate="SC Logo 2"
 
 ID=ScreenDebugAdminMenu_AddCurrency_Player_Tooltip
 Current="Player or faction whose currency will be modified."
@@ -18920,27 +18928,27 @@ Translate=""
 
 ID=NotificationHintBuyItem
 Current="Press {0} to Buy item"
-Translate=""
+Translate="Stiskni {0} pro koupi předmětu"
 
 ID=NotificationHintNextItem
 Current="Press {0} for Next item"
-Translate=""
+Translate="Stiskni {0} pro následující předmět"
 
 ID=NotificationHintPreviewsItem
 Current="Press {0} for Previous item"
-Translate=""
+Translate="Stiskni {0} pro předchozí předmět"
 
 ID=AdminScreen_Safezone_Collision
 Current="Safe zone collision. Reduce radius until no safezones are overlapping."
-Translate=""
+Translate="Kolize ochraných polí. Zmenšete poloměr dokud se ochranná pole nepřekrývají."
 
 ID=SafeZoneBlock_Safezone_Collision
 Current="Safe zone collision.Reduce radius or move it"
-Translate=""
+Translate="Kolize ochraných polí. Zmenšete poloměr nebo jej přesuňte"
 
 ID=StoreBlock_OfferDiscount
 Current="Discount:"
-Translate=""
+Translate="Sleva:"
 
 ID=Connector_TemporaryBlock
 Current="Connection failed. Connector will unblock in {0} seconds."
@@ -19008,7 +19016,7 @@ Translate="{0} Potvrdit"
 
 ID=RadialMenu_HintCycleBlocks
 Current="{0} Cycle blocks in group"
-Translate=""
+Translate="{0} Přepínání bloků ve skupině"
 
 ID=SkinNotOwned
 Current="You don't own selected skin. Do you want to visit DLC store?"
@@ -19044,7 +19052,7 @@ Translate=""
 
 ID=HintGamepadOnly11Control0
 Current="BUILD:CUBE_DEFAULT_MOUNTPOINT"
-Translate=""
+Translate="BUILD:CUBE_DEFAULT_MOUNTPOINT"
 
 ID=HintGamepadOnly11Text
 Current="Did you know? You can toggle off the block auto rotation function with {0}"
@@ -19052,7 +19060,7 @@ Translate=""
 
 ID=HintGamepadOnly12Control0
 Current="SPACESHIP:FAKE_RS"
-Translate=""
+Translate="SPACESHIP:FAKE_RS"
 
 ID=HintGamepadOnly12Text
 Current="Did you know? You can steer vehicles from a turret if the cockpit is set to main cockpit.Hold {0} to control turning around."
@@ -19060,7 +19068,7 @@ Translate=""
 
 ID=HintGamepadOnly13Control0
 Current="TOOLS:SECONDARY_TOOL_ACTION"
-Translate=""
+Translate="TOOLS:SECONDARY_TOOL_ACTION"
 
 ID=HintGamepadOnly13Text
 Current="Did you know? You can dig tunnels quickly without producing ore by using {0} with your drill."
@@ -19068,7 +19076,7 @@ Translate=""
 
 ID=HintGamepadOnly00Control0
 Current="CLIPBOARD:SWITCH_BUILDING_MODE"
-Translate=""
+Translate="CLIPBOARD:SWITCH_BUILDING_MODE"
 
 ID=HintGamepadOnly00Text
 Current="Did you know? While holding a blueprint in creative mode, you can use {0} to align them to a planet's Gravity."
@@ -19076,7 +19084,7 @@ Translate=""
 
 ID=HintGamepadOnly08Control1
 Current="BASE:FAKE_MODIFIER_RB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_RB"
 
 ID=HintGamepadOnly08Text
 Current="Did you know? Holding {0}, {1} or {0}-{1} enables you to move stacks of items by 10, 100 and 1000 at the time."
@@ -19084,7 +19092,7 @@ Translate=""
 
 ID=HintGamepadOnly05Control0
 Current="SPACESHIP:FAKE_LS"
-Translate=""
+Translate="SPACESHIP:FAKE_LS"
 
 ID=HintGamepadOnly05Text
 Current="Did you know? You can zoom in and out while using a camera or turret with {0}."
@@ -19096,7 +19104,7 @@ Translate=""
 
 ID=RadialMenu_Label_VoxelHand_Disabled
 Current="Disabled for this World."
-Translate=""
+Translate="Zakázáno pro tento svět."
 
 ID=RadialMenu_Label_VoxelHand_Survival
 Current="Available only in Creative mode or with creative tools."
@@ -19104,63 +19112,63 @@ Translate=""
 
 ID=HintGamepadOnly01Control0
 Current="BASE:FAKE_MODIFIER_LB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_LB"
 
 ID=HintGamepadOnly01Control1
 Current="BASE:FAKE_MODIFIER_RB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_RB"
 
 ID=HintGamepadOnly02Control0
 Current="BUILD:SECONDARY_TOOL_ACTION"
-Translate=""
+Translate="BUILD:SECONDARY_TOOL_ACTION"
 
 ID=HintGamepadOnly03Control0
 Current="GUI:FAKE_RS"
-Translate=""
+Translate="GUI:FAKE_RS"
 
 ID=HintGamepadOnly04Control0
 Current="BASE:FAKE_MODIFIER_LB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_LB"
 
 ID=HintGamepadOnly04Control1
 Current="BASE:FAKE_MODIFIER_RB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_RB"
 
 ID=HintGamepadOnly04Control2
 Current="BASE:FAKE_LS"
-Translate=""
+Translate="BASE:FAKE_LS"
 
 ID=HintGamepadOnly04Control3
 Current="BASE:FAKE_RS"
-Translate=""
+Translate="BASE:FAKE_RS"
 
 ID=HintGamepadOnly09Control0
 Current="BASE:FAKE_MODIFIER_LB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_LB"
 
 ID=HintGamepadOnly09Control1
 Current="BASE:FAKE_MODIFIER_RB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_RB"
 
 ID=HintGamepadOnly10Control0
 Current="VOXEL:PRIMARY_TOOL_ACTION"
-Translate=""
+Translate="VOXEL:PRIMARY_TOOL_ACTION"
 
 ID=HintGamepadOnly10Control1
 Current="VOXEL:SECONDARY_TOOL_ACTION"
-Translate=""
+Translate="VOXEL:SECONDARY_TOOL_ACTION"
 
 ID=HintGamepadOnly10Control2
 Current="VOXEL:VOXEL_REVERT"
-Translate=""
+Translate="VOXEL:VOXEL_REVERT"
 
 ID=HintGamepadOnly08Control0
 Current="BASE:FAKE_MODIFIER_LB"
-Translate=""
+Translate="BASE:FAKE_MODIFIER_LB"
 
 ID=HintGamepadOnly10Control3
 Current="VOXEL:VOXEL_PAINT"
-Translate=""
+Translate="VOXEL:VOXEL_PAINT"
 
 ID=RadialMenu_Label_DisabledWorld
 Current="Disabled for this world."
@@ -19200,19 +19208,19 @@ Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=StoreScreen_Help_Buy
 Current="{CONTROL:GUI:BUTTON_X} Buy"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} Koupit"
 
 ID=StoreScreen_Help_ChangeAmount
 Current="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Change Amount"
-Translate=""
+Translate="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Změnit množství"
 
 ID=StoreScreen_Help_Deposit
 Current="{CONTROL:GUI:BUTTON_X} Deposit"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} Vložit"
 
 ID=StoreScreen_Help_Refresh
 Current="{CONTROL:GUI:BUTTON_Y} Refresh"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Obnovit"
 
 ID=StoreScreen_Help_SortBy
 Current="{CONTROL:GUI:LEFT_STICK_BUTTON} Sorted by "
@@ -19220,7 +19228,7 @@ Translate=""
 
 ID=StoreScreen_Help_Withdraw
 Current="{CONTROL:GUI:BUTTON_Y} Withdraw"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Vybrat"
 
 ID=StoreScreen_Help_ChangeInventory
 Current="{CONTROL:GUI:LEFT_BUTTON}{CONTROL:GUI:RIGHT_BUTTON} Change Inventory"
@@ -19228,7 +19236,7 @@ Translate=""
 
 ID=BlueprintPublished
 Current="BLUEPRINT PUBLISHED"
-Translate=""
+Translate="PLÁNEK ZVEŘEJNĚN"
 
 ID=WorkshopError
 Current="Error accessing service."
@@ -19252,7 +19260,7 @@ Translate=""
 
 ID=ActiveContractsScreen_Help_Refresh
 Current="{CONTROL:GUI:BUTTON_Y} Refresh"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Obnovit"
 
 ID=ControlMenuItemLabel_ActiveContracts
 Current="Show Active Contracts"
@@ -19264,23 +19272,23 @@ Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=RadialMenuAction_EnableBroadcasting_None
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=RadialMenuAction_EnabledConnectors_None
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=RadialMenuAction_EnabledDampeners_None
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=RadialMenuAction_EnabledLights_None
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=RadialMenuAction_EnablePower_None
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=RadialMenuAction_PlacementMode_ClipboardRoattion_Disabled
 Current="Rotation disabled"
@@ -19292,11 +19300,11 @@ Translate=""
 
 ID=RadialMenuAction_PlacementMode_Grid_Free
 Current="Free placement"
-Translate=""
+Translate="Volné pokládání"
 
 ID=RadialMenuAction_PlacementMode_Grid_Gravity
 Current="Gravity aligned"
-Translate=""
+Translate="Pokládání dle gravitace"
 
 ID=RadialMenuAction_PlacementMode_Grid_Local
 Current="Local coordinates"
@@ -19308,7 +19316,7 @@ Translate="Plné zobrazení"
 
 ID=RadialMenuAction_Signal_MaxSignals
 Current="Max Signals"
-Translate=""
+Translate="Maximimum signálů"
 
 ID=RadialMenuAction_Signal_NoNames
 Current="No names"
@@ -19316,75 +19324,75 @@ Translate="Žádná jména"
 
 ID=RadialMenuAction_SwitchCamera_None
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=RadialMenuAction_Shortcut_AdminMenu
 Current="{GAMEPAD_CONTROL:ABASE:ADMIN_MENU}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:ABASE:ADMIN_MENU}"
 
 ID=RadialMenuAction_Shortcut_BlueprintScreen
 Current="{GAMEPAD_CONTROL:ABASE:BLUEPRINTS_MENU}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:ABASE:BLUEPRINTS_MENU}"
 
 ID=RadialMenuAction_Shortcut_ColorTool
 Current="{GAMEPAD_CONTROL:CHARACTER:COLOR_TOOL}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:CHARACTER:COLOR_TOOL}"
 
 ID=RadialMenuAction_Shortcut_PlacementMode
 Current="{GAMEPAD_CONTROL:BUILD:FREE_ROTATION}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:BUILD:FREE_ROTATION}"
 
 ID=RadialMenuAction_Shortcut_ShowProgressionTree
 Current="{GAMEPAD_CONTROL:ABASE:PROGRESSION_MENU}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:ABASE:PROGRESSION_MENU}"
 
 ID=RadialMenuAction_Shortcut_SwitchCamera
 Current="{GAMEPAD_CONTROL:BASE:CAMERA_MODE}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:BASE:CAMERA_MODE}"
 
 ID=RadialMenuAction_Shortcut_ToggleAutoRotation
 Current="{GAMEPAD_CONTROL:BUILD:CUBE_DEFAULT_MOUNTPOINT}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:BUILD:CUBE_DEFAULT_MOUNTPOINT}"
 
 ID=RadialMenuAction_Shortcut_ToggleBroadcasting
 Current="{GAMEPAD_CONTROL:TOOLS:BROADCASTING}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:TOOLS:BROADCASTING}"
 
 ID=RadialMenuAction_Shortcut_ToggleConnectors
 Current="{GAMEPAD_CONTROL:SPACESHIP:LANDING_GEAR}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:SPACESHIP:LANDING_GEAR}"
 
 ID=RadialMenuAction_Shortcut_ToggleDampeners
 Current="{GAMEPAD_CONTROL:BASE:DAMPING}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:BASE:DAMPING}"
 
 ID=RadialMenuAction_Shortcut_ToggleLights
 Current="{GAMEPAD_CONTROL:BASE:HEADLIGHTS}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:BASE:HEADLIGHTS}"
 
 ID=RadialMenuAction_Shortcut_TogglePower
 Current="{GAMEPAD_CONTROL:SPACESHIP:TOGGLE_REACTORS}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:SPACESHIP:TOGGLE_REACTORS}"
 
 ID=RadialMenuAction_Shortcut_ToggleSignals
 Current="{GAMEPAD_CONTROL:ABASE:TOGGLE_SIGNALS}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:ABASE:TOGGLE_SIGNALS}"
 
 ID=RadialMenuAction_Shortcut_ToggleSymmetry
 Current="{GAMEPAD_CONTROL:BUILD:USE_SYMMETRY}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:BUILD:USE_SYMMETRY}"
 
 ID=RadialMenuAction_Shortcut_ToggleVisor
 Current="{GAMEPAD_CONTROL:CHARACTER:HELMET}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:CHARACTER:HELMET}"
 
 ID=RadialMenuAction_Shortcut_Unequip
 Current="{GAMEPAD_CONTROL:TOOLS:SLOT0}"
-Translate=""
+Translate="{GAMEPAD_CONTROL:TOOLS:SLOT0}"
 
 ID=MainMenuScreen_Help_Exit
 Current="{CONTROL:GUI:BUTTON_X} Exit to Windows"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} Odejít do Windows"
 
 ID=OptionsScreen_Help_Menu
 Current="{CONTROL:GUI:ACCEPT} Select"
@@ -19404,7 +19412,7 @@ Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=MainMenuScreen_Help_ScreenIngame
 Current="{CONTROL:GUI:BUTTON_Y} Show help   {CONTROL:GUI:CANCEL} Resume game"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Nápověda  {CONTROL:GUI:CANCEL} Pokračovat ve hře"
 
 ID=NewsControl_Help_Next
 Current="{CONTROL:GUI:ACCEPT} Select"
@@ -19416,7 +19424,7 @@ Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=EditFactionLogoScreen_Help_ChangeColor
 Current="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Change Color"
-Translate=""
+Translate="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Změnit barvu"
 
 ID=EditFactionLogoScreen_Help_Selection
 Current="{CONTROL:GUI:ACCEPT} OK"
@@ -19456,15 +19464,15 @@ Translate=""
 
 ID=AudioOptions_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=ControlsOptions_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=DisplayOptions_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=GameOptions_Help_Screen_TabGeneral
 Current="{CONTROL:GUI:BUTTON_Y} Reset Good.bot hints   {CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
@@ -19472,14 +19480,14 @@ Translate=""
 
 ID=GameOptions_Help_Screen_TabCrosshair
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=GraphicsOptions_Help_Screen
-Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
+Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 Translate=""
 
 ID=AdvancedWorldSettings_Help_Screen
-Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
+Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 Translate=""
 
 ID=LoadScreen_Help_Screen
@@ -19500,11 +19508,11 @@ Translate=""
 
 ID=ModsScreen_Help_Screen
 Current="{CONTROL:GUI:BUTTON_Y} Refresh   {CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Obnovit   {CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=WorkshopTagsScreen_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=WorkshopTagsScreen_HelpNoOk_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
@@ -19520,7 +19528,7 @@ Translate=""
 
 ID=NewGameScenarios_Help_ScenarioWithPublish
 Current="{CONTROL:GUI:ACCEPT} Select   {CONTROL:GUI:BUTTON_Y} Publish"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat   {CONTROL:GUI:BUTTON_Y} Zveřejnit"
 
 ID=NewGameScenarios_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} Start   {CONTROL:GUI:CANCEL} Back"
@@ -19544,19 +19552,19 @@ Translate=""
 
 ID=ServerSearch_Help_Screen
 Current="{CONTROL:GUI:BUTTON_Y} Default   {CONTROL:GUI:BUTTON_X} Search   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Výchozí   {CONTROL:GUI:BUTTON_X} Hledat   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=MedicalsScreen_Help_Factions
 Current="{CONTROL:GUI:BUTTON_Y} Refresh"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Obnovit"
 
 ID=MedicalsScreen_Help_FactionsMultiplayer
 Current="{CONTROL:GUI:VIEW} Players   {CONTROL:GUI:BUTTON_Y} Refresh"
-Translate=""
+Translate="{CONTROL:GUI:VIEW} Hráči   {CONTROL:GUI:BUTTON_Y} Obnovit"
 
 ID=MedicalsScreen_Help_Respawn
 Current="{CONTROL:GUI:BUTTON_Y} Refresh   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Obnovit   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=TerminalGps_Help_Screen
 Current="{CONTROL:GUI:BUTTON_Y} Delete   {CONTROL:GUI:BUTTON_X} New from current position   {CONTROL:GUI:MODIF_L} + {CONTROL:GUI:BUTTON_X} New   {CONTROL:GUI:MODIF_R} + {CONTROL:GUI:BUTTON_X} New from clipboard   {CONTROL:GUI:CANCEL} Back"
@@ -20532,15 +20540,15 @@ Translate="Zaprášené kamení 3"
 
 ID=ControlMenuItemLabel_TritonBlend
 Current="Triton blend"
-Translate="Triton - Přechod"
+Translate="Tritonský přechod"
 
 ID=ControlMenuItemLabel_TritonIce
 Current="Triton ice"
-Translate="Tritononský led"
+Translate="Tritonský led"
 
 ID=ControlMenuItemLabel_TritonStone
 Current="Triton stone"
-Translate="Tritnoský kámen"
+Translate="Tritonský kámen"
 
 ID=RadialMenuGroupTitle_VoxelTritonPertam
 Current="Triton and Pertam"
@@ -21108,7 +21116,7 @@ Translate="Platák - My checeme tebe"
 
 ID=CustomWorld_PetramOrbiter
 Current="Pertam Orbiter"
-Translate=""
+Translate="Pertam Orbiter"
 
 ID=ScreenDebugAdminMenu_Spectator
 Current="Spectator Tool"
@@ -21494,13 +21502,6 @@ ID=DisplayName_Block_HalfCoverWallMirror
 Current="Half Cover Wall Mirrored"
 Translate="Krycí stěna - Půlka - Zrcadlová"
 
-ID=DisplayName_Block_AdvancedRotor3x3rozdělené okno
-Current="Advanced Rotor 3x3"
-Translate="Rotor - Pokročilý - 3x3"
-
-ID=DisplayName_Block_AdvancedRotorPart3x3
-Current="Advanced Rotor Part 3x3"
-Translate="Rotor - Pokročilý - 3x3 (Část)"
 
 ID=DisplayName_Block_ConveyorConverter
 Current="Conveyor Converter"
@@ -21508,7 +21509,7 @@ Translate="Dopravník - Přechodka"
 
 ID=Description_EngineerPlushie
 Current="An advanced motivational device of pristine quality.Can not be crafted or disassembled."
-Translate=""
+Translate="Pokročilé motivujicí zařízení prvotřídní kvality. Nelze vyrobit ani rozebrat."
 
 ID=DisplayName_Block_HalfWindowDiagonal
 Current="Half Window Diagonal"
@@ -21612,7 +21613,7 @@ Translate="Dopravník - Vystužený - Téčko"
 
 ID=RadialMenuGroupTitle_Hitech
 Current="Hi-tech"
-Translate=""
+Translate="Hi-tech"
 
 ID=DisplayName_Block_BasicMissionBlock
 Current="AI Basic (Task)"
@@ -21784,7 +21785,7 @@ Translate=""
 
 ID=FollowPlayer_FollowDistance_Title
 Current="Follow Distance"
-Translate=""
+Translate="Vzdálenost následování"
 
 ID=FollowPlayer_FollowDistance_Tooltip
 Current="The grid will try to stay within this distance of the player it is following."
@@ -21824,11 +21825,11 @@ Translate=""
 
 ID=FollowHome_Wander_Title
 Current="Wander when idle"
-Translate=""
+Translate="Toulání při nečinnosti"
 
 ID=FollowHome_Wander_Tooltip
 Current="If set, the grid will wander to random positions within the min and max range from home."
-Translate=""
+Translate="Pokud je zaškrtnuto, konstrukce se bude toulac na náhodných pozicích v minimálním a maximálním dosahu z domova."
 
 ID=EventControllerBlock_AvailableEvents
 Current="Event"
@@ -21908,15 +21909,15 @@ Translate=""
 
 ID=DefensiveCombatBlock_TargetLock_Enemies
 Current="Enemies"
-Translate=""
+Translate="Nepřátelé"
 
 ID=DefensiveCombatBlock_TargetLock_EnemiesAndNeutrals
 Current="Enemies and neutrals"
-Translate=""
+Translate="Nepřátelé a neutrální"
 
 ID=DefensiveCombatBlock_TargetLock_Nobody
 Current="Nobody"
-Translate=""
+Translate="Nikoho"
 
 ID=DefensiveCombatBlock_SubsystemsToDestroy
 Current="Subsystems to destroy"
@@ -22232,7 +22233,7 @@ Translate=""
 
 ID=EventControllerBlock_BoolTriggerState_Title
 Current="Target Prediction"
-Translate=""
+Translate="Předměřování"
 
 ID=DisplayName_EventConnectorConnected
 Current="Connector Connected"
@@ -22360,11 +22361,11 @@ Translate="[DLC] Automatoni              "
 
 ID=BlockPropertyTooltip_PathRecorder_Play
 Current="Start/stop playing the recorded path."
-Translate=""
+Translate="Spustit/Zastavit přehrávání nahrané cesty."
 
 ID=BlockPropertyTooltip_PathRecorder_Repeat
 Current="Repeat the path."
-Translate=""
+Translate="Opakovat cestu"
 
 ID=BlockPropertyTooltip_PathRecorder_ClearWaypoints
 Current="Deselect all waypoints."
@@ -22372,7 +22373,7 @@ Translate="Odznačit všechny trasy."
 
 ID=BlockPropertyTooltip_PathRecorder_DeleteAllWaypoints
 Current="Delete all waypoints."
-Translate=""
+Translate="Smazat všechny body trasy."
 
 ID=BlockPropertyTooltip_PathRecorder_DeleteSelectedWaypoints
 Current="Delete selected waypoints."
@@ -22576,7 +22577,7 @@ Translate="Stav: Blok deaktivován"
 
 ID=CombatBlock_Tooltip_Circle
 Current="The grid will try to circle or orbit the enemy at a customizable distance"
-Translate=""
+Translate="Konstrukce se pokusí kroužit či obíhat okolo nepřítele nastavitelnou vzdáleností"
 
 ID=CombatBlock_Tooltip_StayAtRange
 Current="The grid will try to keep the enemy between a customizable min/max distance."
@@ -22636,7 +22637,7 @@ Translate="Stav: Útočení na {0}"
 
 ID=FollowHome_StatusMessage_Wandering
 Current="Status: Wandering around {0}"
-Translate=""
+Translate="Stav: Toulá se okolo {0}"
 
 ID=FlightBlock_HitRun_StatusMessage_Retreating
 Current="Status: Retreating from {0}"
@@ -23076,7 +23077,7 @@ Translate=""
 
 ID=OffensiveCombatBlock_FacingMode_Tooltip
 Current="Use static weapons or manually set what side(s) should face the enemy"
-Translate=""
+Translate="Použijte statické zbraně nebo manuálně nastavte stranu, která má čelit nepříteli"
 
 ID=DefensiveCombatBlock_SavedGps
 Current="(Saved) "
@@ -23324,11 +23325,11 @@ Translate="Při útěku bude konstrukce v tomto intervalu měnit směr."
 
 ID=DefensiveCombatBlock_FleeMode_Title
 Current="Flee Destination"
-Translate=""
+Translate="Cíl útěku"
 
 ID=DefensiveCombatBlock_FleeMode_Tooltip
 Current="Determines where the grid will flee to.Away from target - The grid will flee into the opposite direction of a threat.To GPS / Beacon - The grid will flee towards a selected GPS or Beacon"
-Translate=""
+Translate="Určuje kam konstrukce uteče. Pryč od cíle -  Konstukce uteče opačným směrem od hrozby. K GPS / Majáku - Konstrukce uteče ke zvolenému Majáku či GPS"
 
 ID=DefensiveCombatBlock_FleeMode_AwayFromTarget
 Current="Away from target"
