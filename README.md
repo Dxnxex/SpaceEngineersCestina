@@ -1,6 +1,13 @@
 # Space Engineers Čeština
 
-**Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci)**
+**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.05)**
+<li>Přeložitelných řádků: 5937</li>
+<li>Přeložených řádků: 3697</li>
+<li>Nepřeložených řádků: 2240</li>
+<li>Přeloženo 62.2%</li>
+<br>
+
+**Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
 1. Stáhnete si aktuální nebo libovolný starší soubor s češtinou: "MyTexts.cs-CZ.resx"
 2. Najdete si cestu kam vložit aktuální soubor s češtinou: *\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization
 3. Vložíte soubor a je to.
@@ -20,7 +27,8 @@
 7. Safe Zone - Ochranné pole
 8. Merge block - Spojovač
 9. Event Controler - Ovladač Událostí
-      
+10. Fractions - Klany (Ano "Frakce" se mně moc nelibí)
+
 **08.09.2023 - Verze 1.01** 
 1. Montéry a Rafinérie
 2. Trysky
@@ -40,3 +48,16 @@
 
 **10.09.2023 - Verze 1.04** 
 1. Zlepšení věcí pro ADMINA
+
+**04.11.2023 - Verze 1.05** 
+1. Velká část oken
+2. Různé popisy předmětů
+3. Přidány do překladu (zatím nepřelozené) ID pro update 10th Anniversary
+
+Děkuji za pomoc a ochotu @pa4k
+
+![](https://www.givingloop.org/blog/wp-content/uploads/2019/03/image-12.png)
+
+Pokud chcete podpořit tvorbu můžete zde: [PAYPAL DONATE](https://www.paypal.com/donate/?hosted_button_id=PLFUUKBL3D3P6)
+
+
