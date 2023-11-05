@@ -11310,7 +11310,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BlockAction_RemoveFromToolbar" xml:space="preserve">
-<value>[odebrat z nástrojového panelu</value>
+<value>[odebrat z nástrojového panelu]</value>
 <comment>CZE</comment>
 </data>
 <data name="BlockComboBoxValue_TextPanelAccessOnlyOwner" xml:space="preserve">
@@ -11346,7 +11346,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BlockPropertyTitle_BreakForce" xml:space="preserve">
-<value>Síla zlomu</value>
+<value>Síla rozpojení</value>
 <comment>CZE</comment>
 </data>
 <data name="BlockPropertyTitle_Motor_SteerSpeed" xml:space="preserve">
@@ -11378,7 +11378,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BroadcastScreen_TerminalButtonDisabled_ToolTip" xml:space="preserve">
-<value>Nemohu otevřít termínál cílené konstrukce. Přejeď myší přes ikonu stavu pro více informací.</value>
+<value>Nemohu otevřít termínál cílové konstrukce. Přejeď myší přes ikonu stavu pro více informací.</value>
 <comment>CZE</comment>
 </data>
 <data name="BroadcastScreen_TerminalButton_NoStableConnectionToolTip" xml:space="preserve">
@@ -14038,7 +14038,7 @@
 <comment>CZE</comment>
 </data>
 <data name="FlightMovementBlock_NoThrustInAllDirections" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Konstrukce se nemůže pohybovat jedním nebo více směry, zajistěte, aby byl pro každý směr k dispozici tryska!</value>
+<value>[Color=#FFFF0000]CHYBA: Konstrukce se nemůže pohybovat jedním nebo více směry, zajistěte, aby byl pro každý směr k dispozici tryska![/Color]</value>
 <comment>CZE</comment>
 </data>
 <data name="EventControllerBlock_Condition" xml:space="preserve">
@@ -14134,7 +14134,7 @@
 <comment>CZE</comment>
 </data>
 <data name="StoreBuy_Error_Caption_StoreNotOwnedByFaction" xml:space="preserve">
-<value>Transakce selhala</value>
+<value>Transakce Selhala</value>
 <comment>CZE</comment>
 </data>
 <data name="StoreBuy_Error_StoreNotOwnedByFaction" xml:space="preserve">
@@ -14142,11 +14142,11 @@
 <comment>CZE</comment>
 </data>
 <data name="StoreSell_Error_Caption_NoFaction" xml:space="preserve">
-<value>Transakce selhala</value>
+<value>Transakce Selhala</value>
 <comment>CZE</comment>
 </data>
 <data name="StoreSell_Error_Text_NoFaction" xml:space="preserve">
-<value>Obchod není vlatněn klanem.</value>
+<value>Obchod není vlastněn klanem.</value>
 <comment>CZE</comment>
 </data>
 <data name="EventOutputInfo" xml:space="preserve">
@@ -14246,7 +14246,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_LockTarget" xml:space="preserve">
-<value>Uzamčení cíle</value>
+<value>Uzamčení Cíle</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_LockTarget_Tooltip" xml:space="preserve">
@@ -14266,7 +14266,7 @@
 <comment>CZE</comment>
 </data>
 <data name="OffensiveCombatBlock_FacingPriority_Title" xml:space="preserve">
-<value>Priorita nasměrování</value>
+<value>Priorita Nasměrování</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_TimerBlockReskin" xml:space="preserve">
@@ -14378,7 +14378,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_HitAndRun_CustomWaypoint" xml:space="preserve">
-<value>Vlastní bod trasy</value>
+<value>Vlastní Bod Trasy</value>
 <comment>CZE</comment>
 </data>
 <data name="FlightMovementBlock_MaxPitchAngle" xml:space="preserve">
@@ -14386,7 +14386,7 @@
 <comment>CZE</comment>
 </data>
 <data name="FlightMovementBlock_MaxRollAngle_Tooltip" xml:space="preserve">
-<value>Při přesunu k bodu trasy v přírodní gravitaci se může konstrukce přetočit doleva nebo doprava o tento úhel</value>
+<value>Při přesunu k bodu trasy v přirozené gravitaci se může konstrukce přetočit doleva nebo doprava o tento úhel</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft" xml:space="preserve">
@@ -14406,19 +14406,19 @@
 <comment>CZE</comment>
 </data>
 <data name="OffensiveDefensiveCombatBlock_CanTargetCharacters" xml:space="preserve">
-<value>Cílit postavy</value>
+<value>Zaměřovat postavy</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_SavedGps" xml:space="preserve">
-<value>(Uloženo)</value>
+<value>(Uloženo) </value>
 <comment>CZE</comment>
 </data>
 <data name="BasicMissionBlock_SavedGps" xml:space="preserve">
-<value>(Uloženo)</value>
+<value>(Uloženo) </value>
 <comment>CZE</comment>
 </data>
 <data name="Assembler_ItemsInQueue" xml:space="preserve">
-<value>Předměty v frontě: {0}/{1}</value>
+<value>Položek ve frontě: {0}/{1}</value>
 <comment>CZE</comment>
 </data>
 <data name="EventState_Merged" xml:space="preserve">
@@ -14494,7 +14494,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_SabiroidPlushie" xml:space="preserve">
-<value>Pokročilé motivujicí zařízení prvotřídní kvality. Nelze vyrobit ani rozebrat.</value>
+<value>Pokročilé motivační zařízení prvotřídní kvality. Nelze vyrobit ani rozebrat.</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SabiroidPlushie" xml:space="preserve">
@@ -14542,7 +14542,7 @@
 <comment>CZE</comment>
 </data>
 <data name="WorldSettings_Error_MustSignIn" xml:space="preserve">
-<value>byste mohli změnit online režim, musíte se přihlásit"</value>
+<value>Abyste mohli změnit online režim, musíte se přihlásit</value>
 <comment>CZE</comment>
 </data>
 <data name="DedicatedServer_Join_CrossPlayError" xml:space="preserve">
@@ -14550,7 +14550,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Medical_EnableAutorespawn_Tooltip" xml:space="preserve">
-<value>Tohle není nejbližší Zdravotnická místnost. Automatické oživení v nastavení světa, vám zabrání se zde znovu zrodit.</value>
+<value>Tohle není nejbližší Zdravotnická místnost. (*Způsob*) "Auto-oživení" v nastavení světa, (*vám za*)brání se zde znovu zrodit.</value>
 <comment>CZE</comment>
 </data>
 <data name="OpenDlcShop_ps" xml:space="preserve">
@@ -14586,23 +14586,23 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Screen_Center" xml:space="preserve">
-<value>Obrazovka - Středová</value>
+<value>Středová Obrazovka</value>
 <comment>CZE</comment>
 </data>
 <data name="BlueprintshareTimeOutText" xml:space="preserve">
-<value>Nemůžete sdílej plánky takto rychle</value>
+<value>Nemůžete sdílet blueprinty takto rychle</value>
 <comment>CZE</comment>
 </data>
 <data name="BlueprintshareTimeOut" xml:space="preserve">
-<value>Časovový limit pro sdílení plánku</value>
+<value>Časový limit pro sdílení blueprintu</value>
 <comment>CZE</comment>
 </data>
 <data name="Blueprintshare_Label" xml:space="preserve">
-<value>Sdílet plánek</value>
+<value>Sdílet blueprint</value>
 <comment>CZE</comment>
 </data>
 <data name="Blueprintshare_Tooltip" xml:space="preserve">
-<value>Povoluje / Zakazuje přijímání plánků</value>
+<value>Povoluje/Zakazuje přijímání blueprintů</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeDistance_Title" xml:space="preserve">
@@ -14614,11 +14614,11 @@
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuvers_Title" xml:space="preserve">
-<value>Úhybné manévry</value>
+<value>Úhybné Manévry</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuvers_Tooltip" xml:space="preserve">
-<value>Umělá inteligence se pokusí o úhybné manévry před příchozími projektily.</value>
+<value>Umělá inteligence bude provádět úhybné manévry, aby se vyhnula přilétajícím střelám.</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_AwayFromTarget" xml:space="preserve">
@@ -14630,11 +14630,11 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
-<value>Větrná turbína - Dvoulistá</value>
+<value>Větrná Turbína - Dvoulistá</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_MedicalRoomReskin" xml:space="preserve">
-<value>Zdravotnická místnost - Rohová</value>
+<value>Zdravotnická Místnost - Rohová</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_LargeAtmoThrustFlat" xml:space="preserve">
@@ -14822,7 +14822,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_DLC_Major203DLC" xml:space="preserve">
-<value>Dekorativní bloky 3</value>
+<value>Dekorativní Bloky 3</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
@@ -21459,107 +21459,11 @@
 <value>[Color=#FFFF0000]CHYBA: Není zadán žádný pohyb. Prosím, přidejte/aktivujte Úkol a/nebo Bojový blok![/Color]</value>
 <comment>CZE</comment>
 </data>
-<data name="AIBlocks_HudMessage_Error" xml:space="preserve">
-<value>CHYBA</value>
-<comment>CZE</comment>
-</data>
-<data name="Terminal_ShowAiWaypointOnHud" xml:space="preserve">
-<value> - Bod Trasy</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StatusMessage_Idle" xml:space="preserve">
-<value>Stav: Nečinný</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StatusMessage_MaintainingMinimalHeight" xml:space="preserve">
-<value>Stav: Udržuje minimální výšku: {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_StatusMessage_Searching" xml:space="preserve">
-<value>Stav: Vyhledávání nepřátel... {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_StatusMessage_TargetLocking" xml:space="preserve">
-<value>Stav: Zaměřování cíle {0}. Zbývá {1}.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_StatusMessage_TargetLocked" xml:space="preserve">
-<value>Stav: Cíl uzamčen {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_StatusMessage_Fleeing" xml:space="preserve">
-<value>Stav: Utíká před {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StatusMessage_Fleeing" xml:space="preserve">
-<value>Stav: Utíká před {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_StatusMessage_Attacking" xml:space="preserve">
-<value>Stav: Útočí na {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_StatusMessage_Wandering" xml:space="preserve">
-<value>Status: Wandering around {0}</value>
-</data>
-<data name="FlightBlock_HitRun_StatusMessage_Retreating" xml:space="preserve">
-<value>Stav: Ustupuje z {0}</value>
-<comment>CZE</comment>
-</data>
 <data name="FollowHome_StatusMessage_Wandering" xml:space="preserve">
 <value>Status: Wandering around {0}</value>
 </data>
 <data name="FlightBlock_PathRecorder_StatusMessage_MovingToWaypoint" xml:space="preserve">
 <value>Stav: Přesun na bod trasy Rekordéru {0}</value>
-<comment>CZE</comment>
-</data>
-
-<data name="FlightBlock_HitRun_StatusMessage_Attacking" xml:space="preserve">
-<value>Stav: Útočí na {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_StayAtRange_StatusMessage_Keeping" xml:space="preserve">
-<value>Stav: Zůstáva na Dostřel od {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_Circle_StatusMessage_Circling" xml:space="preserve">
-<value>Stav: Kroužení {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_Intercept_StatusMessage_Intercepting" xml:space="preserve">
-<value>Stav: Zachycování {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_Idle" xml:space="preserve">
-<value>Stav: Nečinný</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_Recording" xml:space="preserve">
-<value>Stav: Nahrávání</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightMovementBlock_NoGyro" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Konstrukce se nemůže otáčet, přidejte prosím gyroskop![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightMovementBlock_NoThrustInAllDirections" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Konstrukce se nemůže pohybovat jedním nebo více směry, zajistěte, aby byl pro každý směr k dispozici tahový motor![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="EventControllerBlock_Condition_Tooltip" xml:space="preserve">
-<value>Nastavuje, za jakých podmínek se akce spustí.</value>
-<comment>CZE</comment>
-</data>
-<data name="StoreBuy_Error_Caption_StoreNotOwnedByFaction" xml:space="preserve">
-<value>Transakce Selhala</value>
-<comment>CZE</comment>
-</data>
-<data name="StoreSell_Error_Caption_NoFaction" xml:space="preserve">
-<value>Transakce Selhala</value>
-<comment>CZE</comment>
-</data>
-<data name="StoreSell_Error_Text_NoFaction" xml:space="preserve">
-<value>Obchod není ve vlastnictví klanu.</value>
 <comment>CZE</comment>
 </data>
 <data name="ActiveContractsScreen_Help_Abandon" xml:space="preserve">
@@ -21569,59 +21473,8 @@
 <value>vteřin/y</value>
 <comment>CZE</comment>
 </data>
-<data name="FollowHome_HomeNotSet" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Domovská pozice není nastavena, zvolte prosím domovskou pozici![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_Following" xml:space="preserve">
-<value>Stav: Následuje {0}.</value>
-<comment>CZE</comment>
-</data>
-<data name="Autopilot_MovingToGPS" xml:space="preserve">
-<value>Stav: Přesouvá se na GPS {0}.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_AccesPanel" xml:space="preserve">
-<value>Přístupové Panely umožňují přístup pro případ nouze nebo údržby a dodávají plochým povrchům detailnější vzhled.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_LockTarget" xml:space="preserve">
-<value>Uzamčení Cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_LockTarget_Tooltip" xml:space="preserve">
-<value>Uzamkne zamíření na konstrukce, které splňují výše uvedené podmínky</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_Nominal" xml:space="preserve">
-<value>NOMINÁL: {0} použitý jako referenční cíl</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_ErrorNotFacingForward" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: {0} nesměřuje dopředu, tato zbraň nebude použita![/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_Status_WarningMultipleAmmo" xml:space="preserve">
-<value>[Color=#FFFFBB00]VAROVÁNÍ: Zjištěno více typů munice, přesnost může být snížena[/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_FacingPriority_Title" xml:space="preserve">
-<value>Priorita Nasměrování</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_EmotionController" xml:space="preserve">
 <value>Ovladač Emocí zobrazuje emotikony a může je kopírovat na další přiřazené LCD panely a obrazovky. </value>
-<comment>CZE</comment>
-</data>
-<data name="Autopilot_Collision_Avoidance_Error" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Cíl není dosažitelný. Funkce zamezení kolize zabraňuje pohybu této konstrukce uvnitř ohraničeného pole statické konstrukce. Přesuňte tuto konstrukci a/nebo cíl mimo ohraničený rámeček jakékoli statické konstrukce nebo vypněte vyhýbání se kolizím.[/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_BlockDisabled" xml:space="preserve">
-<value>Status: Block disabled</value>
-</data>
-<data name="DefensiveCombatBlock_HitAndRun_CustomWaypoint" xml:space="preserve">
-<value>Vlastní Bod Trasy</value>
 <comment>CZE</comment>
 </data>
 <data name="PathRecorderComponent_StatusMessage_BlockDisabled" xml:space="preserve">
@@ -21635,29 +21488,6 @@
 <value>Maximální Úhel Náklonu</value>
 <comment>CZE</comment>
 </data>
-<data name="FlightMovementBlock_MaxRollAngle_Tooltip" xml:space="preserve">
-<value>Při přesunu k bodu trasy v systému P-Gravitace se může konstrukce přetočit doleva nebo doprava o tento úhel</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft" xml:space="preserve">
-<value>Stav: Zaměřování cíle {0}. Zbývá {1}s.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveDefensiveCombatBlock_TargetLocked" xml:space="preserve">
-<value>Stav: Cíl uzamčen {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_CharacterLocked" xml:space="preserve">
-<value>Útočení {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_CharacterLocked" xml:space="preserve">
-<value>Stav: Obrana proti {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveDefensiveCombatBlock_CanTargetCharacters" xml:space="preserve">
-<value>Target Characters</value>
-</data>
 <data name="OffensiveCombatBlock_FacingMode" xml:space="preserve">
 <value>Režim Nasměrování</value>
 <comment>CZE</comment>
@@ -21666,27 +21496,12 @@
 <value>Použijte statické zbraně nebo ručně nastavte, která strana (strany) má (mají) směřovat k nepříteli.</value>
 <comment>CZE</comment>
 </data>
-<data name="DefensiveCombatBlock_SavedGps" xml:space="preserve">
-<value>(Uloženo) </value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionBlock_SavedGps" xml:space="preserve">
-<value>(Uloženo) </value>
-<comment>CZE</comment>
-</data>
-<data name="Assembler_ItemsInQueue" xml:space="preserve">
-<value>Položky ve frontě: {0}/{1}</value>
-<comment>CZE</comment>
-</data>
-<data name="EventState_Merged" xml:space="preserve">
-<value>Sloučen</value>
-<comment>CZE</comment>
-</data>
-<data name="EventState_NotMerged" xml:space="preserve">
-<value>Nesloučen</value>
-<comment>CZE</comment>
 <data name="EventState_EventThrustPercentage" xml:space="preserve">
 <value>Tah: </value>
+</data>
+<data name="PlayersScreen_Help_PlayersList_ProfileDisabled" xml:space="preserve">
+<value>{CONTROL:GUI:BUTTON_X} Obchod   {CONTROL:GUI:BUTTON_Y} Přepnout ztišení</value>
+<comment>CZE</comment>
 </data>
 <data name="Bitmap1" xml:space="preserve">
 <value>[base64 mime encoded serialized .NET Framework object]</value>
@@ -21694,118 +21509,12 @@
 <data name="Icon1" xml:space="preserve">
 <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
 </data>
-<data name="CombatBlock_OffensivePatternsTooltip" xml:space="preserve">
-<value>Určuje způsob, jakým bude konstrukce útočit na nepřítele.Kroužit/Obíhat - Konstrukce se bude snažit obletět nepřítele v nastavitelné vzdálenosti.Zůstat na Dostřel - Konstrukce se bude snažit udržet nepřítele v nastavitelné minimální/maximální vzdálenosti.Udeřit a Utéct - Konstrukce bude neustále útočit na cíl, a když se k němu přiblíží, přeruší útok a ustoupí. Zachycení - Konstrukce se bude snažit zadržet nepřítele a vrazit do něj.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_SabiroidPlushie" xml:space="preserve">
-<value>Pokročilé motivační zařízení prvotřídní kvality.Nelze vyrobit ani rozebrat.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_EvasiveManeuverIntervalRange_Title" xml:space="preserve">
-<value>Random Deviations Interval</value>
-</data>
-<data name="Department_PlaystationPort" xml:space="preserve">
-<value>PlayStation®4 a PlayStation®5 Port</value>
-<comment>CZE</comment>
-</data>
-<data name="WelcomeScreen_Text3_console" xml:space="preserve">
-<value>Pokud se vyskytnou nějaké problémy, neváhejte navštívit stránky podpory nebo náš Discord server, kde jsou k dispozici vývojáři a mnoho zkušených hráčů, kteří vám pomohou!Hodně štěstí při budování vašich snů!</value>
-<comment>CZE</comment>
-</data>
-<data name="PlayersScreen_Help_PlayersList_ProfileDisabled" xml:space="preserve">
-<value>{CONTROL:GUI:BUTTON_X} Obchod   {CONTROL:GUI:BUTTON_Y} Přepnout ztišení</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenModIoConsent_ConsentTextPart2_ps" xml:space="preserve">
-<value> •   Přihlašovací ID•   Zobrazované jméno•   Avatar</value>
-<comment>CZE</comment>
-</data>
-<data name="EnableCrossplay" xml:space="preserve">
-<value>Povolení Crossplay</value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipOptionsGame_Crossplay" xml:space="preserve">
-<value>Umožňuje hrát hry, které nebyly vytvořeny pro konzole PlayStation®4 a PlayStation®5</value>
-<comment>CZE</comment>
-</data>
-<data name="Crossplay_Disabled_Warning" xml:space="preserve">
-<value>Servery crossplay jsou vypnuté. Přejděte do nabídky Možnosti Hry a povolte je.</value>
-<comment>CZE</comment>
-</data>
-<data name="WorldSettings_Error_MustSignIn" xml:space="preserve">
-<value>Abyste mohli změnit online režim, musíte se přihlásit</value>
-<comment>CZE</comment>
-</data>
-<data name="DedicatedServer_Join_CrossPlayError" xml:space="preserve">
-<value>Abyste se mohli připojit k dedikovanému serveru, musíte v Možnostech Hry povolit crossplay</value>
-<comment>CZE</comment>
-<data name="BlockComboBoxValue_TextPanelAccessReadWriteAll" xml:space="preserve">
-<value>Everyone read/write</value>
-</data>
-<data name="Description_LargeFlareLauncher" xml:space="preserve">
-<value>A launcher for signalling or putting up a spectacle.</value>
-</data>
-<data name="DisplayName_Block_FlareLauncher" xml:space="preserve">
-<value>Firework Launcher</value>
-</data>
-<data name="DisplayName_Item_FlareClip" xml:space="preserve">
-<value>Flare Gun Clip</value>
-</data>
-<data name="Medical_EnableAutorespawn_Tooltip" xml:space="preserve">
-<value>Tohle není nejbližší zdravotnická místnost. "Auto-oživení" v nastavení světa, vám zabrání se zde znovu zrodit.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyDescription_PowerDependency" xml:space="preserve">
-<value>Určuje, jak moc je efekt záření závislý na procentuální spotřebě energie v síti.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_StatusMessage_ReadyToFlee" xml:space="preserve">
-<value>Stav: Obrana proti {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Screen_Center" xml:space="preserve">
-<value>Středová Obrazovka</value>
-<comment>CZE</comment>
-</data>
-<data name="BlueprintshareTimeOutText" xml:space="preserve">
-<value>Nemůžete sdílet blueprinty tak rychle</value>
-<comment>CZE</comment>
-</data>
-<data name="BlueprintshareTimeOut" xml:space="preserve">
-<value>Časový limit pro Sdílení blueprintu</value>
-<comment>CZE</comment>
-</data>
-<data name="Blueprintshare_Label" xml:space="preserve">
-<value>Sdílení blueprintu</value>
-<comment>CZE</comment>
-</data>
-<data name="Blueprintshare_Tooltip" xml:space="preserve">
-<value>Povoluje/Zakazuje přijímání blueprintů</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeDistance_Title" xml:space="preserve">
-<value>Úniková vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeDistance_Tooltip" xml:space="preserve">
-<value>Útěk do této vzdálenosti od posledního známého místa ohrožení.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_EvasiveManeuvers_Title" xml:space="preserve">
-<value>Úhybné Manévry</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_EvasiveManeuvers_Tooltip" xml:space="preserve">
-<value>Umělá inteligence bude provádět úhybné manévry, aby se vyhnula přilétajícím střelám.</value>
-<comment>CZE</comment>
-</data>
 <data name="DefensiveCombatBlock_RandomDeviations_Title" xml:space="preserve">
 <value>Úhel Náhodných Odchylek</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_RandomDeviations_Tooltip" xml:space="preserve">
-<value>Aby bylo obtížné předpovědět, kam poletí, změní umělá inteligence svůj kurz na tento úhel v Intervalu Náhodných Odchylek.Poznámka: Nastavení velkého úhlu sníží efektivní rychlost.</value>
+<value>Aby bylo obtížné předpovědět, kam poletí, změní umělá inteligence svůj kurz na tento úhel v Intervalu Náhodných Odchylek. Poznámka: Nastavení velkého úhlu sníží efektivní rychlost.</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuverIntervalRange_Title" xml:space="preserve">
@@ -21813,7 +21522,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_EvasiveManeuverIntervalRange_Tooltip" xml:space="preserve">
-<value>Při útěku bude kontrukce v tomto intervalu měnit směr.</value>
+<value>Při útěku bude konstrukce v tomto intervalu měnit směr.</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_Title" xml:space="preserve">
@@ -21821,23 +21530,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeMode_Tooltip" xml:space="preserve">
-<value>Určuje, kam kontrukce poletí.Pryč od cíle - Konstrukce poletí do opačného směru než hrozba.K GPS / Majáku - Konstrukce poletí směrem k vybranému GPS nebo Majáku.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeMode_AwayFromTarget" xml:space="preserve">
-<value>Pryč od cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeMode_ToGPSOrBeacon" xml:space="preserve">
-<value>K GPS / Majáku</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
-<value>Dvoulopatková Větrná Turbína</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_MedicalRoomReskin" xml:space="preserve">
-<value>Rohová Zdravotnická Místnost</value>
+<value>Určuje, kam konstrukce poletí.Pryč od cíle - Konstrukce poletí do opačného směru než hrozba.K GPS / Majáku - Konstrukce poletí směrem k vybranému GPS nebo Majáku.</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_DefensiveBasicMission_SavedBeacon" xml:space="preserve">
@@ -21845,7 +21538,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ButtonPanelPedestal" xml:space="preserve">
-<value>Podstavec pro Ppanel s Tlačítky</value>
+<value>Podstavec pro Panel s Tlačítky</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ControlPanelPedestal" xml:space="preserve">
@@ -21856,49 +21549,54 @@
 <value>Dekorativní Bloky 3</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_DLC_Major203DLC" xml:space="preserve">
-<value>Dekorativní Bloky 3</value>
+<data name="BlockComboBoxValue_TextPanelAccessReadWriteAll" xml:space="preserve">
+<value>Kdokoli čtení/zápis</value>
 <comment>CZE</comment>
 </data>
-<data name="OffensiveCombatBlock_Status_HitAndRun_WarningNotFacingForward" xml:space="preserve">
-<value>Varování: Jedna nebo více vybraných zbraní nesměřuje dopředu a není použita.</value>
-<comment>CZE</comment>
+<data name="Description_LargeFlareLauncher" xml:space="preserve">
+<value>Odpalovací zařízení pro signalizaci nebo předvádění podívané.</value>
+</data>
+<data name="DisplayName_Block_FlareLauncher" xml:space="preserve">
+<value>Odpalovač Ohňostrojů</value>
+</data>
+<data name="DisplayName_Item_FlareClip" xml:space="preserve">
+<value>Zásobník Signální Pistole</value>
 </data>
 <data name="DisplayName_Item_FlareGun" xml:space="preserve">
-<value>Flare Gun</value>
+<value>Signální Pistole</value>
 </data>
 <data name="DisplayName_Block_StatueEngineer" xml:space="preserve">
-<value>Anniversary Statue</value>
+<value>Socha Výročí</value>
 </data>
 <data name="Description_StatueEngineer" xml:space="preserve">
-<value>A statue to celebrate the 10th anniversary of Space Engineers.</value>
+<value>Socha na oslavu 10. výročí projektu Space Engineers.</value>
 </data>
 <data name="Description_DLC_Anniversary" xml:space="preserve">
-<value>Anniversary</value>
+<value>Výročí</value>
 </data>
 <data name="DisplayName_DLC_Anniversary" xml:space="preserve">
-<value>Anniversary</value>
+<value>Výročí</value>
 </data>
 <data name="Description_FlareGun" xml:space="preserve">
-<value>Flare Guns can be used to signal your position to others or to temporarily illuminate your surroundings.</value>
+<value>Světlice můžete použít k signalizaci své polohy ostatním nebo k dočasnému osvětlení okolí.</value>
 </data>
 <data name="DisplayName_Item_FireworksBoxBlue" xml:space="preserve">
-<value>Fireworks Blue</value>
+<value>Ohňostroj Modrý</value>
 </data>
 <data name="DisplayName_Item_FireworksBoxGreen" xml:space="preserve">
-<value>Fireworks Green</value>
+<value>Ohňostroj Zelený</value>
 </data>
 <data name="DisplayName_Item_FireworksBoxPink" xml:space="preserve">
-<value>Fireworks Pink</value>
+<value>Ohňostroj Růžový</value>
 </data>
 <data name="DisplayName_Item_FireworksBoxRainbow" xml:space="preserve">
-<value>Fireworks Rainbow</value>
+<value>Ohňostroj Duha</value>
 </data>
 <data name="DisplayName_Item_FireworksBoxRed" xml:space="preserve">
-<value>Fireworks Red</value>
+<value>FOhňostroj Červený</value>
 </data>
 <data name="DisplayName_Item_FireworksBoxYellow" xml:space="preserve">
-<value>Fireworks Yellow</value>
+<value>Ohňostroj Žlutý</value>
 </data>
 <data name="SoundBlock_SoundName_MusCompetition2_01" xml:space="preserve">
 <value>Aye</value>
