@@ -16,7 +16,10 @@
 1. Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/
 2. Korektura ještě není bohužel kompletní, jsou tam překlepy.
 3. Možné změny v budoucnosti co se týče překladů už přeloženého.
-   
+
+**Vývojová verze:**
+1. Současná nezveřejněná verze překladu, kde se řeší chyby a hlavně se překládá
+     
 **Důležité změny v překladu:**
 1. Conveyor - Dopravník
 2. Light armor - Lehký pancíř
