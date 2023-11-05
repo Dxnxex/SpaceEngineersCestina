@@ -2636,7 +2636,7 @@ Translate="Reproduktor"
 
 ID=DisplayName_Block_SpaceBall
 Czech="#Space Ball"
-Translate="#Space Ball"
+Translate="Space Ball"
 
 ID=DisplayName_Block_Stairs
 Czech="Schody"
@@ -7796,11 +7796,11 @@ Translate="Oživit"
 
 ID=ControlMenuItemLabel_CutGrid
 Czech="Vyjmout Konstrukci"
-Translate="Vyjmout Konstrukci"
+Translate="Vyjmout konstrukci"
 
 ID=ControlMenuItemLabel_PasteGrid
 Czech="Vložit Konstrukci"
-Translate="Vložit Konstrukci"
+Translate="Vložit konstrukci"
 
 ID=ControlMenuItemLabel_PlacementMode
 Czech="Přepnout řezim pokládání"
@@ -11552,7 +11552,7 @@ Translate=""
 
 ID=ControlMenuItemLabel_SelectColorTool
 Current="Select Color Tool"
-Translate=""
+Translate="Vybrat paletu barev"
 
 ID=ControlMenuItemLabel_ShowColorPicker
 Current="Open Color Picker"
@@ -11584,7 +11584,7 @@ Translate=""
 
 ID=ControlMenuItemLabel_ToggleSignals
 Current="Toggle Signal Mode"
-Translate=""
+Translate="Přepnout režim signálů"
 
 ID=ControlMenuItemLabel_Unequip
 Current="Unequip"
@@ -11592,7 +11592,7 @@ Translate=""
 
 ID=ControlMenuItemLabel_ViewMode
 Current="Toggle Spectator Mode"
-Translate=""
+Translate="Přepnout řežim pozorovatele"
 
 ID=ControlMenuItemLabel_SymmetrySetup
 Current="Enter Symmetry Setup"
@@ -11676,15 +11676,15 @@ Translate=""
 
 ID=CustomWorld_HomeSystem
 Current="Home System"
-Translate=""
+Translate="Domovský systém"
 
 ID=CustomWorld_AlienSystem
 Current="Distant Worlds"
-Translate=""
+Translate="Vzdálené světy"
 
 ID=CustomWorld_DistantMoons
 Current="Distant Moons"
-Translate=""
+Translate="Vzdálené měsíce"
 
 ID=CutsceneToolsButton
 Current="Cutscenes tools"
@@ -11972,7 +11972,7 @@ Translate=""
 
 ID=Description_SurvivalKit
 Current="All in one factory to get a space engineer started, but it has limited refining and assembling capabilities. Allows the player to recharge. "
-Translate=""
+Translate="Továrna vše v jednom kde každý Space Engineer začíná, ale má omezené možnosti rafinování a výroby součástek. Dovoluje hráči dobít energii."
 
 ID=Description_WindTurbine
 Current="The Wind turbine generates low amounts of power when exposed to open areas. Only works on planets with atmosphere. "
@@ -12392,7 +12392,7 @@ Translate=""
 
 ID=EnableDamageEffects
 Current="Enable damage effects"
-Translate=""
+Translate="Povolit efekty poškození"
 
 ID=EntityRename
 Current="Entity Rename"
@@ -12444,7 +12444,7 @@ Translate=""
 
 ID=GuiMissionTriggersLostCondition
 Current="Lost condition:"
-Translate=""
+Translate="Podmínky prohry:"
 
 ID=GuiMissionTriggersWinCondition
 Current="Win condition:"
@@ -17552,7 +17552,7 @@ Translate=""
 
 ID=RadialMenuGroupTitle_ArmorLight
 Current="Light Armor"
-Translate=""
+Translate="Lehký pancíř"
 
 ID=RadialMenuGroupTitle_ProductionMedical
 Current="Production &amp; Medical"
@@ -17578,125 +17578,125 @@ ID=RadialMenuGroupTitle_DecoPack2
 Current="Deecortive Pack 2"
 Translate=""
 
-ID=ControlMenuItemLabel_AlienGreenGrass
-Current="Alien grass green"
-Translate="Alien grass green"
-
-ID=ControlMenuItemLabel_AlienGreenGrassBare
-Current="Alien grass green bare"
-Translate="Alien grass green bare"
-
-ID=ControlMenuItemLabel_AlienIce
-Current="Alien ice"
-Translate="Alien ice"
-
-ID=ControlMenuItemLabel_AlienIce_03
-Current="Alien ice 03"
-Translate="Alien ice 03"
-
-ID=ControlMenuItemLabel_AlienOrangeGrass
-Current="Alien grass orange"
-Translate="Alien grass orange"
-
-ID=ControlMenuItemLabel_AlienOrangeGrassBare
-Current="Alien grass orange bare"
-Translate="Alien grass orange bare"
-
-ID=ControlMenuItemLabel_AlienRockGrass
-Current="Alien grass rock"
-Translate="Alien grass rock"
-
-ID=ControlMenuItemLabel_AlienRockGrassBare
-Current="Alient grass rock bare"
-Translate="Alient grass rock bare"
-
-ID=ControlMenuItemLabel_AlienRockyMountain
-Current="Alien rocky mountain"
-Translate="Alien rocky mountain"
-
-ID=ControlMenuItemLabel_AlienRockyTerrain
-Current="Alien rocky terrain"
-Translate="Alien rocky terrain"
-
-ID=ControlMenuItemLabel_DebugMaterial
-Current="Debug material"
-Translate="Debug material"
-
-ID=ControlMenuItemLabel_Soil
-Current="Soil"
-Translate="Soil"
-
-ID=ControlMenuItemLabel_Stone
-Current="Stone"
-Translate="Stone"
-
-ID=ControlMenuItemLabel_Stone01
-Current="Stone 01"
-Translate="Stone 01"
-
-ID=ControlMenuItemLabel_Stone02
-Current="Stone 02"
-Translate="Stone 02"
-
-ID=ControlMenuItemLabel_Stone03
-Current="Stone 03"
-Translate="Stone 03"
-
-ID=ControlMenuItemLabel_Stone04
-Current="Stone 04"
-Translate="Stone 04"
-
-ID=ControlMenuItemLabel_Stone05
-Current="Stone 05"
-Translate="Stone 05"
-
-ID=ControlMenuItemLabel_Uraninite_01
-Current="Uraninite 01"
-Translate="Uraninite 01"
-
-ID=ControlMenuItemLabel_VoxelBrushAutoLevel
-Current="Select Terrain Auto-Level"
-Translate=""
-
-ID=ControlMenuItemLabel_VoxelBrushBox
-Current="Select Box"
-Translate=""
-
-ID=ControlMenuItemLabel_VoxelBrushCapsule
-Current="Select Capsule"
-Translate=""
-
-ID=ControlMenuItemLabel_VoxelBrushRamp
-Current="Select Ramp"
-Translate=""
-
-ID=ControlMenuItemLabel_VoxelBrushSphere
-Current="Select Sphere"
-Translate=""
-
-ID=ControlMenuItemLabel_WoodsGrass
-Current="Woods grass"
-Translate="Woods grass"
-
-ID=ControlMenuItemLabel_WoodsGrassBare
-Current="Woods grass bare"
-Translate="Woods grass bare"
-
 ID=RadialMenuGroupTitle_VoxelAlien
 Current="Alien"
-Translate="Alien"
+Translate="Mimozemské"
 
 ID=RadialMenuGroupTitle_VoxelAlienGrass
 Current="Alien grass"
-Translate="Alien grass"
+Translate="Mimozemská tráva"
+
+ID=ControlMenuItemLabel_AlienGreenGrass
+Current="Alien grass green"
+Translate="Mimozemská tráva - Zelená"
+
+ID=ControlMenuItemLabel_AlienGreenGrassBare
+Current="Alien grass green bare"
+Translate="Mimozemská tráva - Zelená (Holá)"
+
+ID=ControlMenuItemLabel_AlienIce
+Current="Alien ice"
+Translate="Mimozemský led"
+
+ID=ControlMenuItemLabel_AlienIce_03
+Current="Alien ice 03"
+Translate="Mimozemský led 03"
+
+ID=ControlMenuItemLabel_AlienOrangeGrass
+Current="Alien grass orange"
+Translate="Mimozemská tráva - Oranžová"
+
+ID=ControlMenuItemLabel_AlienOrangeGrassBare
+Current="Alien grass orange bare"
+Translate="Mimozemská tráva - Oranžová (Holá)"
+
+ID=ControlMenuItemLabel_AlienRockGrass
+Current="Alien grass rock"
+Translate="Mimozemská tráva - Kamenitá"
+
+ID=ControlMenuItemLabel_AlienRockGrassBare
+Current="Alient grass rock bare"
+Translate="Mimozemská tráva - Kamenitá (Holá)"
+
+ID=ControlMenuItemLabel_AlienRockyMountain
+Current="Alien rocky mountain"
+Translate="Mimozemská skála - Hora"
+
+ID=ControlMenuItemLabel_AlienRockyTerrain
+Current="Alien rocky terrain"
+Translate="Mimozemská skála - Terén"
+
+ID=ControlMenuItemLabel_DebugMaterial
+Current="Debug material"
+Translate="Materiál pro debug"
+
+ID=ControlMenuItemLabel_Soil
+Current="Soil"
+Translate="Půda"
+
+ID=ControlMenuItemLabel_Stone
+Current="Stone"
+Translate="Kámen"
+
+ID=ControlMenuItemLabel_Stone01
+Current="Stone 01"
+Translate="Kámen 01"
+
+ID=ControlMenuItemLabel_Stone02
+Current="Stone 02"
+Translate="Kámen 02"
+
+ID=ControlMenuItemLabel_Stone03
+Current="Stone 03"
+Translate="Kámen 03"
+
+ID=ControlMenuItemLabel_Stone04
+Current="Stone 04"
+Translate="Kámen 04"
+
+ID=ControlMenuItemLabel_Stone05
+Current="Stone 05"
+Translate="Kámen 05"
+
+ID=ControlMenuItemLabel_Uraninite_01
+Current="Uraninite 01"
+Translate="Uran 01"
+
+ID=ControlMenuItemLabel_VoxelBrushAutoLevel
+Current="Select Terrain Auto-Level"
+Translate="Auto-zarovnání terénu"
+
+ID=ControlMenuItemLabel_VoxelBrushBox
+Current="Select Box"
+Translate="Krabice"
+
+ID=ControlMenuItemLabel_VoxelBrushCapsule
+Current="Select Capsule"
+Translate="Kapsle"
+
+ID=ControlMenuItemLabel_VoxelBrushRamp
+Current="Select Ramp"
+Translate="Rampa"
+
+ID=ControlMenuItemLabel_VoxelBrushSphere
+Current="Select Sphere"
+Translate="Koule"
+
+ID=ControlMenuItemLabel_WoodsGrass
+Current="Woods grass"
+Translate="Les - Tráva"
+
+ID=ControlMenuItemLabel_WoodsGrassBare
+Current="Woods grass bare"
+Translate="Les - Tráva (Holé)"
 
 ID=RadialMenuGroupTitle_VoxelDebug
 Current="Debug"
-Translate=""
+Translate="Debug"
 
 ID=RadialMenuGroupTitle_VoxelGrass
 Current="Grass"
-Translate=""
+Translate="Tráva"
 
 ID=RadialMenuGroupTitle_VoxelHandBrushes
 Current="Voxel hand"
@@ -17704,19 +17704,19 @@ Translate="Voxelová ruka"
 
 ID=RadialMenuGroupTitle_VoxelOres
 Current="Ores"
-Translate="Rudy"
+Translate="Rudy                           "
 
 ID=RadialMenuGroupTitle_VoxelOres2
 Current="Ores 2"
-Translate="Rudy 2"
+Translate="Rudy 2                         "
 
 ID=RadialMenuGroupTitle_VoxelRockSolidSand
 Current="Rocks, solids, sands"
-Translate="Sklalniny, pevné látky a písek"
+Translate="Sklalniny, pevné látky a písek "
 
 ID=RadialMenuGroupTitle_VoxelStones
 Current="stones"
-Translate="Kameny"
+Translate="Kameny                         "
 
 ID=BuildPlannerHint
 Current="Use {0} / {1} to add/remove to/from Build planner"
@@ -18464,7 +18464,7 @@ Translate=""
 
 ID=ScreenCaptionActiveContracts
 Current="Active contracts"
-Translate=""
+Translate="Aktivní zakázky"
 
 ID=ContractScreen_Aministration_CreatinResultCaption_CreationLimitHard
 Current="Failure"
@@ -18988,23 +18988,23 @@ Translate=""
 
 ID=RadialMenuGroupTitle_Build
 Current="Build"
-Translate=""
+Translate="Postavit"
 
 ID=RadialMenuGroupTitle_LastUsed
 Current="Recent Blocks"
-Translate=""
+Translate="Nedávné bloky"
 
 ID=RadialMenuGroupTitle_LastUsedVoxels
 Current="Recent Voxels"
-Translate=""
+Translate="Nedávné voxely"
 
 ID=RadialMenu_HintClose
 Current="{0} Close"
-Translate=""
+Translate="{0} Zavřít"
 
 ID=RadialMenu_HintConfirm
 Current="{0} Confirm"
-Translate=""
+Translate="{0} Potvrdit"
 
 ID=RadialMenu_HintCycleBlocks
 Current="{0} Cycle blocks in group"
@@ -19196,7 +19196,7 @@ Translate=""
 
 ID=Gamepad_Help_Back
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=StoreScreen_Help_Buy
 Current="{CONTROL:GUI:BUTTON_X} Buy"
@@ -19256,11 +19256,11 @@ Translate=""
 
 ID=ControlMenuItemLabel_ActiveContracts
 Current="Show Active Contracts"
-Translate=""
+Translate="Ukázat aktivní zakázky"
 
 ID=MainMenuScreen_Help_Menu
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=RadialMenuAction_EnableBroadcasting_None
 Current="N/A"
@@ -19304,7 +19304,7 @@ Translate=""
 
 ID=RadialMenuAction_Signal_Full
 Current="Full"
-Translate=""
+Translate="Plné zobrazení"
 
 ID=RadialMenuAction_Signal_MaxSignals
 Current="Max Signals"
@@ -19312,7 +19312,7 @@ Translate=""
 
 ID=RadialMenuAction_Signal_NoNames
 Current="No names"
-Translate=""
+Translate="Žádná jména"
 
 ID=RadialMenuAction_SwitchCamera_None
 Current="N/A"
@@ -19388,19 +19388,19 @@ Translate=""
 
 ID=OptionsScreen_Help_Menu
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=BannerControl_Help_Next
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=BannerControl_Help_Open
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=BannerControl_Help_Previous
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=MainMenuScreen_Help_ScreenIngame
 Current="{CONTROL:GUI:BUTTON_Y} Show help   {CONTROL:GUI:CANCEL} Resume game"
@@ -19408,11 +19408,11 @@ Translate=""
 
 ID=NewsControl_Help_Next
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=NewsControl_Help_Previous
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=EditFactionLogoScreen_Help_ChangeColor
 Current="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Change Color"
@@ -19508,7 +19508,7 @@ Translate=""
 
 ID=WorkshopTagsScreen_HelpNoOk_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=ToolTipOptionsControls_InvertGamepadYChar
 Current="Invert Y controller axis for character control"
@@ -19524,7 +19524,7 @@ Translate=""
 
 ID=NewGameScenarios_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} Start   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} Spustit {CONTROL:GUI:CANCEL} Zpět"
 
 ID=ServerDetails_Help_ScreenAddFavorites
 Current="{CONTROL:GUI:BUTTON_X} Join   {CONTROL:GUI:BUTTON_Y} Add to favorites   {CONTROL:GUI:CANCEL} Back"
@@ -19564,7 +19564,7 @@ Translate=""
 
 ID=TerminalComms_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=TerminalControlPanel_Help_Screen
 Current="{CONTROL:GUI:RIGHT_STICK_BUTTON} Toggle show on HUD   {CONTROL:GUI:BUTTON_Y} Toggle show in terminal   {CONTROL:GUI:BUTTON_X} Toggle On/Off   {CONTROL:GUI:CANCEL} Back   {CONTROL:GUI:MODIF_R} + {CONTROL:GUI:BUTTON_A} Select range"
@@ -19572,11 +19572,11 @@ Translate=""
 
 ID=TerminalFactions_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=TerminalInfo_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=TerminalInventory_Help_Screen
 Current="{CONTROL:GUI:LEFT_STICK_BUTTON} Left filter   {CONTROL:GUI:RIGHT_STICK_BUTTON} Right filter   {CONTROL:GUI:CANCEL} Back"
@@ -19584,11 +19584,11 @@ Translate=""
 
 ID=TerminalProduction_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=TerminalProperties_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=TerminalInfo_Help_ScreenConvertShip
 Current="{CONTROL:GUI:BUTTON_X} Convert to ship   {CONTROL:GUI:CANCEL} Back"
@@ -19664,7 +19664,7 @@ Translate=""
 
 ID=PlayersScreen_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=PbEditor_Help_Screen
 Current="{CONTROL:GUI:LEFT_STICK_BUTTON} Help   {CONTROL:GUI:RIGHT_STICK_BUTTON} Browse scripts   {CONTROL:GUI:BUTTON_Y} Check   {CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
@@ -19676,7 +19676,7 @@ Translate=""
 
 ID=PerformanceWarnings_Help_Screen
 Current="{CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:CANCEL} Zpět"
 
 ID=FolderScreen_Help_Screen
 Current="{CONTROL:GUI:BUTTON_Y} Refresh   {CONTROL:GUI:BUTTON_X} Open   {CONTROL:GUI:CANCEL} Back"
@@ -19704,7 +19704,7 @@ Translate=""
 
 ID=Gamepad_Help_Select
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=ContractsScreen_Help_Accept
 Current="{CONTROL:GUI:BUTTON_A} Accept"
@@ -19732,7 +19732,7 @@ Translate=""
 
 ID=WorkshopBrowser_Help_Select
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=WorkshopBrowser_Help_ToggleCategory
 Current="{CONTROL:GUI:BUTTON_X} Toggle category"
@@ -19748,7 +19748,7 @@ Translate=""
 
 ID=PlayerTrade_Help_ChangeValue
 Current="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Change value"
-Translate=""
+Translate="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Změnit hodnotu"
 
 ID=PlayerTrade_Help_SubmitOffer
 Current="{CONTROL:GUI:BUTTON_X} Submit offer"
@@ -19780,7 +19780,7 @@ Translate=""
 
 ID=ContractsScreen_Help_Select
 Current="{CONTROL:GUI:ACCEPT} Select"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat"
 
 ID=SaveAs_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Cancel"
@@ -19844,7 +19844,7 @@ Translate=""
 
 ID=Gamepad_Help_ChangeValue
 Current="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Change value"
-Translate=""
+Translate="{CONTROL:GUI:MOVE_LEFT}{CONTROL:GUI:MOVE_RIGHT} Změnit hodnotu"
 
 ID=StoreScreenAdmin_Help_CreateOffer
 Current="{CONTROL:GUI:BUTTON_X} Create offer"
@@ -20060,7 +20060,7 @@ Translate=""
 
 ID=ControlsOptions_Help_Scheme
 Current="{CONTROL:GUI:ACCEPT} Select  {CONTROL:GUI:BUTTON_Y} Show scheme"
-Translate=""
+Translate="{CONTROL:GUI:ACCEPT} Vybrat {CONTROL:GUI:BUTTON_Y} Ukázat schéma"
 
 ID=TerminalInventory_Help_TransferItems
 Current="{CONTROL:GUI:ACCEPT} Transfer items   "
@@ -20164,7 +20164,7 @@ Translate=""
 
 ID=RadialMenuGroupTitle_BlueprintActions
 Current="Blueprint Actions"
-Translate=""
+Translate="Plánky"
 
 ID=TerminalTab_GPS_CopyToClipboard_GamepadHelp
 Current="Open chat and use {CONTROL:GUI:RIGHT_STICK_BUTTON} to paste GPS"
@@ -20516,35 +20516,35 @@ Translate=""
 
 ID=ControlMenuItemLabel_CrackedSoil
 Current="Cracked soil"
-Translate=""
+Translate="Popraskaná půda"
 
 ID=ControlMenuItemLabel_DustyRocks
 Current="Dusty rocks 1"
-Translate=""
+Translate="Zaprášené kamení 1"
 
 ID=ControlMenuItemLabel_DustyRocks2
 Current="Dusty rocks 2"
-Translate=""
+Translate="Zaprášené kamení 2"
 
 ID=ControlMenuItemLabel_DustyRocks3
 Current="Dusty rocks 3"
-Translate=""
+Translate="Zaprášené kamení 3"
 
 ID=ControlMenuItemLabel_TritonBlend
 Current="Triton blend"
-Translate=""
+Translate="Triton - Přechod"
 
 ID=ControlMenuItemLabel_TritonIce
 Current="Triton ice"
-Translate=""
+Translate="Tritononský led"
 
 ID=ControlMenuItemLabel_TritonStone
 Current="Triton stone"
-Translate=""
+Translate="Tritnoský kámen"
 
 ID=RadialMenuGroupTitle_VoxelTritonPertam
 Current="Triton and Pertam"
-Translate=""
+Translate="Triton a Petram"
 
 ID=DisplayName_Block_OffroadWheel1x1mirrored
 Current="Offroad Wheel 1x1"
@@ -22456,31 +22456,31 @@ Translate=""
 
 ID=BasicMissionAutopilot_DeleteWaypoint_Tooltip
 Current="Delete selected waypoint."
-Translate=""
+Translate="Smazat zvolený bod trasy."
 
 ID=BasicMissionAutopilot_Up_Tooltip
 Current="Move selected waypoint up."
-Translate=""
+Translate="Posunout zvolený bod trasy nahoru."
 
 ID=BasicMissionAutopilot_Down_Tooltip
 Current="Move selected waypoint down."
-Translate=""
+Translate="Posunout zvolený bod trasy dolů."
 
 ID=BasicMissionAutopilot_Add_Tooltip
 Current="Add selected GPS location as new waypoint."
-Translate=""
+Translate="Přidat zvolenou GPS lokaci jako nový bod trasy."
 
 ID=BasicMissionAutopilot_GpsListbox_Tooltip
 Current="List of available GPS coordinates."
-Translate=""
+Translate="Výpis dostupných GPS souřadnicí."
 
 ID=BasicMissionAutopilot_Copy_Tooltip
 Current="Copy the listed waypoints to the clipboard."
-Translate=""
+Translate="Zkopírujte body trasy do schránky."
 
 ID=BasicMissionAutopilot_Paste_Tooltip
 Current="Paste waypoints from the clipboard to the waypoint list."
-Translate=""
+Translate="Vložte body trasy ze schránky do výpisu bodů trasy."
 
 ID=DisplayName_Block_SensorReskin
 Current="Automaton Sensor"
@@ -22556,7 +22556,7 @@ Translate=""
 
 ID=PathRecorderComponent_StatusMessage_BehaviorDisabled
 Current="Status: Behavior disabled"
-Translate=""
+Translate="Stav: Chování deaktivován"
 
 ID=PathRecorderComponent_StatusMessage_PlayingPathNextWaypoint
 Current="Status: Moving to Recorder index: {0}"
@@ -22564,15 +22564,15 @@ Translate=""
 
 ID=AiBlock_StatusMessage_BlockDisabled
 Current="Status: Block disabled"
-Translate=""
+Translate="Stav: Blok deaktivován"
 
 ID=CombatBlock_StatusMessage_AiOff
 Current="Status: Behavior disabled"
-Translate=""
+Translate="Stav: Chování deaktivováno"
 
 ID=CombatBlock_StatusMessage_BlockOff
 Current="Status: Block disabled"
-Translate=""
+Translate="Stav: Blok deaktivován"
 
 ID=CombatBlock_Tooltip_Circle
 Current="The grid will try to circle or orbit the enemy at a customizable distance"
@@ -23007,7 +23007,7 @@ Current="Suspicious Right"
 Translate="Podežřelý - Vpravo"
 
 ID=LCD_Emote_Wink
-Current="Wink"
+Current="Wink"Anniversary Statue
 Translate="Mrknutí"
 
 ID=EmotionBlock_Currently_Selected_Emotion
@@ -23028,7 +23028,7 @@ Translate="[Color=#FFFF0000]CHYBA: Cíl není dosažitelný. Funkce zamezení ko
 
 ID=PathRecorderComponent_StatusMessage_BlockDisabled
 Current="Status: Block disabled"
-Translate=""
+Translate="Stav: Blok deaktivován"
 
 ID=DefensiveCombatBlock_HitAndRun_CustomWaypoint
 Current="Custom Waypoint"
@@ -23068,7 +23068,7 @@ Translate="Stav: Obrana proti {0}"
 
 ID=OffensiveDefensiveCombatBlock_CanTargetCharacters
 Current="Target Characters"
-Translate="Cílit postavy"
+Translate="Zaměřovat postavy"
 
 ID=OffensiveCombatBlock_FacingMode
 Current="Facing mode"
@@ -23080,11 +23080,11 @@ Translate=""
 
 ID=DefensiveCombatBlock_SavedGps
 Current="(Saved) "
-Translate="(Uloženo)"
+Translate="(Uloženo) "
 
 ID=BasicMissionBlock_SavedGps
 Current="(Saved) "
-Translate="(Uloženo)"
+Translate="(Uloženo) "
 
 ID=Assembler_ItemsInQueue
 Current="Items in queue: {0}/{1}"
@@ -23220,7 +23220,7 @@ Translate="Servery Crossplay jsou vypnuté. Přejděte do nabídky Možnosti Hry
 
 ID=WorldSettings_Error_MustSignIn
 Current="To be able to change online mode you need to sign-in"
-Translate=Abyste mohli změnit online režim, musíte se přihlásit""
+Translate="Abyste mohli změnit online režim, musíte se přihlásit""
 
 ID=DedicatedServer_Join_CrossPlayError
 Current="To be able to join a dedicated server you need to enable crossplay in Game Options"
@@ -23320,7 +23320,7 @@ Translate=""
 
 ID=DefensiveCombatBlock_EvasiveManeuverIntervalRange_Tooltip
 Current="When fleeing, the grid will change directions at this interval."
-Translate=""
+Translate="Při útěku bude konstrukce v tomto intervalu měnit směr."
 
 ID=DefensiveCombatBlock_FleeMode_Title
 Current="Flee Destination"
@@ -23532,7 +23532,7 @@ Translate="LCD - Hologram"
 
 ID=DisplayName_DLC_Major203DLC
 Current="Decorative Blocks 3"
-Translate=""
+Translate="Dekorativní bloky 3"
 
 ID=Description_DLC_Major203DLC
 Current="Decorative Blocks 3"
@@ -23620,129 +23620,129 @@ Translate="Lešení - Zkosené"
 
 ID=BlockComboBoxValue_TextPanelAccessReadWriteAll
 Current="Everyone read/write"
-Translate=""
+Translate="Všichni čtení/zápis"
 
 ID=Description_LargeFlareLauncher
 Current="A launcher for signalling or putting up a spectacle."
-Translate=""
+Translate="Odpalovací zařízení pro signalizaci nebo předvádění podívané."
 
 ID=DisplayName_Block_FlareLauncher
 Current="Firework Launcher"
-Translate=""
+Translate="Ohňostroj"
 
 ID=DisplayName_Item_FlareClip
 Current="Flare Gun Clip"
-Translate=""
+Translate="Signální pistole - Zásobník"
 
 ID=DisplayName_Item_FlareGun
 Current="Flare Gun"
-Translate=""
+Translate="Signální pistole"
 
 ID=DisplayName_Block_StatueEngineer
 Current="Anniversary Statue"
-Translate=""
+Translate="Výroční socha"
 
 ID=Description_StatueEngineer
 Current="A statue to celebrate the 10th anniversary of Space Engineers."
-Translate=""
+Translate="Socha na oslavu 10. výročí projektu Space Engineers."
 
 ID=Description_DLC_Anniversary
 Current="Anniversary"
-Translate=""
+Translate="Výročí"
 
 ID=DisplayName_DLC_Anniversary
 Current="Anniversary"
-Translate=""
+Translate="Výročí"
 
 ID=Description_FlareGun
 Current="Flare Guns can be used to signal your position to others or to temporarily illuminate your surroundings."
-Translate=""
+Translate="Světlice můžete použít k signalizaci své polohy ostatním nebo k dočasnému osvětlení okolí."
 
 ID=DisplayName_Item_FireworksBoxBlue
 Current="Fireworks Blue"
-Translate=""
+Translate="Ohňostroj - Modrý"
 
 ID=DisplayName_Item_FireworksBoxGreen
 Current="Fireworks Green"
-Translate=""
+Translate="Ohňostroj - Zelený"
 
 ID=DisplayName_Item_FireworksBoxPink
 Current="Fireworks Pink"
-Translate=""
+Translate="Ohňostroj - Růžový"
 
 ID=DisplayName_Item_FireworksBoxRainbow
 Current="Fireworks Rainbow"
-Translate=""
+Translate="Ohňostroj - Duha"
 
 ID=DisplayName_Item_FireworksBoxRed
 Current="Fireworks Red"
-Translate=""
+Translate="Ohňostroj - Červený"
 
 ID=DisplayName_Item_FireworksBoxYellow
 Current="Fireworks Yellow"
-Translate=""
+Translate="Ohňostroj - Žlutý"
 
 ID=SoundBlock_SoundName_MusCompetition2_01
 Current="Aye"
-Translate=""
+Translate="Aye"
 
 ID=SoundBlock_SoundName_MusCompetition2_02
 Current="Clang The Conqueror"
-Translate=""
+Translate="Clang The Conqueror"
 
 ID=SoundBlock_SoundName_MusCompetition2_03
 Current="ClangDrive"
-Translate=""
+Translate="ClangDrive"
 
 ID=SoundBlock_SoundName_MusCompetition2_04
 Current="Memory"
-Translate=""
+Translate="Memory"
 
 ID=SoundBlock_SoundName_MusCompetition2_05
 Current="New Order"
-Translate=""
+Translate="New Order"
 
 ID=SoundBlock_SoundName_MusCompetition2_06
 Current="Outnumbered"
-Translate=""
+Translate="Outnumbered"
 
 ID=SoundBlock_SoundName_MusCompetition2_07
 Current="Oxygen"
-Translate=""
+Translate="Oxygen"
 
 ID=SoundBlock_SoundName_MusCompetition2_08
 Current="Quasar"
-Translate=""
+Translate="Quasar"
 
 ID=SoundBlock_SoundName_MusCompetition2_09
 Current="SE MT Remix"
-Translate=""
+Translate="SE MT Remix"
 
 ID=SoundBlock_SoundName_MusCompetition2_10
 Current="Space Funk"
-Translate=""
+Translate="Space Funk"
 
 ID=SoundBlock_SoundName_MusCompetition2_11
 Current="Space Guardians"
-Translate=""
+Translate="Space Guardians"
 
 ID=SoundBlock_SoundName_MusCompetition2_12
 Current="The Day Of Battle"
-Translate=""
+Translate="The Day Of Battle"
 
 ID=SoundBlock_SoundName_MusCompetition2_13
 Current="The Hunt"
-Translate=""
+Translate="The Hunt"
 
 ID=SoundBlock_SoundName_MusCompetition2_14
 Current="The Motherload"
-Translate=""
+Translate="The Motherload"
 
 ID=SoundBlock_SoundName_MusCompetition2_15
 Current="To The Moon"
-Translate=""
+Translate="To The Moon"
 
 ID=SoundBlock_SoundName_MusCompetition2_16
 Current="Voyage To Andromeda"
-Translate=""
+Translate="Voyage To Andromeda"
 
