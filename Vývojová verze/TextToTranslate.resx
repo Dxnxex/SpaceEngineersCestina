@@ -2800,7 +2800,7 @@ Translate="Kokpity                       "
 
 ID=DisplayName_Category_ConveyorBlocks
 Czech="Dopravníkové/Úlozné bloky     "
-Translate="Dopravníkové/Úlozné bloky     "
+Translate="Dopravníkové / Úložné bloky   "
 
 ID=DisplayName_Category_LargeBlocks
 Czech="Velké bloky                   "
@@ -11192,11 +11192,11 @@ Translate=""
 
 ID=GDPR_Text1
 Current="Data protection laws have changed in the European Union and we want to make sure you review how your personal data is processed in Space Engineers."
-Translate=""
+Translate="Zákony o ochraně údajů se v Evropské unii změnily a my se chceme ujistit, že zkontrolujete, jak jsou vaše osobní údaje zpracovány ve Space Engineers."
 
 ID=GDPR_Text2
 Current="By clicking Yes you agree to collect personal data according to GDPR. Read more info in our Privacy policy."
-Translate=""
+Translate="Kluknutím na ANO souhlasíte se shromažďováním osobních údajů podle GDPR. Přečtěte si více informací v našich zásadách ochrany osobních údajů."
 
 ID=AttachToSelectedEntity
 Current="Attach to selected entity"
@@ -11256,7 +11256,7 @@ Translate="Podvozek se automaticky odemkne pokud vyvinutá síla, která drží 
 
 ID=BlockPropertyDescription_Connector_Strength
 Current="Connector strength when aligning ship (yellow color), smaller strength of two connectors is used"
-Translate=""
+Translate="Síla konektoru při zarovnání lodi (Žlutá barva). Je použita menší síla z používancých konektorů."
 
 ID=BlockPropertyDescription_MotorUsesWheelCommands
 Current="Indicates whether motor is controlled like a wheel directly from cockpit"
@@ -11656,7 +11656,7 @@ Translate=""
 
 ID=ClipboardBlueprintIsTooBig
 Current="Blueprint too big, preview disabled."
-Translate=""
+Translate="Plánek je příliš velký, náhled je zakázaný"
 
 ID=CubeBuilder_CubeSizeModeChange
 Current="Press {0} again{1}to change block size."
@@ -11916,7 +11916,7 @@ Translate="Pokročilá verze raketometu schopná se doplnit skrze dopravníky a 
 
 ID=Description_RemoteControl
 Current="Remote controls allow ships to be controlled from a distance when combined with an antenna or commands ships to fly automatically to waypoints."
-Translate=""
+Translate="Dálkové ovládání umožňuje lodím být ovládány na dálku, pokud jsou spojeny s anténou či letí nakonfigurovanou trasu automaticky."
 
 ID=Description_RocketLauncher
 Current="Slow-shooting, explosive damage dealing, rocket launcher that must be loaded manually. Uses Rockets.Maximum range: 800 m"
@@ -11936,7 +11936,7 @@ Translate="Kulatý blok reagující na gravitaci."
 
 ID=Description_Timer
 Current="Timer blocks can be used to activate configured ship systems after a set amount of time.Use multiple timer blocks to build sequences. Can be used to automate systems. "
-Translate=""
+Translate="Časovače mohou být použity k aktivaci konfiguraci lodi poté vypršení času. Použijte více časovačů k vytvoření sekvence. Používá se na automatizaci systémů."
 
 ID=Description_Warhead
 Current="Warheads are powerful explosives that can be used to destroy asteroids, enemy ships and stations.Safe when unarmed. They can be detonated manually, by taking damage or set to detonate after a configurable amount of time. "
@@ -11948,7 +11948,7 @@ Translate="Lodní svářečka je nástroj, který dokáže sestavit plánky a po
 
 ID=Description_Suspension
 Current="Suspensions are highly durable and enable vehicles to drive over most terrains. "
-Translate=""
+Translate="Tlumiče jsou vysoce výdržné a dovolují vozidlům jet obťížným terénem."
 
 ID=Description_VerticalWindow
 Current="Vertical windows can be used to funnel air through and keep engineers out."
@@ -11988,7 +11988,7 @@ Translate=""
 
 ID=Description_Jukebox
 Current="A device that plays music. Great for hosting dance parties or winding down after a hard day’s work."
-Translate=""
+Translate="Zařízení na přehrávání hudby. Dobré pro pořádání tanečních akci či pro odpočinek po náročném dni."
 
 ID=Description_OpenCockpitLarge
 Current="Seat in between lots of consoles. More like a bridge seat."
@@ -12104,7 +12104,7 @@ Translate="Název"
 
 ID=DisplayName_AlienLander
 Current="Alien Planet Landing"
-Translate=""
+Translate="Mimozemské přistání"
 
 ID=DisplayName_Animation_SpiderAttackBite
 Current="Bite attack"
@@ -12260,11 +12260,11 @@ Translate="Základní součástky"
 
 ID=DisplayName_BlueprintClass_BasicLargeBlocks
 Current="Basic Large Blocks- Click on any Large Block to assemble all componentsnecessary for it's construction."
-Translate=""
+Translate="Základní velké bloky - Klikni pro sestavení všech součástek pro vytvoření velkého bloku."
 
 ID=DisplayName_BlueprintClass_BasicSmallBlocks
 Current="Basic Small Blocks- Click on any Small Block to assemble all componentsnecessary for it's construction."
-Translate=""
+Translate="Základní malé bloky - Klikni pro sestavení všech součástek pro vytvoření malého bloku."
 
 ID=DisplayName_BlueprintClass_Solids
 Current="Solids"
@@ -12340,7 +12340,7 @@ Translate=""
 
 ID=DisplayName_Scenario_BigSmall
 Current="Big and small planet"
-Translate=""
+Translate="Velká a malá planeta"
 
 ID=DisplayName_Scenario_DebugStart
 Current="Debug fast start"
@@ -12392,7 +12392,7 @@ Translate=""
 
 ID=Factions_EnemyFaction
 Current="Enemy faction"
-Translate=""
+Translate="Nepřátelský klan"
 
 ID=Factions_NeutralFaction
 Current="Neutral faction"
@@ -12436,23 +12436,23 @@ Translate=""
 
 ID=GuiMissionTriggersWinCondition
 Current="Win condition:"
-Translate=""
+Translate="Podmínky vítězství:"
 
 ID=GuiScenarioCannotJoin
 Current="Scenario is already running, cannot join game."
-Translate=""
+Translate="Scénář již běží, nelze se připojit."
 
 ID=GuiScenarioCannotJoinCaption
 Current="CANNOT JOIN"
-Translate=""
+Translate="NELZE SE PŘIPOJIT"
 
 ID=GuiScenarioDescription
 Current="Scenario description"
-Translate=""
+Translate="Popis scénáře"
 
 ID=GuiScenarioEdit_CopyIds
 Current="Copy block IDs"
-Translate=""
+Translate="Kopírovat ID bloku"
 
 ID=GuiScenarioEdit_CopyIdsTooltip
 Current="You can then paste them into "Block destroyed" trigger"
@@ -12520,7 +12520,7 @@ Translate=""
 
 ID=GuiTriggerCaptionPositionLeft
 Current="Leave game area"
-Translate=""
+Translate="Opustěte herní oblast"
 
 ID=GuiTriggerCaptionPositionReached
 Current="Reach GPS position"
@@ -12532,7 +12532,7 @@ Translate="Někdo vyhrál"
 
 ID=GuiTriggerCaptionTimeLimit
 Current="Scenario time limit"
-Translate=""
+Translate="Časový limit scénáře"
 
 ID=GuiTriggerMessage
 Current="Message"
@@ -12716,7 +12716,7 @@ Translate=""
 
 ID=HintKeyboardOnly01Control0
 Current="CUBE_DEFAULT_MOUNTPOINT"
-Translate=""
+Translate="CUBE_DEFAULT_MOUNTPOINT"
 
 ID=HintKeyboardOnly01Text
 Current="Did you know? You can toggle off the block auto rotation function with {0}."
@@ -12824,15 +12824,15 @@ Translate=""
 
 ID=HudBlockInfo_Installed_Required
 Current="Installed / Required"
-Translate=""
+Translate="Instalováno / Požadováno"
 
 ID=HudBlockInfo_LargeShip_Station
 Current="Large Ship / Station"
-Translate=""
+Translate="Velká loď / Stanice"
 
 ID=HudBlockInfo_SmallShip
 Current="Small Ship"
-Translate=""
+Translate="Malá loď"
 
 ID=HudEnergyGroupBatteries
 Current="Batteries"
@@ -12872,7 +12872,7 @@ Translate=""
 
 ID=HudInfoBroadcasting
 Current="Broadcasting"
-Translate=""
+Translate="Vysílání"
 
 ID=HudInfoControllingStation
 Current="Controlling Station"
@@ -12892,15 +12892,15 @@ Translate="Letání"
 
 ID=HudInfoGravity
 Current="Actual Gravity:"
-Translate=""
+Translate="Aktuální gravitace:"
 
 ID=HudInfoGravityArtificial
 Current="Artif. Gravity:"
-Translate=""
+Translate="Umělá gravitace:"
 
 ID=HudInfoHelmet
 Current="Helmet"
-Translate=""
+Translate="Helma"
 
 ID=HudInfoMagnetic
 Current="Magnetic"
@@ -12908,11 +12908,11 @@ Translate=""
 
 ID=HudInfoNameBroadcastRange
 Current="Radio:"
-Translate=""
+Translate="Rádio:"
 
 ID=HudInfoNameDampeners
 Current="Dampeners:"
-Translate=""
+Translate="Tlumiče:"
 
 ID=HudInfoNameEnergy
 Current="Energy:"
@@ -12920,7 +12920,7 @@ Translate="Energie:"
 
 ID=HudInfoNameFuelTime
 Current="Fuel Time:"
-Translate=""
+Translate="Zbývající palivo:"
 
 ID=HudInfoNameGyroscopes
 Current="Gyroscopes:"
@@ -12940,27 +12940,27 @@ Translate="Jetpack"
 
 ID=HudInfoNameLandingGear
 Current="Landing gears:"
-Translate=""
+Translate="Podvozky:"
 
 ID=HudInfoNameLights
 Current="Lights:"
-Translate=""
+Translate="Světla:"
 
 ID=HudInfoNameNumberOfBatteries
 Current="Number of batteries in use:"
-Translate=""
+Translate="Počet používaných baterií:"
 
 ID=HudInfoPilotingLargeShip
 Current="Piloting Large Ship"
-Translate=""
+Translate="Pilotování velké lodi"
 
 ID=HudInfoPilotingSmallShip
 Current="Piloting Small Ship"
-Translate=""
+Translate="Pilotování malé lodi"
 
 ID=HudInfoPowerOverload
 Current="Overload"
-Translate=""
+Translate="Přetížení"
 
 ID=HudInfoReflectorsOff
 Current="Spotlights Off"
@@ -12980,11 +12980,11 @@ Translate=""
 
 ID=HudScenarioInfoLivesLeft
 Current="Lives:"
-Translate=""
+Translate="Životy:"
 
 ID=HudScenarioInfoTimeLeft
 Current="Time left:"
-Translate=""
+Translate="Zbývající čas:"
 
 ID=IconSymbol_Ag
 Current="Ag"
@@ -13128,7 +13128,7 @@ Translate=""
 
 ID=LaserAntennaSelectedCoords
 Current="Selected GPS coordinates"
-Translate=""
+Translate="Označené GPS souřadnice"
 
 ID=LoadingError_ModifiedOriginalContent
 Current="Error loading original game content, cannot load file:{0}Original game content has been probably modified, revert any modification and try again. Best way to do it is to delete folder 'SpaceEngineers\Content\Data' and then select in {0} 'Verify local game cache'.Reinstalling the game is not enough, because {0} does not delete unknown files!"
@@ -13140,7 +13140,7 @@ Translate=""
 
 ID=MessageBoxCaptionRecommend
 Current="Recommend Space Engineers"
-Translate=""
+Translate="Doporučte Space Engineers"
 
 ID=MessageBoxCaptionRespawn
 Current="You will lose all ownership and spawn as new player!Respawn?"
@@ -13148,7 +13148,7 @@ Translate=""
 
 ID=MessageBoxCaptionTutorial
 Current="Tutorial"
-Translate=""
+Translate="Tutoriál"
 
 ID=MessageBoxCaptionVideo
 Current="Video"
@@ -13200,19 +13200,19 @@ Translate=""
 
 ID=MessageBoxTextWatchVideo
 Current="Would you like to watch video before tutorial starts?"
-Translate=""
+Translate="Chcete se podívat na video předtím než začne tutoriál?"
 
 ID=MessageBoxTextThumbnailTooBig
 Current="Thumbnail is too big. Maximum allowed size is 1MB. Re-create the blueprint and try again."
-Translate=""
+Translate="Náhled je příliš velký. Maximální povolená velikost je 1MB. Prosím znovu vytvořte plánek a zkuste znovu."
 
 ID=MissionTriggerOtherWon
 Current="Other side won"
-Translate=""
+Translate="Druhá strana vyhrála"
 
 ID=MissionTriggerReachPosition
 Current="Reach GPS position"
-Translate=""
+Translate="Dosáhněte GPS souřadnic"
 
 ID=MostActiveDrills
 Current="MostActiveDrills"
@@ -13264,71 +13264,71 @@ Translate=""
 
 ID=NotEnoughMaterial
 Current="Not enough materials to create a new block. At least one steel plate is required."
-Translate=""
+Translate="Nedostatek materiálu pro vytvoření nového bloku. Je potřeba alespoň jeden ocelový plát."
 
 ID=NoticeLine_01
 Current="Powered by VRAGE 2.0"
-Translate=""
+Translate="Powered by VRAGE 2.0"
 
 ID=NoticeLine_02
 Current="Copyright © 2013-2019 KEEN SWH LTD."
-Translate=""
+Translate="Copyright © 2013-2019 KEEN SWH LTD."
 
 ID=NoticeLine_03
 Current="Space Engineers® and VRAGE™ are trademarks of KEEN SWH LTD."
-Translate=""
+Translate="Space Engineers® and VRAGE™ are trademarks of KEEN SWH LTD."
 
 ID=NoticeLine_04
 Current="www.keenswh.com"
-Translate=""
+Translate=""www.keenswh.com"
 
 ID=NoticeLine_05
 Current="“Space Engineers” uses Havok®."
-Translate=""
+Translate="“Space Engineers” uses Havok®."
 
 ID=NoticeLine_06
 Current="©Copyright 1999-2008 Havok.com, Inc (and its Licensors). All Rights Reserved."
-Translate=""
+Translate="©Copyright 1999-2008 Havok.com, Inc (and its Licensors). All Rights Reserved."
 
 ID=NoticeLine_07
 Current="See www.havok.com for details."
-Translate=""
+Translate="See www.havok.com for details."
 
 ID=Department_Licenses
 Current="3rd Party Software"
-Translate=""
+Translate="rd Party Software"
 
 ID=NotificationArgAngleGrinder
 Current="Angle grinder"
-Translate=""
+Translate="Bruska"
 
 ID=NotificationArgDrill
 Current="Drill"
-Translate=""
+Translate="Vrták"
 
 ID=NotificationArgLargeShip
 Current="large ship"
-Translate=""
+Translate="velká loď"
 
 ID=NotificationArgMissile
 Current="Rocket"
-Translate=""
+Translate="Raketa"
 
 ID=NotificationArgProjectile
 Current="Projectile"
-Translate=""
+Translate="Projektil"
 
 ID=NotificationArgSmallShip
 Current="small ship"
-Translate=""
+Translate="malá loď"
 
 ID=NotificationArgStation
 Current="station"
-Translate=""
+Translate="stanice"
 
 ID=NotificationBlockNotAvailableFor
 Current="{0} {1} is not available for a {2}"
-Translate=""
+Translate="{0} {1} není dostupný pro {2}"
 
 ID=NotificationBottleRefill
 Current="Oxygen refilled from bottles."
@@ -13416,11 +13416,11 @@ Translate=""
 
 ID=NotificationHintTurnPowerOff
 Current="Press {0} to turn power off"
-Translate=""
+Translate="Stiskni {0} k vypnutí energie."
 
 ID=NotificationHintTurnPowerOn
 Current="Press {0} to turn power on"
-Translate=""
+Translate="Stiskni {0} k zapnutí energie."
 
 ID=NotificationHint_CubeDefaultMountpoint
 Current="Press {0} to toggle auto orientation"
@@ -13452,7 +13452,7 @@ Translate=""
 
 ID=NotificationNextScenarioWillLoad
 Current="Prepare for next scenario ..."
-Translate=""
+Translate="Připravte se na další scénář..."
 
 ID=NotificationNoHelmetVariation
 Current="Cannot remove helmet on this suit."
@@ -13504,7 +13504,7 @@ Translate=""
 
 ID=NotificationShipEnergyLowNoDamage
 Current="Warning: Ship fuel is low."
-Translate=""
+Translate="Varování: Dochází palivo."
 
 ID=NotificationStationRotation
 Current="Station rotation mode, press {0} to switch off"
@@ -13516,19 +13516,19 @@ Translate=""
 
 ID=NotificationSuitEnergyCritical
 Current="Warning: Suit energy is critically low. Life support failure imminent."
-Translate=""
+Translate="Varování: Kriticky nízká hladina energie obleku. Hrozí selhání podpory života."
 
 ID=NotificationSuitEnergyCriticalNoDamage
 Current="Warning: Suit energy is critically low."
-Translate=""
+Translate="Varování: Kriticky nízká hladina energie obleku."
 
 ID=NotificationSuitEnergyLow
 Current="Warning: Suit energy is low. Life support systems may fail."
-Translate=""
+Translate="Varování: Dochází energie obleku. Hrozí selhání podpory života."
 
 ID=NotificationSuitEnergyLowNoDamage
 Current="Warning: Suit energy is low."
-Translate=""
+Translate="Varování: Dochází energie obleku."
 
 ID=NotificationSuitFuelCritical
 Current="Jetpack fuel is critical"
@@ -13576,11 +13576,11 @@ Translate=""
 
 ID=Notification_PistonHeadAlreadyExists
 Current="Piston head already exists."
-Translate=""
+Translate="Hlava pístu již existuje."
 
 ID=Notification_PistonHeadNotPlaced
 Current="Piston head could not be placed."
-Translate=""
+Translate="Hlava pístu nemůže být umístněna."
 
 ID=Notification_WheelNotPlaced
 Current="Wheel could not be placed. Try to remove any obstacles first."
@@ -13612,15 +13612,15 @@ Translate=""
 
 ID=Person_FB
 Current="Like us on Facebook: www.facebook.com/SpaceEngineers"
-Translate=""
+Translate="Prosíme o like na Facebooku: www.facebook.com/SpaceEngineers"
 
 ID=Person_Twitter
 Current="Follow us on Twitter: twitter.com/SpaceEngineersG"
-Translate=""
+Translate="Prosíme o like na Twitteru: twitter.com/SpaceEngineersG"
 
 ID=Person_Web
 Current="www.SpaceEngineersGame.com"
-Translate=""
+Translate="www.SpaceEngineersGame.com"
 
 ID=PickColorFromCube
 Current="Pick color from cube into slot"
@@ -13632,27 +13632,27 @@ Translate="Černá"
 
 ID=PlayerCharacterColorBlue
 Current="Blue"
-Translate=""
+Translate="Modrá"
 
 ID=PlayerCharacterColorDefault
 Current="Shadow"
-Translate=""
+Translate="Stín"
 
 ID=PlayerCharacterColorGreen
 Current="Green"
-Translate=""
+Translate="Zelená"
 
 ID=PlayerCharacterColorRed
 Current="Red"
-Translate=""
+Translate="Červená"
 
 ID=PlayerCharacterColorWhite
 Current="White"
-Translate=""
+Translate="Bílá"
 
 ID=PlayerCharacterColorYellow
 Current="Yellow"
-Translate=""
+Translate="Žlutá"
 
 ID=PressNumberAgain
 Current="Press number again to switch size"
@@ -13660,35 +13660,35 @@ Translate="Stejné tlačíko = Změna velikosti"
 
 ID=ProductionScreen_AssemblerList
 Current="List of available assemblers"
-Translate=""
+Translate="Výpis dostupných konstruktérů"
 
 ID=ProgrammableBlock_ButtonCreateFromEditor
 Current="Create from Editor"
-Translate=""
+Translate="Vytvořit z editoru"
 
 ID=ProgrammableBlock_ButtonDetails
 Current="Details"
-Translate=""
+Translate="Detaily"
 
 ID=ProgrammableBlock_ButtonRefreshScripts
 Current="Refresh Scripts"
-Translate=""
+Translate="Obnovit skripty"
 
 ID=ProgrammableBlock_ButtonReplaceFromEditor
 Current="Replace from Editor"
-Translate=""
+Translate="Nahradit z editoru"
 
 ID=ProgrammableBlock_CodeChanged
 Current="Code changed"
-Translate=""
+Translate="Kód změněn"
 
 ID=ProgrammableBlock_CodeEditor_SaveExit
 Current="Remember &amp; Exit"
-Translate=""
+Translate="Zapamatovat &amp; Odejít"
 
 ID=ProgrammableBlock_CodeEditor_Title
 Current="Code Editor"
-Translate=""
+Translate="Editor kódu"
 
 ID=ProgrammableBlock_DefaultScript_Constructor
 Current="The constructor, called only once every session andalways before any other method is called. Use it toinitialize your script. The constructor is optional and can be removed if notneeded.It's recommended to set RuntimeInfo.UpdateFrequency here, which will allow your script to run itself without a timer block."
@@ -13716,15 +13716,15 @@ Translate=""
 
 ID=ProgrammableBlock_Editor_CheckCode
 Current="Check Code"
-Translate=""
+Translate="Zkontrolovat kód"
 
 ID=ProgrammableBlock_Editor_CheckingCode
 Current="Checking Code"
-Translate=""
+Translate="Kontroluji kód"
 
 ID=ProgrammableBlock_Editor_CheckCode_Tooltip
 Current="Checks code inside editor for errors"
-Translate=""
+Translate="Zkontroluje chyby kódu v editoru"
 
 ID=ProgrammableBlock_Editor_CompilationFailed
 Current="Compilation failed"
@@ -13900,7 +13900,7 @@ Translate="Johann W. Goethe"
 
 ID=Quote18Text
 Current="We see only what we know."
-Translate=""
+Translate="Vidíme pouze to co známe."
 
 ID=Quote19Author
 Current="Niels H. D. Bohr"
@@ -13912,7 +13912,7 @@ Translate=""
 
 ID=Quote20Author
 Current="Ancient paradox"
-Translate=""
+Translate="Starověký paradox"
 
 ID=Quote20Text
 Current="Only one thing is certain - that is, nothing is certain. If this statement is true, it is also false."
@@ -14332,15 +14332,15 @@ Translate="Podmínky vítězství"
 
 ID=ScenarioSettings_CanJoinRunning
 Current="Players can join when game is already running"
-Translate=""
+Translate="Hráči se mohou připojit do již probíhající hry"
 
 ID=ScenarioSettings_CanJoinRunningShort
 Current="Players can join running game"
-Translate=""
+Translate="Hráči se mohou připojit do běžící hry"
 
 ID=ScreenButtonBattle
 Current="Battle"
-Translate=""
+Translate="Bitva"
 
 ID=ScreenCaptionAISchool
 Current="AI School Scenario"
@@ -14348,7 +14348,7 @@ Translate=""
 
 ID=ScreenCaptionScenario
 Current="Scenario"
-Translate=""
+Translate="Scénář"
 
 ID=ScreenCaptionVideoOptions
 Current="Video options"
@@ -14360,19 +14360,19 @@ Translate=""
 
 ID=ScreenCubeBuilderAddGoodAiBot
 Current="Add GoodAI bot"
-Translate=""
+Translate="Přidat GoodAI bota"
 
 ID=ScreenCubeBuilderNewLargeShip
 Current="New Large Ship"
-Translate=""
+Translate="Nová velká loď"
 
 ID=ScreenCubeBuilderNewSmallShip
 Current="New Small Ship"
-Translate=""
+Translate="Nová malá loď"
 
 ID=ScreenCubeBuilderNewStation
 Current="New Station"
-Translate=""
+Translate="Nová stanice"
 
 ID=ScreenDebugAdminMenu_Caption
 Current="Space Master"
@@ -14500,15 +14500,15 @@ Translate="Přesuneš svou postavu na pozici kamery diváka"
 
 ID=ScreenDebugAdminMenu_Player
 Current="Player"
-Translate=""
+Translate="Hráč"
 
 ID=ScreenDebugAdminMenu_Date
 Current="Date"
-Translate=""
+Translate="Datum"
 
 ID=ScreenDebugAdminMenu_Cheaters
 Current="Cheaters"
-Translate=""
+Translate="Cheateři"
 
 ID=ScreenDebugAdminMenu_Clear
 Current="Clear selected"
@@ -14592,27 +14592,27 @@ Translate="Množství :"
 
 ID=ScreenDebugSpawnMenu_Items
 Current="Items"
-Translate=""
+Translate="Předměty"
 
 ID=ScreenDebugSpawnMenu_ItemType
 Current="Item type"
-Translate=""
+Translate="Typ předmětu"
 
 ID=ScreenDebugSpawnMenu_PickPlanet
 Current="Pick planet to edit"
-Translate=""
+Translate="Vyberte planetu k úpravě"
 
 ID=ScreenDebugSpawnMenu_Planets
 Current="Planets"
-Translate=""
+Translate="Planety"
 
 ID=ScreenDebugSpawnMenu_PredefinedAsteroids
 Current="Predefined Asteroids"
-Translate=""
+Translate="Předdefinované asteroidy"
 
 ID=ScreenDebugSpawnMenu_ProceduralAsteroids
 Current="Procedural Asteroids"
-Translate=""
+Translate="Procedurální asteroidy"
 
 ID=ScreenDebugSpawnMenu_ProceduralSeed
 Current="Generation Seed :"
@@ -14656,19 +14656,19 @@ Translate=""
 
 ID=ScreenGraphicsOptions_ShaderQuality
 Current="Shader quality"
-Translate=""
+Translate="Kvalita shaderů"
 
 ID=ScreenGraphicsOptions_ShadowMapResolution
 Current="Shadow quality"
-Translate=""
+Translate="Kvalita stínů"
 
 ID=ScreenGraphicsOptions_LightsQuality
 Current="Lights quality"
-Translate=""
+Translate="Kvalita světel"
 
 ID=ScreenGraphicsOptions_ShadowMapResolution_Medium
 Current="Medium"
-Translate=""
+Translate="Střední"
 
 ID=ScreenGraphicsOptions_VoxelQuality
 Current="Voxel quality"
@@ -14676,7 +14676,7 @@ Translate=""
 
 ID=ScreenMainMenu_DeluxeLine1
 Current="DELUXE version is now available!"
-Translate=""
+Translate="DELUXE verze je niný dostupná!"
 
 ID=ScreenMainMenu_DeluxeLine2
 Current="Buy it on {0} to get special content!"
@@ -14684,7 +14684,7 @@ Translate=""
 
 ID=ScreenMainMenu_GhostSkinLine1
 Current="Special Halloween offer!"
-Translate=""
+Translate="Speciální Halloweenská nabídka!"
 
 ID=ScreenMainMenu_GhostSkinLine2
 Current="Grab it on {0}!"
@@ -14692,7 +14692,7 @@ Translate=""
 
 ID=ScreenMainMenu_SkinSaleLine1
 Current="Limited offer of skins!"
-Translate=""
+Translate="Limitovaná nabídká skinů!"
 
 ID=ScreenMainMenu_SkinSaleLine2
 Current="Grab it on {0}!"
@@ -14700,7 +14700,7 @@ Translate=""
 
 ID=ScreenMainMenu_DecoBlockDlcLine1
 Current="Decorative blocks are now available!"
-Translate=""
+Translate="Dekorativní bloky jsou teď dostupné!"
 
 ID=ScreenMainMenu_DecoBlockDlcLine2
 Current="Grab them on {0}!"
@@ -14728,7 +14728,7 @@ Translate=""
 
 ID=ScreenOptionsButtonVideo
 Current="Video"
-Translate=""
+Translate="Video"
 
 ID=ScreenTerminalError_ShipHasBeenDisconnected
 Current="Ship has been disconnected from terminal"
@@ -14772,7 +14772,7 @@ Translate="Malé konstrukce"
 
 ID=SoundBlock_SoundName_ObjectiveComplete
 Current="Objective complete"
-Translate=""
+Translate="Úkol dokončen"
 
 ID=SpectatorControls_Free_Desc
 Current="Free spectator. You can still shoot and do actions with controlled object"
@@ -14800,7 +14800,7 @@ Translate=""
 
 ID=String1TerminalTab_Factions_LeaveToolTip
 Current="Leave selected faction"
-Translate=""
+Translate="Opustit zvolený klan"
 
 ID=SwitchBuilderMode
 Current="Switch cockpit builder mode"
@@ -14936,7 +14936,7 @@ Translate=""
 
 ID=ToolTipJoinGameServerSearch_SameGameData
 Current="Show only servers with same game data"
-Translate=""
+Translate="Ukázat pouze servery, které mají stejná herní data"
 
 ID=ToolTipJoinGameServerSearch_Search
 Current="Update current server search filter"
@@ -14948,7 +14948,7 @@ Translate=""
 
 ID=ToolTipJoinGameServerSearch_Survival
 Current="Show survival servers"
-Translate=""
+Translate="Ukázat survival servery"
 
 ID=ToolTipJoinGame_Advanced
 Current="Open advanced server search settings"
@@ -14956,7 +14956,7 @@ Translate=""
 
 ID=ToolTipJoinGame_DirectConnect
 Current="Connect to a server via IP"
-Translate=""
+Translate="Připojit se na server pomocí IP"
 
 ID=ToolTipJoinGame_SearchClear
 Current="Clear search"
@@ -15008,7 +15008,7 @@ Translate=""
 
 ID=ToolTipOptionsAudio_EnableVoiceChat
 Current="Enable in-game voice chat"
-Translate=""
+Translate="Povolit hlasový chat ve hře"
 
 ID=ToolTipOptionsAudio_HudWarnings
 Current="Use sound warnings, when low on oxygen, health or power"
@@ -15016,7 +15016,7 @@ Translate=""
 
 ID=ToolTipOptionsAudio_MusicVolume
 Current="Configure volume level of in-game music"
-Translate=""
+Translate="Nastavení hladiny hlasitosti hudby ve hře"
 
 ID=ToolTipOptionsAudio_MuteWhenInactive
 Current="Disable all sound when game window loses focus"
@@ -15108,23 +15108,23 @@ Translate=""
 
 ID=ToolTipOptionsGraphics_Antialiasing
 Current="Smooth out hard edges around objects"
-Translate=""
+Translate="Vyhladí ostré hrany okolo objektu"
 
 ID=ToolTipOptionsGraphics_FOV
 Current="Adjust view cone of character camera in degrees"
-Translate=""
+Translate="Upravte úhel pohledu vaší postavy"
 
 ID=ToolTipOptionsGraphics_GrassDensity
 Current="Set density of grass"
-Translate=""
+Translate="Nastavte hustotu trávy"
 
 ID=ToolTipOptionsGraphics_GrassDrawDistance
 Current="Modify grass render distance"
-Translate=""
+Translate="Upravte vzdálenost vykreslování trávy"
 
 ID=ToolTipOptionsGraphics_ModelQuality
 Current="Set model complexity"
-Translate=""
+Translate="Nastavte složitost modelu"
 
 ID=ToolTipOptionsGraphics_PostProcessing
 Current="Enables Bloom, Vignette, Chromatic Aberation and washes the visor up"
@@ -15132,55 +15132,55 @@ Translate=""
 
 ID=ToolTipOptionsGraphics_QualityPreset
 Current="Choose a quality preset, according to your HW specifications"
-Translate=""
+Translate="Zvolte grafické přednastavení podle vašich HW specifikací"
 
 ID=ToolTipOptionsGraphics_ShaderQuality
 Current="Select quality of render effects.Higher settings may affect performance."
-Translate=""
+Translate="Vyberte kvalitu vykreslování efektů. Vyšší nastavení může ovlivnit výkon hry."
 
 ID=ToolTipOptionsGraphics_ShadowQuality
 Current="Select shadow resolution"
-Translate=""
+Translate="Vyberte rozlišení stínů"
 
 ID=ToolTipOptionsGraphics_TextureQuality
 Current="Set texture detail"
-Translate=""
+Translate="Nastavene detaily textur"
 
 ID=ToolTipOptionsGraphics_TreeDrawDistance
 Current="Select tree render distance"
-Translate=""
+Translate="Upravte vzdálenost vykreslování stromů"
 
 ID=ToolTipOptionsGraphics_VoxelQuality
 Current="Choose visual complexity of distant voxels"
-Translate=""
+Translate="Zvolte vizuální složitost vzdálených voxelů"
 
 ID=ToolTipOptionsSpace_Audio
 Current="Configure audio options"
-Translate=""
+Translate="Nakonfigurujte nastavení zvuku"
 
 ID=ToolTipOptionsSpace_Cancel
 Current="Return to previous menu"
-Translate=""
+Translate="Návrat do předchozí nabídky"
 
 ID=ToolTipOptionsSpace_Controls
 Current="Configure game contorls"
-Translate=""
+Translate="Nakonfigurujte ovládání hry"
 
 ID=ToolTipOptionsSpace_Credits
 Current="View credits"
-Translate=""
+Translate="Ukázat autory"
 
 ID=ToolTipOptionsSpace_Display
 Current="Configure display options"
-Translate=""
+Translate="Nakonfigurujte nastavení zobrazení"
 
 ID=ToolTipOptionsSpace_Game
 Current="Configure game options"
-Translate=""
+Translate="Nakonfigurujte herbá nastavení"
 
 ID=ToolTipOptionsSpace_Graphics
 Current="Configure graphics options"
-Translate=""
+Translate="Nakonfigurujte grafické nastavení"
 
 ID=ToolTipSafeZone_AddContained
 Current="Add all entities inside safe zone to the filter"
@@ -15192,7 +15192,7 @@ Translate=""
 
 ID=TooltipScreenMods_Category_Character
 Current="Character"
-Translate=""
+Translate="POstava"
 
 ID=ToolTipTerminalProduction_AssemblingMode
 Current="Assembling mode: ingots to components"
@@ -15300,15 +15300,15 @@ Translate=""
 
 ID=ToolTipWorldSettings_Assembler_x1
 Current="Default assembler speed and efficiency"
-Translate=""
+Translate="Výchozí nastavení rychlost a účinnosti konstrukterů"
 
 ID=ToolTipWorldSettings_Assembler_x10
 Current="Assembler requires 10x less materials and is 10x faster"
-Translate=""
+Translate="Konstruktéry potřebjí 10x méně materiálu a jsou 10 rychlejší"
 
 ID=ToolTipWorldSettings_Assembler_x3
 Current="Assembler requires 3x less materials and is 3x faster"
-Translate=""
+Translate="Konstruktéry potřebjí 3x méně materiálu a jsou 3x rychlejší"
 
 ID=ToolTipWorldSettings_CargoShipsEnabled
 Current="Enables random cargoships flying through the world from time to time."
@@ -15320,7 +15320,7 @@ Translate=""
 
 ID=ToolTipWorldSettings_EnableContainerDrops
 Current="Enables spawning of unknown signals."
-Translate=""
+Translate="Povolojí objevování se neznámých signálů"
 
 ID=ToolTipWorldSettings_EnableConvertToStation
 Current="Adds an option to ship terminals to convert ships to stations."
@@ -15632,7 +15632,7 @@ Translate=""
 
 ID=IngameHelp_OxygenTip_Detail2
 Current="*Tip:* Walking consumes less oxygen than running or sprinting"
-Translate=""
+Translate="*Tip: Chůze spotřebovává méně kyslíku než běhání nebo sprintování"
 
 ID=IngameHelp_Oxygen_Detail1
 Current="Your oxygen is getting low. Oxygen is produced from ice in a O2/H2 generator. You can refill bottles at the generator or resupply directly by interacting with a medical bay or survival kit if it's connected with the O2/H2 generator."
@@ -15704,11 +15704,11 @@ Translate=""
 
 ID=IngameHelp_RefiningOre_Detail2
 Current="Use a survival kit or Refinery to process ore and obtain ingots."
-Translate=""
+Translate="Použijte základní modul nebo rafinérii ke zpracování rudy a získání ingotů"
 
 ID=IngameHelp_RefiningOre_Title
 Current="Good.bot: Refining Ore"
-Translate=""
+Translate="Good.bot: Zpracování rudy"
 
 ID=IngameHelp_ComponentsTip_Detail1
 Current="Your skills are quickly becoming superior to mine!"
@@ -15796,7 +15796,7 @@ Translate="Good.bot: Interaktivní objekty."
 
 ID=IngameHelp_PowerTip_Detail1
 Current="Simple enough, is it not?!"
-Translate=""
+Translate="Dosti jednoduché nebo ne?!"
 
 ID=IngameHelp_PowerTip_Detail2
 Current="*Tip:* Turn off blocks that you do not need to save power."
@@ -15812,11 +15812,11 @@ Translate=""
 
 ID=ScreenBlueprintsRew_NotAvailable
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=ScreenBlueprintsRew_PCU
 Current="PCU: {0}"
-Translate=""
+Translate="PCU: {0}"
 
 ID=ScreenBlueprintsRew_ReplaceMessage1
 Current="Blueprint/script with the name ""
@@ -15852,7 +15852,7 @@ Translate=""
 
 ID=ChatBot_HowAreYou
 Current="I am well, thank you!"
-Translate=""
+Translate="Mám se dobře, děkuji!"
 
 ID=ChatBot_Rude
 Current="That was not very nice! In case of any issues, please contact us at https://support.keenswh.com/"
@@ -15860,7 +15860,7 @@ Translate=""
 
 ID=ChatBot_ThankYou
 Current="You're welcome!"
-Translate=""
+Translate="Není zač!"
 
 ID=ChatBotMisunderstanding0
 Current="Apologies, I am unable to answer the question. I am still learning. For more help, please visit https://support.keenswh.com/"
