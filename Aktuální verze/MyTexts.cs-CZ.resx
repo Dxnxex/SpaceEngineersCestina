@@ -21559,7 +21559,7 @@
 <comment>CZE</comment>
 </data>
 <data name="StoreSell_Error_Text_NoFaction" xml:space="preserve">
-<value>Obchod není ve vlastnictví frakce.</value>
+<value>Obchod není ve vlastnictví klanu.</value>
 <comment>CZE</comment>
 </data>
 <data name="ActiveContractsScreen_Help_Abandon" xml:space="preserve">
