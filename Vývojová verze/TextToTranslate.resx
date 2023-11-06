@@ -4460,7 +4460,7 @@ Translate="Povolit nebo zakázat kooperaci"
 
 ID=ToolTipWorldSettingsAsteroidAmount
 Czech="Nastaví hustotu generovaných asteroidových polí."
-Translate="Nastaví hustotu generovaných asteroidových polí."
+Translate="Vyberte hustotu generovaných asteroidových polí"
 
 ID=ToolTipWorldSettingsAutoHealing
 Czech="Povolit regeneraci. Pokud hráč nedostává poškození a je v natlakovaným prostředí, tak se vylečí do {0}%"
@@ -4476,7 +4476,7 @@ Translate="Povolí diváky ve světě."
 
 ID=ToolTipWorldSettingsEnvironment
 Czech="Nastavení četnosti a intenzity meteorických rojů."
-Translate="Nastavení četnosti a intenzity meteorických rojů."
+Translate="Vyberte četnost a intenzitu meteorických rojů"
 
 ID=ToolTipWorldSettingsLimitWorldSize
 Czech="Pokud je zaškrtnuto, tak herní oblast bude omezena do krychle nastavené hodnoty. Veškeré objekty, které opustí budou odebrány a hráči zabiti."
@@ -4508,7 +4508,7 @@ Translate="Povolí zobrazení hráčkých jmen nad postavou."
 
 ID=ToolTipWorldSettingsSoundMode
 Czech="Přepínání mezi realistickým a arkádovým zvukem."
-Translate="Přepínání mezi realistickým a arkádovým zvukem."
+Translate="Vyberte mezi realistickým a arkádovým zvukem"
 
 ID=ToolTipWorldSettingsThrusterDamage
 Czech="Povolí plamenům od trysek poškozovat bloky, hráče a další jiné objekty."
@@ -4536,7 +4536,7 @@ Translate="Povolí zbraně a výbušniny."
 
 ID=ToolTipWorldSettings_AssemblerEfficiency
 Czech="Nastavení účinnost konstruktérů. Toto nastavení sníží nebo zvýší výtěžnost rudy."
-Translate="Nastavení účinnost konstruktérů. Toto nastavení sníží nebo zvýší výtěžnost rudy."
+Translate="Vyberte účinnost konstruktérů (Toto nastavení sníží nebo zvýší výtěžnost rudy.)"
 
 ID=ToolTipWorldSettings_DayDuration
 Czech="Nastavení délky dne"
@@ -4556,15 +4556,15 @@ Translate="Povolí oběh Slunce k vytvoření dne a noci."
 
 ID=ToolTipWorldSettings_GrindingSpeed
 Czech="Nastavení rychlost brusky."
-Translate="Nastavení rychlost brusky."
+Translate="Vyberte násobič rychlost brusky"
 
 ID=ToolTipWorldSettings_InventorySize
 Czech="Uprav si velikost inventáře tvé postavy."
-Translate="Uprav si velikost inventáře tvé postavy."
+Translate="Vyberte velikost inventáře postavy"
 
 ID=ToolTipWorldSettings_RefinerySpeed
 Czech="Nastavení rychlosti rafinérie."
-Translate="Nastavení rychlosti rafinérie."
+Translate="Vyberte násobič rychlosti rafinérie"
 
 ID=ToolTipWorldSettings_RespawnShipCooldown
 Czech="Nastavení násobiče doby času pro obnovení oživovací lodi."
@@ -4580,7 +4580,7 @@ Translate="Povolením tohoto nastavení se oddělené konstrukce nestanou dynami
 
 ID=ToolTipWorldSettings_ToolShake
 Czech="Povolí třesení lodních vrtáků a brusek."
-Translate="Povolí třesení lodních vrtáků a brusek."
+Translate="Povolí třesení lodních vrtáků a brusek"
 
 ID=ToolTipWorldSettings_VoxelHand
 Czech="Voxelová ruka"
@@ -4588,7 +4588,7 @@ Translate="Voxelová ruka"
 
 ID=ToolTipWorldSettings_WeldingSpeed
 Czech="Nastavení rychlosti sváření"
-Translate="Nastavení rychlosti sváření"
+Translate="Vyberte násobič rychlosti sváření"
 
 ID=Uranium
 Czech="Uran"
@@ -5228,7 +5228,7 @@ Translate="Velikost invetáře postavy"
 
 ID=ToolTipWorldSettings_BlocksInventorySize
 Czech="Uprav si velikost inventáře bloků, jako jsou kontejnery, výrobní bloky a další."
-Translate="Uprav si velikost inventáře bloků, jako jsou kontejnery, výrobní bloky a další."
+Translate="Vyberte velikost inventáře bloků (kontejnery, výrobní bloky a další.)"
 
 ID=Faction_Filter_Enemy
 Czech="Ukázat nepřátelské"
@@ -5316,7 +5316,7 @@ Translate="Kokpit (Industrial)"
 
 ID=DisplayName_Block_Console
 Czech="Konzole"
-Translate="Konzole"
+Translate="Stůl - Konzole"
 
 ID=DisplayName_Block_Couch
 Czech="Pohovka"
@@ -7312,43 +7312,43 @@ Translate="Velký kontejner (Industrial)"
 
 ID=DisplayName_Block_ButtonPanelPedestal
 Current="Button Panel Pedestal"
-Translate="XPanel - Tlačítko - Podstavec"
+Translate="Konzole - Tlačítko - Podstavec"
 
 ID=DisplayName_Block_ControlPanelPedestal
 Current="Control Panel Pedestal"
-Translate="XPanel - Ovládací - Podstavec"
+Translate="Konzole - Ovládací - Podstavec"
 
 ID=DisplayName_Block_InsetButtonPanel
 Current="Inset Button Panel"
-Translate="XPanel - Tlačítkový - Věstavený"
+Translate="Konzole - Tlačítkový - Věstavený"
 
 ID=ControlPanel
 Czech="Ovládací panel"
-Translate="XPanel - Ovládací"
+Translate="Konzole - Ovládací"
 
 ID=DisplayName_Block_ButtonPanel
 Czech="Panel s tlačítky"
-Translate="XPanel - Tlačítkový"
+Translate="Konzole - Tlačítkový"
 
 ID=DisplayName_Block_ControlPanel
 Czech="Kontrolní panel"
-Translate="XPanel - Ovládací"
+Translate="Konzole - Ovládací"
 
 ID=DisplayName_Block_SciFiTerminal
 Czech="Sci-Fi Ovládácí panel"
-Translate="XPanel - Ovládací (Sci-Fi)"
+Translate="Konzole - Ovládací (Sci-Fi)"
 
 ID=DisplayName_Block_SciFiButtonPanel
 Czech="Sci-Fi panel se 4 tlačítky"
-Translate="XPanel - 4 Tlačítkový (Sci-Fi)"
+Translate="Konzole - 4 Tlačítkový (Sci-Fi)"
 
 ID=DisplayName_Block_SciFiButtonTerminal
 Czech="Sci-Fi Jednotlačítkový panel"
-Translate="XPanel - Tlačítko (Sci-Fi)"
+Translate="Konzole - Tlačítko (Sci-Fi)"
 
 ID=DisplayName_Block_VerticalButtonPanel
 Czech="Vertikální tlačíkový panel"
-Translate="XPanel - Tlačítkový - Vertikální"
+Translate="Konzole - Tlačítkový - Vertikální"
 
 ID=DisplayName_DLC_IndustrialPackDLC
 Czech="[DLC] Industrial              "
@@ -9691,24 +9691,24 @@ Czech="Položit"
 Translate="Položit"
 
 ID=Hint00Text
-Czech="Věděli jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
-Translate="Věděli jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
+Czech="Věděli jste že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
+Translate="Věděli jste že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
 
 ID=HintKeyboardOnly05Text
-Czech="Věděli jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
-Translate="Věděli jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
+Czech="Věděli jste že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
+Translate="Věděli jste že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
 
 ID=Hint07Text
-Czech="Věděli jsi že? Meteor po sobě může zanechat cenné suroviny."
-Translate="Věděli jsi že? Meteor po sobě může zanechat cenné suroviny."
+Czech="Věděli jste že? Meteor po sobě může zanechat cenné suroviny."
+Translate="Věděli jste že? Meteor po sobě může zanechat cenné suroviny."
 
 ID=Hint08Text
-Czech="Věděli jsi že? Tmavé fleky na planetách ukazují na naleziště rudy."
-Translate="Věděli jsi že? Tmavé fleky na planetách ukazují na naleziště rudy."
+Czech="Věděli jste že? Tmavé fleky na planetách ukazují na naleziště rudy."
+Translate="Věděli jste že? Tmavé fleky na planetách ukazují na naleziště rudy."
 
 ID=Hint09Text
-Czech="Věděli jsi že? Kameny na povrchu země častu obsahují cenné suroviny."
-Translate="Věděli jsi že? Kameny na povrchu země častu obsahují cenné suroviny."
+Czech="Věděli jste že? Kameny na povrchu země častu obsahují cenné suroviny."
+Translate="Věděli jste že? Kameny na povrchu země častu obsahují cenné suroviny."
 
 ID=Hint10Control0
 Czech="SKOČ"
@@ -9723,16 +9723,16 @@ Czech="PODVOZEK"
 Translate="PODVOZEK"
 
 ID=Hint14Text
-Czech="Věděli jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
-Translate="Věděli jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
+Czech="Věděli jste že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
+Translate="Věděli jste že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
 
 ID=HintKeyboardOnly09Text
-Czech="Věděli jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
-Translate="Věděli jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
+Czech="Věděli jste že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
+Translate="Věděli jste že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
 
 ID=HintKeyboardOnly04Text
-Czech="Věděli jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
-Translate="Věděli jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
+Czech="Věděli jste že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
+Translate="Věděli jste že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
 
 ID=HintKeyboardOnly00Control0
 Czech="PŘEPNOUT_SIGNÁLY"
@@ -10075,12 +10075,12 @@ Czech="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo grav
 Translate="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
 
 ID=HintKeyboardOnly03Text
-Czech="Věděli jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
-Translate="Věděli jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
+Czech="Věděli jste že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
+Translate="Věděli jste že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
 
 ID=Hint24Text
-Czech="Věděli jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
-Translate="Věděli jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
+Czech="Věděli jste že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
+Translate="Věděli jste že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
 
 ID=IngameHelp_Jetpack_Detail2
 Czech="Přepínej jetpack klávesou {CONTROL:THRUSTS}."
@@ -11848,15 +11848,15 @@ Translate="Rychlopalební věž, která je nabíjena skrze dopravníky. Použív
 
 ID=Description_GravityGenerator
 Current="Gravity generators create configurable artificial gravity fields that affect players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. "
-Translate=""
+Translate="Gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř přírodní gravitace.
 
 ID=Description_GravityGeneratorSphere
 Current="Spherical gravity generators create a configurable artificial spherical gravity field that affects players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. "
-Translate=""
+Translate="Sférické gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř přírodní gravitace."
 
 ID=Description_ShipGrinder
 Current="Ship grinders are utility tools for deconstructing grids. Can be used from a cockpit or turned on manually. Be careful not to get too close while it's active. "
-Translate=""
+Translate="Brusky jsou užitečné nástroje pro rozebírání konstrukcí. Lze je použít z kokpitu či mohou být ručně zapnuty. Dávejte pozor, abyste nestáli příliš blízko pokud jsou aktivní."
 
 ID=Description_Gyroscope
 Current="Gyroscopes allow ships to orientate using the mouse movements and stabilize rotating grids.Build more gyroscopes to increase sensitivity and the speed that a grid can turn. "
@@ -11920,11 +11920,11 @@ Translate="Tato část pístu je vrchní část pístu. Nemá žádnou funkci al
 
 ID=Description_ProgrammableBlock
 Current="A Programmable Block is a computer that runs scripts to manage ship systems.Scripts can be found on the Workshop or written manually. "
-Translate=""
+Translate="Programovatelný blok je počítač, který spouští skripty k řízení lodních systémů. Skripty mohou být nalezeny ve Workshop nebo ručně napsány."
 
 ID=Description_Projector
 Current="The projector block projects saved blueprints of ships so that they can be built easily.Projection requires a connection with a grid from a projector in order to start construction. "
-Translate=""
+Translate="Projektor vyzobrazuje uložené plánky lodí, které mohou být tímto snadno postaveny. Projekce vyžaduje napojení na konstrukci z projektoru, aby mohla začít stavba."
 
 ID=Description_Reactor
 Current="Reactors generate high amounts of power at the cost of refined uranium ingots.Uranium is one of the rarest elements and cannot be found on planets. Uranium can be found in asteroids, and in some craters left by meteorite impacts. "
@@ -11948,7 +11948,7 @@ Translate="Vrchní část rotoru může být znovu připojena k hlavnímu rotoru
 
 ID=Description_Sensor
 Current="Sensors can be set up to activate ship systems when they detects players, ships or asteroids within a limited range. "
-Translate=""
+Translate="Senzory mohou být nastaveny k aktivaci lodních systémů v případě detekování hráčů, lodí nebo asteroidů v omezeném dosahu."
 
 ID=Description_SpaceBall
 Current="A spherical block that reacts to gravity."
@@ -12016,11 +12016,11 @@ Translate="Sedadlo mezi spoustou konzolí. Spíše sedalo jako můstek."
 
 ID=Description_OpenCockpitSmall
 Current="This control seat can be used to pilot anything from modest rovers to small-scale ships; they're also exceptionally comfortable."
-Translate=""
+Translate="Toto ovládácí křeslo může být použito k řízení čehokoliv od skromných roverů až po malé lodě a křeslo je mimořádně pohodlné."
 
 ID=Description_LabEquipment
 Current="Whether you’re conducting experiments or you simply want to look smart, lab equipment is perfect for decorating interiors."
-Translate=""
+Translate="Ať už provádíte experimenty nebo prostě chcete vypadat chytře, laboratoř je ideální pro dekoraci interiérů."
 
 ID=Description_Shower
 Current="A shower for decorating interiors and an ideal place to practice singing. Show everyone you care about hygiene."
@@ -12044,7 +12044,7 @@ Translate="Dekorativní stanice, která umožňuje astronautům zkoumat jejich z
 
 ID=Description_TransparentLCD
 Current="Transparent LCD panels display pictograms, scripts or customized text."
-Translate=""
+Translate="Transparentí LDC zobrazuje piktogramy, skripty nebo vlastní text."
 
 ID=Description_RotatingLight
 Current="A rotating light to alert engineers of hazardous situations."
@@ -12052,7 +12052,7 @@ Translate="Otačející světlo k upozornění astronautů na nebezpečné situa
 
 ID=Description_Freight
 Current="Crates left scattered around, indicating hard working engineers have been working in the area."
-Translate=""
+Translate="Bedny všude kolo naznačuje, že tu v této oblasti tvrdě pracují astronauti."
 
 ID=Description_Lockers
 Current="Personalized lockers for decorating interiors and store your essentials. "
@@ -12088,11 +12088,11 @@ Translate="Záchod jako dekorace. Může být použito jako sedadlo."
 
 ID=Description_Console
 Current="A console table for decorating interiors, projecting ships and stations in custom scale, as well as displaying pictograms or customized text on its displays."
-Translate=""
+Translate="Konzole slouží pro dekoraci interieru, projekci lodí či stanicí v nastavitelné velikosti, zobrazování pikrogramů či k vyzobrazení vlastního textu na displejích."
 
 ID=Description_CockpitIndustrial
 Current="Cockpits are used to control your ship.Connect a cockpit with oxygen tanks and O2/H2 generators to supply the cockpit with oxygen. "
-Translate=""
+Translate="Kokpity slouží k ovládání Vaší lodi. Propojte kokpit s kyslíkovou nádrží a O2/H2 generátorem k zásobení kokpitu kyslíkem."
 
 ID=Description_Bed
 Current="A bed for decorating interiors. Can preserve the players' inventory and toolbar while they're offline and keeps them alive as long as there is oxygen available in environment."
@@ -12792,15 +12792,15 @@ Translate=""
 
 ID=Hint25Text
 Current="Did you know? O2/H2 generator can produce small amounts of hydrogen for thrusters without having a hydrogen tank involved."
-Translate="Věděli jsi že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží."
+Translate="Věděli jste že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží."
 
 ID=HintKeyboardOnly00Text
 Current="Did you know?Press {0} to change the way GPS coordinates and Antennas are displayed on your HUD."
-Translate="Věděli jsi že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD."
+Translate="Věděli jste že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD."
 
 ID=Hint27Text
 Current="Did you know?Blocks that are destroyed during collisions or combat can cause damage around them."
-Translate="Věděli jsi že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich."
+Translate="Věděli jste že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich."
 
 ID=Hint26Text
 Current="Did you know?Pressurized environments will maintain optimal temperatures and recharge your health and oxygen."
@@ -12808,27 +12808,27 @@ Translate=""
 
 ID=Hint23Text
 Current="Did you know?Your suit's power drains faster when residing in cold or warm temperatures."
-Translate="Věděli jsi že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách."
+Translate="Věděli jste že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách."
 
 ID=Hint20Text
 Current="Did you know?The medical room recharges your energy and health five times as fast as the survival kit."
-Translate="Věděli jsi že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul."
+Translate="Věděli jste že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul."
 
 ID=Hint19Text
 Current="Did you know?You can use sensors to detect enemies located underground who are attempting to infiltrate your base."
-Translate="Věděli jsi že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu."
+Translate="Věděli jste že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu."
 
 ID=Hint18Text
 Current="Did you know?Wind turbines are more efficient when placed in high and open spaces."
-Translate="Věděli jsi že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství."
+Translate="Věděli jste že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství."
 
 ID=Hint16Text
 Current="Did you know?Rovers can use their wheel suspensions to jump out of tight situations."
-Translate="Věděli jsi že? Rovery mohou použít tlumiče kol k výskoku z těsných situací."
+Translate="Věděli jste že? Rovery mohou použít tlumiče kol k výskoku z těsných situací."
 
 ID=Hint15Text
 Current="Did you know?Advanced refineries give better yield when refining minerals."
-Translate="Věděli jsi že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů."
+Translate="Věděli jste že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů."
 
 ID=Hint05Text
 Current="Did you know?Your jet pack can match the velocity of nearby grids using relative dampeners."
@@ -12840,7 +12840,7 @@ Translate=""
 
 ID=Hint01Text
 Current="Did you know?You can use /f to chat with your faction only or /g for global."
-Translate=""
+Translate="Věděli jste že? Můžete použít /f pro chat s klanem nebo /g pro globální chat."
 
 ID=HudBlockInfo_Installed_Required
 Current="Installed / Required"
@@ -13300,7 +13300,7 @@ Translate="Space Engineers® and VRAGE™ are trademarks of KEEN SWH LTD."
 
 ID=NoticeLine_04
 Current="www.keenswh.com"
-Translate=""www.keenswh.com"
+Translate="www.keenswh.com"
 
 ID=NoticeLine_05
 Current="“Space Engineers” uses Havok®."
@@ -13484,7 +13484,7 @@ Translate=""
 
 ID=NotificationPlayerDemoted_Scripter
 Current="You have been demoted to Scripter"
-Translate=""
+Translate="Byl jste degradován na Skriptera"
 
 ID=NotificationPlayerDemoted_SpaceMaster
 Current="You have been demoted to Space Master"
@@ -13492,15 +13492,15 @@ Translate=""
 
 ID=NotificationPlayerPromoted_Admin
 Current="You have been promoted to Administrator"
-Translate=""
+Translate="Byl jste povýšen na Administrátora"
 
 ID=NotificationPlayerPromoted_Moderator
 Current="You have been promoted to Observer"
-Translate=""
+Translate="Byl jste povýšen na Diváka"
 
 ID=NotificationPlayerPromoted_Scripter
 Current="You have been promoted to Scripter"
-Translate=""
+Translate="Byl jste povýšen na Skriptera"
 
 ID=NotificationPlayerPromoted_SpaceMaster
 Current="You have been promoted to Space Master"
@@ -13872,7 +13872,7 @@ Translate="Max Planck"
 
 ID=Quote07Text
 Current="A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
-Translate=""
+Translate="Nová vědecká pravda nezvítězí tím, že přesvědčí své odpůrce a přivede je k uvědomění, nýbrž spíše proto, že její odpůrci nakonec zemřou a vyroste nová generace, která s ní bude obeznámena."
 
 ID=Quote09Author
 Current="Albert Einstein"
@@ -13912,7 +13912,7 @@ Translate="Galileo Galilei"
 
 ID=Quote17Text
 Current="If I were again beginning my studies, I would follow the advice of Plato and start with mathematics."
-Translate=""
+Translate="Kdybych začínal svá studia znovu, následoval bych radu Platóna a začal bych matematikou."
 
 ID=Quote18Author
 Current="Johann W. Goethe"
@@ -13928,7 +13928,7 @@ Translate="Niels H. D. Bohr"
 
 ID=Quote19Text
 Current="If anybody says he can think about quantum problems without getting giddy, that only shows he has not understood the first thing about them."
-Translate=""
+Translate="Když někdo říká, že dokáže přemýšlet o kvantových problémech, aniž by cítil závrať, to jenom ukazuje, že vůbec nerozumí ani jednu věci o nich."
 
 ID=Quote20Author
 Current="Ancient paradox"
@@ -13948,7 +13948,7 @@ Translate="Walter Bagehot"
 
 ID=Quote22Text
 Current="A great pleasure in life is doing what people say you cannot do."
-Translate=""
+Translate="Velkým potěšením v životě je dělat to, co lidé říkají, že nemůžete udělat."
 
 ID=Quote23Author
 Current="Thomas A. Edison"
@@ -13956,7 +13956,7 @@ Translate="Thomas A. Edison"
 
 ID=Quote23Text
 Current="Genius is one percent inspiration and ninety-nine percent perspiration."
-Translate=""
+Translate="Talent je jedno procento inspirace a devadesát devět procent úsilí."
 
 ID=Quote24Author
 Current="Socrates"
@@ -13968,7 +13968,7 @@ Translate="Arthur C. Clarke"
 
 ID=Quote25Text
 Current="Any sufficiently advanced technology is indistinguishable from magic."
-Translate=""
+Translate="Jakákoli dostatečně pokročilá technologie je nerozeznatelná od magie."
 
 ID=Quote26Author
 Current="William Gibson"
@@ -13976,7 +13976,7 @@ Translate="William Gibson"
 
 ID=Quote26Text
 Current="When you want to know how things really work, study them when they're coming apart."
-Translate=""
+Translate="Když chcete skutečně vědět, jak věci fungují, studujte je, když se rozpadají."
 
 ID=Quote27Author
 Current="Scott Adams"
@@ -13984,7 +13984,7 @@ Translate="Scott Adams"
 
 ID=Quote27Text
 Current="Engineers like to solve problems. If there are no problems handily available, they will create their own problems."
-Translate=""
+Translate="Inženýři rádi řeší problémy. Pokud nejsou problémy snadno dostupné, vytvoří si vlastní problémy."
 
 ID=Quote28Author
 Current="Robert A. Heinlein"
@@ -13992,7 +13992,7 @@ Translate="Robert A. Heinlein"
 
 ID=Quote28Text
 Current="One man's "magic" is another man's engineering. "Supernatural" is a null word."
-Translate=""
+Translate="Magie jednoho člověka je inženýrství druhého. 'Nadpřirozeno' je prázdné slovo."
 
 ID=Quote29Author
 Current="Freeman Dyson"
@@ -14000,7 +14000,7 @@ Translate="Freeman Dyson"
 
 ID=Quote29Text
 Current="A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering."
-Translate=""
+Translate="Dobrý vědec je osoba s originálními myšlenkami. Dobrý inženýr je osoba, která vytvoří návrh, který funguje s co nejmenším počtem originálních myšlenek. V inženýrství nejsou žádné primadonny."
 
 ID=Quote30Author
 Current="Freeman Dyson"
@@ -14016,7 +14016,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote31Text
 Current="A space engineer is a professional practitioner who uses scientific knowledge, mathematics, physics, astronomy, propulsion technology, materials science, structural analysis, manufacturing and ingenuity to solve practical problems in space."
-Translate=""
+Translate="Astronaut je odborný praktik, který využívá vědecké znalosti, matematiku, fyziku, astronomii, technologii pohonu, vědu o materiálech, analýzu struktur, výrobu a vynalézavost k řešení praktických problémů ve vesmíru."
 
 ID=Quote32Author
 Current="Wikipedia, 2077"
@@ -14024,7 +14024,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote32Text
 Current="Space engineers design materials, structures, and systems while considering the limitations imposed by practicality, regulation, safety, ethicality and cost."
-Translate=""
+Translate="Astronauti navrhují materiály, struktury a systémy s ohledem na omezení stanovená praktičností, regulacemi, bezpečností, etikou a náklady.""
 
 ID=Quote33Author
 Current="Wikipedia, 2077"
@@ -14032,7 +14032,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote33Text
 Current="Space engineers are grounded in applied sciences, and their work in research and development is distinct from the basic research focus of space scientists."
-Translate=""
+Translate="Astronauti jsou zakotveni v aplikovaných vědách a jejich práce v oblasti výzkumu a vývoje se odlišuje od základního výzkumu, na který se zaměřují kosmičtí vědci."
 
 ID=Quote34Author
 Current="Wikipedia, 2077"
@@ -14040,7 +14040,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote34Text
 Current="In war times, space engineering involves military engineering as well. Such tasks typically include construction and demolition tasks under combat conditions."
-Translate=""
+Translate="V dobách válečného konfliktu zahrnuje kosmické inženýrství také vojenské inženýrství. Mezi takové úkoly obvykle patří stavební a demoliční práce za bojových podmínek."
 
 ID=Quote35Author
 Current="Wikipedia, 2077"
@@ -14084,11 +14084,11 @@ Translate=""
 
 ID=Quote40Author
 Current="U.S. Army Ordnance"
-Translate=""
+Translate="Arzenál armády USA"
 
 ID=Quote40Text
 Current="Tracers work both ways."
-Translate=""
+Translate="Trasírky fungují oběma směry"
 
 ID=Quote41Author
 Current="USAF Ammo Troop"
@@ -14104,7 +14104,7 @@ Translate="Anonym"
 
 ID=Quote42Text
 Current="The only time you have too much fuel is when you're on fire."
-Translate=""
+Translate="Jediný okamžik, kdy máte příliš mnoho paliva, je ten, když hoříte"
 
 ID=Quote43Author
 Current="Anonym"
@@ -14180,7 +14180,7 @@ Translate="Yuri Gagarin"
 
 ID=Quote52Text
 Current="To be the first to enter the cosmos, to engage, single-handed, in an unprecedented duel with nature - could one dream of anything more?"
-Translate=""
+Translate="Být prvním, kdo vstoupí do vesmíru, jednat s přírodou v jedinečném souboji - mohl by někdo snít o něčem více"
 
 ID=Quote53Author
 Current="Yuri Gagarin"
@@ -14188,7 +14188,7 @@ Translate="Yuri Gagarin"
 
 ID=Quote53Text
 Current="The path of a cosmonaut is not an easy, triumphant march to glory. You have to get to know the meaning not just of joy but also of grief, before being allowed in the spacecraft cabin."
-Translate=""
+Translate="Cesta kosmonauta není snadným, triumfálním pochodem ke slávě. Musíte poznat nejen význam radosti, ale také smutku, než vás pustí do kosmické lodi."
 
 ID=Quote54Author
 Current="Robert H. Goddard"
@@ -14284,7 +14284,7 @@ Translate=""
 
 ID=RespawnShip
 Current="Respawn Ship"
-Translate=""
+Translate="Oživovací loď"
 
 ID=PlanetRespawnPod
 Current="{0} Drop Pod"
@@ -15004,7 +15004,7 @@ Translate=""
 
 ID=ToolTipNewGameCustomGame_Advanced
 Current="Open advanced world configuration screen"
-Translate=""
+Translate="Otevře pokročilé možnosti nastavení světa"
 
 ID=ToolTipNewGame_WorkshopContent
 Current="Choose one of your subscribed workshop items or browse for more"
@@ -15264,15 +15264,15 @@ Translate=""
 
 ID=ToolTipWorldSettingsModeCreative
 Current="Unlimited resources, instant building, no death"
-Translate=""
+Translate="Nekonečné zdroje, okamžité stavění, nesmrtelnost"
 
 ID=ToolTipWorldSettingsModeSurvival
 Current="Realistic management of resources, realistic inventory capacity, death and respawn"
-Translate=""
+Translate="Realistické řízení zdrojů, realistické inventáře, smrt a oživení "
 
 ID=ToolTipWorldSettingsOnlineMode
 Current="Visibility of your game.Offline: Game runs in offline mode and does not require internet connectionPrivate: Only invited players can joinFriends: Only your {0} friends can joinPublic: Any {0} player can join"
-Translate=""
+Translate="Viditelnost Vaší hry. Offline: Hra běží v offline řezimu a nepotřebuje připojení k internetu. Soukromý: Pouze pozvaní hráči. Přátelé: Pouze Vaši {0} přátelé se mohou připojit. Veřejná: Každý {0} hráč se může připojit"
 
 ID=ToolTipWorldSettingsPermanentDeath
 Current="Enables players losing everything if they dieand don't have any available respawn points."
