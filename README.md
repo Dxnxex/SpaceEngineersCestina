@@ -1,6 +1,6 @@
 # Space Engineers Čeština
 
-**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.05)**
+**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.05) (04.11.2023)**
 <li>Přeložitelných řádků: 5937</li>
 <li>Přeložených řádků: 3697</li>
 <li>Nepřeložených řádků: 2240</li>
@@ -9,14 +9,17 @@
 
 **Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
 1. Stáhnete si aktuální nebo libovolný starší soubor s češtinou: "MyTexts.cs-CZ.resx"
-2. Najdete si cestu kam vložit aktuální soubor s češtinou: *\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization
+2. Najděte si cestu kam vložit aktuální soubor s češtinou: *\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization
 3. Vložíte soubor a je to.
 
 **Další informace:**
 1. Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/
 2. Korektura ještě není bohužel kompletní, jsou tam překlepy.
 3. Možné změny v budoucnosti co se týče překladů už přeloženého.
-   
+
+**Vývojová verze:**
+1. Současná nezveřejněná verze překladu, kde se řeší chyby a hlavně se překládá
+     
 **Důležité změny v překladu:**
 1. Conveyor - Dopravník
 2. Light armor - Lehký pancíř
