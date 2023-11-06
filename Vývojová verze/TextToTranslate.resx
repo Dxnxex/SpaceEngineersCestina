@@ -1480,7 +1480,7 @@ Translate="Nástroj pro stavění a opravu. Držte {CONTROL:ABASE:PRIMARY_TOOL_A
 
 ID=Description_AngleGrinder
 Czech="Nástroj pro bourání a vyprošťování. Držte {CONTROL:ABASE:PRIMARY_TOOL_ACTION} k řezání. "
-Translate="Nástroj pro bourání a vyprošťování. Držte {CONTROL:ABASE:PRIMARY_TOOL_ACTION} k řezání. "
+Translate="Nástroj pro bourání, vyprošťování a hlavně řezání. Držte {CONTROL:ABASE:PRIMARY_TOOL_ACTION} k řezání. "
 
 ID=Description_HandDrill
 Czech="Nástroj pro ničení hornin a k získávání minerálů. Držte {CONTROL:ABASE:PRIMARY_TOOL_ACTION} pro vrtání. Držte {CONTROL:ABASE:SECONDARY_TOOL_ACTION} k dělání tunelů."
@@ -11704,39 +11704,39 @@ Translate=""
 
 ID=Department_AdditionalArtists
 Current="Additional Artists"
-Translate=""
+Translate="Dodateční Grafici"
 
 ID=Department_AdditionalDesigners
 Current="Additional Designers"
-Translate=""
+Translate="Dodateční Designéři"
 
 ID=Department_AdditionalProgrammers
 Current="Additional Programmers"
-Translate=""
+Translate="Dodateční Programátoři"
 
 ID=Department_AdditionalTesters
 Current="Additional Testers"
-Translate=""
+Translate="Dodateční Testeři"
 
 ID=Department_Artists
 Current="Artists"
-Translate="Artists"
+Translate="Grafici"
 
 ID=Department_AssistantProducer
 Current="Assistant Producer"
-Translate="Pomocný producent"
+Translate="Pomocný Producent"
 
 ID=Department_CommunityManagers
 Current="Community Managers"
-Translate="Komunitní manažér"
+Translate="Komunitní Manažér"
 
 ID=Department_CommunityPr
 Current="Community &amp; PR Manager"
-Translate=""
+Translate="Komunitní &amp; PR Manažér"
 
 ID=Department_ExecutiveProducer
 Current="Executive Producer &amp; Creative Director"
-Translate=""
+Translate="Výkonná Producent &amp; Kreativní Ředitel"
 
 ID=Department_GameDesigners
 Current="Game Designers"
@@ -11752,7 +11752,7 @@ Translate="Vedoucí programátoři"
 
 ID=Department_LeadTester
 Current="QA Lead"
-Translate=""
+Translate="Vedení kvality"
 
 ID=Department_ModContributors
 Current="Mod Contributors"
@@ -11760,7 +11760,7 @@ Translate=""
 
 ID=Department_MoreInfo
 Current="For more information see"
-Translate=""
+Translate="Pro více informací navšivte"
 
 ID=Department_Music
 Current="Music"
@@ -11784,7 +11784,7 @@ Translate="Speciální poděkování (v abecedním pořadí)"
 
 ID=Department_Testers
 Current="QA Testers"
-Translate=""
+Translate="Testeři kvality"
 
 ID=Department_Translators
 Current="Translators"
@@ -12600,7 +12600,7 @@ Translate="Ovládání lodi"
 
 ID=HelpScreen_ControllerCharacterControl
 Current="Character Control"
-Translate=""
+Translate="Ovládání postavy"
 
 ID=HelpScreen_ControllerCycleShipToolbar
 Current="Cycle Ship Toolbar"
@@ -12816,7 +12816,7 @@ Translate="Věděli jsi že? Zdravotnická místnost doplňuje energii a zdraví
 
 ID=Hint19Text
 Current="Did you know?You can use sensors to detect enemies located underground who are attempting to infiltrate your base."
-Translate=""
+Translate="Věděli jsi že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu."
 
 ID=Hint18Text
 Current="Did you know?Wind turbines are more efficient when placed in high and open spaces."
@@ -12984,19 +12984,19 @@ Translate="Přetížení"
 
 ID=HudInfoReflectorsOff
 Current="Spotlights Off"
-Translate=""
+Translate="Reflektory vypnuty"
 
 ID=HudInfoReflectorsOn
 Current="Spotlights On"
-Translate=""
+Translate="Reflektory zapnuty"
 
 ID=HudInfoStanding
 Current="Standing"
-Translate=""
+Translate="Stojící"
 
 ID=HudInfoState
 Current="State"
-Translate=""
+Translate="Stav"
 
 ID=HudScenarioInfoLivesLeft
 Current="Lives:"
@@ -13060,15 +13060,15 @@ Translate=""
 
 ID=IngameHelp_Jetpack_Detail4:Gamepad
 Current="Use {GAMEPAD:AXIS_MOTION} to move and strafe."
-Translate=""
+Translate="Použij {GAMEPAD:AXIS_MOTION} k pohybu a pohybu do stran."
 
 ID=IngameHelp_Jetpack_Detail5:Gamepad
 Current="Use {CONTROL:JETPACK:ROLL_LEFT} and {CONTROL:JETPACK:ROLL_RIGHT} to roll."
-Translate=""
+Translate="Použij {CONTROL:JETPACK:ROLL_LEFT} a {CONTROL:JETPACK:ROLL_RIGHT} k naklonění."
 
 ID=IngameHelp_Movement_Detail2:Gamepad
 Current="Use {GAMEPAD:AXIS_MOTION} to walk and strafe."
-Translate=""
+Translate="Použij {GAMEPAD:AXIS_MOTION} k chůzi a pohybu do stran."
 
 ID=IngameHelp_Movement_Detail3:Gamepad
 Current="Push {CONTROL:FORWARD} all the way to sprint forward."
@@ -13092,7 +13092,7 @@ Translate=""
 
 ID=Jump_Achievable
 Current="Achievable percentage of the jump "
-Translate=""
+Translate="Dosažitelné procento skoku "
 
 ID=Jump_Blind
 Current="Blind Jump"
@@ -13124,11 +13124,11 @@ Translate="Minimální skoková vzdálenost: "
 
 ID=Jump_Obstacle
 Current="(Obstacle Detected)"
-Translate=""
+Translate="(Detekována překážka)"
 
 ID=Jump_ObstacleTruncation
 Current="Obstacle Detected! Jump Distance will be truncated."
-Translate=""
+Translate="Detekována překážka! Vzdálenost skoku bude zkrácena."
 
 ID=Jump_Weight
 Current="Weight of transported mass: "
@@ -14692,7 +14692,7 @@ Translate="Střední"
 
 ID=ScreenGraphicsOptions_VoxelQuality
 Current="Voxel quality"
-Translate=""
+Translate="Kvalita voxelů"
 
 ID=ScreenMainMenu_DeluxeLine1
 Current="DELUXE version is now available!"
@@ -15028,7 +15028,7 @@ Translate=""
 
 ID=ToolTipOptionsAudio_EnableVoiceChat
 Current="Enable in-game voice chat"
-Translate="Povolit hlasový chat ve hře"
+Translate="Povoluje/Zakazuje hlasovou komunikaci ve hře"
 
 ID=ToolTipOptionsAudio_HudWarnings
 Current="Use sound warnings, when low on oxygen, health or power"
@@ -15036,7 +15036,7 @@ Translate=""
 
 ID=ToolTipOptionsAudio_MusicVolume
 Current="Configure volume level of in-game music"
-Translate="Nastavení hladiny hlasitosti hudby ve hře"
+Translate="Nasavte hladinu hlasitosti hudby ve hře"
 
 ID=ToolTipOptionsAudio_MuteWhenInactive
 Current="Disable all sound when game window loses focus"
@@ -15044,7 +15044,7 @@ Translate=""
 
 ID=ToolTipOptionsAudio_SoundVolume
 Current="Configure volume level of sound effects"
-Translate=""
+Translate="Nasavte hladinu hlasitosti zvukových efektů ve hře"
 
 ID=ToolTipOptionsAudio_SpeedBasedSounds
 Current="Play ship engine sounds based solely on the speed of the craft.Uncheck for realistic sound."
@@ -15068,11 +15068,11 @@ Translate=""
 
 ID=ToolTipOptionsControls_InvertMouseX
 Current="Reverse horizontal movement of mouse"
-Translate=""
+Translate="Obrátit horizontální pohyb myší"
 
 ID=ToolTipOptionsControls_InvertMouseY
 Current="Reverse vertical movement of mouse"
-Translate=""
+Translate="Obrátit vertikální pohyb myší"
 
 ID=ToolTipOptionsControls_InvertMouseScrollBlockSelection
 Current="Reverse block selection by mouse scroll (scroll up = next block, scroll down = previous block)"
@@ -15084,7 +15084,7 @@ Translate=""
 
 ID=ToolTipOptionsControls_JoystickGradualPrecision
 Current="Change how sensitive your controller is to slow movements"
-Translate=""
+Translate="Nastavte jak citlivě bude ovladač reagovat na pomalý pohyb."
 
 ID=ToolTipOptionsControls_JoystickOrGamepad
 Current="Select active controller"
@@ -15096,7 +15096,7 @@ Translate=""
 
 ID=ToolTipOptionsControls_MouseSensitivity
 Current="Change how sensitive your mouse is to movement"
-Translate=""
+Translate="Nastavte jak citlivě bude myš reagovat na pomalý pohyb."
 
 ID=ToolTipOptionsDisplay_ScreenshotMultiplier
 Current="Choose how big screenshots will be in multipliers of current window size"
@@ -15124,7 +15124,7 @@ Translate=""
 
 ID=ToolTipOptionsGraphics_AnisotropicFiltering
 Current="Improve render quality of textures"
-Translate=""
+Translate="Vyberte vylepšení vykreslovaní kvality textur"
 
 ID=ToolTipOptionsGraphics_Antialiasing
 Current="Smooth out hard edges around objects"
@@ -15144,7 +15144,7 @@ Translate="Upravte vzdálenost vykreslování trávy"
 
 ID=ToolTipOptionsGraphics_ModelQuality
 Current="Set model complexity"
-Translate="Nastavte složitost modelu"
+Translate="Vyberte kvalitu modelování"
 
 ID=ToolTipOptionsGraphics_PostProcessing
 Current="Enables Bloom, Vignette, Chromatic Aberation and washes the visor up"
@@ -15152,7 +15152,7 @@ Translate=""
 
 ID=ToolTipOptionsGraphics_QualityPreset
 Current="Choose a quality preset, according to your HW specifications"
-Translate="Zvolte grafické přednastavení podle vašich HW specifikací"
+Translate="Vyberte grafické přednastavení podle vašich HW specifikací"
 
 ID=ToolTipOptionsGraphics_ShaderQuality
 Current="Select quality of render effects.Higher settings may affect performance."
@@ -15160,11 +15160,11 @@ Translate="Vyberte kvalitu vykreslování efektů. Vyšší nastavení může ov
 
 ID=ToolTipOptionsGraphics_ShadowQuality
 Current="Select shadow resolution"
-Translate="Vyberte rozlišení stínů"
+Translate="Vyberte kvalitu rozlišení stínů"
 
 ID=ToolTipOptionsGraphics_TextureQuality
 Current="Set texture detail"
-Translate="Nastavene detaily textur"
+Translate="Vyberte kvalitu detailů textur"
 
 ID=ToolTipOptionsGraphics_TreeDrawDistance
 Current="Select tree render distance"
@@ -15172,7 +15172,7 @@ Translate="Upravte vzdálenost vykreslování stromů"
 
 ID=ToolTipOptionsGraphics_VoxelQuality
 Current="Choose visual complexity of distant voxels"
-Translate="Zvolte vizuální složitost vzdálených voxelů"
+Translate="Vyberte kvalitu vykreslování vzdálených voxelů"
 
 ID=ToolTipOptionsSpace_Audio
 Current="Configure audio options"
@@ -15212,7 +15212,7 @@ Translate=""
 
 ID=TooltipScreenMods_Category_Character
 Current="Character"
-Translate="POstava"
+Translate="Postava"
 
 ID=ToolTipTerminalProduction_AssemblingMode
 Current="Assembling mode: ingots to components"
@@ -17896,11 +17896,11 @@ Translate="Průhlenost:"
 
 ID=ScreenOptionsGame_HitIndicatorLabel
 Current="Select hit type"
-Translate=""
+Translate="Typ zásahu"
 
 ID=ScreenOptionsGame_HitIndicatorTooltip
 Current="You can setup crosshair look for each hit types"
-Translate=""
+Translate="Můžete si nastavit vzhled kurzoru pro každý typ zásahu"
 
 ID=ScreenOptionsGame_HitIndicator_Character
 Current="Enemy"
@@ -17916,7 +17916,7 @@ Translate="Hlava"
 
 ID=ScreenOptionsGame_HitIndicator_Kill
 Current="Kill"
-Translate="Zabít"
+Translate="Zabití"
 
 ID=ScreenOptionsGame_HitIndicator_Grid
 Current="Grid"
@@ -17924,15 +17924,15 @@ Translate="Mřížka"
 
 ID=ScreenOptionsGame_CrosshairColor
 Current="Crosshair Color"
-Translate=""
+Translate="Barva kurzoru"
 
 ID=GameOptions_EnableTrading
 Current="Enable Trading"
-Translate="Povolit obchodování"
+Translate="Obchodování"
 
 ID=GameOptions_EnableTrading_TTIP
 Current="Enables trading with other players in multiplayer games. If disabled all trade requests are ignored"
-Translate=""
+Translate="Povolí obchodování s dalšími hráči v multiplayeru. Pokud je zakázáno všechny obchody budou ignorovány."
 
 ID=Faction_Discovered_Info
 Current="You discovered {0}"
@@ -20264,7 +20264,7 @@ Translate=""
 
 ID=TieredUpdate_GridPresenceNotAvailable
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=TieredUpdate_GridPresenceTier
 Current="Grid presence tier: "
@@ -20272,7 +20272,7 @@ Translate=""
 
 ID=TieredUpdate_PlayerPresenceNotAvailable
 Current="N/A"
-Translate=""
+Translate="N/A"
 
 ID=TieredUpdate_PlayerPresenceTier
 Current="Player presence tier: "
@@ -21136,7 +21136,7 @@ Translate="Držet původní"
 
 ID=SpawnMenu_KeepOriginalMaterial_Tooltip
 Current="Keep original asteroid material"
-Translate=""
+Translate="Ponechat původní materiál asteroidu"
 
 ID=SpawnMenu_VoxelSize
 Current="Voxel Size:"
@@ -21144,27 +21144,27 @@ Translate="Velikost voxelu:"
 
 ID=Item_Drill4_Extra_Tooltip
 Current="Widest cutout, fastest mining"
-Translate=""
+Translate="Nejširší výřez, nejrychlejší těžba"
 
 ID=Item_Drill_Extra_Tooltip
 Current="Wider cutout, faster mining"
-Translate=""
+Translate="Šiřoký výřez, rychlá těžba"
 
 ID=Item_Grinder4_Extra_Tooltip
 Current="Longest reach and fastest grinding"
-Translate=""
+Translate="Největší dosah a nejrychlejší řezání"
 
 ID=Item_Grinder_Extra_Tooltip
 Current="Longer reach and faster grinding"
-Translate=""
+Translate="Delší dosah a rychlejší řezání"
 
 ID=Item_Welder4_Extra_Tooltip
 Current="Longest reach and fastest welding"
-Translate=""
+Translate="Největší dosah a nejrychlejší svařování"
 
 ID=Item_Welder_Extra_Tooltip
 Current="Longer reach and faster welding"
-Translate=""
+Translate="Delší dosah a rychlejší svařování"
 
 ID=DisplayName_Block_ConveyorSorterIndustrial
 Current="Industrial Conveyor Sorter"
@@ -21256,7 +21256,7 @@ Translate="Nastaví veže na stejný cíl"
 
 ID=Description_Autocannon
 Current="Medium rate of fire, with a good punch. Uses Autocannon Magazines.Maximum range: 800 m"
-Translate=""
+Translate="Střední rychlost palby s dobrou ráží. Používá Automatický kanón - Zásobník. Maximální dostřel: 800 m"
 
 ID=MeasurementUnit_Meter
 Current=" m"
@@ -21280,11 +21280,11 @@ Translate="Přidat zbraň"
 
 ID=BlockPropertyTitle_AssignRotorAzimuth
 Current="Assign azimuth rotor"
-Translate=""
+Translate="Přiřadit směrový rotor"
 
 ID=BlockPropertyTitle_AssignRotorElevation
 Current="Assign elevation rotor"
-Translate=""
+Translate="Přiřadit výškový rotor"
 
 ID=BlockPropertyTitle_RemoveTool
 Current="Remove tool or weapon"
@@ -21320,23 +21320,23 @@ Translate="Warfare II."
 
 ID=BlockPropertyDescription_MultiplierAzimuth
 Current="Modify maximum velocity of azimuth rotor"
-Translate=""
+Translate="Upravuje maximální rychlost směrového rotoru"
 
 ID=BlockPropertyDescription_MultiplierElevation
 Current="Modify maximum velocity of elevation rotor"
-Translate=""
+Translate="Upravuje maximální rychlost výškového rotoru"
 
 ID=BlockPropertyTitle_MultiplierAzimuth
 Current="Azimuth velocity multiplier"
-Translate=""
+Translate="Násobič rychlosti směrového rotoru"
 
 ID=BlockPropertyTitle_MultiplierElevation
 Current="Elevation velocity multiplier"
-Translate=""
+Translate="Násobič rychlosti výškového rotoru"
 
 ID=Description_LargeTurretControlBlock
 Current="Block for controlling custom turrets"
-Translate=""
+Translate="Blok pro ovládání vlastních věží"
 
 ID=DisplayName_Block_MaintenancePanel
 Current="Maintenance Panel"
@@ -21348,11 +21348,11 @@ Translate=""
 
 ID=DisplayName_Block_HeatVentWarfare2
 Current="Heat Vent"
-Translate=""
+Translate="Tepelná ventilace"
 
 ID=Description_HeatVent
 Current="Heat Vents open and emit light when the ships power usage increases."
-Translate=""
+Translate="Tepelné ventilace se otevírají a vydávají světlo, když se spotřeba energie lodi zvýší."
 
 ID=Description_LargeCalibreTurret
 Current="A titanic turret perfectly suited for battles against heavily armored targets. Uses Artillery Shells.Maximum range: 2000 m"
@@ -21376,7 +21376,7 @@ Translate=""
 
 ID=TurretControlBlock_Detail_Azi
 Current="Elevation: '{0}'"
-Translate=""
+Translate="Výška: {0}"
 
 ID=TurretControlBlock_Detail_Camera
 Current="Camera: '{0}'"
@@ -21384,7 +21384,7 @@ Translate="Kamera: '{0}'"
 
 ID=TurretControlBlock_Detail_Elev
 Current="Azimuth: '{0}'"
-Translate=""
+Translate="Směr: {0}"
 
 ID=TurretControlBlock_Detail_Format
 Current="   '{0}'"
@@ -21400,19 +21400,19 @@ Translate="zbraň/nástroj/kamera"
 
 ID=TurretControlBlock_Detail_Status_Error1
 Current="   ERROR: Missing elevation or azimuth rotor/hinge"
-Translate=""
+Translate="   CHYBA: Chybějící výškový nebo směrový rotor/kloub"
 
 ID=TurretControlBlock_Detail_Status_Error2
 Current="   ERROR: Must have a linked weapon, tool or camera"
-Translate=""
+Translate="   CHYBA: Musí být propojená zbraň, nástroj nebo kamera"
 
 ID=TurretControlBlock_Detail_Status_Norm
 Current="   NOMINAL: '{0}' used as aiming reference"
-Translate=""
+Translate="   NOMINÁL: '{0}' použit jako zaměřovací reference"
 
 ID=TurretControlBlock_Detail_Status_Warn
 Current="   WARNING: No clue about multiple weapons yet"
-Translate=""
+Translate="   VAROVÁNÍ: Zatím není ponětí o větším počtu zbraní"
 
 ID=TurretControlBlock_Detail_Tool
 Current="Tools: "
@@ -21585,15 +21585,15 @@ Translate=""
 
 ID=ChatAntiSpam_OnTimeoutNotification
 Current="You are still on spam timeout, message cannot be sent."
-Translate=""
+Translate="Stále Vám nevypršel časový limit pro spamování. Zprávu nelze odeslat."
 
 ID=ChatAntiSpam_SameMessageNotification
 Current="You tried sending the same message within a short amount of time. Message not sent."
-Translate=""
+Translate="Pokusili jste se odeslat stejnou zprávu během krátké doby. Zpráva nebyla odeslána."
 
 ID=ChatAntiSpam_SpamMessageNotification
 Current="You have been put on timeout for spamming. Message not sent."
-Translate=""
+Translate="Byl Vám nastaven časový limit pro spamování. Zpráva nebyla odeslána."
 
 ID=DisplayName_Block_ConveyorTubeDuctCurved
 Current="Reinforced Curved Conveyor Tube"
@@ -21617,7 +21617,7 @@ Translate="Hi-tech"
 
 ID=DisplayName_Block_BasicMissionBlock
 Current="AI Basic (Task)"
-Translate=""
+Translate="AI -  Základní (Úkol)"
 
 ID=Description_BasicMissionBlock
 Current="Type: TaskThis can be used for basic, customizable AI tasks. It can follow a player, follow and wander around a home position, or perform autopilot functions."
@@ -21629,7 +21629,7 @@ Translate=""
 
 ID=DisplayName_Block_FlightMovementBlock
 Current="AI Flight (Move)"
-Translate=""
+Translate="AI - Let (Pohyb)"
 
 ID=Description_DefensiveCombatBlock
 Current="Type: CombatThis can detect and target lock enemy grids up to 2500m. Additionally, it can be set up to flee to a predetermined location when it has detected an enemy.When enemies are detected, this block takes priority over any active Task type blocks."
@@ -21637,7 +21637,7 @@ Translate=""
 
 ID=DisplayName_Block_DefensiveCombatBlock
 Current="AI Defensive (Combat)"
-Translate=""
+Translate="AI - Obrana (Boj)"
 
 ID=Description_OffensiveCombatBlock
 Current="Type: CombatThis can detect, target lock, and engage enemy grids up to 2500m using customizable attack patterns.When enemies are detected, this block takes priority over any active Task type blocks."
@@ -21645,15 +21645,15 @@ Translate=""
 
 ID=DisplayName_Block_OffensiveCombatBlock
 Current="AI Offensive (Combat)"
-Translate=""
+Translate="AI - Útok (Boj)"
 
 ID=Terminal_ActivateBehavior
 Current="AI Behavior"
-Translate=""
+Translate="AI Chování"
 
 ID=DisplayName_PathRecorderBlock
 Current="AI Recorder (Task)"
-Translate=""
+Translate="AI Záznamník (Úkol)"
 
 ID=Description_PathRecorderBlock
 Current="Type: TaskThis can record a path and action sequence. This path can be relative to another grid if the reference is set. This path and sequence can then be replayed, provided there is a Move type block available on the grid."
@@ -21665,7 +21665,7 @@ Translate="Opakovat"
 
 ID=PathRecorderBlock_RecordInterval
 Current="Record interval"
-Translate="Nahrát interval"
+Translate="Zaznamenat interval"
 
 ID=PathRecorderBlock_Waypoints
 Current="Waypoints"
@@ -21673,7 +21673,7 @@ Translate="Trasy"
 
 ID=PathRecorderBlock_Record
 Current="Record"
-Translate="Nahrát"
+Translate="Zaznamenat"
 
 ID=PathRecorderBlock_Stop
 Current="Stop"
@@ -22313,7 +22313,7 @@ Translate="Nadmořská výška"
 
 ID=Terminal_ActivateBehavior_Tooltip
 Current="Sets this block as the active block of its type. Deactivates all other blocks of the same type"
-Translate=""
+Translate="Nastaví tento blok jako aktivní ve svém typu. Deaktivuje ostatní bloky stejného typu."
 
 ID=DisplayName_Block_PipeWorkBlockA
 Current="Pipeworks A"
@@ -22421,11 +22421,11 @@ Translate=""
 
 ID=BlockPropertyTooltip_CollisionAvoidance
 Current="Enabling this will make the grid avoid voxels and other grids."
-Translate=""
+Translate="Tímto povolení se konskruce bude vyhýbat voxelům a dalším konstrukcím."
 
 ID=BlockPropertyTooltip_PresisionMode
 Current="Precision Mode ensures the grid will reach the exact waypoint location. Additionally, it forces the grid to fully rotate towards the next waypoint before it can accelerate.NOTE: This greatly slows down the autopilot’s movement and is only recommended to be used in cases where precise movement is required (e.g., a docking sequence)."
-Translate=""
+Translate="Přesný režim zajištuje že konskruce vždy dosáhne přesného bodu trasy. Navíc donucuje konstrukci k plnému otočení čelem k dalšímu bodu trasy předtím než zrychlé. POZNÁMKA: Toto značně zpomaluje pohyb autopila a je doporučen pouze když je to potřeba a je vyžadován přesný pohyb (např. dokování)."
 
 ID=BlockPropertyTooltip_RemoteBlockSpeedLimit
 Current="The maximum speed the grid is allowed to move."
@@ -22901,7 +22901,7 @@ Translate="Uzamkne zacílení na konstrukce, které splňují výše uvedené po
 
 ID=OffensiveCombatBlock_Status_Nominal
 Current="NOMINAL: {0} used as aiming reference"
-Translate="NOMINÁL: {0} použitý jako referenční cíl"
+Translate="NOMINÁL: {0} použit jako zaměřovací reference"
 
 ID=OffensiveCombatBlock_Status_ErrorNotFacingForward
 Current="[Color=#FFFF0000]ERROR: {0} not facing in the forwards direction, this weapon will not be used![/Color]"
@@ -23037,19 +23037,19 @@ Translate="Vlastní bod trasy"
 
 ID=FlightMovementBlock_MaxPitchAngle
 Current="Max Pitch Angle"
-Translate="Maximální naklonění #??#"
+Translate="Maximální naklonění"
 
 ID=FlightMovementBlock_MaxPitchAngle_Tooltip
 Current="When moving to a waypoint in P-Gravity, the grid may pitch up or down by this angle"
-Translate=""
+Translate="Při přesunu v přírodní gravitaci k bodu trasy se může konstrukce naklonit nahoru nebo dolů maximálně o tento úhel"
 
 ID=FlightMovementBlock_MaxRollAngle
 Current="Max Roll Angle"
-Translate=""
+Translate="Maximální natočení"
 
 ID=FlightMovementBlock_MaxRollAngle_Tooltip
 Current="When moving to a waypoint in P-Gravity, the grid may roll left or right by this angle"
-Translate="Při přesunu k bodu trasy v přírodní gravitaci se může konstrukce přetočit doleva nebo doprava o tento úhel"
+Translate="Při přesunu v přírodní gravitaci k bodu trasy se může konstrukce natočit doleva nebo doprava maximálně o tento úhel"
 
 ID=OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft
 Current="Status: Target locking {0}. {1}s remaining."
@@ -23285,11 +23285,11 @@ Translate="Časovový limit pro sdílení plánku"
 
 ID=Blueprintshare_Label
 Current="Blueprint share"
-Translate="Sdílet plánek"
+Translate="Sdílení plánků"
 
 ID=Blueprintshare_Tooltip
 Current="Enables/Disables recieving of blueprints"
-Translate="Povoluje / Zakazuje přijímání plánků"
+Translate="Povoluje/Zakazuje přijímání plánků"
 
 ID=DefensiveCombatBlock_FleeDistance_Title
 Current="Flee distance"
@@ -23309,15 +23309,15 @@ Translate="Umělá inteligence se pokusí o úhybné manévry před příchozím
 
 ID=DefensiveCombatBlock_RandomDeviations_Title
 Current="Random Deviations Angle"
-Translate=""
+Translate="Náhodná odchylka - Úhel"
 
 ID=DefensiveCombatBlock_RandomDeviations_Tooltip
 Current="To make it hard to predict where it will flee to, the AI will alter its course to this angle at the Random Deviations Interval.Note: Setting a high angle will reduce the effective speed."
-Translate=""
+Translate="Aby bylo těžké předvídat směr útěku, AI změní svůj kurz na tento úhel v intervalu náhodných odchylek. POZNÁMKA: Nastavení vysokého úhlu sníží efektivní rychlost."
 
 ID=DefensiveCombatBlock_EvasiveManeuverIntervalRange_Title
 Current="Random Deviations Interval"
-Translate=""
+Translate="Náhodná odchylka - Interval"
 
 ID=DefensiveCombatBlock_EvasiveManeuverIntervalRange_Tooltip
 Current="When fleeing, the grid will change directions at this interval."
