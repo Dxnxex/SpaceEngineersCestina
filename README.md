@@ -1,10 +1,10 @@
 # Space Engineers Čeština
 
-**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.05) (04.11.2023)**
+**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.06) (07.11.2023)**
 <li>Přeložitelných řádků: 5937</li>
-<li>Přeložených řádků: 3697</li>
-<li>Nepřeložených řádků: 2240</li>
-<li>Přeloženo 62.2%</li>
+<li>Přeložených řádků: 4504</li>
+<li>Nepřeložených řádků: 1433</li>
+<li>Přeloženo 75.8%</li>
 <br>
 
 **Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
@@ -13,12 +13,12 @@
 3. Vložíte soubor a je to.
 
 **Další informace:**
-1. Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/
-2. Korektura ještě není bohužel kompletní, jsou tam překlepy.
-3. Možné změny v budoucnosti co se týče překladů už přeloženého.
+<li>Obrázky najdete na redditu: https://www.reddit.com/r/spaceengineers/comments/16a25it/%C4%8De%C5%A1tina_pro_space_engineers/</li>
+<li>Korektura ještě není bohužel kompletní, jsou tam překlepy.</li>
+<li>Možné změny v budoucnosti co se týče překladů už přeloženého.</li>
 
 **Vývojová verze:**
-1. Současná nezveřejněná verze překladu, kde se řeší chyby a hlavně se překládá
+<li>Současná nezveřejněná verze překladu, kde se řeší chyby a hlavně se překládá</li>
      
 **Důležité změny v překladu:**
 1. Conveyor - Dopravník
@@ -26,36 +26,12 @@
 3. Heavy armor - Těžký pancíř
 4. Survival kit - Základní modul
 5. Willis Duct - Průchod
-6. Assembler - Montér
+6. Assembler - Konstruktér
 7. Safe Zone - Ochranné pole
 8. Merge block - Spojovač
 9. Event Controler - Ovladač Událostí
 10. Fractions - Klany (Ano "Frakce" se mně moc nelibí)
-
-**08.09.2023 - Verze 1.01** 
-1. Montéry a Rafinérie
-2. Trysky
-
-**09.09.2023 - Verze 1.02** 
-1. Zkrácené názvy části pancířů
-2. Všechny kokpity mají před sebou název "Kokpit"
-3. Přídány Willis Duct = Průchod
-4. Varovné cedule
-5. Začaty práce na Event controlleru - Ovladač údálost
-6. Další menší změny
-
-**09.09.2023 - Verze 1.03** 
-1. Dokončené Mřížované lešení
-2. Ochranné pole
-3. Ovladač události
-
-**10.09.2023 - Verze 1.04** 
-1. Zlepšení věcí pro ADMINA
-
-**04.11.2023 - Verze 1.05** 
-1. Velká část oken
-2. Různé popisy předmětů
-3. Přidány do překladu (zatím nepřelozené) ID pro update 10th Anniversary
+11. Space Engineer - Astronaut (Bude změněn)
 
 Děkuji za pomoc a ochotu @pa4k
 
