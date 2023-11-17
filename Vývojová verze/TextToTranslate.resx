@@ -9691,24 +9691,24 @@ Czech="Položit"
 Translate="Položit"
 
 ID=Hint00Text
-Czech="Věděli jste že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
-Translate="Věděli jste že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
+Czech="Věděli jste, že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
+Translate="Věděli jste, že? Můžeš stavět z kokpitu s pomocí Ctrl-G."
 
 ID=HintKeyboardOnly05Text
-Czech="Věděli jste že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
-Translate="Věděli jste že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
+Czech="Věděli jste, že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
+Translate="Věděli jste, že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši."
 
 ID=Hint07Text
-Czech="Věděli jste že? Meteor po sobě může zanechat cenné suroviny."
-Translate="Věděli jste že? Meteor po sobě může zanechat cenné suroviny."
+Czech="Věděli jste, že? Meteor po sobě může zanechat cenné suroviny."
+Translate="Věděli jste, že? Meteor po sobě může zanechat cenné suroviny."
 
 ID=Hint08Text
-Czech="Věděli jste že? Tmavé fleky na planetách ukazují na naleziště rudy."
-Translate="Věděli jste že? Tmavé fleky na planetách ukazují na naleziště rudy."
+Czech="Věděli jste, že? Tmavé fleky na planetách ukazují na naleziště rudy."
+Translate="Věděli jste, že? Tmavé fleky na planetách ukazují na naleziště rudy."
 
 ID=Hint09Text
-Czech="Věděli jste že? Kameny na povrchu země častu obsahují cenné suroviny."
-Translate="Věděli jste že? Kameny na povrchu země častu obsahují cenné suroviny."
+Czech="Věděli jste, že? Kameny na povrchu země častu obsahují cenné suroviny."
+Translate="Věděli jste, že? Kameny na povrchu země častu obsahují cenné suroviny."
 
 ID=Hint10Control0
 Czech="SKOČ"
@@ -9723,16 +9723,16 @@ Czech="PODVOZEK"
 Translate="PODVOZEK"
 
 ID=Hint14Text
-Czech="Věděli jste že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
-Translate="Věděli jste že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
+Czech="Věděli jste, že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
+Translate="Věděli jste, že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů."
 
 ID=HintKeyboardOnly09Text
-Czech="Věděli jste že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
-Translate="Věděli jste že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
+Czech="Věděli jste, že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
+Translate="Věděli jste, že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10."
 
 ID=HintKeyboardOnly04Text
-Czech="Věděli jste že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
-Translate="Věděli jste že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
+Czech="Věděli jste, že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
+Translate="Věděli jste, že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže."
 
 ID=HintKeyboardOnly00Control0
 Czech="PŘEPNOUT_SIGNÁLY"
@@ -10075,12 +10075,12 @@ Czech="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo grav
 Translate="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
 
 ID=HintKeyboardOnly03Text
-Czech="Věděli jste že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
-Translate="Věděli jste že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
+Czech="Věděli jste, že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
+Translate="Věděli jste, že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
 
 ID=Hint24Text
-Czech="Věděli jste že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
-Translate="Věděli jste že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
+Czech="Věděli jste, že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
+Translate="Věděli jste, že? Hlavice jsou naprosto bezpečně dokud je neodjistíš"
 
 ID=IngameHelp_Jetpack_Detail2
 Czech="Přepínej jetpack klávesou {CONTROL:THRUSTS}."
@@ -11208,7 +11208,7 @@ Translate=""
 
 ID=AngleGrinderPrimaryAction
 Current="Press {0} to dismount target"
-Translate=""
+Translate="Stiskněte {0} pro odebrání cíle"
 
 ID=GDPR_Text1
 Current="Data protection laws have changed in the European Union and we want to make sure you review how your personal data is processed in Space Engineers."
@@ -11220,7 +11220,7 @@ Translate="Kluknutím na ANO souhlasíte se shromažďováním osobních údajů
 
 ID=AttachToSelectedEntity
 Current="Attach to selected entity"
-Translate=""
+Translate="Připojit k vybrané entitě"
 
 ID=AUTO
 Current="AUTO"
@@ -11280,19 +11280,19 @@ Translate="Síla konektoru při zarovnání lodi (Žlutá barva). Je použita me
 
 ID=BlockPropertyDescription_MotorUsesWheelCommands
 Current="Indicates whether motor is controlled like a wheel directly from cockpit"
-Translate=""
+Translate="Indikuje, jestli je motor ovládán jako kolo přímo z kokpitu"
 
 ID=BlockPropertyDescription_Motor_SteerReturnSpeed
 Current="The wheel's return speed from turning"
-Translate=""
+Translate="Návratová rychlost kola po zatočení"
 
 ID=BlockPropertyDescription_Motor_SteerSpeed
 Current="The wheel turn speed"
-Translate=""
+Translate="Rychlost zatáčení kola"
 
 ID=BlockPropertyDescription_Motor_SuspensionTravel
 Current="Limits the suspension's travel height.Setting to 0% will effectively lock the suspension."
-Translate=""
+Translate="Omezuje výšku zdvihu odpružení. Nastavením na 0 % se odpružení účinně zablokuje."
 
 ID=BlockPropertyDescription_SpaceBallRestitution
 Current="Restitution"
@@ -11312,7 +11312,7 @@ Translate=""
 
 ID=BlockPropertyTitle_Motor_Damping
 Current="Damping"
-Translate=""
+Translate="Tlumení"
 
 ID=BlockPropertyTitle_Motor_Propulsion
 Current="Propulsion"
@@ -11392,7 +11392,7 @@ Translate=""
 
 ID=BlockSize_NotAvailable
 Current="This block is for {0} only"
-Translate=""
+Translate="Blok je určen pouze pro {0}"
 
 ID=BlueprintsScreen
 Current="Blueprints Screen"
@@ -11500,11 +11500,11 @@ Translate="Postavy"
 
 ID=ContainerDropSystemBeaconText
 Current="Container drop"
-Translate=""
+Translate="Shoz kontejneru"
 
 ID=ContainerDropSystemContainerWasDetected
 Current="{0} was detected."
-Translate=""
+Translate="{0} byl detekován."
 
 ID=ControlDescCameraZoom
 Current="Camera zoom"
@@ -11524,7 +11524,7 @@ Translate="Nabarvit celou konstrukci"
 
 ID=ControlDescLoot
 Current="Loot dead body"
-Translate=""
+Translate="Oloupit mrtvé tělo"
 
 ID=ControlDescMediumBrush
 Current="Medium color brush"
@@ -11536,7 +11536,7 @@ Translate="Přepnout statistiky"
 
 ID=ControlDescSingleAllMode
 Current="Single / All weapon mode (cockpit)"
-Translate=""
+Translate="Režim zbraní - jedna / všechny (kokpit)"
 
 ID=ControlDescSpectatorSpeed
 Current="Changes spectator speed"
@@ -11556,7 +11556,7 @@ Translate="TPP"
 
 ID=ControlMenuItemLabel_QuickLoad
 Current="Quick Load / Reconnect"
-Translate=""
+Translate="Rychlé načtení / znovupřipojení"
 
 ID=ControlMenuItemLabel_SelectColorTool
 Current="Select Color Tool"
@@ -11564,15 +11564,15 @@ Translate="Vybrat paletu barev"
 
 ID=ControlMenuItemLabel_ShowColorPicker
 Current="Open Color Picker"
-Translate=""
+Translate="Otevřít paletu barev"
 
 ID=ControlMenuItemLabel_ShowToolbarScreen
 Current="Show Toolbar Screen"
-Translate=""
+Translate="Zobrazit obrazovku panelu nástrojů"
 
 ID=ControlMenuItemLabel_ScenarioBriefing
 Current="Show Scenario Briefing"
-Translate=""
+Translate="Zobrazit shrnutí scénáře"
 
 ID=ControlMenuItemLabel_ShowBuildScreen
 Current="Open Build Screen"
@@ -11580,11 +11580,11 @@ Translate=""
 
 ID=ControlMenuItemLabel_ShowControlPanel
 Current="Open Control Panel"
-Translate=""
+Translate="Otevřít ovládací panel"
 
 ID=ControlMenuItemLabel_BlockAutoRotate
 Current="Toggle Block Auto Rotation"
-Translate=""
+Translate="Přepínání auto-otáčení bloků"
 
 ID=ControlMenuItemLabel_ToggleMultiBlock
 Current="Toggle Multi-block Building"
@@ -11596,7 +11596,7 @@ Translate="Přepnout režim signálů"
 
 ID=ControlMenuItemLabel_Unequip
 Current="Unequip"
-Translate=""
+Translate="Odebrat"
 
 ID=ControlMenuItemLabel_ViewMode
 Current="Toggle Spectator Mode"
@@ -11604,23 +11604,23 @@ Translate="Přepnout řežim pozorovatele"
 
 ID=ControlMenuItemLabel_SymmetrySetup
 Current="Enter Symmetry Setup"
-Translate=""
+Translate="Zadat nastavení symetrie"
 
 ID=ControlMenuItemLabel_ExitSymmetrySetup
 Current="Exit Symmetry Setup"
-Translate=""
+Translate=Opustit nastavení symetrie"
 
 ID=ControlMenuItemLabel_ColorPicker
 Current="Open Color Picker"
-Translate=""
+Translate="Otevřít paletu barev"
 
 ID=ControlMenuItemLabel_UseSymmetry
 Current="Toggle Symmetry Mode On/Off:"
-Translate=""
+Translate="ZAP/VYP režim symetrie:"
 
 ID=ControlName_CubeDefaultMountpoint
 Current="Reset orientation"
-Translate=""
+Translate="Resetovat orientaci"
 
 ID=ControlName_PowerSwitchOnOff
 Current="Local power switch on / off"
@@ -11700,7 +11700,7 @@ Translate=""
 
 ID=DefinitionError_BlockWithComputerNotTerminalBlock
 Current="Definition for {0} contains computer, but the block's TypeId is not a terminal block. This means that the block can be owned, but the ownership cannot be changed via terminal.Hint: Try setting the TypeId to any block that is in the terminal - the simplest case being just TerminalBlock"
-Translate=""
+Translate="Definice pro {0} obsahuje počítač, ale TypeId bloku není terminálový blok. To znamená, že blok lze vlastnit, ale vlastnictví nelze změnit prostřednictvím terminálu.Tip: Zkuste nastavit TypeId na libovolný blok, který je v terminálu - nejjednodušší případ je právě TerminalBlock."
 
 ID=Department_AdditionalArtists
 Current="Additional Artists"
@@ -11756,11 +11756,11 @@ Translate="Vedení kvality"
 
 ID=Department_ModContributors
 Current="Mod Contributors"
-Translate=""
+Translate="Přispěvatelé modů"
 
 ID=Department_MoreInfo
 Current="For more information see"
-Translate="Pro více informací navšivte"
+Translate="Pro více informací navštivte"
 
 ID=Department_Music
 Current="Music"
@@ -11804,7 +11804,7 @@ Translate="Umělá hmotnost nebo spaceballs povolují konstrukci reagovat na um�
 
 ID=Description_ButtonPanel
 Current="Button panels enable you to bind block functions to buttons that can be directly interacted with.When highlighted, press {CONTROL:TERMINAL} to configure the buttons and {CONTROL:USE} to activate them."
-Translate=""
+Translate="Konzole s tlačítky umožňují vázat funkce bloku na tlačítka, se kterými lze přímo interagovat.Po zvýraznění stiskněte {CONTROL:TERMINAL} pro konfiguraci tlačítek a {CONTROL:USE} pro jejich aktivaci."
 
 ID=Description_Connector
 Current="The connector can be magnetically locked with other connectors to allow cross grid distribution of items and power.Toggle the magnetic lock from your toolbar or press {CONTROL:LANDING_GEAR}. Connectors will show up yellow when in range.  Unlocking it will briefly disable the magnetic function."
@@ -11812,7 +11812,7 @@ Translate="Konektory mohou být magneticky spojeni s dalším konektory. Toto sp
 
 ID=Description_ControlPanel
 Current="Control panels are simple panels that allow access to grid menus.When highlighted, press {CONTROL:TERMINAL} to interact with the panel. "
-Translate=""
+Translate="Konzole s ovládacími panely jsou jednoduché panely, které umožňují přístup k nabídkám konstrukce. Když jsou zvýrazněny, stiskněte {CONTROL:TERMINAL} pro interakci s panelem."
 
 ID=Description_ConveyorSorter
 Current="Conveyor sorters can be configured to only pass specific items through or stop specific items from passing through.Sorters can be used to filter out unwanted materials or to collect specific items in a container. "
@@ -12004,7 +12004,7 @@ Translate="Stůl pro dekoraci interiérů."
 
 ID=Description_FoodDispenser
 Current="A vending machine used to distract engineers from the hazards of space and boost morale."
-Translate=""
+Translate="Prodejní automat sloužící k odvedení pozornosti inženýrů od nebezpečí vesmíru a k posílení jejich morálky."
 
 ID=Description_Jukebox
 Current="A device that plays music. Great for hosting dance parties or winding down after a hard day’s work."
@@ -12148,31 +12148,31 @@ Translate="Vyhrabat se"
 
 ID=DisplayName_Block_Ammo_Assembler
 Current="Ammo Assembler"
-Translate=""
+Translate="Sestavovač munice"
 
 ID=DisplayName_Block_Base_Components_Assembler
 Current="Base Assembler Comp."
-Translate=""
+Translate="Základní sestavovač součátek"
 
 ID=DisplayName_Block_Big_Arc_Furnace
 Current="Big Arc Furnace"
-Translate=""
+Translate="Velká oblouková pec"
 
 ID=DisplayName_Block_Big_Gas_Centrifugal_Refinery
 Current="Big Gas Centrifugal Refinery"
-Translate=""
+Translate="Velká odstředivá rafinerie plynů"
 
 ID=DisplayName_Block_Big_Precious_Furnace
 Current="Big Noble Metals Furnace"
-Translate=""
+Translate="Velká pec na ušlechtilé kovy"
 
 ID=DisplayName_Block_Big_Solids_Refinery
 Current="Big Solids Refinery"
-Translate=""
+Translate="Velká rafinerie pevných látek"
 
 ID=DisplayName_Block_Construction_Components_Assembler
 Current="Construction Assembler Comp."
-Translate=""
+Translate="Sestavovač stavebních součástek"
 
 ID=DisplayName_Block_DebugSphere1
 Current="Debug spheres 1"
@@ -12188,7 +12188,7 @@ Translate=""
 
 ID=DisplayName_Block_Electronics_Assembler
 Current="Electronics Assembler"
-Translate=""
+Translate="Sestavovač elektroniky"
 
 ID=DisplayName_Block_EventController
 Current="Event Controller"
@@ -12332,19 +12332,19 @@ Translate=""
 
 ID=DisplayName_RespawnShip_Assembler
 Current="Respawn Ship 2"
-Translate=""
+Translate="Oživovací loď 2"
 
 ID=DisplayName_RespawnShip_EscapePod
 Current="Escape Pod"
-Translate=""
+Translate="Únikový modul"
 
 ID=DisplayName_RespawnShip_RefineryAssembler
 Current="Respawn Ship 3"
-Translate=""
+Translate="Oživovací loď 3"
 
 ID=DisplayName_RespawnShip_ShipDrill
 Current="Small Drill Ship"
-Translate=""
+Translate="Malá vrtná loď"
 
 ID=DisplayName_RespawnPodSpace
 Current="Space Pod"
@@ -12352,11 +12352,11 @@ Translate="Vesmírná loď"
 
 ID=DisplayName_RewardPunishmentTool
 Current="GoodAI Bot Feedback"
-Translate=""
+Translate="Zpětná vazba k GoodAI"
 
 ID=DisplayName_Scenario_2Planets
 Current="2 planets"
-Translate=""
+Translate="2 planety"
 
 ID=DisplayName_Scenario_BigSmall
 Current="Big and small planet"
@@ -12432,7 +12432,7 @@ Translate="Apríl! Nikomu to neříkej!"
 
 ID=FlaresIntensity
 Current="Flares intensity"
-Translate=""
+Translate="Intenzita světel"
 
 ID=FloatingObjects
 Current="Floating Objects"
@@ -12440,11 +12440,11 @@ Translate="Poletující objekty"
 
 ID=GPS_Respawn_Location_Name
 Current="Respawn Pod"
-Translate=""
+Translate="Oživovací modul"
 
 ID=GPS_Respawn_Location_Desc
 Current="Location of your respawn pod"
-Translate=""
+Translate="Poloha oživovacího modulu"
 
 ID=GuiLabelVideoOnStart
 Current="Video on start:"
@@ -12564,7 +12564,7 @@ Translate="Další mise"
 
 ID=GuiTriggerNextMissionTooltip
 Current="You can put a scenario name here (must already exist on local computer to be loaded) or workshop ID number (user does *not* have to have it subscribed in that case).Workshop ID can be seen in the URL link of scenario in question on {0} workshop web."
-Translate=""
+Translate="Zde můžete zadat název scénáře (musí již existovat na lokálním počítači, aby se načetl) nebo workshop ID číslo (uživatel jej v tomto případě nemusí mít předplacený).Workshop ID lze vidět v URL odkazu daného scénáře na {0} webu workshopu."
 
 ID=GuiTriggerNoSpawnTimeLimit
 Current="Time limit (sec):"
@@ -12576,7 +12576,7 @@ Translate="Přidat bloky"
 
 ID=GuiTriggerPasteBlocksTooltip
 Current="Adds blocks copied through button at the end of block terminal screen."
-Translate=""
+Translate="Přidá bloky zkopírované pomocí tlačítka na konci obrazovky terminálu bloku."
 
 ID=GuiTriggersLives
 Current="Lives"
@@ -12620,11 +12620,11 @@ Translate="Ovládání věže"
 
 ID=HelpScreen_ControllerLookAround
 Current="Look Around"
-Translate=""
+Translate="Rozhlížení se"
 
 ID=HelpScreen_ControllerLookAround_PassengerSeat
 Current="Look Around in passenger seat"
-Translate=""
+Translate="Rozhlížení se v sedadle"
 
 ID=HelpScreen_ControllerCharacterSurvival
 Current="Survival Only Character"
@@ -12692,23 +12692,23 @@ Translate="Obrátit"
 
 ID=HelpScreen_ControllerHint1
 Current="You can change "brush" size while recoloring with {GAMEPAD_CONTROL:COLOR_PICKER:MEDIUM_COLOR_BRUSH} and {GAMEPAD_CONTROL:COLOR_PICKER:LARGE_COLOR_BRUSH}"
-Translate=""
+Translate="Velikost štetce můžete při přebarvování změnit pomocí {GAMEPAD_CONTROL:COLOR_PICKER:MEDIUM_COLOR_BRUSH} a {GAMEPAD_CONTROL:COLOR_PICKER:LARGE_COLOR_BRUSH}."
 
 ID=HelpScreen_ControllerHint2
 Current="You can change Saturation and Value of the selected color with {GAMEPAD:AXIS_DPAD} while recoloring."
-Translate=""
+Translate="Během přebarvování můžete měnit sytost a jas vybrané barvy pomocí {GAMEPAD:AXIS_DPAD}."
 
 ID=HelpScreen_ControllerHint3
 Current="If you make mistake while placing blocks in survival mode you can press {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} to switch to Grinder tool. When you have Grinder equipped you can press {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} again to switch to the last equipped block."
-Translate=""
+Translate="Pokud při umisťování bloků v režimu přežití uděláte chybu, můžete stisknutím {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} přepnout na Brusku. Když jste vybaveni Bruskou, můžete znovu stisknout {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} a přepnout na poslední vybavený blok."
 
 ID=HelpScreen_ControllerHint4
 Current="You can move through complicated windows more easily with Right Stick."
-Translate=""
+Translate="Pomocí pravé páčky se můžete snadněji pohybovat složitými okny."
 
 ID=HelpScreen_ControllerHint5
 Current="If you are building a symmetrical ship, you can activate Symmetry Building Mode through Systems Radial Menu."
-Translate=""
+Translate="Pokud stavíte symetrickou loď, můžete režim symetrické stavby aktivovat prostřednictvím systémového radiálního menu."
 
 ID=HelpScreen_ControllerHint6
 Current="You can modify voxels with Voxel Hand Tool, which can be accesed from System Radial Menu in Creative Mode. You can then place, remove, revert and paint voxels with {GAMEPAD_CONTROL:VOXEL:PRIMARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:SECONDARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:VOXEL_REVERT} and {GAMEPAD_CONTROL:VOXEL:VOXEL_PAINT} respectively."
@@ -12720,11 +12720,11 @@ Translate=""
 
 ID=HelpScreen_ControllerHint8
 Current="Most common actions on Systems Menu have shortcuts.Pros use shortcuts!"
-Translate=""
+Translate="Většina běžných akcí v systémové nabídce má zkratky. Profíci používají zkratky!"
 
 ID=HelpScreen_ControllerHint9
 Current="When firing a block weapon in ship that has multiple weapons of the same type you can toggle firing a single weapon or all at once with LB+LT"
-Translate=""
+Translate="Při střelbě ze zbraně na lodi, která má více zbraní stejného typu, můžete pomocí LB+LT přepínat střelbu z jedné zbraně nebo ze všech najednou."
 
 ID=HelpScreen_ControllerHint10
 Current="When looking at inventory port with blocks in Build Planner queue, you can add components for queued blocks into production by pressing {GAMEPAD_CONTROL:CHARACTER:BUILD_PLANNER_ADD_COMPONNETS}."
@@ -12740,7 +12740,7 @@ Translate="CUBE_DEFAULT_MOUNTPOINT"
 
 ID=HintKeyboardOnly01Text
 Current="Did you know? You can toggle off the block auto rotation function with {0}."
-Translate=""
+Translate="Věděli jste, že? Funkci automatického otáčení bloků můžete vypnout pomocí {0}."
 
 ID=HintKeyboardOnly02Control0
 Current="TERMINAL"
@@ -12748,11 +12748,11 @@ Translate="TERMINÁL"
 
 ID=HintKeyboardOnly02Text
 Current="Did you know? Shift-{0} will directly bring you to the antenna menu."
-Translate=""
+Translate="Věděli jste, že? Shift-{0} vás přenese přímo do nabídky antény."
 
 ID=Hint03Text
 Current="You can steer vehicles from a turret if the cockpit is set to main cockpit.Hold Alt to enable mouse control."
-Translate=""
+Translate="Pokud je kokpit nastaven na hlavní kokpit, můžete vozidla řídit z věže. Podržením klávesy Alt povolíte ovládání myší."
 
 ID=Hint04Control0
 Current="SUICIDE"
@@ -12760,11 +12760,11 @@ Translate="SEBEVRAŽDA"
 
 ID=Hint06Text
 Current="A few well placed decoy blocks can make the difference between a victory and a loss."
-Translate=""
+Translate="Několik dobře umístěných návnadových bloků může znamenat rozdíl mezi vítězstvím a prohrou."
 
 ID=Hint10Text
 Current="Did you know? While driving a rover, Hold {0} to brake."
-Translate="Veděl jsi že? Když řidíš rover, zmáčkni {0} k zabržení.
+Translate="Věděli jste, že? Když řidíte rover, zmáčknutím {0} zabrzdíte."
 
 ID=Hint12Text
 Current="Did you know?you can open the color picker by pressing {0}."
@@ -12776,71 +12776,71 @@ Translate="Baterie se automaticky nabjicí a v případě potřeby distribuují 
 
 ID=HintKeyboardOnly08Text
 Current="While holding a blueprint in creative mode, you can use B to align them to a planet's Gravity."
-Translate=""
+Translate="Když držíte plánek v kreativním režimu, můžete jej pomocí klávesy B zarovnat s gravitací planety."
 
 ID=Hint17Text
 Current="Using a ship to grind down a container will also pick up whatever was inside of the container."
-Translate=""
+Translate="Při použití lodi k rozbroušení kontejneru dojde také k vyzvednutí všeho, co se nacházelo uvnitř kontejneru."
 
 ID=HintKeyboardOnly07Text
 Current="Double clicking items will automatically transfer the whole stack between inventories. "
-Translate=""
+Translate="Dvojitým kliknutím na položky se celá kupa automaticky přenese mezi inventáři."
 
 ID=HintKeyboardOnly06Text
 Current="Holding Ctrl, Shift or Ctrl-Shift enables you to move stacks of items by 10, 100 and 1000 at the time."
-Translate=""
+Translate="Podržením kláves Ctrl, Shift nebo Ctrl-Shift můžete přesouvat po 10, 100 a 1000 kusech najednou."
 
 ID=Hint25Text
 Current="Did you know? O2/H2 generator can produce small amounts of hydrogen for thrusters without having a hydrogen tank involved."
-Translate="Věděli jste že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží."
+Translate="Věděli jste, že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží."
 
 ID=HintKeyboardOnly00Text
 Current="Did you know?Press {0} to change the way GPS coordinates and Antennas are displayed on your HUD."
-Translate="Věděli jste že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD."
+Translate="Věděli jste, že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD."
 
 ID=Hint27Text
 Current="Did you know?Blocks that are destroyed during collisions or combat can cause damage around them."
-Translate="Věděli jste že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich."
+Translate="Věděli jste, že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich."
 
 ID=Hint26Text
 Current="Did you know?Pressurized environments will maintain optimal temperatures and recharge your health and oxygen."
-Translate=""
+Translate="Věděli jste, že? Natlakované prostředí udržuje optimální teplotu a dodává zdraví a kyslík."
 
 ID=Hint23Text
 Current="Did you know?Your suit's power drains faster when residing in cold or warm temperatures."
-Translate="Věděli jste že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách."
+Translate="Věděli jste, že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách."
 
 ID=Hint20Text
 Current="Did you know?The medical room recharges your energy and health five times as fast as the survival kit."
-Translate="Věděli jste že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul."
+Translate="Věděli jste, že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul."
 
 ID=Hint19Text
 Current="Did you know?You can use sensors to detect enemies located underground who are attempting to infiltrate your base."
-Translate="Věděli jste že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu."
+Translate="Věděli jste, že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu."
 
 ID=Hint18Text
 Current="Did you know?Wind turbines are more efficient when placed in high and open spaces."
-Translate="Věděli jste že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství."
+Translate="Věděli jste, že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství."
 
 ID=Hint16Text
 Current="Did you know?Rovers can use their wheel suspensions to jump out of tight situations."
-Translate="Věděli jste že? Rovery mohou použít tlumiče kol k výskoku z těsných situací."
+Translate="Věděli jste, že? Rovery mohou použít tlumiče kol k výskoku z těsných situací."
 
 ID=Hint15Text
 Current="Did you know?Advanced refineries give better yield when refining minerals."
-Translate="Věděli jste že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů."
+Translate="Věděli jste, že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů."
 
 ID=Hint05Text
 Current="Did you know?Your jet pack can match the velocity of nearby grids using relative dampeners."
-Translate=""
+Translate="Věděli jste, že? Váš jetpack může pomocí relativních tlumičů přizpůsobit rychlost okolním konstrukcím?"
 
 ID=Hint02Text
 Current="Did you know?Wheel suspensions use power based on their power setting."
-Translate=""
+Translate="Věděli jste, že? Tlumiče kol využívají výkon v závislosti na nastavení výkonu."
 
 ID=Hint01Text
 Current="Did you know?You can use /f to chat with your faction only or /g for global."
-Translate="Věděli jste že? Můžete použít /f pro chat s klanem nebo /g pro globální chat."
+Translate="Věděli jste, že? Můžete použít /f pro chat s klanem nebo /g pro globální chat."
 
 ID=HudBlockInfo_Installed_Required
 Current="Installed / Required"
@@ -13056,7 +13056,7 @@ Translate="Stiskni {CONTROL:HELP_SCREEN} k otevření karty s nápovědou."
 
 ID=IngameHelp_Intro_Detail2:Gamepad
 Current="Press {CONTROL:SYSTEM_RADIAL_MENU} to open the radial menu, navigate to the [Menu] tab and and choose the [Help] option."
-Translate=""
+Translate="Stisknutím {CONTROL:SYSTEM_RADIAL_MENU} otevřete radiální nabídku, přejděte na kartu [Menu] a vyberte možnost [Pomoc]."
 
 ID=IngameHelp_Jetpack_Detail4:Gamepad
 Current="Use {GAMEPAD:AXIS_MOTION} to move and strafe."
@@ -13072,7 +13072,7 @@ Translate="Použij {GAMEPAD:AXIS_MOTION} k chůzi a pohybu do stran."
 
 ID=IngameHelp_Movement_Detail3:Gamepad
 Current="Push {CONTROL:FORWARD} all the way to sprint forward."
-Translate=""
+Translate="Stisknutím tlačítka {CONTROL:FORWARD} až na doraz sprintujete dopředu."
 
 ID=IngameHelp_Camera_Detail2
 Current="Stiskni {CONTROL:CAMERA_MODE} k přepnutí mezi kamerou ze třetí osoby a z první osoby."
@@ -13084,7 +13084,7 @@ Translate="Použij [ALT + Mouse Wheel] pro nastavení vzdálenosti kamery pro po
 
 ID=IngameHelp_Camera_Detail3:Gamepad
 Current="Use {CONTROL:CAMERA_ZOOM_IN} and {CONTROL:CAMERA_ZOOM_OUT} to adjust the distance of third person view."
-Translate=""
+Translate="Použij {CONTROL:CAMERA_ZOOM_IN} a {CONTROL:CAMERA_ZOOM_OUT} k nastavení vzdálenosti pohledu třetí osoby."
 
 ID=INVALID
 Current="INVALID TEXT WRAPPER ENUM"
@@ -13140,11 +13140,11 @@ Translate="Velké konstrukce"
 
 ID=LaserAntennaOnlyPerm
 Current="Only receivers set to permanent connection found"
-Translate=""
+Translate="Nalezeny pouze přijímače nastavené na trvalé připojení"
 
 ID=LaserAntennaReceiversListHelp
 Current="These receivers are in radio range and can report their position.Their current state and target is in parenthesis:idle   laser is idling&gt;&gt; laser is rotating towards other receiver or GPS coordinates?&gt;  searching for other laser at requested GPS coordinates~&gt; contacting other side of link (this includes waiting for other laserto turn its face to me or futile effort to contact receiverwhich is turned off or is not there any more)=&gt; connection is establishedTo connect to lasers not listed here you can connect to coordinates."
-Translate=""
+Translate="Tyto přijímače jsou v rádiovém dosahu a mohou hlásit svou polohu. Jejich aktuální stav a cíl je v závorce:nečinný    laser je v nečinnosti&gt;&gt; laser se otáčí směrem k jinému přijímači nebo GPS souřadnicím?&gt; hledá jiný laser na požadovaných GPS souřadnicích~&gt; kontaktuje druhou stranu spojení (to zahrnuje čekání, až se jiný laser otočí čelem ke mně nebo marnou snahu kontaktovat přijímač, který je vypnutý nebo už tam není)=&gt; spojení je navázánoPro připojení k laserům, které zde nejsou uvedeny, se můžete připojit k souřadnicím."
 
 ID=LaserAntennaSelectedCoords
 Current="Selected GPS coordinates"
@@ -13152,7 +13152,7 @@ Translate="Označené GPS souřadnice"
 
 ID=LoadingError_ModifiedOriginalContent
 Current="Error loading original game content, cannot load file:{0}Original game content has been probably modified, revert any modification and try again. Best way to do it is to delete folder 'SpaceEngineers\Content\Data' and then select in {0} 'Verify local game cache'.Reinstalling the game is not enough, because {0} does not delete unknown files!"
-Translate=""
+Translate="Chyba při načítání původního obsahu hry, nelze načíst soubor:{0}Původní obsah hry byl pravděpodobně upraven, vraťte všechny úpravy a zkuste to znovu. Nejlépe to uděláte tak, že smažete složku 'SpaceEngineers\Content\Data' a pak v {0} zvolíte 'Ověřit místní mezipaměť hry'.Přeinstalování hry nestačí, protože {0} neodstraní neznámé soubory!"
 
 ID=LowMemSwitchToLowQuestion
 Current="Your game has ran out of memory last time. Do you want to switch to LOW preset and restart game to apply changes?"
@@ -13172,43 +13172,43 @@ Translate="Tutoriál"
 
 ID=MessageBoxCaptionVideo
 Current="Video"
-Translate=""
+Translate="Video"
 
 ID=MessageBoxTextAreYouSureEnableOxygen
 Current="Are you sure you want to enable oxygen? Doing so will cause materials on untouched asteroids to change. This is irreversible."
-Translate=""
+Translate="Jste si jisti, že chcete povolit kyslík? To způsobí změnu materiálů na nedotčených asteroidech. Je to nezvratné."
 
 ID=MessageBoxTextAreYouSureEnableOxygenPressurization
 Current="Are you sure you want to enable airtightness? This can have negative influence to performance."
-Translate=""
+Translate="Jste si jisti, že chcete povolit vzduchotěsnost? Může to mít negativní vliv na výkon."
 
 ID=MessageBoxTextAreYouSureToRemoveAsteroid
 Current="Are you sure you want to delete selected asteroid? (this can not be undone!)"
-Translate=""
+Translate="Jste si jisti, že chcete odstranit vybraný asteroid? (tuto akci nelze vrátit zpět!)"
 
 ID=MessageBoxTextDoYouWishToPublishScenario
 Current="Are you sure you want to upload and publish selected scenario on {0} Workshop?Note that by submitting this item, you agree to the workshop terms of service (see {1})."
-Translate=""
+Translate="Jste si jisti, že chcete nahrát a zveřejnit vybraný scénář na {0} Workshopu? Upozorňujeme, že odesláním této položky souhlasíte s podmínkami služby Workshopu (viz {1})."
 
 ID=MessageBoxTextDoYouWishToUpdateScenario
 Current="Are you sure you want to upload and overwrite selected scenario on {0} Workshop?"
-Translate=""
+Translate="Jste si jisti, že chcete nahrát a přepsat vybraný scénář na {0} Workshopu?"
 
 ID=MessageBoxTextRecommend
 Current="If you like Space Engineers, you can recommend it to your {0} friends on the following page.Recommendations help to grow the community. Thank you!"
-Translate=""
+Translate="Pokud se vám hra Space Engineers líbí, můžete ji doporučit svým {0} přátelům na následující stránce. Doporučení pomáhají rozšiřovat komunitu. Děkujeme!"
 
 ID=MessageBoxTextRestartNeededAfterLanguageSwitch
 Current="Some texts might need game restart to be reloaded."
-Translate=""
+Translate="Pro načtení některých textů může být nutný restart hry."
 
 ID=MessageBoxTextRestartNeededAfterRendererSwitch
 Current="Applied changes will be visible after restarting the game"
-Translate=""
+Translate="Použité změny se projeví po restartování hry."
 
 ID=MessageBoxTextScenarioNotFound
 Current="Next scenario was not found and cannot be loaded.Both {0} and {1} does not exist or contain invalid data.Please contact scenario author to fix it."
-Translate=""
+Translate="Následující scénář nebyl nalezen a nelze jej načíst. {0} a {1} neexistují nebo obsahují neplatná data. Kontaktujte prosím autora scénáře, aby provedl opravu."
 
 ID=MessageBoxTextScenarioPublishFailed
 Current="Failed to publish on {0} Workshop"
@@ -15740,7 +15740,7 @@ Translate="*Tip:* Bloky se symbolem + mají více dostupných variant skrze kter
 
 ID=IngameHelp_Components_Detail1
 Current="Components are used to build and repair blocks. You can use a welder on any block to add the required component. You can select tools and blocks on your toolbar."
-Translate="Komponenty jsou používány k vystavbě nebo opravě bloků. Můžeš použít svářečku na blok k přidání požadovaných součástek. Tento nástroj si vybereš ze svého nástrojového panelu."
+Translate="Součástky jsou používány k vystavbě nebo opravě bloků. Můžeš použít svářečku na blok k přidání požadovaných součástek. Tento nástroj si vybereš ze svého nástrojového panelu."
 
 ID=IngameHelp_Components_Detail2
 Current="Repair a block"
@@ -15748,7 +15748,7 @@ Translate="Oprav blok"
 
 ID=IngameHelp_Components_Title
 Current="Good.bot: Components"
-Translate="Good.bot: Komponenty"
+Translate="Good.bot: Součástky"
 
 ID=IngameHelp_FlashlightTip_Detail1
 Current="A little light goes a long way!"
@@ -15820,15 +15820,15 @@ Translate="Dosti jednoduché nebo ne?!"
 
 ID=IngameHelp_PowerTip_Detail2
 Current="*Tip:* Turn off blocks that you do not need to save power."
-Translate=""
+Translate="*Tip:* Pro úsporu energie vypněte bloky, které nepotřebujete."
 
 ID=IngameHelp_PowerTip_Detail3
 Current="*Tip:* Use [Ctrl+]{CONTROL:TOGGLE_REACTORS} to also turn off all connected grids."
-Translate=""
+Translate="*Tip:* Pomocí [Ctrl+]{CONTROL:TOGGLE_REACTORS} vypnete také všechny připojené konstrukce."
 
 ID=IngameHelp_PowerTip_Detail3:Gamepad
 Current="*Tip:* Use {CONTROL:TOGGLE_REACTORS_ALL} to also turn off all connected grids."
-Translate=""
+Translate="*Tip:* Pomocí {CONTROL:TOGGLE_REACTORS_ALL} vypnete také všechny připojené konstrukce."
 
 ID=ScreenBlueprintsRew_NotAvailable
 Current="N/A"
@@ -15840,15 +15840,15 @@ Translate="PCU: {0}"
 
 ID=ScreenBlueprintsRew_ReplaceMessage1
 Current="Blueprint/script with the name ""
-Translate=""
+Translate="Plánek/skript s názvem "
 
 ID=ScreenBlueprintsRew_ReplaceMessage2
 Current="" already exists. Do you want to replace it?"
-Translate=""
+Translate=" již existuje. Chcete ho nahradit?"
 
 ID=ScreenBlueprintsRew_Tooltip_ButEdit
 Current="Open tab for editing blueprint/script information"
-Translate=""
+Translate="Otevřít kartu pro úpravu informací o plánku/skriptu"
 
 ID=ScreenBlueprintsRew_Tooltip_SendToPlayer
 Current="Send blueprint to other players (Workshop Blueprints only)"
@@ -15856,19 +15856,19 @@ Translate=""
 
 ID=ScreenBlueprintsRew_ScreenBeingTaken
 Current="Screenshot is already being taken at this moment"
-Translate=""
+Translate="Snímek obrazovky se v tuto chvíli již pořizuje"
 
 ID=ScreenBlueprintsRew_ScreenBeingTaken_Caption
 Current="Screenshoting in progress"
-Translate=""
+Translate="Probíhá snímání obrazovky"
 
 ID=ChatBotUnavailable
 Current="I am sorry, I'm not available right now. Please visit https://support.keenswh.com/ or try again later."
-Translate=""
+Translate="Je mi líto, ale právě teď nejsem k dispozici. Navštivte prosím https://support.keenswh.com/ nebo to zkuste později."
 
 ID=ChatBot_Generic
 Current="Hello, Engineer! I am Good.bot. What can I help you with?"
-Translate=""
+Translate="Dobrý den, pane Inženýre! Jsem Good.bot. S čím vám mohu pomoci?"
 
 ID=ChatBot_HowAreYou
 Current="I am well, thank you!"
@@ -15876,7 +15876,7 @@ Translate="Mám se dobře, děkuji!"
 
 ID=ChatBot_Rude
 Current="That was not very nice! In case of any issues, please contact us at https://support.keenswh.com/"
-Translate=""
+Translate="To nebylo moc hezké! V případě jakýchkoli problémů nás prosím kontaktujte na adrese https://support.keenswh.com/."
 
 ID=ChatBot_ThankYou
 Current="You're welcome!"
@@ -15884,175 +15884,175 @@ Translate="Není zač!"
 
 ID=ChatBotMisunderstanding0
 Current="Apologies, I am unable to answer the question. I am still learning. For more help, please visit https://support.keenswh.com/"
-Translate=""
+Translate="Omlouvám se, ale nejsem schopen odpovědět na otázku. Stále se učím. Další nápovědu naleznete na adrese https://support.keenswh.com/."
 
 ID=Description_FAQ_Electricity
 Current="Electricity can be produced through reactors or solar panels and stored in batteries. It is transferred automatically through all connected blocks. Many blocks require electricity to function. "
-Translate=""
+Translate="Elektřinu lze vyrábět v reaktorech nebo solárních panelech a ukládat ji do baterií. Přenáší se automaticky přes všechny připojené bloky. Mnoho bloků potřebuje ke svému fungování elektřinu."
 
 ID=Description_FAQ_Asteroids
 Current="Asteroids can be found in space. How many there are depends on the server or world settings. Most asteroids will have ores that can be mined. "
-Translate=""
+Translate="Asteroidy se nacházejí ve vesmíru. Jejich počet závisí na nastavení serveru nebo světa. Většina asteroidů obsahuje rudy, které lze těžit."
 
 ID=Description_FAQ_Gravity
 Current="There is gravity on planets. Virtual Gravity can also be produced with the gravity generator block. Virtual gravity has no effect on grids unless virtual mass blocks are implemented. "
-Translate=""
+Translate="Na planetách existuje gravitace. Virtuální gravitaci lze také vytvořit pomocí bloku generátoru gravitace. Virtuální gravitace nemá žádný vliv na konstrukce, pokud nejsou implementovány bloky virtuální hmoty."
 
 ID=Description_FAQ_Oxygen
 Current="Some planets have breathable atmospheres. Oxygen can be produced from ice with a O2/H2 generator or from an oxygen farm. Oxygen can be stored in oxygen tanks and bottles."
-Translate=""
+Translate="Některé planety mají dýchatelnou atmosféru. Kyslík lze vyrobit z ledu pomocí O2/H2 generátoru nebo z kyslíkové farmy. Kyslík lze skladovat v kyslíkových nádržích a lahvích."
 
 ID=Description_FAQ_Damage
 Current="Damage can be inflicted by using weapons like rocket launchers or gatling turrets or hand held rifles. Grids can also be damaged by impacts with other grids or voxels. "
-Translate=""
+Translate="Poškození lze způsobit zbraněmi, jako jsou raketomety, kulometné věže nebo ruční pušky. Konstrukce mohou být poškozeny také nárazy do jiných konstrukcí nebo voxelů."
 
 ID=Description_FAQ_Repair
 Current="Use your welder to repair damaged blocks. Blocks that have been completely destroyed need to be replaced or you can use a projector to repair faster. "
-Translate=""
+Translate="K opravě poškozených bloků použijte svářečku. Zcela zničené bloky je třeba vyměnit nebo můžete k rychlejší opravě použít projektor."
 
 ID=Description_FAQ_Welding
 Current="Use your welder on blocks to build and repair. Welding requires power drawn from your suit and components for the block. You can also install welders on ships. Use RMB to add missing components from the block you are looking at to your build planner."
-Translate=""
+Translate="Používejte svářečku na bloky k jejich stavbě a opravám. Svařování vyžaduje energii odebranou z vašeho obleku a součástek pro blok. Svářečky můžete instalovat také na lodě. Pomocí RMB (Pravé tlačítko myši) můžete do stavebního plánovače přidat chybějící součásti z bloku, na který se díváte."
 
 ID=Description_FAQ_Mining
 Current="You can collect ore by using your drill on voxels like planets or asteroids. Your drill has a short-range detector that shows you the location of ores. "
-Translate=""
+Translate=Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy.""
 
 ID=Description_FAQ_Healing
 Current="You can heal yourself at a medical room or survival kit if you are injured. Hold {CONTROL:USE} to use the console. "
-Translate=""
+Translate="Pokud jste zraněni, můžete se vyléčit v zdravotnícke místnosti nebo v základném modulu. Podržte {CONTROL:USE} pro použití konzole."
 
 ID=Description_FAQ_Recharging
 Current="You can recharge your suit power in medical rooms, survival kits or by sitting in any kind of seat or cockpit as long as it is powered."
-Translate=""
+Translate="Energii ve skafandru můžete dobíjet v zdravotníckych místnostech, základních modulech nebo sedět na jakémkoli sedadle či v kokpitu, pokud je napájen."
 
 ID=Description_FAQ_Grinding
 Current="You can use a grinder to grind down blocks and deconstruct them. Components are salvaged and transferred into your inventory while grinding. "
-Translate=""
+Translate="Pomocí brusky můžete bloky rozbrousit a rozložit. Součástky se při broušení uchovávají a přenášejí do vašeho inventáře."
 
 ID=Description_FAQ_Hydrogen
 Current="Hydrogen is a fuel used for your suit's jetpack and hydrogen thrusters. Hydrogen is produced from ice in a O2/H2 generator. You can story hydrogen in hydrogen tanks and bottles. "
-Translate=""
+Translate="Vodík je palivo, které se používá pro jetpack vašeho obleku a vodíkové trysky. Vodík se vyrábí z ledu v O2/H2 generátoru. Vodík můžete skladovat ve vodíkových nádržích a lahvích."
 
 ID=Description_FAQ_Jetpack
 Current="Your jetpack requires hydrogen. You can produce hydrogen from ice in a O2/H2 generator. Refill bottles at the generator or connect the generator with a medical room or survival kit to recharge your hydrogen directly. "
-Translate=""
+Translate="Váš jetpack vyžaduje vodík. Vodík můžete vyrobit z ledu v O2/H2 generátoru. V generátoru můžete doplňovat lahve nebo generátor propojit se zdravotnickou místností či základním modulem a dobíjet vodík přímo."
 
 ID=Description_FAQ_MagneticBoots
 Current="Magnetic boots only work in zero gravity environments. They enable you to stick to surfaces like asteroids or ships. Press {CONTROL:THRUSTS} to disable your jetpack and enable your magnetic boots when in a standing position on a surface. "
-Translate=""
+Translate="Magnetické boty fungují pouze v prostředí s nulovou gravitací. Umožňují přilnout k povrchu, jako jsou asteroidy nebo lodě. Když stojíte na povrchu, stisknutím {CONTROL:THRUSTS} vypnete jetpack a zapnete magnetické boty."
 
 ID=Description_FAQ_Ore
 Current="Ore refers to several types of minerals that can be refined into ingots using a refinery. Ores can be found on planets and asteroids. Look for dark spots on planets to find ore. "
-Translate=""
+Translate="Rudou se rozumí několik druhů nerostů, které lze pomocí rafinerie zpracovat na ingoty. Rudy se nacházejí na planetách a asteroidech. Hledejte tmavé skvrny na planetách, abyste našli rudu."
 
 ID=Description_FAQ_Ice
 Current="Ice is essential to produce oxygen and hydrogen and can be found on planets and inside asteroids. "
-Translate=""
+Translate="Led je nezbytný pro výrobu kyslíku a vodíku a nachází se na planetách a uvnitř asteroidů."
 
 ID=Description_FAQ_Voxel
 Current="Voxels are physical bodies such as asteroids or planets. Use your drill to bore into voxels and alter their shape. Use voxel hands in creative mode to create your own shapes. "
-Translate=""
+Translate="Voxely jsou fyzická tělesa, jako třeba asteroidy nebo planety. Pomocí vrtáku se můžete zavrtat do voxelů a změnit jejich tvar. Pomocí voxelových rukou v kreativním režimu si můžete vytvářet vlastní tvary."
 
 ID=Description_FAQ_Grid
 Current="Grids are collections of blocks that shape stations or ships. "
-Translate=""
+Translate="Konstrukce jsou sbírky bloků, které tvoří stanice nebo lodě. "
 
 ID=Description_FAQ_Clang
 Current="Hail Clang!"
-Translate=""
+Translate="Zdar Clangu!"
 
 ID=Description_FAQ_Visor
 Current="Your visor can be opened and closed by pressing {CONTROL:HELMET}. Don't open your visor in space or you will suffocate!"
-Translate=""
+Translate="Hledí můžete otevřít a zavřít stisknutím tlačítka {CONTROL:HELMET}. Neotvírejte hledí ve vesmíru, jinak se udusíte!"
 
 ID=Description_FAQ_RoomPressure
 Current="Room pressure is displayed in a vent menu. A room has to be sealed in order to pressurized. "
-Translate=""
+Translate="Tlak v místnosti se zobrazuje v nabídce ventilace. Místnost musí být utěsněna, aby v ní byl tlak."
 
 ID=Description_FAQ_Thrusters
 Current="Thrusters allow your ships to move and fly. Make sure to use the right thrusters in the appropriate environments. Atmospheric thrusters will not work in space!"
-Translate=""
+Translate="Trysky umožňují lodím pohybovat se a létat. Ujistěte se, že používáte správné trysky ve vhodných prostředích. Atmosférické trysky nebudou ve vesmíru fungovat!"
 
 ID=Description_FAQ_ShipMovement
 Current="Press {CONTROL:TOGGLE_REACTORS}  to turn power off and on. If you are wondering if you have enough power, check if there is fuel in your reactors or if your batteries are charged."
-Translate=""
+Translate="Stiskněte {CONTROL:TOGGLE_REACTORS} pro vypnutí a zapnutí napájení. Pokud jste zvědaví, zda máte dostatek energie, zkontrolujte, jestli je v reaktorech palivo nebo jestli jsou baterie nabité."
 
 ID=Description_FAQ_RoverMovement
 Current="Press {CONTROL:LANDING_GEAR} to disable the brakes and landing gears or {CONTROL:TOGGLE_REACTORS} to turn the power off and on. You can check if there is fuel in your reactors or if your batteries are charged."
-Translate=""
+Translate="Stisknutím {CONTROL:LANDING_GEAR} vypnete brzdy a podvozky nebo {CONTROL:TOGGLE_REACTORS} vypnete a zapnete napájení. Můžete zkontrolovat, zda je v reaktorech palivo nebo zda jsou baterie nabité."
 
 ID=Description_FAQ_Planets
 Current="Planets can be seen from any distance. If you do not see planets then they are likely not part of this world. "
-Translate=""
+Translate="Planety lze pozorovat z libovolné vzdálenosti. Pokud planety nevidíte, pak pravděpodobně nejsou součástí tohoto světa."
 
 ID=Description_FAQ_Pirates
 Current="Protect yourself against pirates and other players by building armor, turrets and decoys. "
-Translate=""
+Translate="Chraňte se před piráty a ostatními hráči stavbou pancéřování, věží a návnad."
 
 ID=Description_FAQ_Fuel
 Current="Reactors use refined uranium ingots for fuel. Your jetpack and hydrogen thrusters require hydrogen. "
-Translate=""
+Translate="Reaktory používají jako palivo rafinované uranové ingoty. Váš jetpack a vodíkové trysky vyžadují vodík."
 
 ID=Description_FAQ_PCU
 Current="PCU stands for Performance Cost Unit.  Building and removing blocks cost and refunds PCU. "
-Translate=""
+Translate="PCU je zkratka pro jednotku nákladů na výkon.  Stavba a odstraňování bloků stojí a vrací PCU."
 
 ID=Description_FAQ_Ownership
 Current="You can own blocks when you are the one who added the computer components. You can choose to share your blocks with your faction or anybody else. "
-Translate=""
+Translate="Bloky můžete vlastnit, pokud jste to vy, kdo přidal počítačové součástky. Můžete se rozhodnout sdílet své bloky se svým klanem nebo s kýmkoli jiným."
 
 ID=Description_FAQ_Factions
 Current="Factions are a way to play with other players by sharing your blocks, which can be used by other players. Anyone can set up factions. "
-Translate=""
+Translate="Klany představují způsob, jak hrát s ostatními hráči sdílením bloků, které mohou ostatní hráči používat. Klany může založit kdokoli."
 
 ID=Description_FAQ_Bottles
 Current="Hydrogen and oxygen bottles can be produced in assemblers and refilled in O2/H2 generators. "
-Translate=""
+Translate="Vodíkové a kyslíkové lahve lze vyrábět v montážních zařízeních a plnit je v O2/H2 generátorech."
 
 ID=Description_FAQ_Help
 Current="Press {CONTROL:HELP_SCREEN} to find additional help or just ask me."
-Translate=""
+Translate="Stiskněte {CONTROL:HELP_SCREEN} pro vyhledání další nápovědy nebo se mě prostě zeptejte."
 
 ID=Description_FAQ_SaveBlueprints
 Current="You can save ship designs in blueprints by aiming at them and press Ctrl-B. Press F10 to open your menu of blueprints. "
-Translate=""
+Translate="Návrhy lodí můžete uložit do plánků tak, že na ně namíříte a stisknete klávesu Ctrl-B. Stisknutím klávesy F10 otevřete nabídku plánků."
 
 ID=Description_FAQ_Lost
 Current="If you find yourself lost, you can always press {CONTROL:SUICIDE} to respawn at your nearest respawn point. "
-Translate=""
+Translate="Pokud se ztratíte, můžete vždy stisknout {CONTROL:SUICIDE} a znovu se objevit na nejbližším bodě oživení."
 
 ID=Description_FAQ_Mass
 Current="Mass indicates the weight of your ship. Filling cargo containers with ores or components can severely impact the performance of your ship. "
-Translate=""
+Translate="Celková hmotnost udává hmotnost vaší lodi. Naplnění nákladních kontejnerů rudami nebo součástkami může mít závažný dopad na výkon vaší lodi."
 
 ID=Description_FAQ_Skins
 Current="Skins can be found in survival mode by finding the drop pods and activating their buttons. Use a medical room to customize your character. "
-Translate=""
+Translate="Skiny lze získat v režimu přežití nalezením výsadkových podů a aktivací jejich tlačítek. K úpravě postavy použijte zdravotnickou místnost."
 
 ID=Description_FAQ_ShipInventories
 Current="Be sure to connect individual inventories using conveyors. Some items are too large to pass through small conveyor tubes. Press {CONTROL:INVENTORY} to open your personal inventory. "
-Translate=""
+Translate="Nezapomeňte propojit jednotlivé inventáře pomocí dopravníků. Některé položky jsou příliš velké na to, aby prošly malými dopravníkovými trubkami. Stisknutím {CONTROL:INVENTORY} otevřete svůj osobní inventář."
 
 ID=Description_FAQ_ShipBuilding
 Current="The minimum requirements for a ship are a cockpit, gyroscope, one thruster in each direction and some form of power supply, such as a reactor or a battery. "
-Translate=""
+Translate="Minimální požadavky na loď jsou kokpit, gyroskop, jeden tryskový motor v každém směru a nějaký zdroj energie, například reaktor nebo baterie."
 
 ID=Description_FAQ_Script
 Current="Scripts might be disabled in world settings. "
-Translate=""
+Translate="Skripty mohou být v nastavení světa zakázány."
 
 ID=Description_FAQ_GridMovement
 Current="Make sure it has thrusters pointing in the direction it is moving and some source of power. "
-Translate=""
+Translate="Ujistěte se, že má trysky namířené směrem, kterým se pohybuje, a nějaký zdroj energie."
 
 ID=Description_FAQ_StopMoving
 Current="Be sure to enable your jetpack with {CONTROL:THRUSTS} and turn on your dampeners with {CONTROL:DAMPING}. "
-Translate=""
+Translate="Nezapomeňte zapnout jetpack pomocí {CONTROL:THRUSTS} a tlumiče pomocí {CONTROL:DAMPING}."
 
 ID=Description_FAQ_RelativeDampeners
 Current="Relative dampeners match your speed and direction with a moving target. Press [Ctrl-{CONTROL:DAMPING}] while looking at your target. You need to be within 100 meters for it to work. "
-Translate=""
+Translate="Relativní tlumiče přizpůsobují rychlost a směr pohybu pohyblivému cíli. Při pohledu na cíl stiskněte klávesu [Ctrl-{CONTROL:DAMPING}]. Aby to fungovalo, musíte být v okruhu 100 metrů."
 
 ID=Description_FAQ_InertiaDampeners
 Current="Inertia dampeners will slow movements when there is no input and can be toggled with {CONTROL:DAMPING}. Relative dampeners will match your speed with that of a moving object and can be toggled with [Ctrl-{CONTROL:DAMPING}]. Both need thrusters in all directions to work effectively"
@@ -16060,47 +16060,47 @@ Translate=""
 
 ID=Description_FAQ_Flashlight
 Current="You can toggle your flashlight with {CONTROL:HEADLIGHTS}. Flashlights consume suit power and will not work when depleted. "
-Translate=""
+Translate="Svítilnu můžete přepínat pomocí {CONTROL:HEADLIGHTS}. Svítilny spotřebovávají energii obleku a po její vyčerpání nebudou fungovat."
 
 ID=Description_FAQ_FindOtherPlayers
 Current="Look for factions that allow anyone to join or ask around if you can group up with players. Look for antenna signals that could indicate other players. "
-Translate=""
+Translate="Hledejte klany, do kterých se může přidat kdokoli, nebo se zeptejte, zda se můžete sdružit s hráči. Hledejte signály antén, které by mohly ukazovat na další hráče."
 
 ID=Description_FAQ_HowToPlayGame
 Current="Can you be more specific, please?"
-Translate=""
+Translate="Můžete být konkrétnější, prosím?"
 
 ID=Description_FAQ_Thing
 Current="Have you tried that other thing?"
-Translate=""
+Translate="Zkoušeli jste tu další věc?"
 
 ID=Description_FAQ_ShipWontFly
 Current="Does your ship have enough power? Does it have enough thrusters? Are your dampeners turned on?"
-Translate=""
+Translate="Má vaše loď dostatek energie? Má dostatek pohonných jednotek? Máte zapnuté tlumiče?"
 
 ID=Description_FAQ_WhatIsABlock
 Current="Blocks are what all ships and stations are made off. There are two sizes: large and small. You can find blocks in the menu by pressing {CONTROL:BUILD_SCREEN}. "
-Translate=""
+Translate="Všechny lodě a stanice se skládají z bloků. Existují dvě velikosti: velké a malé. Bloky najdete v nabídce po stisknutí {CONTROL:BUILD_SCREEN}."
 
 ID=Description_FAQ_MirrorMode
 Current="Mirror mode only works in creative mode and allows symmetric building. Press {CONTROL:SYMMETRY_SWITCH} to cycle through all six planes of mirrors. Use LMB button to confirm placement and RMB to remove one. Press {CONTROL:USE_SYMMETRY} to temporarily disable mirror mode. "
-Translate=""
+Translate="Zrcadlový režim funguje pouze v kreativním režimu a umožňuje symetrické stavění. Stisknutím tlačítka {CONTROL:SYMMETRY_SWITCH} projdete všech šest rovin zrcadlení. Tlačítkem LMB (Levé tlačítko myši) potvrďte umístění a tlačítkem RMB (pravé tlačítko myši) jednu z nich odeberte. Stisknutím tlačítka {CONTROL:USE_SYMMETRY} dočasně vypnete režim zrcadlení."
 
 ID=Description_FAQ_ProtectingMyself
 Current="Hide your bases underground or inside asteroids. Build turrets and decoys to defend against attacks. Build hidden medical rooms and spread them out to maintain ways to respawn when attacked from inside you base."
-Translate=""
+Translate="Své základny můžete ukrýt pod zem nebo do asteroidů. Stavte věže a návnady na obranu proti útokům. Postavte skryté zdravotnické místnosti a rozmístěte je tak, abyste si zachovali způsoby, jak se oživit, když na vás zaútočí zevnitř základny."
 
 ID=Description_FAQ_LosingHealth
 Current="Are you suffocating? Standing in front of a thruster or perhaps you came too close to an active ship tool?"
-Translate=""
+Translate="Dusíte se? Stojíte před tryskami nebo jste se možná příliš přiblížili k aktivnímu nástroji lodě?"
 
 ID=Description_FAQ_VoxelHands
 Current="Voxel hands is a tool only available in creative mode, which allows you to add and sculpt voxel shapes. It can be enabled in world settings. press K to open voxel hand menu while equiped. "
-Translate=""
+Translate="Voxelová ruka je nástroj dostupný pouze v kreativním režimu, který umožňuje přidávat a tvarovat voxely. Lze jej povolit v nastavení světa. Stiskněte klávesu K a otevřete nabídku voxelových rukou, když jste jimi vybavení."
 
 ID=Description_FAQ_AirTightnessPressure
 Current="A room needs to be airtight before it can be filled with oxygen by an air vent. Make sure there are no holes exposed to space and that all doors are closed. "
-Translate=""
+Translate="Místnost musí být vzduchotěsná, aby se mohla naplnit kyslíkem pomocí ventilace. Ujistěte se, že v místnosti nejsou žádné otvory vystavené prostoru a že jsou všechny dveře zavřené."
 
 ID=Description_FAQ_Components
 Current="Components are required to construct blocks. They can be produced in assemblers from ingots. Placing a block in survival mode always requires the first component. "
@@ -16108,35 +16108,35 @@ Translate=""
 
 ID=Description_FAQ_Station
 Current="A station is a grid that is static and directly attached to voxels like planets or asteroids. Some stations can fly, but only have enough thrusters for basic movement. "
-Translate=""
+Translate="Stanice je statická konstrukce, která je přímo připojena k voxelům, jako jsou planety nebo asteroidy. Některé stanice mohou létat, ale mají pouze dostatek trysek pro základní pohyb."
 
 ID=Description_FAQ_Ship
 Current="A ship is a grid that is designed to move. It has thrusters in each direction, a gyroscope for orientation, a cockpit and some source of power like batteries or reactors. Ships can be designed for specific tasks like building or fighting. "
-Translate=""
+Translate="Loď je konstrukce, která je určena k pohybu. Má trysky v každém směru, gyroskop pro orientaci, kokpit a nějaký zdroj energie, například baterie nebo reaktory. Lodě mohou být navrženy pro specifické úkoly, jako je stavba nebo boj. "
 
 ID=Description_FAQ_CarRover
 Current="A rover is a vehicle that uses wheels to move instead of thrusters, which are used to fly. Rovers are usually cheap to build, but often slow and an easy target for other players. "
-Translate=""
+Translate="Rover je vozidlo, které k pohybu používá kola namísto trysek, které se používají k letu. Rovery jsou obvykle levné na stavbu, ale často pomalé a jsou snadným cílem pro ostatní hráče."
 
 ID=Description_FAQ_GPSSignals
 Current="GPS signals can be disabled or created in the Coms tab. Double-click a GPS signal to disable it. GPS signals can be stored in LCD panels or broadcasted in chat. Be careful not to attract enemies."
-Translate=""
+Translate="Signály GPS lze zakázat nebo vytvořit na kartě Komunikace. Dvojím kliknutím na signál GPS jej zakážete. Signály GPS lze zapisovat do panelů LCD nebo vysílat v chatu. Dávejte pozor, abyste nepřilákali nepřátele."
 
 ID=Description_FAQ_GridSize
 Current="There are 2 grid sizes available that are simply referred to as small and large. You can switch the grid size of a block by reselecting the same block on your toolbar. Not all blocks are available in both grid sizes. "
-Translate=""
+Translate="K dispozici jsou 2 velikosti konstrukčních mřížek, které se jednoduše označují jako malá a velká. Velikost mřížky bloku můžete přepnout opětovným výběrem stejného bloku na panelu nástrojů. Ne všechny bloky jsou k dispozici v obou velikostech mřížky."
 
 ID=Description_FAQ_Suit
 Current="Your suit keeps you alive when you are in space. Your health, hydrogen, oxygen and power supplies are displayed on your HUD. Your suit is equipped with magnetic boots to walk in space and a jetpack to fly. "
-Translate=""
+Translate="Skafandr vás udržuje při životě, když jste ve vesmíru. Vaše zdraví, zásoby vodíku, kyslíku a energie se zobrazují na vašem HUD. Váš oblek je vybaven magnetickými botami pro chůzi ve vesmíru a jetpackem pro létání."
 
 ID=Description_FAQ_HandTools
 Current="There are 3 hand tools. A welder builds and repairs. A grinder salvages and deconstructs, while a drill is used to find ore, collect ore and dig tunnels. "
-Translate=""
+Translate="K dispozici jsou 3 ruční nástroje. Svářeč staví a opravuje. Bruska odstraňuje a rozkládá, zatímco vrtačka slouží k hledání rudy, sběru rudy a kopání tunelů."
 
 ID=Description_FAQ_Inventory
 Current="Your inventory can be accessed by pressing {CONTROL:INVENTORY}. Drag items outside of your inventory screen to drop them. Pick up items by pressing {CONTROL:PICK_UP}."
-Translate=""
+Translate="Do inventáře se dostanete stisknutím tlačítka {CONTROL:INVENTORY}. Přetažením položek mimo obrazovku inventáře je můžete upustit. Předměty zvednete stisknutím {CONTROL:PICK_UP}."
 
 ID=Description_FAQ_ShipToolsWeapons
 Current="Tools can be added to your toolbars by pressing {CONTROL:BUILD_SCREEN}. Drag and drop or right-click tools to automatically add them to your toolbar. This works the same for ship functions when you are inside a cockpit. "
@@ -16144,7 +16144,7 @@ Translate=""
 
 ID=Description_FAQ_Ingots
 Current="Ingots are produced in refineries from ores and are essential to produce components. "
-Translate=""
+Translate="Ingoty se vyrábějí v rafinériích z rud a jsou nezbytné pro výrobu sučástek."
 
 ID=Description_FAQ_Armor
 Current="Armor is used to design the structure of ships and stations, and acts as protection for important blocks. Light armor is cheap and enables ships to be fast. Heavy armor offers more protection for ships, but it affects these vehicles' speed. "
@@ -21773,7 +21773,7 @@ Translate="Následovat mě"
 
 ID=LeadIndicator_OutOfWeaponRange
 Current="Out of weapon range"
-Translate=""
+Translate="Mimo dosah zbraně"
 
 ID=FollowPlayer_StopFollowing_Title
 Current="Stop Following"
@@ -21781,7 +21781,7 @@ Translate="Přestat následovat"
 
 ID=PathRecorderBlock_FarAwayBeacon
 Current="Faraway beacon"
-Translate=""
+Translate="Vzdálený maják"
 
 ID=FollowPlayer_FollowDistance_Title
 Current="Follow Distance"
@@ -21789,39 +21789,39 @@ Translate="Vzdálenost následování"
 
 ID=FollowPlayer_FollowDistance_Tooltip
 Current="The grid will try to stay within this distance of the player it is following."
-Translate=""
+Translate="Konstrukce se bude snažit zůstat v této vzdálenosti od hráče, kterého sleduje."
 
 ID=FollowHome_PositionList
 Current="Home List"
-Translate=""
+Translate="Domovské pozice"
 
 ID=FollowHome_PositionList_Tooltip
 Current="Available home positions."
-Translate=""
+Translate="Dostupné domácí pozice."
 
 ID=FollowHome_SetHome_Title
 Current="Set Current Position"
-Translate=""
+Translate="Nastavit aktuální pozici"
 
 ID=FollowHome_SetHome_Tooltip
 Current="Creates a GPS at the current location and selects it as the home position."
-Translate=""
+Translate="Vytvoří bod GPS v aktuální poloze a vybere jej jako domovskou polohu."
 
 ID=FollowHome_MinRange_Title
 Current="Min. Range from Home"
-Translate=""
+Translate="Min. Vzdálenost od domova"
 
 ID=FollowHome_MinRange_Tooltip
 Current="Set the min range away from the home position. The grid will stay between min and max range."
-Translate=""
+Translate="Nastavte min. rozsah od výchozí polohy. Konstrukce zůstane mezi min. a max. rozsahem."
 
 ID=FollowHome_MaxRange_Title
 Current="Max. Range from Home"
-Translate=""
+Translate="Max. Vzdálenost od domova"
 
 ID=FollowHome_MaxRange_Tooltip
 Current="Set the max range away from the home position. The grid will stay between min and max range."
-Translate=""
+Translate="Nastavte maximální rozsah od výchozí polohy. Konstrukce zůstane mezi min. a max. rozsahem."
 
 ID=FollowHome_Wander_Title
 Current="Wander when idle"
@@ -21897,7 +21897,7 @@ Translate="Zdraví bloku"
 
 ID=DefensiveCombatBlock_DefendAgainst
 Current="Defend Against"
-Translate=""
+Translate="Bránit se proti"
 
 ID=DefensiveCombatBlock_DefendAgainst_Tooltip
 Current="Which other grids may be a threat?"
@@ -21929,15 +21929,15 @@ Translate=""
 
 ID=DefensiveCombatBlock_FleeTo_Tooltip
 Current="If this grid flees, it will flee towards the selected waypoint."
-Translate=""
+Translate="Pokud tato konstrukce utíká, prchá směrem k vybranému bodu trasy."
 
 ID=DefensiveCombatBlock_FleeTrigger
 Current="Flee trigger"
-Translate=""
+Translate="Spouštěč útěku"
 
 ID=DefensiveCombatBlock_FleeTrigger_Tooltip
 Current="When to flee?Never - This grid never flees.Always - This grid flees when it detects another grid within 2500m and the "defend against" and "With Subsystem" conditions are met.When being Target Locked - When another grid that meets the "Defend against" and "With Subsystem" conditions locks this grid.When taking damage - When taking damage from any source while a grid that meets the "Defend against" and "With Subsystem" is within 2500m."
-Translate=""
+Translate="Kdy utéct?Nikdy - Tato konstrukce nikdy neutíká.Vždy - Tato konstrukce prchá, když zjistí jinou konstrukci v okruhu 2500m a jsou splněny podmínky 'Bránit se proti' a 'Se subsystémem'.Při uzamčení cíle - Když jiná konstrukce, která splňuje podmínky 'Bránit se proti' a 'Se subsystémem', uzamkne tuto konstrukci.Při poškození - Když je poškozena z jakéhokoli zdroje, zatímco je v okruhu 2500m konstrukce, která splňuje podmínky 'Bránit se proti' a 'Se subsystémem'."
 
 ID=DefensiveCombatBlock_FleeTrigger_Never
 Current="Never"
@@ -21949,43 +21949,43 @@ Translate="Vždy"
 
 ID=DefensiveCombatBlock_FleeTrigger_WhenTargetLocked
 Current="When target locked"
-Translate=""
+Translate="Při uzamčení cíle"
 
 ID=DefensiveCombatBlock_FleeTrigger_WhenTakingDamage
 Current="When taking damage"
-Translate=""
+Translate="Při obdržení poškození"
 
 ID=DefensiveCombatBlock_FleeTrigger_FleeTo
 Current="Flee to"
-Translate=""
+Translate="Útěk do"
 
 ID=DefensiveCombatBlock_WaypointSize
 Current="Flee waypoint size"
-Translate=""
+Translate="Velikost únikového bodu"
 
 ID=DefensiveCombatBlock_WaypointSize_Tooltip
 Current="The distance to the selected waypoint the grid should be to consider it to have been reached."
-Translate=""
+Translate="Vzdálenost od vybraného bodu trasy, ve které by konstrukce měla být, aby se považovala za dosaženou."
 
 ID=DefensiveCombatBlock_WithSubsystem
 Current="With Subsystem"
-Translate=""
+Translate="Se subsystémem"
 
 ID=DefensiveCombatBlock_WithSubsystem_Tooltip
 Current="Will "Defend against" grids with this subsystem."
-Translate=""
+Translate="Bude 'Bránit se proti' konstrukcím s tímto subsystémem."
 
 ID=BasicMissionAutopilot_Mode
 Current="Mode"
-Translate=""
+Translate="Režim"
 
 ID=DefensiveCombatBlock_ThreateningSubsystem
 Current="Threatening Subsystem"
-Translate=""
+Translate="Ohrožující subsystém"
 
 ID=DefensiveCombatBlock_ThreateningSubsystemTooltip
 Current="This block will only consider grids with the selected subsystem(s) to be a threat"
-Translate=""
+Translate="Tento blok bude považovat za hrozbu pouze konstrukce s vybraným(i) subsystémem(y)"
 
 ID=DisplayName_EventGasTankFilled
 Current="Gas Tank Filled %"
@@ -22005,11 +22005,11 @@ Translate="Uložená energie"
 
 ID=BlockPropertyTitle_AttackMode
 Current="Attack"
-Translate=""
+Translate="Útok"
 
 ID=BlockPropertyTitle_SetAttackModeFormat
 Current="Set Attack Mode: {0}"
-Translate=""
+Translate="Nastavení režimu útočení: {0}"
 
 ID=AttackMode_EnemiesOnly
 Current="Enemies Only"
@@ -22021,11 +22021,11 @@ Translate="Nepřátelé a neutrální"
 
 ID=BlockPropertyTitle_TargetPriority
 Current="Target Priority"
-Translate="Priorita zacílení"
+Translate="Priorita cíle"
 
 ID=BlockPropertyTitle_SetTargetPriorityFormat
 Current="Set Target Priority: {0}"
-Translate=""
+Translate="Nastavení priority cíle: {0}"
 
 ID=TargetPriority_Closest
 Current="Closest"
@@ -22041,7 +22041,7 @@ Translate="Nejmenší"
 
 ID=BlockPropertyTitle_AttackPattern
 Current="Attack Pattern"
-Translate=""
+Translate="Režim útočení"
 
 ID=TargetPriority_CircleOrOrbit
 Current="Circle/Orbit"
@@ -22057,27 +22057,27 @@ Translate="Zaútočit a odletět"
 
 ID=TargetPriority_Intercept
 Current="Intercept"
-Translate=""
+Translate="Zachycení"
 
 ID=BlockPropertyTitle_SubsystemToDestroy
 Current="Subsystem to destroy"
-Translate=""
+Translate="Subsystém ke zničení"
 
 ID=OffensiveCombatBlock_UpdateTargetInterval
 Current="Target Search Interval"
-Translate=""
+Translate="Interval vyhledávání cíle"
 
 ID=OffensiveCombatBlock_UpdateTargetInterval_Tooltip
 Current="Determines how often this block checks and (possibly) changes targets.Warning: Setting this very low may result in erratic targeting behavior!"
-Translate=""
+Translate="Určuje, jak často tento blok kontroluje a (případně) mění cíle. Varování: Nastavení této hodnoty na velmi nízkou může vést k nevyzpytatelnému chování při zaměřování!"
 
 ID=BlockPropertyTitle_ActivateBehavior
 Current="Subsystem to destroy"
-Translate=""
+Translate="Subsystém ke zničení"
 
 ID=BlockPropertyTitle_AlignToGravity
 Current="Align to P-Gravity"
-Translate=""
+Translate="Zarovnání s P-Gravitací"
 
 ID=BlockPropertyTitle_MinHeightAboveTerrain
 Current="Min. altitude"
@@ -22089,19 +22089,19 @@ Translate=""
 
 ID=OffensiveCombatCircleOrbit_CircleDistance_Title
 Current="Circle Distance"
-Translate=""
+Translate="Vzdálenost okruhu"
 
 ID=OffensiveCombatCircleOrbit_CircleDistance_Tooltip
 Current="The distance the grid should circle around the target"
-Translate=""
+Translate="Vzdálenost, ve které má konstrukce obkroužit cíl"
 
 ID=OffensiveCombatCircleOrbit_CircleInPGravity_Title
 Current="Circle in P-Gravity"
-Translate=""
+Translate="Kroužení v P-Gravitaci"
 
 ID=OffensiveCombatCircleOrbit_CircleInPGravity_Tooltip
 Current="If the engagement is taking place in P-gravity, the orbit will be around the gravity direction"
-Translate=""
+Translate="Pokud se střetnutí odehrává v P-Gravitaci, bude oběžná dráha kolem směru gravitace."
 
 ID=OffensiveCombatHitAndRun_BreakOffDistance_Title
 Current="Break-off distance"
@@ -22109,23 +22109,23 @@ Translate=""
 
 ID=OffensiveCombatHitAndRun_BreakOffDistance_Tooltip
 Current="At this distance to the target, this grid should retreat"
-Translate=""
+Translate="Při této vzdálenosti od cíle by tato konstrukce měla ustoupit."
 
 ID=OffensiveCombatHitAndRun_RetreatDistance_Title
 Current="Retreat distance"
-Translate=""
+Translate="Ústup - Vzdálenost"
 
 ID=OffensiveCombatHitAndRun_RetreatDistance_Tooltip
 Current="The distance from the target to retreat to, before starting a new attack run"
-Translate=""
+Translate="Vzdálenost od cíle, do které je třeba ustoupit před zahájením nového útoku."
 
 ID=OffensiveCombatHitAndRun_RetreatTimeout_Title
 Current="Retreat timeout"
-Translate=""
+Translate="Ústup - Časový limit"
 
 ID=OffensiveCombatHitAndRun_RetreatTimeout_Tooltip
 Current="The time this grid should take to attempt to reach its retreat distance. If it runs out of time, a new attack run will start regardless of distance from the target."
-Translate=""
+Translate="Doba, za kterou by se tato konstrukce měla pokusit dosáhnout své ústupové vzdálenosti. Pokud jí čas dojde, začne nový útok bez ohledu na vzdálenost od cíle."
 
 ID=OffensiveCombatHitAndRun_RetreatAngle_Title
 Current="Retreat angle"
@@ -22133,15 +22133,15 @@ Translate="Úhel návratu"
 
 ID=OffensiveCombatHitAndRun_RetreatAngle_Tooltip
 Current="The angle of the retreat vector relative to the attack run.A value of 180 means the grid will retreat back in the same direction it started the attack run from.A value of 0 means the retreat will continue in a straight line from the attack run."
-Translate=""
+Translate="Úhel ústupového vektoru vzhledem k průběhu útoku.Hodnota 180 znamená, že konstrukce bude ustupovat zpět stejným směrem, odkud zahájila útok.Hodnota 0 znamená, že ústup bude pokračovat v přímém směru od průběhu útoku."
 
 ID=OffensiveCombatHitAndRun_PassOverTarget_Title
 Current="Pass over target"
-Translate=""
+Translate="Přelet nad cílem"
 
 ID=OffensiveCombatHitAndRun_PassOverTarget_Tooltip
 Current="If the retreat angle is greater than 90° and the engagement is taking place in P-gravity, this will set the retreat waypoint to the far side over the target"
-Translate=""
+Translate="Pokud je úhel ústupu větší než 90° a střet probíhá v P-Gravitaci, nastaví se ústupový trasový bod na vzdálenější stranu nad cílem."
 
 ID=OffensiveCombatHitAndRun_AddWeapon_Title
 Current="Add Weapon"
@@ -22149,7 +22149,7 @@ Translate="Přidat zbraň"
 
 ID=OffensiveCombatHitAndRun_AddWeapon_Tooltip
 Current="Add the selected weapon to the Selected Weapons list"
-Translate=""
+Translate="Přidat vybrané zbraně do seznamu vybraných zbraní"
 
 ID=OffensiveCombatHitAndRun_RemoveWeapon_Title
 Current="Remove Weapon"
@@ -22157,7 +22157,7 @@ Translate="Odebrat zbraň"
 
 ID=OffensiveCombatHitAndRun_RemoveWeapon_Tooltip
 Current="Remove the selected weapon from the Selected Weapons list"
-Translate=""
+Translate="Odstranění vybrané zbraně ze seznamu vybraných zbraní"
 
 ID=OffensiveCombatHitAndRun_AvailiableWeapons_Title
 Current="Availiable Weapons"
@@ -22189,7 +22189,7 @@ Translate="Minimální vzdálenost"
 
 ID=OffensiveCombatStayAtRange_MinimalDistance_Tooltip
 Current="The minimal distance the grid should (try to) stay from the target"
-Translate=""
+Translate="Minimální vzdálenost, ve které by se konstrukce měla (snažit) udržet od cíle."
 
 ID=OffensiveCombatStayAtRange_MaximalDistance_Title
 Current="Maximal Distance"
@@ -22197,11 +22197,11 @@ Translate="Maximální vzdálenost"
 
 ID=OffensiveCombatStayAtRange_MaximalDistance_Tooltip
 Current="The maximal distance the grid should (try to) stay from the target"
-Translate=""
+Translate="Maximální vzdálenost, ve které by se měla konstrukce (pokusit) udržet od cíle."
 
 ID=OffensiveCombatStayAtRange_FacingPriority_Tooltip
 Current="The grid will attempt to keep the selected side(s) facing towards the target"
-Translate=""
+Translate="Konstrukce se bude snažit udržet vybranou stranu (strany) směřující k cíli."
 
 ID=OffensiveCombatIntercept_PatternName
 Current="Intercept"
@@ -22221,15 +22221,15 @@ Translate=""
 
 ID=OffensiveCombatIntercept_GuidanceBasic
 Current="Basic"
-Translate=""
+Translate="Základní"
 
 ID=OffensiveCombatIntercept_GuidanceTargetPrediction
 Current="Target Prediction"
-Translate=""
+Translate="Předměřování cíle"
 
 ID=OffensiveCombatIntercept_GuidanceProportionalNavigation
 Current="Proportional Navigation"
-Translate=""
+Translate="Proporcionální navigace"
 
 ID=EventControllerBlock_BoolTriggerState_Title
 Current="Target Prediction"
@@ -22413,11 +22413,11 @@ Translate=""
 
 ID=BlockPropertyTooltip_PathRecorder_DeselectBeacons
 Current="Deselect reference beacon."
-Translate=""
+Translate="Zrušit výběr referenčního majáku."
 
 ID=BlockPropertyTooltip_PathRecorder_AddWaypoint
 Current="Manually add a waypoint at the current position."
-Translate=""
+Translate="Ruční přidání bodu trasy z aktuální polohy."
 
 ID=BlockPropertyTooltip_CollisionAvoidance
 Current="Enabling this will make the grid avoid voxels and other grids."
@@ -22429,15 +22429,15 @@ Translate="Přesný režim zajištuje že konskruce vždy dosáhne přesného bo
 
 ID=BlockPropertyTooltip_RemoteBlockSpeedLimit
 Current="The maximum speed the grid is allowed to move."
-Translate=""
+Translate="Maximální povolená rychlost pohybu konstrukce."
 
 ID=BlockPropertyTooltip_AlignToGravity
 Current="If checked, the grid will at all times attempt to keep itself aligned to P-Gravity."
-Translate=""
+Translate="Pokud je tato možnost zaškrtnuta, bude se kontrukce vždy snažit zůstat zarovnaná s P-Gravitací."
 
 ID=BlockPropertyTooltip_MinHeightAboveTerrain
 Current="Set the minimum altitude the grid should keep when in P-Gravity."
-Translate=""
+Translate="Nastavte minimální výšku, kterou má konstrukce udržovat v režimu P-Gravitace."
 
 ID=FollowPlayer_FollowMe_Tooltip
 Current="This will make the grid attempt to follow you."
@@ -22449,11 +22449,11 @@ Translate="Přestane následovat hráče."
 
 ID=BasicMissionAutopilot_Waypoints_Tooltip
 Current="List of waypoints for autopilot to move to."
-Translate=""
+Translate="Seznam trasových bodů, na které se má autopilot přesunout."
 
 ID=BasicMissionAutopilot_SetupAction_Tooltip
 Current="Add actions to be triggered at the selected waypoint."
-Translate=""
+Translate="Přidání akcí, které se mají spustit u vybraného bodu trasy."
 
 ID=BasicMissionAutopilot_DeleteWaypoint_Tooltip
 Current="Delete selected waypoint."
@@ -22549,11 +22549,11 @@ Translate=""
 
 ID=DefensiveCombatBlock_NoFleeTo
 Current="[Color=#FFFF0000]ERROR: No "Flee to" waypoint selected! Please select a waypoint[/Color]"
-Translate=""
+Translate="[Color=#FFFF0000]CHYBA: Není vybrán žádný bod trasy 'Útěk do'! Vyberte prosím bod trasy[/Color]"
 
 ID=PathRecorderComponent_StatusMessage_NoWaypoints
 Current="[Color=#FFFF0000]ERROR: No sequence found! Please record a sequence[/Color]"
-Translate=""
+Translate="[Color=#FFFF0000]CHYBA: Nebyla nalezena žádná sekvence! Nahrajte prosím sekvenci[/Color]"
 
 ID=PathRecorderComponent_StatusMessage_BehaviorDisabled
 Current="Status: Behavior disabled"
@@ -22561,7 +22561,7 @@ Translate="Stav: Chování deaktivován"
 
 ID=PathRecorderComponent_StatusMessage_PlayingPathNextWaypoint
 Current="Status: Moving to Recorder index: {0}"
-Translate=""
+Translate="Stav: Přesun do indexu Rekordéru: {0}"
 
 ID=AiBlock_StatusMessage_BlockDisabled
 Current="Status: Block disabled"
@@ -22581,15 +22581,15 @@ Translate="Konstrukce se pokusí kroužit či obíhat okolo nepřítele nastavit
 
 ID=CombatBlock_Tooltip_StayAtRange
 Current="The grid will try to keep the enemy between a customizable min/max distance."
-Translate=""
+Translate="Konstrukce se bude snažit udržet nepřítele v nastavitelné minimální/maximální vzdálenosti."
 
 ID=CombatBlock_Tooltip_HitRun
 Current="The grid will continuously make an attack run on the target, and break off to retreat when it gets close."
-Translate=""
+Translate="Konstrukce bude nepřetržitě útočit na cíl, a když se k němu přiblíží, přeruší útok a stáhne se."
 
 ID=CombatBlock_Tooltip_Intercept
 Current="The grid will attempt to intercept the enemy and ram it."
-Translate=""
+Translate="Konstrukce se pokusí zadržet nepřítele a vrazit do něj."
 
 ID=FlightBlock_StatusMessage_NoTaskBlock
 Current="[Color=#FFFF0000]ERROR: No movement input. Please add/activate a Task and/or Combat block![/Color]"
@@ -22645,7 +22645,7 @@ Translate="Stav: Ustupuje z {0}"
 
 ID=FlightBlock_PathRecorder_StatusMessage_MovingToWaypoint
 Current="Status: Moving to Recorder waypoint {0}"
-Translate=""
+Translate="Stav: Přesouvání na bod záznamu {0}"
 
 ID=FlightBlock_HitRun_StatusMessage_Attacking
 Current="Status: Attacking {0}"
@@ -22845,7 +22845,7 @@ Translate="odebrán"
 
 ID=ActiveContractsScreen_Help_Abandon
 Current="{CONTROL:GUI:BUTTON_A} Abandon"
-Translate=""
+Translate=""{CONTROL:GUI:BUTTON_A} Odstoupit"
 
 ID=OffensiveCombatStayAtRange_EvasiveManeuvers_Title
 Current="Evasive Maneuvers"
@@ -22861,7 +22861,7 @@ Translate="Vstup: {0} {1}"
 
 ID=Plural_Seconds
 Current="seconds"
-Translate=""
+Translate="vteřin/-y"
 
 ID=FollowHome_HomeNotSet
 Current="[Color=#FFFF0000]ERROR: Home not set, please select a home position![/Color]"
@@ -23073,7 +23073,7 @@ Translate="Zaměřovat postavy"
 
 ID=OffensiveCombatBlock_FacingMode
 Current="Facing mode"
-Translate=""
+Translate="Režim nasměrování"
 
 ID=OffensiveCombatBlock_FacingMode_Tooltip
 Current="Use static weapons or manually set what side(s) should face the enemy"
