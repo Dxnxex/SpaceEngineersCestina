@@ -1,10 +1,10 @@
 # Space Engineers Čeština
 
-**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.06) (07.11.2023)**
+**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.07) (17.11.2023)**
 <li>Přeložitelných řádků: 5937</li>
-<li>Přeložených řádků: 4504</li>
-<li>Nepřeložených řádků: 1433</li>
-<li>Přeloženo 75.8%</li>
+<li>Přeložených řádků: 4809</li>
+<li>Nepřeložených řádků: 1128</li>
+<li>Přeloženo 81.0%</li>
 <br>
 
 **Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
@@ -33,8 +33,8 @@
 7. Safe Zone - Ochranné pole
 8. Merge block - Spojovač
 9. Event Controler - Ovladač Událostí
-10. Fractions - Klany (Ano "Frakce" se mně moc nelibí)
-11. Space Engineer - Astronaut (Bude změněn)
+10. Fractions - Klany
+11. Space Engineer - Engineer
 
 Děkuji za pomoc a ochotu @pa4k
 
