@@ -3468,7 +3468,7 @@ Translate="Výška kdy se padák otevře pokud je zaškrtnuto nastavení automat
 
 ID=PGravity
 Czech="Přírodní gravitace"
-Translate="Přírodní grav."
+Translate="P-Gravitace"
 
 ID=Planets
 Czech="Planety"
@@ -8220,7 +8220,7 @@ Translate="Vlastnictví zdravotnické stanice bude přiřazeno tomu kdo se zde o
 
 ID=NotificationCannotJumpFromGravity
 Czech="Nemožné skočit při působení přirodní gravitace na konstrukci"
-Translate="Nemožné skočit při působení přirodní gravitace na konstrukci"
+Translate="Nemožné skočit při působení P-Gravitace na konstrukci"
 
 ID=NotificationCannotJumpIntoGravity
 Czech="Nemožné skočit do pole s přirodní gravitací"
@@ -11848,11 +11848,11 @@ Translate="Rychlopalební věž, která je nabíjena skrze dopravníky. Použív
 
 ID=Description_GravityGenerator
 Current="Gravity generators create configurable artificial gravity fields that affect players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. "
-Translate="Gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř přírodní gravitace.
+Translate="Gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř P-Gravitace.
 
 ID=Description_GravityGeneratorSphere
 Current="Spherical gravity generators create a configurable artificial spherical gravity field that affects players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. "
-Translate="Sférické gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř přírodní gravitace."
+Translate="Sférické gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř P-Gravitace."
 
 ID=Description_ShipGrinder
 Current="Ship grinders are utility tools for deconstructing grids. Can be used from a cockpit or turned on manually. Be careful not to get too close while it's active. "
@@ -23041,7 +23041,7 @@ Translate="Maximální naklonění"
 
 ID=FlightMovementBlock_MaxPitchAngle_Tooltip
 Current="When moving to a waypoint in P-Gravity, the grid may pitch up or down by this angle"
-Translate="Při přesunu v přírodní gravitaci k bodu trasy se může konstrukce naklonit nahoru nebo dolů maximálně o tento úhel"
+Translate="Při přesunu v P-Gravitaci k bodu trasy se může konstrukce naklonit nahoru nebo dolů maximálně o tento úhel"
 
 ID=FlightMovementBlock_MaxRollAngle
 Current="Max Roll Angle"
@@ -23049,7 +23049,7 @@ Translate="Maximální natočení"
 
 ID=FlightMovementBlock_MaxRollAngle_Tooltip
 Current="When moving to a waypoint in P-Gravity, the grid may roll left or right by this angle"
-Translate="Při přesunu v přírodní gravitaci k bodu trasy se může konstrukce natočit doleva nebo doprava maximálně o tento úhel"
+Translate="Při přesunu v P-Gravitaci k bodu trasy se může konstrukce natočit doleva nebo doprava maximálně o tento úhel"
 
 ID=OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft
 Current="Status: Target locking {0}. {1}s remaining."
@@ -23157,11 +23157,11 @@ Translate="Neuzamknutelný"
 
 ID=DisplayName_EventNaturalGravityChanged
 Current="Natural Gravity Changed"
-Translate="Změna přírodní gravitace"
+Translate="Změna P-Gravitace"
 
 ID=DisplayName_EventNaturalGravity
 Current="Natural gravity:"
-Translate="Přírodní gravitace:"
+Translate="P-Gravitace:"
 
 ID=CombatBlock_OffensivePatternsTooltip
 Current="Determines how the grid will attack the enemy.Circle/Orbit - The grid will try to circle or orbit the enemy at a customizable distance.Stay at Range - The grid will try to keep the enemy between a customizable min/max distance.Hit and Run - The grid will continuously make an attack run on the target, and break off to retreat when it gets close.Intercept - The grid will attempt to intercept the enemy and ram it."
