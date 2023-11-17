@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
- <data name="Add" xml:space="preserve">
+<data name="Add" xml:space="preserve">
 <value>Přidat</value>
 <comment>CZE</comment>
 </data>
@@ -1698,7 +1698,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_CryoChamber" xml:space="preserve">
-<value>Kryokomora se používá na serverech při odhlášení hráče. Snižuje spotřebu kyslíku hráče. Ukládá nástrojový panel když jsi offline. Připojte kryokomoru kyslíkem z kyslíkových nádrží, O2/H2 generátorů či kyslíkových farem. Bez kyslíku hráč může v kryokomoře zemřít.</value>
+<value>Kryokomora se používá na serverech při odhlášení hráče. Snižuje spotřebu kyslíku hráče. Ukládá nástrojový panel když jsi offline. Připojte kryokomru kyslíkem z kyslíkových nádrží, O2/H2 generátorů či kyslíkových farem. Bez kyslíku hráč může v kryokomoře zemřít.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Decoy" xml:space="preserve">
@@ -2978,7 +2978,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Dead_Astronaut" xml:space="preserve">
-<value>Mrtý engineer</value>
+<value>Mrtý astronaut</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Faction_SpacePirates_Translation" xml:space="preserve">
@@ -3586,7 +3586,7 @@
 <comment>CZE</comment>
 </data>
 <data name="PGravity" xml:space="preserve">
-<value>P-Gravitace</value>
+<value>Přírodní grav.</value>
 <comment>CZE</comment>
 </data>
 <data name="Planets" xml:space="preserve">
@@ -4578,7 +4578,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsAsteroidAmount" xml:space="preserve">
-<value>Vyberte hustotu generovaných asteroidových polí</value>
+<value>Nastaví hustotu generovaných asteroidových polí.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsAutoHealing" xml:space="preserve">
@@ -4594,7 +4594,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsEnvironment" xml:space="preserve">
-<value>Vyberte četnost a intenzitu meteorických rojů</value>
+<value>Nastavení četnosti a intenzity meteorických rojů.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsLimitWorldSize" xml:space="preserve">
@@ -4626,7 +4626,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsSoundMode" xml:space="preserve">
-<value>Vyberte mezi realistickým a arkádovým zvukem</value>
+<value>Přepínání mezi realistickým a arkádovým zvukem.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsThrusterDamage" xml:space="preserve">
@@ -4654,7 +4654,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_AssemblerEfficiency" xml:space="preserve">
-<value>Vyberte účinnost konstruktérů (Toto nastavení sníží nebo zvýší výtěžnost rudy.)</value>
+<value>Nastavení účinnost konstruktérů. Toto nastavení sníží nebo zvýší výtěžnost rudy.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_DayDuration" xml:space="preserve">
@@ -4674,15 +4674,15 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_GrindingSpeed" xml:space="preserve">
-<value>Vyberte násobič rychlost brusky</value>
+<value>Nastavení rychlost brusky.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_InventorySize" xml:space="preserve">
-<value>Vyberte velikost inventáře postavy</value>
+<value>Uprav si velikost inventáře tvé postavy.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_RefinerySpeed" xml:space="preserve">
-<value>Vyberte násobič rychlosti rafinérie</value>
+<value>Nastavení rychlosti rafinérie.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_RespawnShipCooldown" xml:space="preserve">
@@ -4698,7 +4698,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_ToolShake" xml:space="preserve">
-<value>Povolí třesení lodních vrtáků a brusek</value>
+<value>Povolí třesení lodních vrtáků a brusek.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_VoxelHand" xml:space="preserve">
@@ -4706,7 +4706,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_WeldingSpeed" xml:space="preserve">
-<value>Vyberte násobič rychlosti sváření</value>
+<value>Nastavení rychlosti sváření</value>
 <comment>CZE</comment>
 </data>
 <data name="Uranium" xml:space="preserve">
@@ -4746,7 +4746,7 @@
 <comment>CZE</comment>
 </data>
 <data name="WorkshopTag_Survival" xml:space="preserve">
-<value>Survival</value>
+<value>Přežití</value>
 <comment>CZE</comment>
 </data>
 <data name="WorkshopTag_Hud" xml:space="preserve">
@@ -5346,7 +5346,7 @@
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettings_BlocksInventorySize" xml:space="preserve">
-<value>Vyberte velikost inventáře bloků (kontejnery, výrobní bloky a další.)</value>
+<value>Uprav si velikost inventáře bloků, jako jsou kontejnery, výrobní bloky a další.</value>
 <comment>CZE</comment>
 </data>
 <data name="Faction_Filter_Enemy" xml:space="preserve">
@@ -5434,7 +5434,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Console" xml:space="preserve">
-<value>Stůl - Konzole</value>
+<value>Konzole</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Couch" xml:space="preserve">
@@ -6802,31 +6802,31 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_DeadBody01" xml:space="preserve">
-<value>Mrtvý engineer 1</value>
+<value>Mrtvý astronaut 1</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_DeadBody02" xml:space="preserve">
-<value>Mrtvý engineer 2</value>
+<value>Mrtvý astronaut 2</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_DeadBody03" xml:space="preserve">
-<value>Mrtvý engineer 3</value>
+<value>Mrtvý astronaut 3</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_DeadBody04" xml:space="preserve">
-<value>Mrtvý engineer 4</value>
+<value>Mrtvý astronaut 4</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_DeadBody05" xml:space="preserve">
-<value>Mrtvý engineer 5</value>
+<value>Mrtvý astronaut 5</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_DeadBody06" xml:space="preserve">
-<value>Mrtvý engineer 6</value>
+<value>Mrtvý astronaut 6</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_BlockGroup_DeadBodies" xml:space="preserve">
-<value>Mrtvý engineeři</value>
+<value>Mrtvý astronauti</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_Gate" xml:space="preserve">
@@ -7430,43 +7430,43 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ButtonPanelPedestal" xml:space="preserve">
-<value>Konzole - Tlačítko - Podstavec</value>
+<value>XPanel - Tlačítko - Podstavec</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ControlPanelPedestal" xml:space="preserve">
-<value>Konzole - Ovládací - Podstavec</value>
+<value>XPanel - Ovládací - Podstavec</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_InsetButtonPanel" xml:space="preserve">
-<value>Konzole - Tlačítkový - Věstavený</value>
+<value>XPanel - Tlačítkový - Věstavený</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlPanel" xml:space="preserve">
-<value>Konzole - Ovládací</value>
+<value>XPanel - Ovládací</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ButtonPanel" xml:space="preserve">
-<value>Konzole - Tlačítkový</value>
+<value>XPanel - Tlačítkový</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_ControlPanel" xml:space="preserve">
-<value>Konzole - Ovládací</value>
+<value>XPanel - Ovládací</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SciFiTerminal" xml:space="preserve">
-<value>Konzole - Ovládací (Sci-Fi)</value>
+<value>XPanel - Ovládací (Sci-Fi)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SciFiButtonPanel" xml:space="preserve">
-<value>Konzole - 4 Tlačítkový (Sci-Fi)</value>
+<value>XPanel - 4 Tlačítkový (Sci-Fi)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_SciFiButtonTerminal" xml:space="preserve">
-<value>Konzole - Tlačítko (Sci-Fi)</value>
+<value>XPanel - Tlačítko (Sci-Fi)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_VerticalButtonPanel" xml:space="preserve">
-<value>Konzole - Tlačítkový - Vertikální</value>
+<value>XPanel - Tlačítkový - Vertikální</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_DLC_IndustrialPackDLC" xml:space="preserve">
@@ -7778,7 +7778,7 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_EngineerPlushie" xml:space="preserve">
-<value>Plyšák - Engineer</value>
+<value>Plyšák - Astronaut</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_HeavyArmorSlopeTransitionBase" xml:space="preserve">
@@ -7986,11 +7986,11 @@
 <comment>CZE</comment>
 </data>
 <data name="Default_Astronaut" xml:space="preserve">
-<value>Engineer</value>
+<value>Astronaut</value>
 <comment>CZE</comment>
 </data>
 <data name="Default_Astronaut_Female" xml:space="preserve">
-<value>Engineerka</value>
+<value>Astronautka</value>
 <comment>CZE</comment>
 </data>
 <data name="Space_spider_black" xml:space="preserve">
@@ -8338,7 +8338,7 @@
 <comment>CZE</comment>
 </data>
 <data name="NotificationCannotJumpFromGravity" xml:space="preserve">
-<value>Nemožné skočit při působení P-Gravitace na konstrukci</value>
+<value>Nemožné skočit při působení přirodní gravitace na konstrukci</value>
 <comment>CZE</comment>
 </data>
 <data name="NotificationCannotJumpIntoGravity" xml:space="preserve">
@@ -9810,23 +9810,23 @@
 <comment>CZE</comment>
 </data>
 <data name="Hint00Text" xml:space="preserve">
-<value>Věděli jste, že? Můžeš stavět z kokpitu s pomocí Ctrl-G.</value>
+<value>Věděli jsi že? Můžeš stavět z kokpitu s pomocí Ctrl-G.</value>
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly05Text" xml:space="preserve">
-<value>Věděli jste, že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši.</value>
+<value>Věděli jsi že? Můžeš dolovat tunely rychle bez vytváření rudy pomocí vrtáku a pravého tlačitka myši.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint07Text" xml:space="preserve">
-<value>Věděli jste, že? Meteor po sobě může zanechat cenné suroviny.</value>
+<value>Věděli jsi že? Meteor po sobě může zanechat cenné suroviny.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint08Text" xml:space="preserve">
-<value>Věděli jste, že? Tmavé fleky na planetách ukazují na naleziště rudy.</value>
+<value>Věděli jsi že? Tmavé fleky na planetách ukazují na naleziště rudy.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint09Text" xml:space="preserve">
-<value>Věděli jste, že? Kameny na povrchu země častu obsahují cenné suroviny.</value>
+<value>Věděli jsi že? Kameny na povrchu země častu obsahují cenné suroviny.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint10Control0" xml:space="preserve">
@@ -9842,15 +9842,15 @@
 <comment>CZE</comment>
 </data>
 <data name="Hint14Text" xml:space="preserve">
-<value>Věděli jste, že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů.</value>
+<value>Věděli jsi že? Vylepšovací moduly zdokonalý výkon tvých rafinérií a konstruktérů.</value>
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly09Text" xml:space="preserve">
-<value>Věděli jste, že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10.</value>
+<value>Věděli jsi že? Můžeš uložit svůj výtvor stisknutím CTRL-B. Otevřit kartu plánku pak můžeš pomocí F10.</value>
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly04Text" xml:space="preserve">
-<value>Věděli jste, že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže.</value>
+<value>Věděli jsi že? Použitím kolečka myši můžeš přiblížit nebo oddálit pohled kamery či věže.</value>
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly00Control0" xml:space="preserve">
@@ -10194,11 +10194,11 @@
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly03Text" xml:space="preserve">
-<value>Věděli jste, že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu.</value>
+<value>Věděli jsi že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint24Text" xml:space="preserve">
-<value>Věděli jste, že? Hlavice jsou naprosto bezpečně dokud je neodjistíš</value>
+<value>Věděli jsi že? Hlavice jsou naprosto bezpečně dokud je neodjistíš</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Jetpack_Detail2" xml:space="preserve">
@@ -11317,20 +11317,12 @@
 <value>Menu admina je pouze dostupné pokud jsi adminem či tě admin povýší na pozorovatele či dále</value>
 <comment>CZE</comment>
 </data>
-<data name="AngleGrinderPrimaryAction" xml:space="preserve">
-<value>Stiskněte {0} pro odebrání cíle</value>
-<comment>CZE</comment>
-</data>
 <data name="GDPR_Text1" xml:space="preserve">
 <value>Zákony o ochraně údajů se v Evropské unii změnily a my se chceme ujistit, že zkontrolujete, jak jsou vaše osobní údaje zpracovány ve Space Engineers.</value>
 <comment>CZE</comment>
 </data>
 <data name="GDPR_Text2" xml:space="preserve">
 <value>Kluknutím na ANO souhlasíte se shromažďováním osobních údajů podle GDPR. Přečtěte si více informací v našich zásadách ochrany osobních údajů.</value>
-<comment>CZE</comment>
-</data>
-<data name="AttachToSelectedEntity" xml:space="preserve">
-<value>Připojit k vybrané entitě</value>
 <comment>CZE</comment>
 </data>
 <data name="AUTO" xml:space="preserve">
@@ -11389,32 +11381,8 @@
 <value>Síla konektoru při zarovnání lodi (Žlutá barva). Je použita menší síla z používancých konektorů.</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyDescription_MotorUsesWheelCommands" xml:space="preserve">
-<value>Indikuje, jestli je motor ovládán jako kolo přímo z kokpitu</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyDescription_Motor_SteerReturnSpeed" xml:space="preserve">
-<value>Návratová rychlost kola po zatočení</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyDescription_Motor_SteerSpeed" xml:space="preserve">
-<value>Rychlost zatáčení kola</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyDescription_Motor_SuspensionTravel" xml:space="preserve">
-<value>Omezuje výšku zdvihu odpružení. Nastavením na 0 % se odpružení účinně zablokuje.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_AssignedPB" xml:space="preserve">
-<value>Přiřazený programovatelný blok</value>
-<comment>CZE</comment>
-</data>
 <data name="BlockPropertyTitle_BreakForce" xml:space="preserve">
 <value>Síla zlomu</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_Motor_Damping" xml:space="preserve">
-<value>Tlumení</value>
 <comment>CZE</comment>
 </data>
 <data name="BlockPropertyTitle_Motor_SteerSpeed" xml:space="preserve">
@@ -11449,28 +11417,8 @@
 <value>Ukázat text na obrazovce</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyTitle_ShowSpritesOnScreen" xml:space="preserve">
-<value>Ukázat obrázky na obrazovce</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_TextPanelAccessType" xml:space="preserve">
-<value>Typ přístupu</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_TextPanelShowTextPanel" xml:space="preserve">
-<value>Upravit soukromý text</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_TextPanelTitle" xml:space="preserve">
-<value>Soukromý titulek</value>
-<comment>CZE</comment>
-</data>
 <data name="BlockPropertyTitle_AvailableEffects" xml:space="preserve">
 <value>Dostupné efekty</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockSize_NotAvailable" xml:space="preserve">
-<value>Blok je určen pouze pro {0}</value>
 <comment>CZE</comment>
 </data>
 <data name="BlueprintsScreen" xml:space="preserve">
@@ -11478,7 +11426,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BriefingTutorial01Movements" xml:space="preserve">
-<value>Nauč se základní pohyby a jak udržet tvého Engineera naživu pomocí energie a kyslíku. Dále jak používat ruční nástroje jako svářečka, bruska a ruční vrták.</value>
+<value>Nauč se základní pohyby a jak udržet tvého Astronauta naživu pomocí energie a kyslíku. Dále jak používat ruční nástroje jako svářečka, bruska a ruční vrták.</value>
 <comment>CZE</comment>
 </data>
 <data name="BriefingTutorial02Inventory" xml:space="preserve">
@@ -11506,7 +11454,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BriefingTutorial08YourFirstShip" xml:space="preserve">
-<value>Skutečným testem pravého engineera je schoppnost postavit vesmírnou loď od nuly. Tento tutoriál vás provedete tím jak postavit transportní loď pro jednu osobu. Naučtě se jak pokládat bloky, následně svářet ke kompletaci a jak jednoduše létat. Budete ještě naučeni základní pravidla pro stavbu lodí, které můžete použít ke tvorbě vlastních designů lodí.</value>
+<value>Skutečným testem pravého astronauta je schoppnost postavit vesmírnou loď od nuly. Tento tutoriál vás provedete tím jak postavit transportní loď pro jednu osobu. Naučtě se jak pokládat bloky, následně svářet ke kompletaci a jak jednoduše létat. Budete ještě naučeni základní pravidla pro stavbu lodí, které můžete použít ke tvorbě vlastních designů lodí.</value>
 <comment>CZE</comment>
 </data>
 <data name="BriefingTutorial09ShipFlight" xml:space="preserve">
@@ -11577,14 +11525,6 @@
 <value>Postavy</value>
 <comment>CZE</comment>
 </data>
-<data name="ContainerDropSystemBeaconText" xml:space="preserve">
-<value>Shoz kontejneru</value>
-<comment>CZE</comment>
-</data>
-<data name="ContainerDropSystemContainerWasDetected" xml:space="preserve">
-<value>{0} byl detekován.</value>
-<comment>CZE</comment>
-</data>
 <data name="ControlDescCameraZoom" xml:space="preserve">
 <value>Přiblízení kamery</value>
 <comment>CZE</comment>
@@ -11601,24 +11541,12 @@
 <value>Nabarvit celou konstrukci</value>
 <comment>CZE</comment>
 </data>
-<data name="ControlDescLoot" xml:space="preserve">
-<value>Oloupit mrtvé tělo</value>
-<comment>CZE</comment>
-</data>
 <data name="ControlDescMediumBrush" xml:space="preserve">
 <value>Střední štětec</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlDescNetgraph" xml:space="preserve">
 <value>Přepnout statistiky</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlDescSingleAllMode" xml:space="preserve">
-<value>Režim zbraní - jedna / všechny (kokpit)</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlDescSpectatorSpeed" xml:space="preserve">
-<value>Změní rychlost pozorovatele</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlMenuItemLabel_CameraMode" xml:space="preserve">
@@ -11633,76 +11561,16 @@
 <value>TPP</value>
 <comment>CZE</comment>
 </data>
-<data name="ControlMenuItemLabel_QuickLoad" xml:space="preserve">
-<value>Rychlé načtení / znovupřipojení</value>
-<comment>CZE</comment>
-</data>
 <data name="ControlMenuItemLabel_SelectColorTool" xml:space="preserve">
 <value>Vybrat paletu barev</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ShowColorPicker" xml:space="preserve">
-<value>Otevřít paletu barev</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ShowToolbarScreen" xml:space="preserve">
-<value>Zobrazit obrazovku panelu nástrojů</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ScenarioBriefing" xml:space="preserve">
-<value>Zobrazit shrnutí scénáře</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ShowBuildScreen" xml:space="preserve">
-<value>Otevřit obrazovku stavění</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ShowControlPanel" xml:space="preserve">
-<value>Otevřít ovládací panel</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_BlockAutoRotate" xml:space="preserve">
-<value>Přepínání auto-otáčení bloků</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ToggleMultiBlock" xml:space="preserve">
-<value>Přepnout multi-blok stavění</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlMenuItemLabel_ToggleSignals" xml:space="preserve">
 <value>Přepnout režim signálů</value>
 <comment>CZE</comment>
 </data>
-<data name="ControlMenuItemLabel_Unequip" xml:space="preserve">
-<value>Odebrat</value>
-<comment>CZE</comment>
-</data>
 <data name="ControlMenuItemLabel_ViewMode" xml:space="preserve">
 <value>Přepnout řežim pozorovatele</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_SymmetrySetup" xml:space="preserve">
-<value>Zadat nastavení symetrie</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ExitSymmetrySetup" xml:space="preserve">
-<value>pustit nastavení symetrie</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_ColorPicker" xml:space="preserve">
-<value>Otevřít paletu barev</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlMenuItemLabel_UseSymmetry" xml:space="preserve">
-<value>ZAP/VYP režim symetrie:</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlName_CubeDefaultMountpoint" xml:space="preserve">
-<value>Resetovat orientaci</value>
-<comment>CZE</comment>
-</data>
-<data name="ControlName_PowerSwitchOnOff" xml:space="preserve">
-<value>Lokální energie ZAP / VYP</value>
 <comment>CZE</comment>
 </data>
 <data name="ControlName_RollLeft" xml:space="preserve">
@@ -11745,10 +11613,6 @@
 <value>Přepnout symetrii</value>
 <comment>CZE</comment>
 </data>
-<data name="CreateManageBlueprints" xml:space="preserve">
-<value>Vytvořit/spravovat plánky</value>
-<comment>CZE</comment>
-</data>
 <data name="ClipboardBlueprintIsTooBig" xml:space="preserve">
 <value>Plánek je příliš velký, náhled je zakázaný</value>
 <comment>CZE</comment>
@@ -11763,14 +11627,6 @@
 </data>
 <data name="CustomWorld_DistantMoons" xml:space="preserve">
 <value>Vzdálené měsíce</value>
-<comment>CZE</comment>
-</data>
-<data name="CutsceneToolsButton" xml:space="preserve">
-<value>Nástroje pro cutscény</value>
-<comment>CZE</comment>
-</data>
-<data name="DefinitionError_BlockWithComputerNotTerminalBlock" xml:space="preserve">
-<value>Definice pro {0} obsahuje počítač, ale TypeId bloku není terminálový blok. To znamená, že blok lze vlastnit, ale vlastnictví nelze změnit prostřednictvím terminálu.Tip: Zkuste nastavit TypeId na libovolný blok, který je v terminálu - nejjednodušší případ je právě TerminalBlock.</value>
 <comment>CZE</comment>
 </data>
 <data name="Department_AdditionalArtists" xml:space="preserve">
@@ -11825,12 +11681,8 @@
 <value>Vedení kvality</value>
 <comment>CZE</comment>
 </data>
-<data name="Department_ModContributors" xml:space="preserve">
-<value>Přispěvatelé modů</value>
-<comment>CZE</comment>
-</data>
 <data name="Department_MoreInfo" xml:space="preserve">
-<value>Pro více informací navštivte</value>
+<value>Pro více informací navšivte</value>
 <comment>CZE</comment>
 </data>
 <data name="Department_Music" xml:space="preserve">
@@ -11873,16 +11725,8 @@
 <value>Umělá hmotnost nebo spaceballs povolují konstrukci reagovat na umělou gravitaci.</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_ButtonPanel" xml:space="preserve">
-<value>Konzole s tlačítky umožňují vázat funkce bloku na tlačítka, se kterými lze přímo interagovat.Po zvýraznění stiskněte {CONTROL:TERMINAL} pro konfiguraci tlačítek a {CONTROL:USE} pro jejich aktivaci.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_Connector" xml:space="preserve">
 <value>Konektory mohou být magneticky spojeni s dalším konektory. Toto spojení dovoluje konstrukci distribuovat předměty a energie. Přepni magnetický zámek z nástrojového panelu nebo stiskni {CONTROL:LANDING_GEAR}. Pokud je konektor v dosahu rozsvítí se žlutě. Odemknutí nachvíli vyřadí magnetickou funkci.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_ControlPanel" xml:space="preserve">
-<value>Konzole s ovládacími panely jsou jednoduché panely, které umožňují přístup k nabídkám konstrukce. Když jsou zvýrazněny, stiskněte {CONTROL:TERMINAL} pro interakci s panelem.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_ConveyorSorter" xml:space="preserve">
@@ -11915,18 +11759,6 @@
 </data>
 <data name="Description_GatlingTurret" xml:space="preserve">
 <value>Rychlopalební věž, která je nabíjena skrze dopravníky. Používá Kulomet - Náboje. Maximální dosah: 800 m</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_GravityGenerator" xml:space="preserve">
-<value>Gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř P-Gravitace</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_GravityGeneratorSphere" xml:space="preserve">
-<value>Sférické gravitační generátory vytvářejí nastavitelný umělá gravitační pole, která ovlivňují hráče a předměty. Má snížující se efekt, pokud je uvnitř P-Gravitace.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_ShipGrinder" xml:space="preserve">
-<value>Brusky jsou užitečné nástroje pro rozebírání konstrukcí. Lze je použít z kokpitu či mohou být ručně zapnuty. Dávejte pozor, abyste nestáli příliš blízko pokud jsou aktivní.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Gyroscope" xml:space="preserve">
@@ -11989,14 +11821,6 @@
 <value>Tato část pístu je vrchní část pístu. Nemá žádnou funkci ale může být použita jako dekorace.</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_ProgrammableBlock" xml:space="preserve">
-<value>Programovatelný blok je počítač, který spouští skripty k řízení lodních systémů. Skripty mohou být nalezeny ve Workshop nebo ručně napsány.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Projector" xml:space="preserve">
-<value>Projektor vyzobrazuje uložené plánky lodí, které mohou být tímto snadno postaveny. Projekce vyžaduje napojení na konstrukci z projektoru, aby mohla začít stavba.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_Reactor" xml:space="preserve">
 <value>Reaktory generují velké množství energie za spotřebovávané uranové ingoty. Uranová ruda je nejvzácnější minerál a nemůže být nalezen na planetách, ale pouze ve vesmíru na asteroidech či po dopadu meteoritů.</value>
 <comment>CZE</comment>
@@ -12015,10 +11839,6 @@
 </data>
 <data name="Description_RotorPart" xml:space="preserve">
 <value>Vrchní část rotoru může být znovu připojena k hlavnímu rotoru v rámci nastavení.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Sensor" xml:space="preserve">
-<value>Senzory mohou být nastaveny k aktivaci lodních systémů v případě detekování hráčů, lodí nebo asteroidů v omezeném dosahu.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_SpaceBall" xml:space="preserve">
@@ -12042,7 +11862,7 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_VerticalWindow" xml:space="preserve">
-<value>Svislé okno dovoluje proudění vzduchu, ale zamezuje přístupu engineerů.</value>
+<value>Svislé okno dovoluje proudění vzduchu, ale zamezuje přístupu astronautů.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_DiagonalWindow" xml:space="preserve">
@@ -12073,24 +11893,12 @@
 <value>Stůl pro dekoraci interiérů.</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_FoodDispenser" xml:space="preserve">
-<value>Prodejní automat sloužící k odvedení pozornosti inženýrů od nebezpečí vesmíru a k posílení jejich morálky.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_Jukebox" xml:space="preserve">
 <value>Zařízení na přehrávání hudby. Dobré pro pořádání tanečních akci či pro odpočinek po náročném dni.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_OpenCockpitLarge" xml:space="preserve">
 <value>Sedadlo mezi spoustou konzolí. Spíše sedalo jako můstek.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_OpenCockpitSmall" xml:space="preserve">
-<value>Toto ovládácí křeslo může být použito k řízení čehokoliv od skromných roverů až po malé lodě a křeslo je mimořádně pohodlné.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_LabEquipment" xml:space="preserve">
-<value>Ať už provádíte experimenty nebo prostě chcete vypadat chytře, laboratoř je ideální pro dekoraci interiérů.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Shower" xml:space="preserve">
@@ -12110,19 +11918,11 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_MedicalStation" xml:space="preserve">
-<value>Dekorativní stanice, která umožňuje engineerům zkoumat jejich zranění.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_TransparentLCD" xml:space="preserve">
-<value>Transparentí LDC zobrazuje piktogramy, skripty nebo vlastní text.</value>
+<value>Dekorativní stanice, která umožňuje astronautům zkoumat jejich zranění.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_RotatingLight" xml:space="preserve">
-<value>Otačející světlo k upozornění engineerů na nebezpečné situace.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_Freight" xml:space="preserve">
-<value>Bedny všude kolo naznačuje, že tu v této oblasti tvrdě pracují engineeři.</value>
+<value>Otačející světlo k upozornění astronautů na nebezpečné situace.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Lockers" xml:space="preserve">
@@ -12157,16 +11957,8 @@
 <value>Záchod jako dekorace. Může být použito jako sedadlo.</value>
 <comment>CZE</comment>
 </data>
-<data name="Description_Console" xml:space="preserve">
-<value>Konzole slouží pro dekoraci interieru, projekci lodí či stanicí v nastavitelné velikosti, zobrazování pikrogramů či k vyzobrazení vlastního textu na displejích.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_CockpitIndustrial" xml:space="preserve">
-<value>Kokpity slouží k ovládání Vaší lodi. Propojte kokpit s kyslíkovou nádrží a O2/H2 generátorem k zásobení kokpitu kyslíkem.</value>
-<comment>CZE</comment>
-</data>
 <data name="Description_Bed" xml:space="preserve">
-<value>Postel jako dekorace. Zachovává hráčský inventář a nástrojový panel v případě, že je odpojený a drží engineera naživu pokud je v prostoru kyslík.</value>
+<value>Postel jako dekorace. Zachovává hráčský inventář a nástrojový panel v případě, že je odpojený a drží Astronauta naživu pokud je v prostoru kyslík.</value>
 <comment>CZE</comment>
 </data>
 <data name="DialogTextJoinBattleFailed" xml:space="preserve">
@@ -12183,10 +11975,6 @@
 </data>
 <data name="DialogText_RunArgument" xml:space="preserve">
 <value>Argument</value>
-<comment>CZE</comment>
-</data>
-<data name="DisableTransformation" xml:space="preserve">
-<value>Zakázat transformaci</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName" xml:space="preserve">
@@ -12215,50 +12003,6 @@
 </data>
 <data name="DisplayName_Animation_SpiderDeburrow" xml:space="preserve">
 <value>Vyhrabat se</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Ammo_Assembler" xml:space="preserve">
-<value>Sestavovač munice</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Base_Components_Assembler" xml:space="preserve">
-<value>Základní sestavovač součátek</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Big_Arc_Furnace" xml:space="preserve">
-<value>Velká oblouková pec</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Big_Gas_Centrifugal_Refinery" xml:space="preserve">
-<value>Velká odstředivá rafinerie plynů</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Big_Precious_Furnace" xml:space="preserve">
-<value>Velká pec na ušlechtilé kovy</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Big_Solids_Refinery" xml:space="preserve">
-<value>Velká rafinerie pevných látek</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Construction_Components_Assembler" xml:space="preserve">
-<value>Sestavovač stavebních součástek</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_DebugSphere1" xml:space="preserve">
-<value>Debugovací koule 1</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_DebugSphere2" xml:space="preserve">
-<value>Debugovací koule 2 (žádný kov)</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_DebugSphere3" xml:space="preserve">
-<value>Debugovací koule 3 (Fixovaný lesk)</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Block_Electronics_Assembler" xml:space="preserve">
-<value>Sestavovač elektroniky</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Block_EventController" xml:space="preserve">
@@ -12357,10 +12101,6 @@
 <value>Základní malé bloky - Klikni pro sestavení všech součástek pro vytvoření malého bloku.</value>
 <comment>CZE</comment>
 </data>
-<data name="DisplayName_BlueprintClass_Solids" xml:space="preserve">
-<value>Pevné látky</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_CargoFilledEntityComponent" xml:space="preserve">
 <value>Naložení</value>
 <comment>CZE</comment>
@@ -12397,44 +12137,12 @@
 <value>Draslík</value>
 <comment>CZE</comment>
 </data>
-<data name="DisplayName_PlanetaryLander" xml:space="preserve">
-<value>Planetární modul</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_RespawnShip_Assembler" xml:space="preserve">
-<value>Oživovací loď 2</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_RespawnShip_EscapePod" xml:space="preserve">
-<value>Únikový modul</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_RespawnShip_RefineryAssembler" xml:space="preserve">
-<value>Oživovací loď 3</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_RespawnShip_ShipDrill" xml:space="preserve">
-<value>Malá vrtná loď</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_RespawnPodSpace" xml:space="preserve">
 <value>Vesmírná loď</value>
 <comment>CZE</comment>
 </data>
-<data name="DisplayName_RewardPunishmentTool" xml:space="preserve">
-<value>Zpětná vazba k GoodAI</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Scenario_2Planets" xml:space="preserve">
-<value>2 planety</value>
-<comment>CZE</comment>
-</data>
 <data name="DisplayName_Scenario_BigSmall" xml:space="preserve">
 <value>Velká a malá planeta</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Scenario_DebugStart" xml:space="preserve">
-<value>Debugovací rychlý start</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_Scenario_EasyStart1" xml:space="preserve">
@@ -12451,22 +12159,6 @@
 </data>
 <data name="DisplayName_Scenario_Planet" xml:space="preserve">
 <value>Obyvatelná planeta</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Scenario_ScaleTest" xml:space="preserve">
-<value>Test velikosti</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Scenario_StarSystemAligned" xml:space="preserve">
-<value>Hvěžný systém - Zarovnaný</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_Scenario_TestStarSystem" xml:space="preserve">
-<value>Hvězdný systém - Test</value>
-<comment>CZE</comment>
-</data>
-<data name="DisplayName_VoxelHand_AutoLevel" xml:space="preserve">
-<value>Terén - Autozarovnání</value>
 <comment>CZE</comment>
 </data>
 <data name="EnableDamageEffects" xml:space="preserve">
@@ -12497,24 +12189,8 @@
 <value>Apríl! Nikomu to neříkej!</value>
 <comment>CZE</comment>
 </data>
-<data name="FlaresIntensity" xml:space="preserve">
-<value>Intenzita světel</value>
-<comment>CZE</comment>
-</data>
 <data name="FloatingObjects" xml:space="preserve">
 <value>Poletující objekty</value>
-<comment>CZE</comment>
-</data>
-<data name="GPS_Respawn_Location_Name" xml:space="preserve">
-<value>Oživovací modul</value>
-<comment>CZE</comment>
-</data>
-<data name="GPS_Respawn_Location_Desc" xml:space="preserve">
-<value>Poloha oživovacího modulu</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiLabelVideoOnStart" xml:space="preserve">
-<value>Video na startu:</value>
 <comment>CZE</comment>
 </data>
 <data name="GuiMissionTriggersLostCondition" xml:space="preserve">
@@ -12597,10 +12273,6 @@
 <value>Omezený životy</value>
 <comment>CZE</comment>
 </data>
-<data name="GuiTriggerCaptionNoSpawn" xml:space="preserve">
-<value>Obrazovka oživení - Časový limit</value>
-<comment>CZE</comment>
-</data>
 <data name="GuiTriggerCaptionPositionLeft" xml:space="preserve">
 <value>Opustěte herní oblast</value>
 <comment>CZE</comment>
@@ -12625,20 +12297,12 @@
 <value>Další mise</value>
 <comment>CZE</comment>
 </data>
-<data name="GuiTriggerNextMissionTooltip" xml:space="preserve">
-<value>Zde můžete zadat název scénáře (musí již existovat na lokálním počítači, aby se načetl) nebo workshop ID číslo (uživatel jej v tomto případě nemusí mít předplacený).Workshop ID lze vidět v URL odkazu daného scénáře na {0} webu workshopu.</value>
-<comment>CZE</comment>
-</data>
 <data name="GuiTriggerNoSpawnTimeLimit" xml:space="preserve">
 <value>Časový limit (sek):</value>
 <comment>CZE</comment>
 </data>
 <data name="GuiTriggerPasteBlocks" xml:space="preserve">
 <value>Přidat bloky</value>
-<comment>CZE</comment>
-</data>
-<data name="GuiTriggerPasteBlocksTooltip" xml:space="preserve">
-<value>Přidá bloky zkopírované pomocí tlačítka na konci obrazovky terminálu bloku.</value>
 <comment>CZE</comment>
 </data>
 <data name="GuiTriggersLives" xml:space="preserve">
@@ -12665,72 +12329,8 @@
 <value>Ovládání postavy</value>
 <comment>CZE</comment>
 </data>
-<data name="HelpScreen_ControllerCycleShipToolbar" xml:space="preserve">
-<value>Přepnout nástrojový panel lodi</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerCycleEmoteToolbar" xml:space="preserve">
-<value>Přepnout nástrojový panel emotů</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerEmoteToolbarActions" xml:space="preserve">
-<value>Akce nástrojového panelu emotů</value>
-<comment>CZE</comment>
-</data>
 <data name="HelpScreen_ControllerTurretControl" xml:space="preserve">
 <value>Ovládání věže</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerLookAround" xml:space="preserve">
-<value>Rozhlížení se</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerLookAround_PassengerSeat" xml:space="preserve">
-<value>Rozhlížení se v sedadle</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerCharacterSurvival" xml:space="preserve">
-<value>Postavy - Pouze řežim survival</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerCharacterCreative" xml:space="preserve">
-<value>Postavy - Pouze řežim kreativ</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerBuilding" xml:space="preserve">
-<value>Stavení</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerBuildingSurvival" xml:space="preserve">
-<value>Stavění - Pouze řežim survival</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerBuildingCreative" xml:space="preserve">
-<value>Stavění - Pouze řežim kreativ"</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerSecondaryBuildSurvival" xml:space="preserve">
-<value>Přepnout mezi řezáním / stavěním</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerPlacing" xml:space="preserve">
-<value>Pokládání bloků a plánků</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerRotateCw" xml:space="preserve">
-<value>Otočit posměru hodinových ručiček</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerRotateCcw" xml:space="preserve">
-<value>Otočit protisměru hodinových ručiček</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerChangeRotationAxis" xml:space="preserve">
-<value>Změnit otáčení osy</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerFurther" xml:space="preserve">
-<value>Pohnout položku dále</value>
 <comment>CZE</comment>
 </data>
 <data name="HelpScreen_ControllerPaint" xml:space="preserve">
@@ -12753,64 +12353,20 @@
 <value>Obrátit</value>
 <comment>CZE</comment>
 </data>
-<data name="HelpScreen_ControllerHint1" xml:space="preserve">
-<value>Velikost štetce můžete při přebarvování změnit pomocí {GAMEPAD_CONTROL:COLOR_PICKER:MEDIUM_COLOR_BRUSH} a {GAMEPAD_CONTROL:COLOR_PICKER:LARGE_COLOR_BRUSH}.</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerHint2" xml:space="preserve">
-<value>Během přebarvování můžete měnit sytost a jas vybrané barvy pomocí {GAMEPAD:AXIS_DPAD}.</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerHint3" xml:space="preserve">
-<value>Pokud při umisťování bloků v režimu přežití uděláte chybu, můžete stisknutím {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} přepnout na Brusku. Když jste vybaveni Bruskou, můžete znovu stisknout {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} a přepnout na poslední vybavený blok.</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerHint4" xml:space="preserve">
-<value>Pomocí pravé páčky se můžete snadněji pohybovat složitými okny.</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerHint5" xml:space="preserve">
-<value>Pokud stavíte symetrickou loď, můžete režim symetrické stavby aktivovat prostřednictvím systémového radiálního menu.</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerHint8" xml:space="preserve">
-<value>Většina běžných akcí v systémové nabídce má zkratky. Profíci používají zkratky!</value>
-<comment>CZE</comment>
-</data>
-<data name="HelpScreen_ControllerHint9" xml:space="preserve">
-<value>Při střelbě ze zbraně na lodi, která má více zbraní stejného typu, můžete pomocí LB+LT přepínat střelbu z jedné zbraně nebo ze všech najednou.</value>
-<comment>CZE</comment>
-</data>
 <data name="HintKeyboardOnly01Control0" xml:space="preserve">
 <value>CUBE_DEFAULT_MOUNTPOINT</value>
-<comment>CZE</comment>
-</data>
-<data name="HintKeyboardOnly01Text" xml:space="preserve">
-<value>Věděli jste, že? Funkci automatického otáčení bloků můžete vypnout pomocí {0}.</value>
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly02Control0" xml:space="preserve">
 <value>TERMINÁL</value>
 <comment>CZE</comment>
 </data>
-<data name="HintKeyboardOnly02Text" xml:space="preserve">
-<value>Věděli jste, že? Shift-{0} vás přenese přímo do nabídky antény.</value>
-<comment>CZE</comment>
-</data>
-<data name="Hint03Text" xml:space="preserve">
-<value>Pokud je kokpit nastaven na hlavní kokpit, můžete vozidla řídit z věže. Podržením klávesy Alt povolíte ovládání myší.</value>
-<comment>CZE</comment>
-</data>
 <data name="Hint04Control0" xml:space="preserve">
 <value>SEBEVRAŽDA</value>
 <comment>CZE</comment>
 </data>
-<data name="Hint06Text" xml:space="preserve">
-<value>Několik dobře umístěných návnadových bloků může znamenat rozdíl mezi vítězstvím a prohrou.</value>
-<comment>CZE</comment>
-</data>
 <data name="Hint10Text" xml:space="preserve">
-<value>Věděli jste, že? Když řidíte rover, zmáčknutím {0} zabrzdíte.</value>
+<value>Veděl jsi že? Když řidíš rover, zmáčkni {0} k zabržení</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint12Text" xml:space="preserve">
@@ -12821,72 +12377,40 @@
 <value>Baterie se automaticky nabjicí a v případě potřeby distribuují energii dle jejich nastavení.</value>
 <comment>CZE</comment>
 </data>
-<data name="HintKeyboardOnly08Text" xml:space="preserve">
-<value>Když držíte plánek v kreativním režimu, můžete jej pomocí klávesy B zarovnat s gravitací planety.</value>
-<comment>CZE</comment>
-</data>
-<data name="Hint17Text" xml:space="preserve">
-<value>Při použití lodi k rozbroušení kontejneru dojde také k vyzvednutí všeho, co se nacházelo uvnitř kontejneru.</value>
-<comment>CZE</comment>
-</data>
-<data name="HintKeyboardOnly07Text" xml:space="preserve">
-<value>Dvojitým kliknutím na položky se celá kupa automaticky přenese mezi inventáři.</value>
-<comment>CZE</comment>
-</data>
-<data name="HintKeyboardOnly06Text" xml:space="preserve">
-<value>Podržením kláves Ctrl, Shift nebo Ctrl-Shift můžete přesouvat po 10, 100 a 1000 kusech najednou.</value>
-<comment>CZE</comment>
-</data>
 <data name="Hint25Text" xml:space="preserve">
-<value>Věděli jste, že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží.</value>
+<value>Věděli jsi že? O2/H2 Generátor vyrábí malé množství vodíku pro trysky bez použití vodíkových nádrží.</value>
 <comment>CZE</comment>
 </data>
 <data name="HintKeyboardOnly00Text" xml:space="preserve">
-<value>Věděli jste, že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD.</value>
+<value>Věděli jsi že? Stiskni {0} k přepnutí jakým se zobrazují GPS souřadnice a antény na HUD.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint27Text" xml:space="preserve">
-<value>Věděli jste, že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich.</value>
-<comment>CZE</comment>
-</data>
-<data name="Hint26Text" xml:space="preserve">
-<value>Věděli jste, že? Natlakované prostředí udržuje optimální teplotu a dodává zdraví a kyslík.</value>
+<value>Věděli jsi že? Bloky, které jsou zničeny při kolizi nebo při boji mohou způsobit poškožení okolo nich.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint23Text" xml:space="preserve">
-<value>Věděli jste, že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách.</value>
+<value>Věděli jsi že? Energie obleku se spotřebovává rychleji v mrazivých či teplých podmínkách.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint20Text" xml:space="preserve">
-<value>Věděli jste, že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul.</value>
+<value>Věděli jsi že? Zdravotnická místnost doplňuje energii a zdraví pětkrát rychleji než základní modul.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint19Text" xml:space="preserve">
-<value>Věděli jste, že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu.</value>
+<value>Věděli jsi že? Můžete použít senzory k nalezení nepřátel nacházející se pod zemí, kteří chtějí infiltrovat Vaši základnu.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint18Text" xml:space="preserve">
-<value>Věděli jste, že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství.</value>
+<value>Věděli jsi že? Větrné turbíny jsou nejefektivnější když jsou postaveny vysoko a na otevřeném prostranství.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint16Text" xml:space="preserve">
-<value>Věděli jste, že? Rovery mohou použít tlumiče kol k výskoku z těsných situací.</value>
+<value>Věděli jsi že? Rovery mohou použít tlumiče kol k výskoku z těsných situací.</value>
 <comment>CZE</comment>
 </data>
 <data name="Hint15Text" xml:space="preserve">
-<value>Věděli jste, že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů.</value>
-<comment>CZE</comment>
-</data>
-<data name="Hint05Text" xml:space="preserve">
-<value>Věděli jste, že? Váš jetpack může pomocí relativních tlumičů přizpůsobit rychlost okolním konstrukcím?</value>
-<comment>CZE</comment>
-</data>
-<data name="Hint02Text" xml:space="preserve">
-<value>Věděli jste, že? Tlumiče kol využívají výkon v závislosti na nastavení výkonu.</value>
-<comment>CZE</comment>
-</data>
-<data name="Hint01Text" xml:space="preserve">
-<value>Věděli jste, že? Můžete použít /f pro chat s klanem nebo /g pro globální chat.</value>
+<value>Věděli jsi že? Pokročilé rafinérie davají lepší výtěžnost při rafininování minerálů.</value>
 <comment>CZE</comment>
 </data>
 <data name="HudBlockInfo_Installed_Required" xml:space="preserve">
@@ -13081,10 +12605,6 @@
 <value>Stiskni {CONTROL:HELP_SCREEN} k otevření karty s nápovědou.</value>
 <comment>CZE</comment>
 </data>
-<data name="IngameHelp_Intro_Detail2:Gamepad" xml:space="preserve">
-<value>Stisknutím {CONTROL:SYSTEM_RADIAL_MENU} otevřete radiální nabídku, přejděte na kartu [Menu] a vyberte možnost [Pomoc].</value>
-<comment>CZE</comment>
-</data>
 <data name="IngameHelp_Jetpack_Detail4:Gamepad" xml:space="preserve">
 <value>Použij {GAMEPAD:AXIS_MOTION} k pohybu a pohybu do stran.</value>
 <comment>CZE</comment>
@@ -13097,20 +12617,12 @@
 <value>Použij {GAMEPAD:AXIS_MOTION} k chůzi a pohybu do stran.</value>
 <comment>CZE</comment>
 </data>
-<data name="IngameHelp_Movement_Detail3:Gamepad" xml:space="preserve">
-<value>Stisknutím tlačítka {CONTROL:FORWARD} až na doraz sprintujete dopředu.</value>
-<comment>CZE</comment>
-</data>
 <data name="IngameHelp_Camera_Detail2" xml:space="preserve">
 <value>Stiskni {CONTROL:CAMERA_MODE} k přepnutí mezi kamerou ze třetí osoby a z první osoby.</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Camera_Detail3" xml:space="preserve">
 <value>Použij [ALT + Mouse Wheel] pro nastavení vzdálenosti kamery pro pohled ze třetí osoby.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_Camera_Detail3:Gamepad" xml:space="preserve">
-<value>Použij {CONTROL:CAMERA_ZOOM_IN} a {CONTROL:CAMERA_ZOOM_OUT} k nastavení vzdálenosti pohledu třetí osoby.</value>
 <comment>CZE</comment>
 </data>
 <data name="Jump_Achievable" xml:space="preserve">
@@ -13157,20 +12669,8 @@
 <value>Velké konstrukce</value>
 <comment>CZE</comment>
 </data>
-<data name="LaserAntennaOnlyPerm" xml:space="preserve">
-<value>Nalezeny pouze přijímače nastavené na trvalé připojení</value>
-<comment>CZE</comment>
-</data>
-<data name="LaserAntennaReceiversListHelp" xml:space="preserve">
-<value>Tyto přijímače jsou v rádiovém dosahu a mohou hlásit svou polohu. Jejich aktuální stav a cíl je v závorce:nečinný    laser je v nečinnosti&gt;&gt; laser se otáčí směrem k jinému přijímači nebo GPS souřadnicím?&gt; hledá jiný laser na požadovaných GPS souřadnicích~&gt; kontaktuje druhou stranu spojení (to zahrnuje čekání, až se jiný laser otočí čelem ke mně nebo marnou snahu kontaktovat přijímač, který je vypnutý nebo už tam není)=&gt; spojení je navázánoPro připojení k laserům, které zde nejsou uvedeny, se můžete připojit k souřadnicím.</value>
-<comment>CZE</comment>
-</data>
 <data name="LaserAntennaSelectedCoords" xml:space="preserve">
 <value>Označené GPS souřadnice</value>
-<comment>CZE</comment>
-</data>
-<data name="LoadingError_ModifiedOriginalContent" xml:space="preserve">
-<value>Chyba při načítání původního obsahu hry, nelze načíst soubor:{0}Původní obsah hry byl pravděpodobně upraven, vraťte všechny úpravy a zkuste to znovu. Nejlépe to uděláte tak, že smažete složku 'SpaceEngineers\Content\Data' a pak v {0} zvolíte 'Ověřit místní mezipaměť hry'.Přeinstalování hry nestačí, protože {0} neodstraní neznámé soubory!</value>
 <comment>CZE</comment>
 </data>
 <data name="LowMemSwitchToLowQuestion" xml:space="preserve">
@@ -13183,46 +12683,6 @@
 </data>
 <data name="MessageBoxCaptionTutorial" xml:space="preserve">
 <value>Tutoriál</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxCaptionVideo" xml:space="preserve">
-<value>Video</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextAreYouSureEnableOxygen" xml:space="preserve">
-<value>Jste si jisti, že chcete povolit kyslík? To způsobí změnu materiálů na nedotčených asteroidech. Je to nezvratné.</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextAreYouSureEnableOxygenPressurization" xml:space="preserve">
-<value>Jste si jisti, že chcete povolit vzduchotěsnost? Může to mít negativní vliv na výkon.</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextAreYouSureToRemoveAsteroid" xml:space="preserve">
-<value>Jste si jisti, že chcete odstranit vybraný asteroid? (tuto akci nelze vrátit zpět!)</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextDoYouWishToPublishScenario" xml:space="preserve">
-<value>Jste si jisti, že chcete nahrát a zveřejnit vybraný scénář na {0} Workshopu? Upozorňujeme, že odesláním této položky souhlasíte s podmínkami služby Workshopu (viz {1}).</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextDoYouWishToUpdateScenario" xml:space="preserve">
-<value>Jste si jisti, že chcete nahrát a přepsat vybraný scénář na {0} Workshopu?</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextRecommend" xml:space="preserve">
-<value>Pokud se vám hra Space Engineers líbí, můžete ji doporučit svým {0} přátelům na následující stránce. Doporučení pomáhají rozšiřovat komunitu. Děkujeme!</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextRestartNeededAfterLanguageSwitch" xml:space="preserve">
-<value>Pro načtení některých textů může být nutný restart hry.</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextRestartNeededAfterRendererSwitch" xml:space="preserve">
-<value>Použité změny se projeví po restartování hry.</value>
-<comment>CZE</comment>
-</data>
-<data name="MessageBoxTextScenarioNotFound" xml:space="preserve">
-<value>Následující scénář nebyl nalezen a nelze jej načíst. {0} a {1} neexistují nebo obsahují neplatná data. Kontaktujte prosím autora scénáře, aby provedl opravu.</value>
 <comment>CZE</comment>
 </data>
 <data name="MessageBoxTextScenarioPublishFailed" xml:space="preserve">
@@ -13273,26 +12733,6 @@
 <value>Nejvíce kol</value>
 <comment>CZE</comment>
 </data>
-<data name="MyGuiScreenTriggerBlockDestroyed" xml:space="preserve">
-<value>Zníčených bloků</value>
-<comment>CZE</comment>
-</data>
-<data name="MyGuiScreenTriggerNoSpawn" xml:space="preserve">
-<value>Žádné oživovací místo</value>
-<comment>CZE</comment>
-</data>
-<data name="MyGuiScreenTriggerTimeLimit" xml:space="preserve">
-<value>Časový limit</value>
-<comment>CZE</comment>
-</data>
-<data name="NewVersionAvailable" xml:space="preserve">
-<value>Nová verze Space Engineers je dostupná!</value>
-<comment>CZE</comment>
-</data>
-<data name="NotAvailable" xml:space="preserve">
-<value>Nedostupné</value>
-<comment>CZE</comment>
-</data>
 <data name="NotEnoughMaterial" xml:space="preserve">
 <value>Nedostatek materiálu pro vytvoření nového bloku. Je potřeba alespoň jeden ocelový plát.</value>
 <comment>CZE</comment>
@@ -13307,10 +12747,6 @@
 </data>
 <data name="NoticeLine_03" xml:space="preserve">
 <value>Space Engineers® and VRAGE™ are trademarks of KEEN SWH LTD.</value>
-<comment>CZE</comment>
-</data>
-<data name="NoticeLine_04" xml:space="preserve">
-<value>www.keenswh.com</value>
 <comment>CZE</comment>
 </data>
 <data name="NoticeLine_05" xml:space="preserve">
@@ -13361,38 +12797,6 @@
 <value>{0} {1} není dostupný pro {2}</value>
 <comment>CZE</comment>
 </data>
-<data name="NotificationHelmetOff" xml:space="preserve">
-<value>Helma otevřena</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHelmetOn" xml:space="preserve">
-<value>Helma zavřena</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintLeaveCryoChamber" xml:space="preserve">
-<value>Stiskni {0} k opuštění kryokomory</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintNoAction" xml:space="preserve">
-<value>Prázdné</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintPressToClimbUpDown" xml:space="preserve">
-<value>Stikni {0} nebo {1} ke šplhání nahoru a dolů</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintPressToEnterCockpit" xml:space="preserve">
-<value>Stiskni {0} ke vstupu do {1}</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintPressToEnterCryochamber" xml:space="preserve">
-<value>Stiskni {0} ke vstupu do {1}</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationHintPressToOpenControlPanel" xml:space="preserve">
-<value>Stiskni {0} k otevření ovládacího panelu {1}</value>
-<comment>CZE</comment>
-</data>
 <data name="NotificationHintTurnPowerOff" xml:space="preserve">
 <value>Stiskni {0} k vypnutí energie.</value>
 <comment>CZE</comment>
@@ -13411,22 +12815,6 @@
 </data>
 <data name="NotificationNextScenarioWillLoad" xml:space="preserve">
 <value>Připravte se na další scénář...</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationPlayerDemoted_Scripter" xml:space="preserve">
-<value>Byl jste degradován na Skriptera</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationPlayerPromoted_Admin" xml:space="preserve">
-<value>Byl jste povýšen na Administrátora</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationPlayerPromoted_Moderator" xml:space="preserve">
-<value>Byl jste povýšen na Diváka</value>
-<comment>CZE</comment>
-</data>
-<data name="NotificationPlayerPromoted_Scripter" xml:space="preserve">
-<value>Byl jste povýšen na Skriptera</value>
 <comment>CZE</comment>
 </data>
 <data name="NotificationShipEnergyLowNoDamage" xml:space="preserve">
@@ -13457,36 +12845,12 @@
 <value>Dochází palivo pro jetpack</value>
 <comment>CZE</comment>
 </data>
-<data name="NotificationWheelNotPlaced" xml:space="preserve">
-<value>Kolo nemůže být umístěno.</value>
-<comment>CZE</comment>
-</data>
-<data name="Notification_ControllableBlockIsDamaged" xml:space="preserve">
-<value>{0} je poškožen!</value>
-<comment>CZE</comment>
-</data>
-<data name="Notification_NoControl" xml:space="preserve">
-<value>Někdo jiný požívá tuto loď!</value>
-<comment>CZE</comment>
-</data>
-<data name="Notification_NoControlAutoPilot" xml:space="preserve">
-<value>Autopilot povolen</value>
-<comment>CZE</comment>
-</data>
 <data name="Notification_PistonHeadAlreadyExists" xml:space="preserve">
 <value>Hlava pístu již existuje.</value>
 <comment>CZE</comment>
 </data>
 <data name="Notification_PistonHeadNotPlaced" xml:space="preserve">
 <value>Hlava pístu nemůže být umístněna.</value>
-<comment>CZE</comment>
-</data>
-<data name="Notification_WheelNotPlaced" xml:space="preserve">
-<value>Kolo nemůže být položeno. Zkuste nejdříve odstranit překážky.</value>
-<comment>CZE</comment>
-</data>
-<data name="Number" xml:space="preserve">
-<value>Číslo</value>
 <comment>CZE</comment>
 </data>
 <data name="OwnerLastLogin" xml:space="preserve">
@@ -13577,14 +12941,6 @@
 <value>Editor kódu</value>
 <comment>CZE</comment>
 </data>
-<data name="ProgrammableBlock_DeleteScriptDialogText" xml:space="preserve">
-<value>Chcete určitě smazat tento skript?</value>
-<comment>CZE</comment>
-</data>
-<data name="ProgrammableBlock_Editor_CharacterLimit" xml:space="preserve">
-<value>Limit znaků: </value>
-<comment>CZE</comment>
-</data>
 <data name="ProgrammableBlock_Editor_CheckCode" xml:space="preserve">
 <value>Zkontrolovat kód</value>
 <comment>CZE</comment>
@@ -13595,18 +12951,6 @@
 </data>
 <data name="ProgrammableBlock_Editor_CheckCode_Tooltip" xml:space="preserve">
 <value>Zkontroluje chyby kódu v editoru</value>
-<comment>CZE</comment>
-</data>
-<data name="ProgrammableBlock_Editor_CompilationFailedErrorFormat" xml:space="preserve">
-<value>Řádek {0} : {1}</value>
-<comment>CZE</comment>
-</data>
-<data name="ProgrammableBlock_Editor_LineNo" xml:space="preserve">
-<value>Řádek: {0} / {1}</value>
-<comment>CZE</comment>
-</data>
-<data name="ProgrammableBlock_ScriptsScreenTitle" xml:space="preserve">
-<value>Obrazovka skriptů</value>
 <comment>CZE</comment>
 </data>
 <data name="QuickstartDX11PleaseRestartGame" xml:space="preserve">
@@ -13649,10 +12993,6 @@
 <value>Max Planck</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote07Text" xml:space="preserve">
-<value>Nová vědecká pravda nezvítězí tím, že přesvědčí své odpůrce a přivede je k uvědomění, nýbrž spíše proto, že její odpůrci nakonec zemřou a vyroste nová generace, která s ní bude obeznámena.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote09Author" xml:space="preserve">
 <value>Albert Einstein</value>
 <comment>CZE</comment>
@@ -13689,10 +13029,6 @@
 <value>Galileo Galilei</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote17Text" xml:space="preserve">
-<value>Kdybych začínal svá studia znovu, následoval bych radu Platóna a začal bych matematikou.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote18Author" xml:space="preserve">
 <value>Johann W. Goethe</value>
 <comment>CZE</comment>
@@ -13703,10 +13039,6 @@
 </data>
 <data name="Quote19Author" xml:space="preserve">
 <value>Niels H. D. Bohr</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote19Text" xml:space="preserve">
-<value>Když někdo říká, že dokáže přemýšlet o kvantových problémech, aniž by cítil závrať, to jenom ukazuje, že vůbec nerozumí ani jednu věci o nich.</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote20Author" xml:space="preserve">
@@ -13725,16 +13057,8 @@
 <value>Walter Bagehot</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote22Text" xml:space="preserve">
-<value>Velkým potěšením v životě je dělat to, co lidé říkají, že nemůžete udělat.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote23Author" xml:space="preserve">
 <value>Thomas A. Edison</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote23Text" xml:space="preserve">
-<value>Talent je jedno procento inspirace a devadesát devět procent úsilí.</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote24Author" xml:space="preserve">
@@ -13745,40 +13069,20 @@
 <value>Arthur C. Clarke</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote25Text" xml:space="preserve">
-<value>Jakákoli dostatečně pokročilá technologie je nerozeznatelná od magie.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote26Author" xml:space="preserve">
 <value>William Gibson</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote26Text" xml:space="preserve">
-<value>Když chcete skutečně vědět, jak věci fungují, studujte je, když se rozpadají.</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote27Author" xml:space="preserve">
 <value>Scott Adams</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote27Text" xml:space="preserve">
-<value>Inženýři rádi řeší problémy. Pokud nejsou problémy snadno dostupné, vytvoří si vlastní problémy.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote28Author" xml:space="preserve">
 <value>Robert A. Heinlein</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote28Text" xml:space="preserve">
-<value>Magie jednoho člověka je inženýrství druhého. 'Nadpřirozeno' je prázdné slovo.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote29Author" xml:space="preserve">
 <value>Freeman Dyson</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote29Text" xml:space="preserve">
-<value>Dobrý vědec je osoba s originálními myšlenkami. Dobrý inženýr je osoba, která vytvoří návrh, který funguje s co nejmenším počtem originálních myšlenek. V inženýrství nejsou žádné primadonny.</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote30Author" xml:space="preserve">
@@ -13793,32 +13097,16 @@
 <value>Wikipedia, 2077</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote31Text" xml:space="preserve">
-<value>Engineer je odborný praktik, který využívá vědecké znalosti, matematiku, fyziku, astronomii, technologii pohonu, vědu o materiálech, analýzu struktur, výrobu a vynalézavost k řešení praktických problémů ve vesmíru.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote32Author" xml:space="preserve">
 <value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote32Text" xml:space="preserve">
-<value>Engineeři navrhují materiály, struktury a systémy s ohledem na omezení stanovená praktičností, regulacemi, bezpečností, etikou a náklady."</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote33Author" xml:space="preserve">
 <value>Wikipedia, 2077</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote33Text" xml:space="preserve">
-<value>Engineeři jsou zakotveni v aplikovaných vědách a jejich práce v oblasti výzkumu a vývoje se odlišuje od základního výzkumu, na který se zaměřují kosmičtí vědci.</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote34Author" xml:space="preserve">
 <value>Wikipedia, 2077</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote34Text" xml:space="preserve">
-<value>V dobách válečného konfliktu zahrnuje kosmické inženýrství také vojenské inženýrství. Mezi takové úkoly obvykle patří stavební a demoliční práce za bojových podmínek.</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote35Author" xml:space="preserve">
@@ -13845,14 +13133,6 @@
 <value>Albert Einstein</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote40Author" xml:space="preserve">
-<value>Arzenál armády USA</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote40Text" xml:space="preserve">
-<value>Trasírky fungují oběma směry</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote41Author" xml:space="preserve">
 <value>USAF Ammo Troop</value>
 <comment>CZE</comment>
@@ -13863,10 +13143,6 @@
 </data>
 <data name="Quote42Author" xml:space="preserve">
 <value>Anonym</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote42Text" xml:space="preserve">
-<value>Jediný okamžik, kdy máte příliš mnoho paliva, je ten, když hoříte</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote43Author" xml:space="preserve">
@@ -13929,16 +13205,8 @@
 <value>Yuri Gagarin</value>
 <comment>CZE</comment>
 </data>
-<data name="Quote52Text" xml:space="preserve">
-<value>Být prvním, kdo vstoupí do vesmíru, jednat s přírodou v jedinečném souboji - mohl by někdo snít o něčem více</value>
-<comment>CZE</comment>
-</data>
 <data name="Quote53Author" xml:space="preserve">
 <value>Yuri Gagarin</value>
-<comment>CZE</comment>
-</data>
-<data name="Quote53Text" xml:space="preserve">
-<value>Cesta kosmonauta není snadným, triumfálním pochodem ke slávě. Musíte poznat nejen význam radosti, ale také smutku, než vás pustí do kosmické lodi.</value>
 <comment>CZE</comment>
 </data>
 <data name="Quote54Author" xml:space="preserve">
@@ -13973,10 +13241,6 @@
 <value>Reaktor</value>
 <comment>CZE</comment>
 </data>
-<data name="RespawnShip" xml:space="preserve">
-<value>Oživovací loď</value>
-<comment>CZE</comment>
-</data>
 <data name="SafeZone_CubeAxis" xml:space="preserve">
 <value>Osa krychle:</value>
 <comment>CZE</comment>
@@ -13991,10 +13255,6 @@
 </data>
 <data name="ScenarioProgressLoseConditions" xml:space="preserve">
 <value>Podmínky prohry</value>
-<comment>CZE</comment>
-</data>
-<data name="ScenarioProgressSomeoneWon" xml:space="preserve">
-<value>Někdo jiný vyhrál scénář. Možný vítězové:</value>
 <comment>CZE</comment>
 </data>
 <data name="ScenarioProgressWinConditions" xml:space="preserve">
@@ -14015,10 +13275,6 @@
 </data>
 <data name="ScreenCaptionScenario" xml:space="preserve">
 <value>Scénář</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenCaptionVideoOptions" xml:space="preserve">
-<value>Video nastavení</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenCubeBuilderAddGoodAiBot" xml:space="preserve">
@@ -14043,10 +13299,6 @@
 </data>
 <data name="ScreenDebugAdminMenu_Controlled" xml:space="preserve">
 <value>Ovládáné</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_EntityList" xml:space="preserve">
-<value>Výpis entit</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_GlobalSafeZone" xml:space="preserve">
@@ -14101,20 +13353,12 @@
 <value>Tříděno dle</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenDebugAdminMenu_SortOptions" xml:space="preserve">
-<value>Možnosti řazení</value>
-<comment>CZE</comment>
-</data>
 <data name="ScreenDebugAdminMenu_Stationary" xml:space="preserve">
 <value>Nehybné</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_Stations" xml:space="preserve">
 <value>Stanice</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugAdminMenu_StopAll" xml:space="preserve">
-<value>Zastavit všechny entity</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugAdminMenu_TeleportHere" xml:space="preserve">
@@ -14147,10 +13391,6 @@
 </data>
 <data name="ScreenDebugAdminMenu_WithProduction" xml:space="preserve">
 <value>S výrobou</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenDebugSpawnMenu_Asteroids" xml:space="preserve">
-<value>Asteroidy</value>
 <comment>CZE</comment>
 </data>
 <data name="ScreenDebugSpawnMenu_CurrentTarget" xml:space="preserve">
@@ -14237,22 +13477,6 @@
 <value>Video</value>
 <comment>CZE</comment>
 </data>
-<data name="SelectedEntity" xml:space="preserve">
-<value>Zvolená entita</value>
-<comment>CZE</comment>
-</data>
-<data name="SelectedTrigger" xml:space="preserve">
-<value>Zvolený spouštěč</value>
-<comment>CZE</comment>
-</data>
-<data name="ServerDetails_ServerManagement" xml:space="preserve">
-<value>Správa serveru</value>
-<comment>CZE</comment>
-</data>
-<data name="SharedBlueprintQuestion" xml:space="preserve">
-<value>Chcete otevřít tento plánek v {0} Workshopu?</value>
-<comment>CZE</comment>
-</data>
 <data name="SmallGrids" xml:space="preserve">
 <value>Malé konstrukce</value>
 <comment>CZE</comment>
@@ -14277,18 +13501,6 @@
 <value>Výzkum je momentálně nedostupný, můžeš jej povolit v pokročilém nastavení světa.</value>
 <comment>CZE</comment>
 </data>
-<data name="ToolTipItemFilter_AnyIngot" xml:space="preserve">
-<value>Jakýkoliv typ ingotu</value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipItemFilter_AnyOre" xml:space="preserve">
-<value>Jakýkoliv typ rudy</value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipItemFilter_AssembledItems" xml:space="preserve">
-<value>Jakýkoliv předmět vytvořený konstruktérem</value>
-<comment>CZE</comment>
-</data>
 <data name="ToolTipJoinGameServerSearch_SameGameData" xml:space="preserve">
 <value>Ukázat pouze servery, které mají stejná herní data</value>
 <comment>CZE</comment>
@@ -14299,10 +13511,6 @@
 </data>
 <data name="ToolTipJoinGame_DirectConnect" xml:space="preserve">
 <value>Připojit se na server pomocí IP</value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipNewGameCustomGame_Advanced" xml:space="preserve">
-<value>Otevře pokročilé možnosti nastavení světa</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipOptionsAudio_EnableVoiceChat" xml:space="preserve">
@@ -14413,18 +13621,6 @@
 <value>Postava</value>
 <comment>CZE</comment>
 </data>
-<data name="ToolTipWorldSettingsModeCreative" xml:space="preserve">
-<value>Nekonečné zdroje, okamžité stavění, nesmrtelnost</value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipWorldSettingsModeSurvival" xml:space="preserve">
-<value>Realistické řízení zdrojů, realistické inventáře, smrt a oživení </value>
-<comment>CZE</comment>
-</data>
-<data name="ToolTipWorldSettingsOnlineMode" xml:space="preserve">
-<value>Viditelnost Vaší hry. Offline: Hra běží v offline řezimu a nepotřebuje připojení k internetu. Soukromý: Pouze pozvaní hráči. Přátelé: Pouze Vaši {0} přátelé se mohou připojit. Veřejná: Každý {0} hráč se může připojit</value>
-<comment>CZE</comment>
-</data>
 <data name="ToolTipWorldSettings_Assembler_x1" xml:space="preserve">
 <value>Výchozí nastavení rychlost a účinnosti konstrukterů</value>
 <comment>CZE</comment>
@@ -14462,7 +13658,7 @@
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Building3_Detail1" xml:space="preserve">
-<value>V režimu survival nejdříve musíš mít první součástku k položení bloku. Můžeš ho vyrobit v konstruktéru a základním modulu či je získat bruskou z ostatních konstrukcí.</value>
+<value>V režimu přežití nejdříve musíš mít první součástku k položení bloku. Můžeš ho vyrobit v konstruktéru a základním modulu či je získat bruskou z ostatních konstrukcí.</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Building3_Detail2" xml:space="preserve">
@@ -14478,7 +13674,7 @@
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_MagneticBootsTip_Detail1" xml:space="preserve">
-<value>Poslednímu engineerovi trvalo moc dlouho než na to přišel.</value>
+<value>Poslednímu Astronautovi trvalo moc dlouho než na to přišel.</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_MagneticBootsTip_Detail2" xml:space="preserve">
@@ -14538,7 +13734,7 @@
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Components_Detail1" xml:space="preserve">
-<value>Součástky jsou používány k vystavbě nebo opravě bloků. Můžeš použít svářečku na blok k přidání požadovaných součástek. Tento nástroj si vybereš ze svého nástrojového panelu.</value>
+<value>Komponenty jsou používány k vystavbě nebo opravě bloků. Můžeš použít svářečku na blok k přidání požadovaných součástek. Tento nástroj si vybereš ze svého nástrojového panelu.</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Components_Detail2" xml:space="preserve">
@@ -14546,7 +13742,7 @@
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_Components_Title" xml:space="preserve">
-<value>Good.bot: Součástky</value>
+<value>Good.bot: Komponenty</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_FlashlightTip_Detail1" xml:space="preserve">
@@ -14617,18 +13813,6 @@
 <value>Dosti jednoduché nebo ne?!</value>
 <comment>CZE</comment>
 </data>
-<data name="IngameHelp_PowerTip_Detail2" xml:space="preserve">
-<value>*Tip:* Pro úsporu energie vypněte bloky, které nepotřebujete.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_PowerTip_Detail3" xml:space="preserve">
-<value>*Tip:* Pomocí [Ctrl+]{CONTROL:TOGGLE_REACTORS} vypnete také všechny připojené konstrukce.</value>
-<comment>CZE</comment>
-</data>
-<data name="IngameHelp_PowerTip_Detail3:Gamepad" xml:space="preserve">
-<value>*Tip:* Pomocí {CONTROL:TOGGLE_REACTORS_ALL} vypnete také všechny připojené konstrukce.</value>
-<comment>CZE</comment>
-</data>
 <data name="ScreenBlueprintsRew_NotAvailable" xml:space="preserve">
 <value>N/A</value>
 <comment>CZE</comment>
@@ -14637,296 +13821,12 @@
 <value>PCU: {0}</value>
 <comment>CZE</comment>
 </data>
-<data name="ScreenBlueprintsRew_ReplaceMessage1" xml:space="preserve">
-<value>Plánek/skript s názvem </value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenBlueprintsRew_ReplaceMessage2" xml:space="preserve">
-<value> již existuje. Chcete ho nahradit?</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenBlueprintsRew_Tooltip_ButEdit" xml:space="preserve">
-<value>Otevřít kartu pro úpravu informací o plánku/skriptu</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenBlueprintsRew_ScreenBeingTaken" xml:space="preserve">
-<value>Snímek obrazovky se v tuto chvíli již pořizuje</value>
-<comment>CZE</comment>
-</data>
-<data name="ScreenBlueprintsRew_ScreenBeingTaken_Caption" xml:space="preserve">
-<value>Probíhá snímání obrazovky</value>
-<comment>CZE</comment>
-</data>
-<data name="ChatBotUnavailable" xml:space="preserve">
-<value>Je mi líto, ale právě teď nejsem k dispozici. Navštivte prosím https://support.keenswh.com/ nebo to zkuste později.</value>
-<comment>CZE</comment>
-</data>
-<data name="ChatBot_Generic" xml:space="preserve">
-<value>Dobrý den, pane Inženýre! Jsem Good.bot. S čím vám mohu pomoci?</value>
-<comment>CZE</comment>
-</data>
 <data name="ChatBot_HowAreYou" xml:space="preserve">
 <value>Mám se dobře, děkuji!</value>
 <comment>CZE</comment>
 </data>
-<data name="ChatBot_Rude" xml:space="preserve">
-<value>To nebylo moc hezké! V případě jakýchkoli problémů nás prosím kontaktujte na adrese https://support.keenswh.com/.</value>
-<comment>CZE</comment>
-</data>
 <data name="ChatBot_ThankYou" xml:space="preserve">
 <value>Není zač!</value>
-<comment>CZE</comment>
-</data>
-<data name="ChatBotMisunderstanding0" xml:space="preserve">
-<value>Omlouvám se, ale nejsem schopen odpovědět na otázku. Stále se učím. Další nápovědu naleznete na adrese https://support.keenswh.com/.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Electricity" xml:space="preserve">
-<value>Elektřinu lze vyrábět v reaktorech nebo solárních panelech a ukládat ji do baterií. Přenáší se automaticky přes všechny připojené bloky. Mnoho bloků potřebuje ke svému fungování elektřinu.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Asteroids" xml:space="preserve">
-<value>Asteroidy se nacházejí ve vesmíru. Jejich počet závisí na nastavení serveru nebo světa. Většina asteroidů obsahuje rudy, které lze těžit.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Gravity" xml:space="preserve">
-<value>Na planetách existuje gravitace. Virtuální gravitaci lze také vytvořit pomocí bloku generátoru gravitace. Virtuální gravitace nemá žádný vliv na konstrukce, pokud nejsou implementovány bloky virtuální hmoty.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Oxygen" xml:space="preserve">
-<value>Některé planety mají dýchatelnou atmosféru. Kyslík lze vyrobit z ledu pomocí O2/H2 generátoru nebo z kyslíkové farmy. Kyslík lze skladovat v kyslíkových nádržích a lahvích.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Damage" xml:space="preserve">
-<value>Poškození lze způsobit zbraněmi, jako jsou raketomety, kulometné věže nebo ruční pušky. Konstrukce mohou být poškozeny také nárazy do jiných konstrukcí nebo voxelů.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Repair" xml:space="preserve">
-<value>K opravě poškozených bloků použijte svářečku. Zcela zničené bloky je třeba vyměnit nebo můžete k rychlejší opravě použít projektor.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Welding" xml:space="preserve">
-<value>Používejte svářečku na bloky k jejich stavbě a opravám. Svařování vyžaduje energii odebranou z vašeho obleku a součástek pro blok. Svářečky můžete instalovat také na lodě. Pomocí RMB (Pravé tlačítko myši) můžete do stavebního plánovače přidat chybějící součásti z bloku, na který se díváte.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Mining" xml:space="preserve">
-<value>omocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy."</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Healing" xml:space="preserve">
-<value>Pokud jste zraněni, můžete se vyléčit v zdravotnícke místnosti nebo v základném modulu. Podržte {CONTROL:USE} pro použití konzole.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Recharging" xml:space="preserve">
-<value>Energii ve skafandru můžete dobíjet v zdravotníckych místnostech, základních modulech nebo sedět na jakémkoli sedadle či v kokpitu, pokud je napájen.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Grinding" xml:space="preserve">
-<value>Pomocí brusky můžete bloky rozbrousit a rozložit. Součástky se při broušení uchovávají a přenášejí do vašeho inventáře.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Hydrogen" xml:space="preserve">
-<value>Vodík je palivo, které se používá pro jetpack vašeho obleku a vodíkové trysky. Vodík se vyrábí z ledu v O2/H2 generátoru. Vodík můžete skladovat ve vodíkových nádržích a lahvích.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Jetpack" xml:space="preserve">
-<value>Váš jetpack vyžaduje vodík. Vodík můžete vyrobit z ledu v O2/H2 generátoru. V generátoru můžete doplňovat lahve nebo generátor propojit se zdravotnickou místností či základním modulem a dobíjet vodík přímo.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_MagneticBoots" xml:space="preserve">
-<value>Magnetické boty fungují pouze v prostředí s nulovou gravitací. Umožňují přilnout k povrchu, jako jsou asteroidy nebo lodě. Když stojíte na povrchu, stisknutím {CONTROL:THRUSTS} vypnete jetpack a zapnete magnetické boty.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Ore" xml:space="preserve">
-<value>Rudou se rozumí několik druhů nerostů, které lze pomocí rafinerie zpracovat na ingoty. Rudy se nacházejí na planetách a asteroidech. Hledejte tmavé skvrny na planetách, abyste našli rudu.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Ice" xml:space="preserve">
-<value>Led je nezbytný pro výrobu kyslíku a vodíku a nachází se na planetách a uvnitř asteroidů.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Voxel" xml:space="preserve">
-<value>Voxely jsou fyzická tělesa, jako třeba asteroidy nebo planety. Pomocí vrtáku se můžete zavrtat do voxelů a změnit jejich tvar. Pomocí voxelových rukou v kreativním režimu si můžete vytvářet vlastní tvary.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Grid" xml:space="preserve">
-<value>Konstrukce jsou sbírky bloků, které tvoří stanice nebo lodě. </value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Clang" xml:space="preserve">
-<value>Zdar Clangu!</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Visor" xml:space="preserve">
-<value>Hledí můžete otevřít a zavřít stisknutím tlačítka {CONTROL:HELMET}. Neotvírejte hledí ve vesmíru, jinak se udusíte!</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_RoomPressure" xml:space="preserve">
-<value>Tlak v místnosti se zobrazuje v nabídce ventilace. Místnost musí být utěsněna, aby v ní byl tlak.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Thrusters" xml:space="preserve">
-<value>Trysky umožňují lodím pohybovat se a létat. Ujistěte se, že používáte správné trysky ve vhodných prostředích. Atmosférické trysky nebudou ve vesmíru fungovat!</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_ShipMovement" xml:space="preserve">
-<value>Stiskněte {CONTROL:TOGGLE_REACTORS} pro vypnutí a zapnutí napájení. Pokud jste zvědaví, zda máte dostatek energie, zkontrolujte, jestli je v reaktorech palivo nebo jestli jsou baterie nabité.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_RoverMovement" xml:space="preserve">
-<value>Stisknutím {CONTROL:LANDING_GEAR} vypnete brzdy a podvozky nebo {CONTROL:TOGGLE_REACTORS} vypnete a zapnete napájení. Můžete zkontrolovat, zda je v reaktorech palivo nebo zda jsou baterie nabité.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Planets" xml:space="preserve">
-<value>Planety lze pozorovat z libovolné vzdálenosti. Pokud planety nevidíte, pak pravděpodobně nejsou součástí tohoto světa.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Pirates" xml:space="preserve">
-<value>Chraňte se před piráty a ostatními hráči stavbou pancéřování, věží a návnad.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Fuel" xml:space="preserve">
-<value>Reaktory používají jako palivo rafinované uranové ingoty. Váš jetpack a vodíkové trysky vyžadují vodík.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_PCU" xml:space="preserve">
-<value>PCU je zkratka pro jednotku nákladů na výkon.  Stavba a odstraňování bloků stojí a vrací PCU.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Ownership" xml:space="preserve">
-<value>Bloky můžete vlastnit, pokud jste to vy, kdo přidal počítačové součástky. Můžete se rozhodnout sdílet své bloky se svým klanem nebo s kýmkoli jiným.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Factions" xml:space="preserve">
-<value>Klany představují způsob, jak hrát s ostatními hráči sdílením bloků, které mohou ostatní hráči používat. Klany může založit kdokoli.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Bottles" xml:space="preserve">
-<value>Vodíkové a kyslíkové lahve lze vyrábět v montážních zařízeních a plnit je v O2/H2 generátorech.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Help" xml:space="preserve">
-<value>Stiskněte {CONTROL:HELP_SCREEN} pro vyhledání další nápovědy nebo se mě prostě zeptejte.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_SaveBlueprints" xml:space="preserve">
-<value>Návrhy lodí můžete uložit do plánků tak, že na ně namíříte a stisknete klávesu Ctrl-B. Stisknutím klávesy F10 otevřete nabídku plánků.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Lost" xml:space="preserve">
-<value>Pokud se ztratíte, můžete vždy stisknout {CONTROL:SUICIDE} a znovu se objevit na nejbližším bodě oživení.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Mass" xml:space="preserve">
-<value>Celková hmotnost udává hmotnost vaší lodi. Naplnění nákladních kontejnerů rudami nebo součástkami může mít závažný dopad na výkon vaší lodi.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Skins" xml:space="preserve">
-<value>Skiny lze získat v režimu survival nalezením výsadkových podů a aktivací jejich tlačítek. K úpravě postavy použijte zdravotnickou místnost.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_ShipInventories" xml:space="preserve">
-<value>Nezapomeňte propojit jednotlivé inventáře pomocí dopravníků. Některé položky jsou příliš velké na to, aby prošly malými dopravníkovými trubkami. Stisknutím {CONTROL:INVENTORY} otevřete svůj osobní inventář.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_ShipBuilding" xml:space="preserve">
-<value>Minimální požadavky na loď jsou kokpit, gyroskop, jeden tryskový motor v každém směru a nějaký zdroj energie, například reaktor nebo baterie.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Script" xml:space="preserve">
-<value>Skripty mohou být v nastavení světa zakázány.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_GridMovement" xml:space="preserve">
-<value>Ujistěte se, že má trysky namířené směrem, kterým se pohybuje, a nějaký zdroj energie.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_StopMoving" xml:space="preserve">
-<value>Nezapomeňte zapnout jetpack pomocí {CONTROL:THRUSTS} a tlumiče pomocí {CONTROL:DAMPING}.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_RelativeDampeners" xml:space="preserve">
-<value>Relativní tlumiče přizpůsobují rychlost a směr pohybu pohyblivému cíli. Při pohledu na cíl stiskněte klávesu [Ctrl-{CONTROL:DAMPING}]. Aby to fungovalo, musíte být v okruhu 100 metrů.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Flashlight" xml:space="preserve">
-<value>Svítilnu můžete přepínat pomocí {CONTROL:HEADLIGHTS}. Svítilny spotřebovávají energii obleku a po její vyčerpání nebudou fungovat.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_FindOtherPlayers" xml:space="preserve">
-<value>Hledejte klany, do kterých se může přidat kdokoli, nebo se zeptejte, zda se můžete sdružit s hráči. Hledejte signály antén, které by mohly ukazovat na další hráče.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_HowToPlayGame" xml:space="preserve">
-<value>Můžete být konkrétnější, prosím?</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Thing" xml:space="preserve">
-<value>Zkoušeli jste tu další věc?</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_ShipWontFly" xml:space="preserve">
-<value>Má vaše loď dostatek energie? Má dostatek pohonných jednotek? Máte zapnuté tlumiče?</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_WhatIsABlock" xml:space="preserve">
-<value>Všechny lodě a stanice se skládají z bloků. Existují dvě velikosti: velké a malé. Bloky najdete v nabídce po stisknutí {CONTROL:BUILD_SCREEN}.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_MirrorMode" xml:space="preserve">
-<value>Zrcadlový režim funguje pouze v kreativním režimu a umožňuje symetrické stavění. Stisknutím tlačítka {CONTROL:SYMMETRY_SWITCH} projdete všech šest rovin zrcadlení. Tlačítkem LMB (Levé tlačítko myši) potvrďte umístění a tlačítkem RMB (pravé tlačítko myši) jednu z nich odeberte. Stisknutím tlačítka {CONTROL:USE_SYMMETRY} dočasně vypnete režim zrcadlení.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_ProtectingMyself" xml:space="preserve">
-<value>Své základny můžete ukrýt pod zem nebo do asteroidů. Stavte věže a návnady na obranu proti útokům. Postavte skryté zdravotnické místnosti a rozmístěte je tak, abyste si zachovali způsoby, jak se oživit, když na vás zaútočí zevnitř základny.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_LosingHealth" xml:space="preserve">
-<value>Dusíte se? Stojíte před tryskami nebo jste se možná příliš přiblížili k aktivnímu nástroji lodě?</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_VoxelHands" xml:space="preserve">
-<value>Voxelová ruka je nástroj dostupný pouze v kreativním režimu, který umožňuje přidávat a tvarovat voxely. Lze jej povolit v nastavení světa. Stiskněte klávesu K a otevřete nabídku voxelových rukou, když jste jimi vybavení.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_AirTightnessPressure" xml:space="preserve">
-<value>Místnost musí být vzduchotěsná, aby se mohla naplnit kyslíkem pomocí ventilace. Ujistěte se, že v místnosti nejsou žádné otvory vystavené prostoru a že jsou všechny dveře zavřené.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Station" xml:space="preserve">
-<value>Stanice je statická konstrukce, která je přímo připojena k voxelům, jako jsou planety nebo asteroidy. Některé stanice mohou létat, ale mají pouze dostatek trysek pro základní pohyb.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Ship" xml:space="preserve">
-<value>Loď je konstrukce, která je určena k pohybu. Má trysky v každém směru, gyroskop pro orientaci, kokpit a nějaký zdroj energie, například baterie nebo reaktory. Lodě mohou být navrženy pro specifické úkoly, jako je stavba nebo boj. </value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_CarRover" xml:space="preserve">
-<value>Rover je vozidlo, které k pohybu používá kola namísto trysek, které se používají k letu. Rovery jsou obvykle levné na stavbu, ale často pomalé a jsou snadným cílem pro ostatní hráče.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_GPSSignals" xml:space="preserve">
-<value>Signály GPS lze zakázat nebo vytvořit na kartě Komunikace. Dvojím kliknutím na signál GPS jej zakážete. Signály GPS lze zapisovat do panelů LCD nebo vysílat v chatu. Dávejte pozor, abyste nepřilákali nepřátele.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_GridSize" xml:space="preserve">
-<value>K dispozici jsou 2 velikosti konstrukčních mřížek, které se jednoduše označují jako malá a velká. Velikost mřížky bloku můžete přepnout opětovným výběrem stejného bloku na panelu nástrojů. Ne všechny bloky jsou k dispozici v obou velikostech mřížky.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Suit" xml:space="preserve">
-<value>Skafandr vás udržuje při životě, když jste ve vesmíru. Vaše zdraví, zásoby vodíku, kyslíku a energie se zobrazují na vašem HUD. Váš oblek je vybaven magnetickými botami pro chůzi ve vesmíru a jetpackem pro létání.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_HandTools" xml:space="preserve">
-<value>K dispozici jsou 3 ruční nástroje. Svářeč staví a opravuje. Bruska odstraňuje a rozkládá, zatímco vrtačka slouží k hledání rudy, sběru rudy a kopání tunelů.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Inventory" xml:space="preserve">
-<value>Do inventáře se dostanete stisknutím tlačítka {CONTROL:INVENTORY}. Přetažením položek mimo obrazovku inventáře je můžete upustit. Předměty zvednete stisknutím {CONTROL:PICK_UP}.</value>
-<comment>CZE</comment>
-</data>
-<data name="Description_FAQ_Ingots" xml:space="preserve">
-<value>Ingoty se vyrábějí v rafinériích z rud a jsou nezbytné pro výrobu sučástek.</value>
 <comment>CZE</comment>
 </data>
 <data name="IngameHelp_BuildingTip2_Detail1" xml:space="preserve">
@@ -15870,11 +14770,11 @@
 <comment>CZE</comment>
 </data>
 <data name="Description_Medkit" xml:space="preserve">
-<value>Lékarnička obsahuje medikamenty pro léčbu engineera.</value>
+<value>Lékarnička obsahuje medikamenty pro léčbu astronauta.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_Powerkit" xml:space="preserve">
-<value>Nabíječka je přenosná baterie k doplnění energie obleku engineera.</value>
+<value>Nabíječka je přenosná baterie k doplnění energie obleku astronauta.</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_SpaceCredit" xml:space="preserve">
@@ -17449,56 +16349,12 @@
 <value>Následovat mě</value>
 <comment>CZE</comment>
 </data>
-<data name="LeadIndicator_OutOfWeaponRange" xml:space="preserve">
-<value>Mimo dosah zbraně</value>
-<comment>CZE</comment>
-</data>
 <data name="FollowPlayer_StopFollowing_Title" xml:space="preserve">
 <value>Přestat následovat</value>
 <comment>CZE</comment>
 </data>
-<data name="PathRecorderBlock_FarAwayBeacon" xml:space="preserve">
-<value>Vzdálený maják</value>
-<comment>CZE</comment>
-</data>
 <data name="FollowPlayer_FollowDistance_Title" xml:space="preserve">
 <value>Vzdálenost následování</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowPlayer_FollowDistance_Tooltip" xml:space="preserve">
-<value>Konstrukce se bude snažit zůstat v této vzdálenosti od hráče, kterého sleduje.</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_PositionList" xml:space="preserve">
-<value>Domovské pozice</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_PositionList_Tooltip" xml:space="preserve">
-<value>Dostupné domácí pozice.</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_SetHome_Title" xml:space="preserve">
-<value>Nastavit aktuální pozici</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_SetHome_Tooltip" xml:space="preserve">
-<value>Vytvoří bod GPS v aktuální poloze a vybere jej jako domovskou polohu.</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_MinRange_Title" xml:space="preserve">
-<value>Min. Vzdálenost od domova</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_MinRange_Tooltip" xml:space="preserve">
-<value>Nastavte min. rozsah od výchozí polohy. Konstrukce zůstane mezi min. a max. rozsahem.</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_MaxRange_Title" xml:space="preserve">
-<value>Max. Vzdálenost od domova</value>
-<comment>CZE</comment>
-</data>
-<data name="FollowHome_MaxRange_Tooltip" xml:space="preserve">
-<value>Nastavte maximální rozsah od výchozí polohy. Konstrukce zůstane mezi min. a max. rozsahem.</value>
 <comment>CZE</comment>
 </data>
 <data name="FollowHome_Wander_Title" xml:space="preserve">
@@ -17573,10 +16429,6 @@
 <value>Zdraví bloku</value>
 <comment>CZE</comment>
 </data>
-<data name="DefensiveCombatBlock_DefendAgainst" xml:space="preserve">
-<value>Bránit se proti</value>
-<comment>CZE</comment>
-</data>
 <data name="DefensiveCombatBlock_TargetLock_Enemies" xml:space="preserve">
 <value>Nepřátelé</value>
 <comment>CZE</comment>
@@ -17589,64 +16441,12 @@
 <value>Nikoho</value>
 <comment>CZE</comment>
 </data>
-<data name="DefensiveCombatBlock_FleeTo_Tooltip" xml:space="preserve">
-<value>Pokud tato konstrukce utíká, prchá směrem k vybranému bodu trasy.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger" xml:space="preserve">
-<value>Spouštěč útěku</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger_Tooltip" xml:space="preserve">
-<value>Kdy utéct?Nikdy - Tato konstrukce nikdy neutíká.Vždy - Tato konstrukce prchá, když zjistí jinou konstrukci v okruhu 2500m a jsou splněny podmínky 'Bránit se proti' a 'Se subsystémem'.Při uzamčení cíle - Když jiná konstrukce, která splňuje podmínky 'Bránit se proti' a 'Se subsystémem', uzamkne tuto konstrukci.Při poškození - Když je poškozena z jakéhokoli zdroje, zatímco je v okruhu 2500m konstrukce, která splňuje podmínky 'Bránit se proti' a 'Se subsystémem'.</value>
-<comment>CZE</comment>
-</data>
 <data name="DefensiveCombatBlock_FleeTrigger_Never" xml:space="preserve">
 <value>Nikdy</value>
 <comment>CZE</comment>
 </data>
 <data name="DefensiveCombatBlock_FleeTrigger_Always" xml:space="preserve">
 <value>Vždy</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger_WhenTargetLocked" xml:space="preserve">
-<value>Při uzamčení cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger_WhenTakingDamage" xml:space="preserve">
-<value>Při obdržení poškození</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_FleeTrigger_FleeTo" xml:space="preserve">
-<value>Útěk do</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_WaypointSize" xml:space="preserve">
-<value>Velikost únikového bodu</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_WaypointSize_Tooltip" xml:space="preserve">
-<value>Vzdálenost od vybraného bodu trasy, ve které by konstrukce měla být, aby se považovala za dosaženou.</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_WithSubsystem" xml:space="preserve">
-<value>Se subsystémem</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_WithSubsystem_Tooltip" xml:space="preserve">
-<value>Bude 'Bránit se proti' konstrukcím s tímto subsystémem.</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionAutopilot_Mode" xml:space="preserve">
-<value>Režim</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_ThreateningSubsystem" xml:space="preserve">
-<value>Ohrožující subsystém</value>
-<comment>CZE</comment>
-</data>
-<data name="DefensiveCombatBlock_ThreateningSubsystemTooltip" xml:space="preserve">
-<value>Tento blok bude považovat za hrozbu pouze konstrukce s vybraným(i) subsystémem(y)</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_EventGasTankFilled" xml:space="preserve">
@@ -17665,14 +16465,6 @@
 <value>Uložená energie</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyTitle_AttackMode" xml:space="preserve">
-<value>Útok</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_SetAttackModeFormat" xml:space="preserve">
-<value>Nastavení režimu útočení: {0}</value>
-<comment>CZE</comment>
-</data>
 <data name="AttackMode_EnemiesOnly" xml:space="preserve">
 <value>Pouze nepřátelé</value>
 <comment>CZE</comment>
@@ -17682,11 +16474,7 @@
 <comment>CZE</comment>
 </data>
 <data name="BlockPropertyTitle_TargetPriority" xml:space="preserve">
-<value>Priorita cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_SetTargetPriorityFormat" xml:space="preserve">
-<value>Nastavení priority cíle: {0}</value>
+<value>Priorita zacílení</value>
 <comment>CZE</comment>
 </data>
 <data name="TargetPriority_Closest" xml:space="preserve">
@@ -17701,10 +16489,6 @@
 <value>Nejmenší</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyTitle_AttackPattern" xml:space="preserve">
-<value>Režim útočení</value>
-<comment>CZE</comment>
-</data>
 <data name="TargetPriority_CircleOrOrbit" xml:space="preserve">
 <value>Kroužit / Obíhat</value>
 <comment>CZE</comment>
@@ -17717,104 +16501,20 @@
 <value>Zaútočit a odletět</value>
 <comment>CZE</comment>
 </data>
-<data name="TargetPriority_Intercept" xml:space="preserve">
-<value>Zachycení</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_SubsystemToDestroy" xml:space="preserve">
-<value>Subsystém ke zničení</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_UpdateTargetInterval" xml:space="preserve">
-<value>Interval vyhledávání cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_UpdateTargetInterval_Tooltip" xml:space="preserve">
-<value>Určuje, jak často tento blok kontroluje a (případně) mění cíle. Varování: Nastavení této hodnoty na velmi nízkou může vést k nevyzpytatelnému chování při zaměřování!</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_ActivateBehavior" xml:space="preserve">
-<value>Subsystém ke zničení</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTitle_AlignToGravity" xml:space="preserve">
-<value>Zarovnání s P-Gravitací</value>
-<comment>CZE</comment>
-</data>
 <data name="BlockPropertyTitle_MinHeightAboveTerrain" xml:space="preserve">
 <value>Minimální výška</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatCircleOrbit_Front" xml:space="preserve">
-<value>Předek</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatCircleOrbit_CircleDistance_Title" xml:space="preserve">
-<value>Vzdálenost okruhu</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatCircleOrbit_CircleDistance_Tooltip" xml:space="preserve">
-<value>Vzdálenost, ve které má konstrukce obkroužit cíl</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatCircleOrbit_CircleInPGravity_Title" xml:space="preserve">
-<value>Kroužení v P-Gravitaci</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatCircleOrbit_CircleInPGravity_Tooltip" xml:space="preserve">
-<value>Pokud se střetnutí odehrává v P-Gravitaci, bude oběžná dráha kolem směru gravitace.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_BreakOffDistance_Tooltip" xml:space="preserve">
-<value>Při této vzdálenosti od cíle by tato konstrukce měla ustoupit.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RetreatDistance_Title" xml:space="preserve">
-<value>Ústup - Vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RetreatDistance_Tooltip" xml:space="preserve">
-<value>Vzdálenost od cíle, do které je třeba ustoupit před zahájením nového útoku.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RetreatTimeout_Title" xml:space="preserve">
-<value>Ústup - Časový limit</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RetreatTimeout_Tooltip" xml:space="preserve">
-<value>Doba, za kterou by se tato konstrukce měla pokusit dosáhnout své ústupové vzdálenosti. Pokud jí čas dojde, začne nový útok bez ohledu na vzdálenost od cíle.</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveCombatHitAndRun_RetreatAngle_Title" xml:space="preserve">
 <value>Úhel návratu</value>
 <comment>CZE</comment>
 </data>
-<data name="OffensiveCombatHitAndRun_RetreatAngle_Tooltip" xml:space="preserve">
-<value>Úhel ústupového vektoru vzhledem k průběhu útoku.Hodnota 180 znamená, že konstrukce bude ustupovat zpět stejným směrem, odkud zahájila útok.Hodnota 0 znamená, že ústup bude pokračovat v přímém směru od průběhu útoku.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_PassOverTarget_Title" xml:space="preserve">
-<value>Přelet nad cílem</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_PassOverTarget_Tooltip" xml:space="preserve">
-<value>Pokud je úhel ústupu větší než 90° a střet probíhá v P-Gravitaci, nastaví se ústupový trasový bod na vzdálenější stranu nad cílem.</value>
-<comment>CZE</comment>
-</data>
 <data name="OffensiveCombatHitAndRun_AddWeapon_Title" xml:space="preserve">
 <value>Přidat zbraň</value>
 <comment>CZE</comment>
 </data>
-<data name="OffensiveCombatHitAndRun_AddWeapon_Tooltip" xml:space="preserve">
-<value>Přidat vybrané zbraně do seznamu vybraných zbraní</value>
-<comment>CZE</comment>
-</data>
 <data name="OffensiveCombatHitAndRun_RemoveWeapon_Title" xml:space="preserve">
 <value>Odebrat zbraň</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatHitAndRun_RemoveWeapon_Tooltip" xml:space="preserve">
-<value>Odstranění vybrané zbraně ze seznamu vybraných zbraní</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveCombatHitAndRun_AvailiableWeapons_Title" xml:space="preserve">
@@ -17845,32 +16545,8 @@
 <value>Minimální vzdálenost</value>
 <comment>CZE</comment>
 </data>
-<data name="OffensiveCombatStayAtRange_MinimalDistance_Tooltip" xml:space="preserve">
-<value>Minimální vzdálenost, ve které by se konstrukce měla (snažit) udržet od cíle.</value>
-<comment>CZE</comment>
-</data>
 <data name="OffensiveCombatStayAtRange_MaximalDistance_Title" xml:space="preserve">
 <value>Maximální vzdálenost</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatStayAtRange_MaximalDistance_Tooltip" xml:space="preserve">
-<value>Maximální vzdálenost, ve které by se měla konstrukce (pokusit) udržet od cíle.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatStayAtRange_FacingPriority_Tooltip" xml:space="preserve">
-<value>Konstrukce se bude snažit udržet vybranou stranu (strany) směřující k cíli.</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatIntercept_GuidanceBasic" xml:space="preserve">
-<value>Základní</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatIntercept_GuidanceTargetPrediction" xml:space="preserve">
-<value>Předměřování cíle</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatIntercept_GuidanceProportionalNavigation" xml:space="preserve">
-<value>Proporcionální navigace</value>
 <comment>CZE</comment>
 </data>
 <data name="EventControllerBlock_BoolTriggerState_Title" xml:space="preserve">
@@ -18029,14 +16705,6 @@
 <value>Obrátit pořadí všech tras.</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyTooltip_PathRecorder_DeselectBeacons" xml:space="preserve">
-<value>Zrušit výběr referenčního majáku.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_PathRecorder_AddWaypoint" xml:space="preserve">
-<value>Ruční přidání bodu trasy z aktuální polohy.</value>
-<comment>CZE</comment>
-</data>
 <data name="BlockPropertyTooltip_CollisionAvoidance" xml:space="preserve">
 <value>Tímto povolení se konskruce bude vyhýbat voxelům a dalším konstrukcím.</value>
 <comment>CZE</comment>
@@ -18045,32 +16713,12 @@
 <value>Přesný režim zajištuje že konskruce vždy dosáhne přesného bodu trasy. Navíc donucuje konstrukci k plnému otočení čelem k dalšímu bodu trasy předtím než zrychlé. POZNÁMKA: Toto značně zpomaluje pohyb autopila a je doporučen pouze když je to potřeba a je vyžadován přesný pohyb (např. dokování).</value>
 <comment>CZE</comment>
 </data>
-<data name="BlockPropertyTooltip_RemoteBlockSpeedLimit" xml:space="preserve">
-<value>Maximální povolená rychlost pohybu konstrukce.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_AlignToGravity" xml:space="preserve">
-<value>Pokud je tato možnost zaškrtnuta, bude se kontrukce vždy snažit zůstat zarovnaná s P-Gravitací.</value>
-<comment>CZE</comment>
-</data>
-<data name="BlockPropertyTooltip_MinHeightAboveTerrain" xml:space="preserve">
-<value>Nastavte minimální výšku, kterou má konstrukce udržovat v režimu P-Gravitace.</value>
-<comment>CZE</comment>
-</data>
 <data name="FollowPlayer_FollowMe_Tooltip" xml:space="preserve">
 <value>Toto zapříciný, že daná konstruce se tě pokusí následovat.</value>
 <comment>CZE</comment>
 </data>
 <data name="FollowPlayer_StopFollowing_Tooltip" xml:space="preserve">
 <value>Přestane následovat hráče.</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionAutopilot_Waypoints_Tooltip" xml:space="preserve">
-<value>Seznam trasových bodů, na které se má autopilot přesunout.</value>
-<comment>CZE</comment>
-</data>
-<data name="BasicMissionAutopilot_SetupAction_Tooltip" xml:space="preserve">
-<value>Přidání akcí, které se mají spustit u vybraného bodu trasy.</value>
 <comment>CZE</comment>
 </data>
 <data name="BasicMissionAutopilot_DeleteWaypoint_Tooltip" xml:space="preserve">
@@ -18161,20 +16809,8 @@
 <value>Cedule - Atmosféra</value>
 <comment>CZE</comment>
 </data>
-<data name="DefensiveCombatBlock_NoFleeTo" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Není vybrán žádný bod trasy 'Útěk do'! Vyberte prosím bod trasy[/Color]</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_NoWaypoints" xml:space="preserve">
-<value>[Color=#FFFF0000]CHYBA: Nebyla nalezena žádná sekvence! Nahrajte prosím sekvenci[/Color]</value>
-<comment>CZE</comment>
-</data>
 <data name="PathRecorderComponent_StatusMessage_BehaviorDisabled" xml:space="preserve">
 <value>Stav: Chování deaktivován</value>
-<comment>CZE</comment>
-</data>
-<data name="PathRecorderComponent_StatusMessage_PlayingPathNextWaypoint" xml:space="preserve">
-<value>Stav: Přesun do indexu Rekordéru: {0}</value>
 <comment>CZE</comment>
 </data>
 <data name="AiBlock_StatusMessage_BlockDisabled" xml:space="preserve">
@@ -18191,18 +16827,6 @@
 </data>
 <data name="CombatBlock_Tooltip_Circle" xml:space="preserve">
 <value>Konstrukce se pokusí kroužit či obíhat okolo nepřítele nastavitelnou vzdáleností</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_Tooltip_StayAtRange" xml:space="preserve">
-<value>Konstrukce se bude snažit udržet nepřítele v nastavitelné minimální/maximální vzdálenosti.</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_Tooltip_HitRun" xml:space="preserve">
-<value>Konstrukce bude nepřetržitě útočit na cíl, a když se k němu přiblíží, přeruší útok a stáhne se.</value>
-<comment>CZE</comment>
-</data>
-<data name="CombatBlock_Tooltip_Intercept" xml:space="preserve">
-<value>Konstrukce se pokusí zadržet nepřítele a vrazit do něj.</value>
 <comment>CZE</comment>
 </data>
 <data name="AIBlocks_HudMessage_Error" xml:space="preserve">
@@ -18251,10 +16875,6 @@
 </data>
 <data name="FlightBlock_HitRun_StatusMessage_Retreating" xml:space="preserve">
 <value>Stav: Ustupuje z {0}</value>
-<comment>CZE</comment>
-</data>
-<data name="FlightBlock_PathRecorder_StatusMessage_MovingToWaypoint" xml:space="preserve">
-<value>Stav: Přesouvání na bod záznamu {0}</value>
 <comment>CZE</comment>
 </data>
 <data name="FlightBlock_HitRun_StatusMessage_Attacking" xml:space="preserve">
@@ -18465,10 +17085,6 @@
 <value>Vstup: {0} {1}</value>
 <comment>CZE</comment>
 </data>
-<data name="Plural_Seconds" xml:space="preserve">
-<value>vteřin/-y</value>
-<comment>CZE</comment>
-</data>
 <data name="FollowHome_HomeNotSet" xml:space="preserve">
 <value>[Color=#FFFF0000]CHYBA: Domovská pozice není nastavena, zvolte prosím domovskou pozici![/Color]</value>
 <comment>CZE</comment>
@@ -18646,7 +17262,7 @@
 <comment>CZE</comment>
 </data>
 <data name="FlightMovementBlock_MaxPitchAngle_Tooltip" xml:space="preserve">
-<value>Při přesunu v P-Gravitaci k bodu trasy se může konstrukce naklonit nahoru nebo dolů maximálně o tento úhel</value>
+<value>Při přesunu v přírodní gravitaci k bodu trasy se může konstrukce naklonit nahoru nebo dolů maximálně o tento úhel</value>
 <comment>CZE</comment>
 </data>
 <data name="FlightMovementBlock_MaxRollAngle" xml:space="preserve">
@@ -18654,7 +17270,7 @@
 <comment>CZE</comment>
 </data>
 <data name="FlightMovementBlock_MaxRollAngle_Tooltip" xml:space="preserve">
-<value>Při přesunu v P-Gravitaci k bodu trasy se může konstrukce natočit doleva nebo doprava maximálně o tento úhel</value>
+<value>Při přesunu v přírodní gravitaci k bodu trasy se může konstrukce natočit doleva nebo doprava maximálně o tento úhel</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveDefensiveCombatBlock_TargetLocking_TimeLeft" xml:space="preserve">
@@ -18675,10 +17291,6 @@
 </data>
 <data name="OffensiveDefensiveCombatBlock_CanTargetCharacters" xml:space="preserve">
 <value>Zaměřovat postavy</value>
-<comment>CZE</comment>
-</data>
-<data name="OffensiveCombatBlock_FacingMode" xml:space="preserve">
-<value>Režim nasměrování</value>
 <comment>CZE</comment>
 </data>
 <data name="OffensiveCombatBlock_FacingMode_Tooltip" xml:space="preserve">
@@ -18762,11 +17374,11 @@
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_EventNaturalGravityChanged" xml:space="preserve">
-<value>Změna P-Gravitace</value>
+<value>Změna přírodní gravitace</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_EventNaturalGravity" xml:space="preserve">
-<value>P-Gravitace:</value>
+<value>Přírodní gravitace:</value>
 <comment>CZE</comment>
 </data>
 <data name="CombatBlock_OffensivePatternsTooltip" xml:space="preserve">
@@ -19359,11 +17971,35 @@
 <data name="Afterburner" xml:space="preserve">
 <value>Sprint</value>
 </data>
+<data name="AngleGrinderPrimaryAction" xml:space="preserve">
+<value>Press {0} to dismount target</value>
+</data>
+<data name="AttachToSelectedEntity" xml:space="preserve">
+<value>Attach to selected entity</value>
+</data>
+<data name="BlockPropertyDescription_MotorUsesWheelCommands" xml:space="preserve">
+<value>Indicates whether motor is controlled like a wheel directly from cockpit</value>
+</data>
+<data name="BlockPropertyDescription_Motor_SteerReturnSpeed" xml:space="preserve">
+<value>The wheel's return speed from turning</value>
+</data>
+<data name="BlockPropertyDescription_Motor_SteerSpeed" xml:space="preserve">
+<value>The wheel turn speed</value>
+</data>
+<data name="BlockPropertyDescription_Motor_SuspensionTravel" xml:space="preserve">
+<value>Limits the suspension's travel height.Setting to 0% will effectively lock the suspension.</value>
+</data>
 <data name="BlockPropertyDescription_SpaceBallRestitution" xml:space="preserve">
 <value>Restitution</value>
 </data>
+<data name="BlockPropertyTitle_AssignedPB" xml:space="preserve">
+<value>Assigned Programmable Block</value>
+</data>
 <data name="BlockPropertyTitle_MotorUsesWheelCommands" xml:space="preserve">
 <value>Uses wheel commands</value>
+</data>
+<data name="BlockPropertyTitle_Motor_Damping" xml:space="preserve">
+<value>Damping</value>
 </data>
 <data name="BlockPropertyTitle_Motor_Propulsion" xml:space="preserve">
 <value>Propulsion</value>
@@ -19377,23 +18013,314 @@
 <data name="BlockPropertyTitle_Motor_SuspensionTravel" xml:space="preserve">
 <value>Suspension Travel</value>
 </data>
+<data name="BlockPropertyTitle_ShowSpritesOnScreen" xml:space="preserve">
+<value>Show sprites on screen</value>
+</data>
+<data name="BlockPropertyTitle_TextPanelAccessType" xml:space="preserve">
+<value>Access type</value>
+</data>
+<data name="BlockPropertyTitle_TextPanelShowTextPanel" xml:space="preserve">
+<value>Edit private text</value>
+</data>
+<data name="BlockPropertyTitle_TextPanelTitle" xml:space="preserve">
+<value>Private title</value>
+</data>
 <data name="BlockPropertyTitle_WeldForce" xml:space="preserve">
 <value>Safety lock override</value>
 </data>
 <data name="BlockPropertyTitle_WeldSpeed" xml:space="preserve">
 <value>Safety lock speed</value>
 </data>
+<data name="BlockSize_NotAvailable" xml:space="preserve">
+<value>This block is for {0} only</value>
+</data>
+<data name="ContainerDropSystemBeaconText" xml:space="preserve">
+<value>Container drop</value>
+</data>
+<data name="ContainerDropSystemContainerWasDetected" xml:space="preserve">
+<value>{0} was detected.</value>
+</data>
+<data name="ControlDescLoot" xml:space="preserve">
+<value>Loot dead body</value>
+</data>
+<data name="ControlDescSingleAllMode" xml:space="preserve">
+<value>Single / All weapon mode (cockpit)</value>
+</data>
+<data name="ControlDescSpectatorSpeed" xml:space="preserve">
+<value>Changes spectator speed</value>
+</data>
+<data name="ControlMenuItemLabel_QuickLoad" xml:space="preserve">
+<value>Quick Load / Reconnect</value>
+</data>
+<data name="ControlMenuItemLabel_ShowColorPicker" xml:space="preserve">
+<value>Open Color Picker</value>
+</data>
+<data name="ControlMenuItemLabel_ShowToolbarScreen" xml:space="preserve">
+<value>Show Toolbar Screen</value>
+</data>
+<data name="ControlMenuItemLabel_ScenarioBriefing" xml:space="preserve">
+<value>Show Scenario Briefing</value>
+</data>
+<data name="ControlMenuItemLabel_ShowBuildScreen" xml:space="preserve">
+<value>Open Build Screen</value>
+</data>
+<data name="ControlMenuItemLabel_ShowControlPanel" xml:space="preserve">
+<value>Open Control Panel</value>
+</data>
+<data name="ControlMenuItemLabel_BlockAutoRotate" xml:space="preserve">
+<value>Toggle Block Auto Rotation</value>
+</data>
+<data name="ControlMenuItemLabel_ToggleMultiBlock" xml:space="preserve">
+<value>Toggle Multi-block Building</value>
+</data>
+<data name="ControlMenuItemLabel_Unequip" xml:space="preserve">
+<value>Unequip</value>
+</data>
+<data name="ControlMenuItemLabel_SymmetrySetup" xml:space="preserve">
+<value>Enter Symmetry Setup</value>
+</data>
+<data name="ControlMenuItemLabel_ExitSymmetrySetup" xml:space="preserve">
+<value>Exit Symmetry Setup</value>
+</data>
+<data name="ControlMenuItemLabel_ColorPicker" xml:space="preserve">
+<value>Open Color Picker</value>
+</data>
+<data name="ControlMenuItemLabel_UseSymmetry" xml:space="preserve">
+<value>Toggle Symmetry Mode On/Off:</value>
+</data>
+<data name="ControlName_CubeDefaultMountpoint" xml:space="preserve">
+<value>Reset orientation</value>
+</data>
+<data name="ControlName_PowerSwitchOnOff" xml:space="preserve">
+<value>Local power switch on / off</value>
+</data>
 <data name="CopyObjectDetached" xml:space="preserve">
 <value>Copy object detached</value>
+</data>
+<data name="CreateManageBlueprints" xml:space="preserve">
+<value>Create/manage blueprints</value>
 </data>
 <data name="CubeBuilder_CubeSizeModeChange" xml:space="preserve">
 <value>Press {0} again{1}to change block size.</value>
 </data>
+<data name="CutsceneToolsButton" xml:space="preserve">
+<value>Cutscenes tools</value>
+</data>
+<data name="DefinitionError_BlockWithComputerNotTerminalBlock" xml:space="preserve">
+<value>Definition for {0} contains computer, but the block's TypeId is not a terminal block. This means that the block can be owned, but the ownership cannot be changed via terminal.Hint: Try setting the TypeId to any block that is in the terminal - the simplest case being just TerminalBlock</value>
+</data>
+<data name="Department_ModContributors" xml:space="preserve">
+<value>Mod Contributors</value>
+</data>
+<data name="Description_ButtonPanel" xml:space="preserve">
+<value>Button panels enable you to bind block functions to buttons that can be directly interacted with.When highlighted, press {CONTROL:TERMINAL} to configure the buttons and {CONTROL:USE} to activate them.</value>
+</data>
+<data name="Description_ControlPanel" xml:space="preserve">
+<value>Control panels are simple panels that allow access to grid menus.When highlighted, press {CONTROL:TERMINAL} to interact with the panel. </value>
+</data>
+<data name="Description_GravityGenerator" xml:space="preserve">
+<value>Gravity generators create configurable artificial gravity fields that affect players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. </value>
+</data>
+<data name="Description_GravityGeneratorSphere" xml:space="preserve">
+<value>Spherical gravity generators create a configurable artificial spherical gravity field that affects players and items in an otherwise zero G environment. Has diminishing effects when inside a real gravity field. </value>
+</data>
+<data name="Description_ShipGrinder" xml:space="preserve">
+<value>Ship grinders are utility tools for deconstructing grids. Can be used from a cockpit or turned on manually. Be careful not to get too close while it's active. </value>
+</data>
+<data name="Description_ProgrammableBlock" xml:space="preserve">
+<value>A Programmable Block is a computer that runs scripts to manage ship systems.Scripts can be found on the Workshop or written manually. </value>
+</data>
+<data name="Description_Projector" xml:space="preserve">
+<value>The projector block projects saved blueprints of ships so that they can be built easily.Projection requires a connection with a grid from a projector in order to start construction. </value>
+</data>
+<data name="Description_Sensor" xml:space="preserve">
+<value>Sensors can be set up to activate ship systems when they detects players, ships or asteroids within a limited range. </value>
+</data>
+<data name="Description_FoodDispenser" xml:space="preserve">
+<value>A vending machine used to distract engineers from the hazards of space and boost morale.</value>
+</data>
+<data name="Description_OpenCockpitSmall" xml:space="preserve">
+<value>This control seat can be used to pilot anything from modest rovers to small-scale ships; they're also exceptionally comfortable.</value>
+</data>
+<data name="Description_LabEquipment" xml:space="preserve">
+<value>Whether you’re conducting experiments or you simply want to look smart, lab equipment is perfect for decorating interiors.</value>
+</data>
+<data name="Description_TransparentLCD" xml:space="preserve">
+<value>Transparent LCD panels display pictograms, scripts or customized text.</value>
+</data>
+<data name="Description_Freight" xml:space="preserve">
+<value>Crates left scattered around, indicating hard working engineers have been working in the area.</value>
+</data>
+<data name="Description_Console" xml:space="preserve">
+<value>A console table for decorating interiors, projecting ships and stations in custom scale, as well as displaying pictograms or customized text on its displays.</value>
+</data>
+<data name="Description_CockpitIndustrial" xml:space="preserve">
+<value>Cockpits are used to control your ship.Connect a cockpit with oxygen tanks and O2/H2 generators to supply the cockpit with oxygen. </value>
+</data>
+<data name="DisableTransformation" xml:space="preserve">
+<value>Disable Transformation</value>
+</data>
+<data name="DisplayName_Block_Ammo_Assembler" xml:space="preserve">
+<value>Ammo Assembler</value>
+</data>
+<data name="DisplayName_Block_Base_Components_Assembler" xml:space="preserve">
+<value>Base Assembler Comp.</value>
+</data>
+<data name="DisplayName_Block_Big_Arc_Furnace" xml:space="preserve">
+<value>Big Arc Furnace</value>
+</data>
+<data name="DisplayName_Block_Big_Gas_Centrifugal_Refinery" xml:space="preserve">
+<value>Big Gas Centrifugal Refinery</value>
+</data>
+<data name="DisplayName_Block_Big_Precious_Furnace" xml:space="preserve">
+<value>Big Noble Metals Furnace</value>
+</data>
+<data name="DisplayName_Block_Big_Solids_Refinery" xml:space="preserve">
+<value>Big Solids Refinery</value>
+</data>
+<data name="DisplayName_Block_Construction_Components_Assembler" xml:space="preserve">
+<value>Construction Assembler Comp.</value>
+</data>
+<data name="DisplayName_Block_DebugSphere1" xml:space="preserve">
+<value>Debug spheres 1</value>
+</data>
+<data name="DisplayName_Block_DebugSphere2" xml:space="preserve">
+<value>Debug spheres 2 (no metal)</value>
+</data>
+<data name="DisplayName_Block_DebugSphere3" xml:space="preserve">
+<value>Debug spheres 3 (fixed gloss)</value>
+</data>
+<data name="DisplayName_Block_Electronics_Assembler" xml:space="preserve">
+<value>Electronics Assembler</value>
+</data>
+<data name="DisplayName_BlueprintClass_Solids" xml:space="preserve">
+<value>Solids</value>
+</data>
+<data name="DisplayName_PlanetaryLander" xml:space="preserve">
+<value>PlanetaryLander</value>
+</data>
+<data name="DisplayName_RespawnShip_Assembler" xml:space="preserve">
+<value>Respawn Ship 2</value>
+</data>
+<data name="DisplayName_RespawnShip_EscapePod" xml:space="preserve">
+<value>Escape Pod</value>
+</data>
+<data name="DisplayName_RespawnShip_RefineryAssembler" xml:space="preserve">
+<value>Respawn Ship 3</value>
+</data>
+<data name="DisplayName_RespawnShip_ShipDrill" xml:space="preserve">
+<value>Small Drill Ship</value>
+</data>
+<data name="DisplayName_RewardPunishmentTool" xml:space="preserve">
+<value>GoodAI Bot Feedback</value>
+</data>
+<data name="DisplayName_Scenario_2Planets" xml:space="preserve">
+<value>2 planets</value>
+</data>
+<data name="DisplayName_Scenario_DebugStart" xml:space="preserve">
+<value>Debug fast start</value>
+</data>
+<data name="DisplayName_Scenario_ScaleTest" xml:space="preserve">
+<value>Scale test</value>
+</data>
+<data name="DisplayName_Scenario_StarSystemAligned" xml:space="preserve">
+<value>Star System Aligned</value>
+</data>
+<data name="DisplayName_Scenario_TestStarSystem" xml:space="preserve">
+<value>Test Star System</value>
+</data>
+<data name="DisplayName_VoxelHand_AutoLevel" xml:space="preserve">
+<value>Terrain Auto Level</value>
+</data>
 <data name="EntitySpawnOn" xml:space="preserve">
 <value>Entity Spawn on</value>
 </data>
+<data name="FlaresIntensity" xml:space="preserve">
+<value>Flares intensity</value>
+</data>
+<data name="GPS_Respawn_Location_Name" xml:space="preserve">
+<value>Respawn Pod</value>
+</data>
+<data name="GPS_Respawn_Location_Desc" xml:space="preserve">
+<value>Location of your respawn pod</value>
+</data>
+<data name="GuiLabelVideoOnStart" xml:space="preserve">
+<value>Video on start:</value>
+</data>
 <data name="GuiScenarioEdit_CopyIdsTooltip" xml:space="preserve">
 <value>You can then paste them into "Block destroyed" trigger</value>
+</data>
+<data name="GuiTriggerCaptionNoSpawn" xml:space="preserve">
+<value>Spawn screen time limit</value>
+</data>
+<data name="GuiTriggerNextMissionTooltip" xml:space="preserve">
+<value>You can put a scenario name here (must already exist on local computer to be loaded) or workshop ID number (user does *not* have to have it subscribed in that case).Workshop ID can be seen in the URL link of scenario in question on {0} workshop web.</value>
+</data>
+<data name="GuiTriggerPasteBlocksTooltip" xml:space="preserve">
+<value>Adds blocks copied through button at the end of block terminal screen.</value>
+</data>
+<data name="HelpScreen_ControllerCycleShipToolbar" xml:space="preserve">
+<value>Cycle Ship Toolbar</value>
+</data>
+<data name="HelpScreen_ControllerCycleEmoteToolbar" xml:space="preserve">
+<value>Cycle Emote Toolbar</value>
+</data>
+<data name="HelpScreen_ControllerEmoteToolbarActions" xml:space="preserve">
+<value>Emote Toolbar Actions</value>
+</data>
+<data name="HelpScreen_ControllerLookAround" xml:space="preserve">
+<value>Look Around</value>
+</data>
+<data name="HelpScreen_ControllerLookAround_PassengerSeat" xml:space="preserve">
+<value>Look Around in passenger seat</value>
+</data>
+<data name="HelpScreen_ControllerCharacterSurvival" xml:space="preserve">
+<value>Survival Only Character</value>
+</data>
+<data name="HelpScreen_ControllerCharacterCreative" xml:space="preserve">
+<value>Creative Only Character</value>
+</data>
+<data name="HelpScreen_ControllerBuilding" xml:space="preserve">
+<value>Building</value>
+</data>
+<data name="HelpScreen_ControllerBuildingSurvival" xml:space="preserve">
+<value>Survival Only Building</value>
+</data>
+<data name="HelpScreen_ControllerBuildingCreative" xml:space="preserve">
+<value>Creative Only Building</value>
+</data>
+<data name="HelpScreen_ControllerSecondaryBuildSurvival" xml:space="preserve">
+<value>Switch between Grinder / Building</value>
+</data>
+<data name="HelpScreen_ControllerPlacing" xml:space="preserve">
+<value>Placing Blocks and Blueprints</value>
+</data>
+<data name="HelpScreen_ControllerRotateCw" xml:space="preserve">
+<value>Rotate Clockwise</value>
+</data>
+<data name="HelpScreen_ControllerRotateCcw" xml:space="preserve">
+<value>Rotate Counter-Clockwise</value>
+</data>
+<data name="HelpScreen_ControllerChangeRotationAxis" xml:space="preserve">
+<value>Change Rotation Axis</value>
+</data>
+<data name="HelpScreen_ControllerFurther" xml:space="preserve">
+<value>Move Item Further</value>
+</data>
+<data name="HelpScreen_ControllerHint1" xml:space="preserve">
+<value>You can change "brush" size while recoloring with {GAMEPAD_CONTROL:COLOR_PICKER:MEDIUM_COLOR_BRUSH} and {GAMEPAD_CONTROL:COLOR_PICKER:LARGE_COLOR_BRUSH}</value>
+</data>
+<data name="HelpScreen_ControllerHint2" xml:space="preserve">
+<value>You can change Saturation and Value of the selected color with {GAMEPAD:AXIS_DPAD} while recoloring.</value>
+</data>
+<data name="HelpScreen_ControllerHint3" xml:space="preserve">
+<value>If you make mistake while placing blocks in survival mode you can press {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} to switch to Grinder tool. When you have Grinder equipped you can press {GAMEPAD_CONTROL:BUILD:SECONDARY_TOOL_ACTION} again to switch to the last equipped block.</value>
+</data>
+<data name="HelpScreen_ControllerHint4" xml:space="preserve">
+<value>You can move through complicated windows more easily with Right Stick.</value>
+</data>
+<data name="HelpScreen_ControllerHint5" xml:space="preserve">
+<value>If you are building a symmetrical ship, you can activate Symmetry Building Mode through Systems Radial Menu.</value>
 </data>
 <data name="HelpScreen_ControllerHint6" xml:space="preserve">
 <value>You can modify voxels with Voxel Hand Tool, which can be accesed from System Radial Menu in Creative Mode. You can then place, remove, revert and paint voxels with {GAMEPAD_CONTROL:VOXEL:PRIMARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:SECONDARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:VOXEL_REVERT} and {GAMEPAD_CONTROL:VOXEL:VOXEL_PAINT} respectively.</value>
@@ -19401,11 +18328,53 @@
 <data name="HelpScreen_ControllerHint7" xml:space="preserve">
 <value>Emotes toolbar is predefined and cannot be changed.</value>
 </data>
+<data name="HelpScreen_ControllerHint8" xml:space="preserve">
+<value>Most common actions on Systems Menu have shortcuts.Pros use shortcuts!</value>
+</data>
+<data name="HelpScreen_ControllerHint9" xml:space="preserve">
+<value>When firing a block weapon in ship that has multiple weapons of the same type you can toggle firing a single weapon or all at once with LB+LT</value>
+</data>
 <data name="HelpScreen_ControllerHint10" xml:space="preserve">
 <value>When looking at inventory port with blocks in Build Planner queue, you can add components for queued blocks into production by pressing {GAMEPAD_CONTROL:CHARACTER:BUILD_PLANNER_ADD_COMPONNETS}.</value>
 </data>
 <data name="RadialMenu_Materials" xml:space="preserve">
 <value>Material Radial Menu</value>
+</data>
+<data name="HintKeyboardOnly01Text" xml:space="preserve">
+<value>Did you know? You can toggle off the block auto rotation function with {0}.</value>
+</data>
+<data name="HintKeyboardOnly02Text" xml:space="preserve">
+<value>Did you know? Shift-{0} will directly bring you to the antenna menu.</value>
+</data>
+<data name="Hint03Text" xml:space="preserve">
+<value>You can steer vehicles from a turret if the cockpit is set to main cockpit.Hold Alt to enable mouse control.</value>
+</data>
+<data name="Hint06Text" xml:space="preserve">
+<value>A few well placed decoy blocks can make the difference between a victory and a loss.</value>
+</data>
+<data name="HintKeyboardOnly08Text" xml:space="preserve">
+<value>While holding a blueprint in creative mode, you can use B to align them to a planet's Gravity.</value>
+</data>
+<data name="Hint17Text" xml:space="preserve">
+<value>Using a ship to grind down a container will also pick up whatever was inside of the container.</value>
+</data>
+<data name="HintKeyboardOnly07Text" xml:space="preserve">
+<value>Double clicking items will automatically transfer the whole stack between inventories. </value>
+</data>
+<data name="HintKeyboardOnly06Text" xml:space="preserve">
+<value>Holding Ctrl, Shift or Ctrl-Shift enables you to move stacks of items by 10, 100 and 1000 at the time.</value>
+</data>
+<data name="Hint26Text" xml:space="preserve">
+<value>Did you know?Pressurized environments will maintain optimal temperatures and recharge your health and oxygen.</value>
+</data>
+<data name="Hint05Text" xml:space="preserve">
+<value>Did you know?Your jet pack can match the velocity of nearby grids using relative dampeners.</value>
+</data>
+<data name="Hint02Text" xml:space="preserve">
+<value>Did you know?Wheel suspensions use power based on their power setting.</value>
+</data>
+<data name="Hint01Text" xml:space="preserve">
+<value>Did you know?You can use /f to chat with your faction only or /g for global.</value>
 </data>
 <data name="HudEnergyGroupUtility" xml:space="preserve">
 <value>Utility</value>
@@ -19422,17 +18391,83 @@
 <data name="HudInfoNameInProximity" xml:space="preserve">
 <value>In proximity:</value>
 </data>
+<data name="IngameHelp_Intro_Detail2:Gamepad" xml:space="preserve">
+<value>Press {CONTROL:SYSTEM_RADIAL_MENU} to open the radial menu, navigate to the [Menu] tab and and choose the [Help] option.</value>
+</data>
+<data name="IngameHelp_Movement_Detail3:Gamepad" xml:space="preserve">
+<value>Push {CONTROL:FORWARD} all the way to sprint forward.</value>
+</data>
+<data name="IngameHelp_Camera_Detail3:Gamepad" xml:space="preserve">
+<value>Use {CONTROL:CAMERA_ZOOM_IN} and {CONTROL:CAMERA_ZOOM_OUT} to adjust the distance of third person view.</value>
+</data>
 <data name="INVALID" xml:space="preserve">
 <value>INVALID TEXT WRAPPER ENUM</value>
 </data>
 <data name="Jump_Distance" xml:space="preserve">
 <value>Distance to the proximity of coordinate: </value>
 </data>
+<data name="LaserAntennaOnlyPerm" xml:space="preserve">
+<value>Only receivers set to permanent connection found</value>
+</data>
+<data name="LaserAntennaReceiversListHelp" xml:space="preserve">
+<value>These receivers are in radio range and can report their position.Their current state and target is in parenthesis:idle   laser is idling&gt;&gt; laser is rotating towards other receiver or GPS coordinates?&gt;  searching for other laser at requested GPS coordinates~&gt; contacting other side of link (this includes waiting for other laserto turn its face to me or futile effort to contact receiverwhich is turned off or is not there any more)=&gt; connection is establishedTo connect to lasers not listed here you can connect to coordinates.</value>
+</data>
+<data name="LoadingError_ModifiedOriginalContent" xml:space="preserve">
+<value>Error loading original game content, cannot load file:{0}Original game content has been probably modified, revert any modification and try again. Best way to do it is to delete folder 'SpaceEngineers\Content\Data' and then select in {0} 'Verify local game cache'.Reinstalling the game is not enough, because {0} does not delete unknown files!</value>
+</data>
 <data name="MessageBoxCaptionRespawn" xml:space="preserve">
 <value>You will lose all ownership and spawn as new player!Respawn?</value>
 </data>
+<data name="MessageBoxCaptionVideo" xml:space="preserve">
+<value>Video</value>
+</data>
+<data name="MessageBoxTextAreYouSureEnableOxygen" xml:space="preserve">
+<value>Are you sure you want to enable oxygen? Doing so will cause materials on untouched asteroids to change. This is irreversible.</value>
+</data>
+<data name="MessageBoxTextAreYouSureEnableOxygenPressurization" xml:space="preserve">
+<value>Are you sure you want to enable airtightness? This can have negative influence to performance.</value>
+</data>
+<data name="MessageBoxTextAreYouSureToRemoveAsteroid" xml:space="preserve">
+<value>Are you sure you want to delete selected asteroid? (this can not be undone!)</value>
+</data>
+<data name="MessageBoxTextDoYouWishToPublishScenario" xml:space="preserve">
+<value>Are you sure you want to upload and publish selected scenario on {0} Workshop?Note that by submitting this item, you agree to the workshop terms of service (see {1}).</value>
+</data>
+<data name="MessageBoxTextDoYouWishToUpdateScenario" xml:space="preserve">
+<value>Are you sure you want to upload and overwrite selected scenario on {0} Workshop?</value>
+</data>
+<data name="MessageBoxTextRecommend" xml:space="preserve">
+<value>If you like Space Engineers, you can recommend it to your {0} friends on the following page.Recommendations help to grow the community. Thank you!</value>
+</data>
+<data name="MessageBoxTextRestartNeededAfterLanguageSwitch" xml:space="preserve">
+<value>Some texts might need game restart to be reloaded.</value>
+</data>
+<data name="MessageBoxTextRestartNeededAfterRendererSwitch" xml:space="preserve">
+<value>Applied changes will be visible after restarting the game</value>
+</data>
+<data name="MessageBoxTextScenarioNotFound" xml:space="preserve">
+<value>Next scenario was not found and cannot be loaded.Both {0} and {1} does not exist or contain invalid data.Please contact scenario author to fix it.</value>
+</data>
 <data name="MultiplayerJoinProductionMultipliers" xml:space="preserve">
 <value>Production multipliers</value>
+</data>
+<data name="MyGuiScreenTriggerBlockDestroyed" xml:space="preserve">
+<value>Block destroyed</value>
+</data>
+<data name="MyGuiScreenTriggerNoSpawn" xml:space="preserve">
+<value>No spawn place</value>
+</data>
+<data name="MyGuiScreenTriggerTimeLimit" xml:space="preserve">
+<value>Time limit</value>
+</data>
+<data name="NewVersionAvailable" xml:space="preserve">
+<value>New version of Space Engineers is available!</value>
+</data>
+<data name="NotAvailable" xml:space="preserve">
+<value>Not Available</value>
+</data>
+<data name="NoticeLine_04" xml:space="preserve">
+<value>www.keenswh.com</value>
 </data>
 <data name="NotificationBottleRefill" xml:space="preserve">
 <value>Oxygen refilled from bottles.</value>
@@ -19455,6 +18490,12 @@
 <data name="NotificationHandbrakeFailedToEngage" xml:space="preserve">
 <value>Cannot engage handbrake</value>
 </data>
+<data name="NotificationHelmetOff" xml:space="preserve">
+<value>Helmet Off</value>
+</data>
+<data name="NotificationHelmetOn" xml:space="preserve">
+<value>Helmet On</value>
+</data>
 <data name="NotificationHintJoystickPressToOpenButtonPanel" xml:space="preserve">
 <value>Access control menu to setup panel's buttons</value>
 </data>
@@ -19466,6 +18507,24 @@
 </data>
 <data name="NotificationHintJoystickPressToOpenTerminal" xml:space="preserve">
 <value>Access control menu to open terminal</value>
+</data>
+<data name="NotificationHintLeaveCryoChamber" xml:space="preserve">
+<value>Press {0} to leave cryo chamber</value>
+</data>
+<data name="NotificationHintNoAction" xml:space="preserve">
+<value>Empty</value>
+</data>
+<data name="NotificationHintPressToClimbUpDown" xml:space="preserve">
+<value>Press {0} or {1} to climb up and down</value>
+</data>
+<data name="NotificationHintPressToEnterCockpit" xml:space="preserve">
+<value>Press {0} to enter {1}</value>
+</data>
+<data name="NotificationHintPressToEnterCryochamber" xml:space="preserve">
+<value>Press {0} to enter {1}</value>
+</data>
+<data name="NotificationHintPressToOpenControlPanel" xml:space="preserve">
+<value>Press {0} to open control panel of {1}</value>
 </data>
 <data name="NotificationHintPressToShowScreen" xml:space="preserve">
 <value>Press {0} to show screen</value>
@@ -19494,8 +18553,20 @@
 <data name="NotificationObstructingBlockDuringMerge" xml:space="preserve">
 <value>Cannot merge ships! Some blocks would occupy the same space after the merge!</value>
 </data>
+<data name="NotificationPlayerDemoted_Scripter" xml:space="preserve">
+<value>You have been demoted to Scripter</value>
+</data>
 <data name="NotificationPlayerDemoted_SpaceMaster" xml:space="preserve">
 <value>You have been demoted to Space Master</value>
+</data>
+<data name="NotificationPlayerPromoted_Admin" xml:space="preserve">
+<value>You have been promoted to Administrator</value>
+</data>
+<data name="NotificationPlayerPromoted_Moderator" xml:space="preserve">
+<value>You have been promoted to Observer</value>
+</data>
+<data name="NotificationPlayerPromoted_Scripter" xml:space="preserve">
+<value>You have been promoted to Scripter</value>
 </data>
 <data name="NotificationPlayerPromoted_SpaceMaster" xml:space="preserve">
 <value>You have been promoted to Space Master</value>
@@ -19521,8 +18592,20 @@
 <data name="NotificationUsingWeaponType" xml:space="preserve">
 <value>Using {0}</value>
 </data>
+<data name="NotificationWheelNotPlaced" xml:space="preserve">
+<value>Wheel could not be placed.</value>
+</data>
 <data name="Notification_BlueprintScriptRemoved" xml:space="preserve">
 <value>Some scripts were removed from this blueprint because you do not have Scripter permissions</value>
+</data>
+<data name="Notification_ControllableBlockIsDamaged" xml:space="preserve">
+<value>{0} is damaged!</value>
+</data>
+<data name="Notification_NoControl" xml:space="preserve">
+<value>Someone else is using this ship!</value>
+</data>
+<data name="Notification_NoControlAutoPilot" xml:space="preserve">
+<value>Autopilot enabled</value>
 </data>
 <data name="Notification_NoControlLowerPriority" xml:space="preserve">
 <value>Grid control forbidden.Seat/Remote with higher priority is already occupied.</value>
@@ -19532,6 +18615,12 @@
 </data>
 <data name="Notification_NoControlStation" xml:space="preserve">
 <value>Someone else is using this station!</value>
+</data>
+<data name="Notification_WheelNotPlaced" xml:space="preserve">
+<value>Wheel could not be placed. Try to remove any obstacles first.</value>
+</data>
+<data name="Number" xml:space="preserve">
+<value>Number</value>
 </data>
 <data name="Oxygen_Disabled" xml:space="preserve">
 <value>Oxygen or Airtightness disabled in world settings!</value>
@@ -19551,8 +18640,14 @@
 <data name="ProgrammableBlock_DefaultScript_Save" xml:space="preserve">
 <value>Called when the program needs to save its state. Usethis method to save your state to the Storage fieldor some other means. This method is optional and can be removed if notneeded.</value>
 </data>
+<data name="ProgrammableBlock_DeleteScriptDialogText" xml:space="preserve">
+<value>Are you sure you want to delete this script ?</value>
+</data>
 <data name="ProgrammableBlock_Editor_BrowseWorkshop_Tooltip" xml:space="preserve">
 <value>Open screen with list of available scripts</value>
+</data>
+<data name="ProgrammableBlock_Editor_CharacterLimit" xml:space="preserve">
+<value>Character Limit :</value>
 </data>
 <data name="ProgrammableBlock_Editor_CompilationFailed" xml:space="preserve">
 <value>Compilation failed</value>
@@ -19560,8 +18655,14 @@
 <data name="ProgrammableBlock_Editor_NotSupported" xml:space="preserve">
 <value>Script compilation and execution is not supported.</value>
 </data>
+<data name="ProgrammableBlock_Editor_CompilationFailedErrorFormat" xml:space="preserve">
+<value>Line {0} : {1}</value>
+</data>
 <data name="ProgrammableBlock_Editor_HelpTooltip" xml:space="preserve">
 <value>Opens workshop page with description about in-game programming</value>
+</data>
+<data name="ProgrammableBlock_Editor_LineNo" xml:space="preserve">
+<value>Line : {0} / {1}</value>
 </data>
 <data name="ProgrammableBlock_Editor_RememberCode_Tooltip" xml:space="preserve">
 <value>Remember current script and leave editor window open</value>
@@ -19596,6 +18697,9 @@
 <data name="ProgrammableBlock_ScriptNotFound" xml:space="preserve">
 <value>Cannot find the script file</value>
 </data>
+<data name="ProgrammableBlock_ScriptsScreenTitle" xml:space="preserve">
+<value>Scripts Screen</value>
+</data>
 <data name="QuickstartDX11NotAvailable" xml:space="preserve">
 <value>It seems that your system does not support DirectX 11, game will load scenario with no planets</value>
 </data>
@@ -19607,6 +18711,48 @@
 </data>
 <data name="QuickstartSelectDifferent" xml:space="preserve">
 <value>Please select scenario with no planets</value>
+</data>
+<data name="Quote07Text" xml:space="preserve">
+<value>A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.</value>
+</data>
+<data name="Quote17Text" xml:space="preserve">
+<value>If I were again beginning my studies, I would follow the advice of Plato and start with mathematics.</value>
+</data>
+<data name="Quote19Text" xml:space="preserve">
+<value>If anybody says he can think about quantum problems without getting giddy, that only shows he has not understood the first thing about them.</value>
+</data>
+<data name="Quote22Text" xml:space="preserve">
+<value>A great pleasure in life is doing what people say you cannot do.</value>
+</data>
+<data name="Quote23Text" xml:space="preserve">
+<value>Genius is one percent inspiration and ninety-nine percent perspiration.</value>
+</data>
+<data name="Quote25Text" xml:space="preserve">
+<value>Any sufficiently advanced technology is indistinguishable from magic.</value>
+</data>
+<data name="Quote26Text" xml:space="preserve">
+<value>When you want to know how things really work, study them when they're coming apart.</value>
+</data>
+<data name="Quote27Text" xml:space="preserve">
+<value>Engineers like to solve problems. If there are no problems handily available, they will create their own problems.</value>
+</data>
+<data name="Quote28Text" xml:space="preserve">
+<value>One man's "magic" is another man's engineering. "Supernatural" is a null word.</value>
+</data>
+<data name="Quote29Text" xml:space="preserve">
+<value>A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering.</value>
+</data>
+<data name="Quote31Text" xml:space="preserve">
+<value>A space engineer is a professional practitioner who uses scientific knowledge, mathematics, physics, astronomy, propulsion technology, materials science, structural analysis, manufacturing and ingenuity to solve practical problems in space.</value>
+</data>
+<data name="Quote32Text" xml:space="preserve">
+<value>Space engineers design materials, structures, and systems while considering the limitations imposed by practicality, regulation, safety, ethicality and cost.</value>
+</data>
+<data name="Quote33Text" xml:space="preserve">
+<value>Space engineers are grounded in applied sciences, and their work in research and development is distinct from the basic research focus of space scientists.</value>
+</data>
+<data name="Quote34Text" xml:space="preserve">
+<value>In war times, space engineering involves military engineering as well. Such tasks typically include construction and demolition tasks under combat conditions.</value>
 </data>
 <data name="Quote35Text" xml:space="preserve">
 <value>Space engineers are in a high demand, especially since the Second Space Race of 2029.</value>
@@ -19620,6 +18766,15 @@
 <data name="Quote39Text" xml:space="preserve">
 <value>Scientists investigate that which already is; engineers create that which has never been.</value>
 </data>
+<data name="Quote40Author" xml:space="preserve">
+<value>U.S. Army Ordnance</value>
+</data>
+<data name="Quote40Text" xml:space="preserve">
+<value>Tracers work both ways.</value>
+</data>
+<data name="Quote42Text" xml:space="preserve">
+<value>The only time you have too much fuel is when you're on fire.</value>
+</data>
 <data name="Quote45Text" xml:space="preserve">
 <value>To an engineer, good enough means perfect. With an artist, there's no such thing as perfect.</value>
 </data>
@@ -19628,6 +18783,12 @@
 </data>
 <data name="Quote50Text" xml:space="preserve">
 <value>To go places and do things that have never been done before - that's what living is all about.</value>
+</data>
+<data name="Quote52Text" xml:space="preserve">
+<value>To be the first to enter the cosmos, to engage, single-handed, in an unprecedented duel with nature - could one dream of anything more?</value>
+</data>
+<data name="Quote53Text" xml:space="preserve">
+<value>The path of a cosmonaut is not an easy, triumphant march to glory. You have to get to know the meaning not just of joy but also of grief, before being allowed in the spacecraft cabin.</value>
 </data>
 <data name="Quote56Text" xml:space="preserve">
 <value>No amount of experimentation can ever prove me right; a single experiment can prove me wrong.</value>
@@ -19674,6 +18835,9 @@
 <data name="RemoteAccess_Description" xml:space="preserve">
 <value>You can remotely access grids in the world using the antenna in your suit. Make sure your antenna is enabled.(Check the antenna symbol in the bottom left corner of the in-game HUD)To access a grid, it must be powered and have an antenna. You also need to stay within the antenna broadcast range to be able to access it.You can control grids from a distance by equipping them with a remote control block.</value>
 </data>
+<data name="RespawnShip" xml:space="preserve">
+<value>Respawn Ship</value>
+</data>
 <data name="PlanetRespawnPod" xml:space="preserve">
 <value>{0} Drop Pod</value>
 </data>
@@ -19701,11 +18865,17 @@
 <data name="ScenarioProgressPositionReached" xml:space="preserve">
 <value>Get closer than {3:0} meters to [{0:0},{1:0},{2:0}]</value>
 </data>
+<data name="ScenarioProgressSomeoneWon" xml:space="preserve">
+<value>Somebody else wins the scenario. Possible winners:</value>
+</data>
 <data name="ScenarioProgressTimeLimit" xml:space="preserve">
 <value>Scenario time limit {0} minutes</value>
 </data>
 <data name="ScreenCaptionAISchool" xml:space="preserve">
 <value>AI School Scenario</value>
+</data>
+<data name="ScreenCaptionVideoOptions" xml:space="preserve">
+<value>Video options</value>
 </data>
 <data name="ScreenCaptionWorldGeneratorSettings" xml:space="preserve">
 <value>World generator settings</value>
@@ -19718,6 +18888,9 @@
 </data>
 <data name="ScreenDebugAdminMenu_DepowerTrash" xml:space="preserve">
 <value>Depower trash</value>
+</data>
+<data name="ScreenDebugAdminMenu_EntityList" xml:space="preserve">
+<value>Entity List</value>
 </data>
 <data name="ScreenDebugAdminMenu_MedbayNotification" xml:space="preserve">
 <value>Removing ships or stations with Respawn point can be dangerous, because you can remove players' only respawn points, be careful</value>
@@ -19736,6 +18909,12 @@
 </data>
 <data name="ScreenDebugAdminMenu_SafeZones_FilterContained" xml:space="preserve">
 <value>Add Contained</value>
+</data>
+<data name="ScreenDebugAdminMenu_SortOptions" xml:space="preserve">
+<value>Sort Options</value>
+</data>
+<data name="ScreenDebugAdminMenu_StopAll" xml:space="preserve">
+<value>Stop All Entities</value>
 </data>
 <data name="ScreenDebugAdminMenu_Clear" xml:space="preserve">
 <value>Clear selected</value>
@@ -19760,6 +18939,9 @@
 </data>
 <data name="ScreenDebugSpawnMenu_AsteroidGenerationCanTakeLong" xml:space="preserve">
 <value>Generating asteroids can take a long time!</value>
+</data>
+<data name="ScreenDebugSpawnMenu_Asteroids" xml:space="preserve">
+<value>Asteroids</value>
 </data>
 <data name="ScreenDebugSpawnMenu_AsteroidSurfaceMaterial" xml:space="preserve">
 <value>Surface Material</value>
@@ -19836,11 +19018,23 @@
 <data name="ScriptingToolsTransformations" xml:space="preserve">
 <value>Scripting Tools - Transformations</value>
 </data>
+<data name="SelectedEntity" xml:space="preserve">
+<value>Selected Entity</value>
+</data>
+<data name="SelectedTrigger" xml:space="preserve">
+<value>Selected Trigger</value>
+</data>
 <data name="ServerDetails_BlockTypeLimits" xml:space="preserve">
 <value>Block Type Limits</value>
 </data>
+<data name="ServerDetails_ServerManagement" xml:space="preserve">
+<value>Server Management</value>
+</data>
 <data name="SetTriggerSizeDialog" xml:space="preserve">
 <value>Set trigger size dialog</value>
+</data>
+<data name="SharedBlueprintQuestion" xml:space="preserve">
+<value>Do you want to open this blueprint in {0} workshop?</value>
 </data>
 <data name="SpectatorControls_Free_Desc" xml:space="preserve">
 <value>Free spectator. You can still shoot and do actions with controlled object</value>
@@ -19917,6 +19111,15 @@
 <data name="ToolTipItemFilter_AmmoMagazineInput" xml:space="preserve">
 <value>Any ammo magazine accepted by {0}</value>
 </data>
+<data name="ToolTipItemFilter_AnyIngot" xml:space="preserve">
+<value>Any kind of ingot</value>
+</data>
+<data name="ToolTipItemFilter_AnyOre" xml:space="preserve">
+<value>Any kind of ore</value>
+</data>
+<data name="ToolTipItemFilter_AssembledItems" xml:space="preserve">
+<value>Any item produced by assembler</value>
+</data>
 <data name="ToolTipItemFilter_GenericProductionBlockInput" xml:space="preserve">
 <value>Any item accepted by {0}</value>
 </data>
@@ -19967,6 +19170,9 @@
 </data>
 <data name="ToolTipMods_Search" xml:space="preserve">
 <value>Search for a mod by typing its name</value>
+</data>
+<data name="ToolTipNewGameCustomGame_Advanced" xml:space="preserve">
+<value>Open advanced world configuration screen</value>
 </data>
 <data name="ToolTipNewGame_WorkshopContent" xml:space="preserve">
 <value>Choose one of your subscribed workshop items or browse for more</value>
@@ -20078,6 +19284,15 @@
 </data>
 <data name="ToolTipWorldSettingsMaxBlocksPerPlayer" xml:space="preserve">
 <value>Maximum number of blocks each player can build. Destroyed blocks are refunded.</value>
+</data>
+<data name="ToolTipWorldSettingsModeCreative" xml:space="preserve">
+<value>Unlimited resources, instant building, no death</value>
+</data>
+<data name="ToolTipWorldSettingsModeSurvival" xml:space="preserve">
+<value>Realistic management of resources, realistic inventory capacity, death and respawn</value>
+</data>
+<data name="ToolTipWorldSettingsOnlineMode" xml:space="preserve">
+<value>Visibility of your game.Offline: Game runs in offline mode and does not require internet connectionPrivate: Only invited players can joinFriends: Only your {0} friends can joinPublic: Any {0} player can join</value>
 </data>
 <data name="ToolTipWorldSettingsPermanentDeath" xml:space="preserve">
 <value>Enables players losing everything if they dieand don't have any available respawn points.</value>
@@ -20343,17 +19558,239 @@
 <data name="IngameHelp_RefiningOre_Detail1" xml:space="preserve">
 <value>Ore and scrap metal can be refined into ingots in a powered Refinery. Ingots can be used to produce components, tools and weapons.Refineries will automatically pull resources and refine them.</value>
 </data>
+<data name="IngameHelp_PowerTip_Detail2" xml:space="preserve">
+<value>*Tip:* Turn off blocks that you do not need to save power.</value>
+</data>
+<data name="IngameHelp_PowerTip_Detail3" xml:space="preserve">
+<value>*Tip:* Use [Ctrl+]{CONTROL:TOGGLE_REACTORS} to also turn off all connected grids.</value>
+</data>
+<data name="IngameHelp_PowerTip_Detail3:Gamepad" xml:space="preserve">
+<value>*Tip:* Use {CONTROL:TOGGLE_REACTORS_ALL} to also turn off all connected grids.</value>
+</data>
+<data name="ScreenBlueprintsRew_ReplaceMessage1" xml:space="preserve">
+<value>Blueprint/script with the name "</value>
+</data>
+<data name="ScreenBlueprintsRew_ReplaceMessage2" xml:space="preserve">
+<value>" already exists. Do you want to replace it?</value>
+</data>
+<data name="ScreenBlueprintsRew_Tooltip_ButEdit" xml:space="preserve">
+<value>Open tab for editing blueprint/script information</value>
+</data>
 <data name="ScreenBlueprintsRew_Tooltip_SendToPlayer" xml:space="preserve">
 <value>Send blueprint to other players (Workshop Blueprints only)</value>
+</data>
+<data name="ScreenBlueprintsRew_ScreenBeingTaken" xml:space="preserve">
+<value>Screenshot is already being taken at this moment</value>
+</data>
+<data name="ScreenBlueprintsRew_ScreenBeingTaken_Caption" xml:space="preserve">
+<value>Screenshoting in progress</value>
+</data>
+<data name="ChatBotUnavailable" xml:space="preserve">
+<value>I am sorry, I'm not available right now. Please visit https://support.keenswh.com/ or try again later.</value>
+</data>
+<data name="ChatBot_Generic" xml:space="preserve">
+<value>Hello, Engineer! I am Good.bot. What can I help you with?</value>
+</data>
+<data name="ChatBot_Rude" xml:space="preserve">
+<value>That was not very nice! In case of any issues, please contact us at https://support.keenswh.com/</value>
+</data>
+<data name="ChatBotMisunderstanding0" xml:space="preserve">
+<value>Apologies, I am unable to answer the question. I am still learning. For more help, please visit https://support.keenswh.com/</value>
+</data>
+<data name="Description_FAQ_Electricity" xml:space="preserve">
+<value>Electricity can be produced through reactors or solar panels and stored in batteries. It is transferred automatically through all connected blocks. Many blocks require electricity to function. </value>
+</data>
+<data name="Description_FAQ_Asteroids" xml:space="preserve">
+<value>Asteroids can be found in space. How many there are depends on the server or world settings. Most asteroids will have ores that can be mined. </value>
+</data>
+<data name="Description_FAQ_Gravity" xml:space="preserve">
+<value>There is gravity on planets. Virtual Gravity can also be produced with the gravity generator block. Virtual gravity has no effect on grids unless virtual mass blocks are implemented. </value>
+</data>
+<data name="Description_FAQ_Oxygen" xml:space="preserve">
+<value>Some planets have breathable atmospheres. Oxygen can be produced from ice with a O2/H2 generator or from an oxygen farm. Oxygen can be stored in oxygen tanks and bottles.</value>
+</data>
+<data name="Description_FAQ_Damage" xml:space="preserve">
+<value>Damage can be inflicted by using weapons like rocket launchers or gatling turrets or hand held rifles. Grids can also be damaged by impacts with other grids or voxels. </value>
+</data>
+<data name="Description_FAQ_Repair" xml:space="preserve">
+<value>Use your welder to repair damaged blocks. Blocks that have been completely destroyed need to be replaced or you can use a projector to repair faster. </value>
+</data>
+<data name="Description_FAQ_Welding" xml:space="preserve">
+<value>Use your welder on blocks to build and repair. Welding requires power drawn from your suit and components for the block. You can also install welders on ships. Use RMB to add missing components from the block you are looking at to your build planner.</value>
+</data>
+<data name="Description_FAQ_Mining" xml:space="preserve">
+<value>You can collect ore by using your drill on voxels like planets or asteroids. Your drill has a short-range detector that shows you the location of ores. </value>
+</data>
+<data name="Description_FAQ_Healing" xml:space="preserve">
+<value>You can heal yourself at a medical room or survival kit if you are injured. Hold {CONTROL:USE} to use the console. </value>
+</data>
+<data name="Description_FAQ_Recharging" xml:space="preserve">
+<value>You can recharge your suit power in medical rooms, survival kits or by sitting in any kind of seat or cockpit as long as it is powered.</value>
+</data>
+<data name="Description_FAQ_Grinding" xml:space="preserve">
+<value>You can use a grinder to grind down blocks and deconstruct them. Components are salvaged and transferred into your inventory while grinding. </value>
+</data>
+<data name="Description_FAQ_Hydrogen" xml:space="preserve">
+<value>Hydrogen is a fuel used for your suit's jetpack and hydrogen thrusters. Hydrogen is produced from ice in a O2/H2 generator. You can story hydrogen in hydrogen tanks and bottles. </value>
+</data>
+<data name="Description_FAQ_Jetpack" xml:space="preserve">
+<value>Your jetpack requires hydrogen. You can produce hydrogen from ice in a O2/H2 generator. Refill bottles at the generator or connect the generator with a medical room or survival kit to recharge your hydrogen directly. </value>
+</data>
+<data name="Description_FAQ_MagneticBoots" xml:space="preserve">
+<value>Magnetic boots only work in zero gravity environments. They enable you to stick to surfaces like asteroids or ships. Press {CONTROL:THRUSTS} to disable your jetpack and enable your magnetic boots when in a standing position on a surface. </value>
+</data>
+<data name="Description_FAQ_Ore" xml:space="preserve">
+<value>Ore refers to several types of minerals that can be refined into ingots using a refinery. Ores can be found on planets and asteroids. Look for dark spots on planets to find ore. </value>
+</data>
+<data name="Description_FAQ_Ice" xml:space="preserve">
+<value>Ice is essential to produce oxygen and hydrogen and can be found on planets and inside asteroids. </value>
+</data>
+<data name="Description_FAQ_Voxel" xml:space="preserve">
+<value>Voxels are physical bodies such as asteroids or planets. Use your drill to bore into voxels and alter their shape. Use voxel hands in creative mode to create your own shapes. </value>
+</data>
+<data name="Description_FAQ_Grid" xml:space="preserve">
+<value>Grids are collections of blocks that shape stations or ships. </value>
+</data>
+<data name="Description_FAQ_Clang" xml:space="preserve">
+<value>Hail Clang!</value>
+</data>
+<data name="Description_FAQ_Visor" xml:space="preserve">
+<value>Your visor can be opened and closed by pressing {CONTROL:HELMET}. Don't open your visor in space or you will suffocate!</value>
+</data>
+<data name="Description_FAQ_RoomPressure" xml:space="preserve">
+<value>Room pressure is displayed in a vent menu. A room has to be sealed in order to pressurized. </value>
+</data>
+<data name="Description_FAQ_Thrusters" xml:space="preserve">
+<value>Thrusters allow your ships to move and fly. Make sure to use the right thrusters in the appropriate environments. Atmospheric thrusters will not work in space!</value>
+</data>
+<data name="Description_FAQ_ShipMovement" xml:space="preserve">
+<value>Press {CONTROL:TOGGLE_REACTORS}  to turn power off and on. If you are wondering if you have enough power, check if there is fuel in your reactors or if your batteries are charged.</value>
+</data>
+<data name="Description_FAQ_RoverMovement" xml:space="preserve">
+<value>Press {CONTROL:LANDING_GEAR} to disable the brakes and landing gears or {CONTROL:TOGGLE_REACTORS} to turn the power off and on. You can check if there is fuel in your reactors or if your batteries are charged.</value>
+</data>
+<data name="Description_FAQ_Planets" xml:space="preserve">
+<value>Planets can be seen from any distance. If you do not see planets then they are likely not part of this world. </value>
+</data>
+<data name="Description_FAQ_Pirates" xml:space="preserve">
+<value>Protect yourself against pirates and other players by building armor, turrets and decoys. </value>
+</data>
+<data name="Description_FAQ_Fuel" xml:space="preserve">
+<value>Reactors use refined uranium ingots for fuel. Your jetpack and hydrogen thrusters require hydrogen. </value>
+</data>
+<data name="Description_FAQ_PCU" xml:space="preserve">
+<value>PCU stands for Performance Cost Unit.  Building and removing blocks cost and refunds PCU. </value>
+</data>
+<data name="Description_FAQ_Ownership" xml:space="preserve">
+<value>You can own blocks when you are the one who added the computer components. You can choose to share your blocks with your faction or anybody else. </value>
+</data>
+<data name="Description_FAQ_Factions" xml:space="preserve">
+<value>Factions are a way to play with other players by sharing your blocks, which can be used by other players. Anyone can set up factions. </value>
+</data>
+<data name="Description_FAQ_Bottles" xml:space="preserve">
+<value>Hydrogen and oxygen bottles can be produced in assemblers and refilled in O2/H2 generators. </value>
+</data>
+<data name="Description_FAQ_Help" xml:space="preserve">
+<value>Press {CONTROL:HELP_SCREEN} to find additional help or just ask me.</value>
+</data>
+<data name="Description_FAQ_SaveBlueprints" xml:space="preserve">
+<value>You can save ship designs in blueprints by aiming at them and press Ctrl-B. Press F10 to open your menu of blueprints. </value>
+</data>
+<data name="Description_FAQ_Lost" xml:space="preserve">
+<value>If you find yourself lost, you can always press {CONTROL:SUICIDE} to respawn at your nearest respawn point. </value>
+</data>
+<data name="Description_FAQ_Mass" xml:space="preserve">
+<value>Mass indicates the weight of your ship. Filling cargo containers with ores or components can severely impact the performance of your ship. </value>
+</data>
+<data name="Description_FAQ_Skins" xml:space="preserve">
+<value>Skins can be found in survival mode by finding the drop pods and activating their buttons. Use a medical room to customize your character. </value>
+</data>
+<data name="Description_FAQ_ShipInventories" xml:space="preserve">
+<value>Be sure to connect individual inventories using conveyors. Some items are too large to pass through small conveyor tubes. Press {CONTROL:INVENTORY} to open your personal inventory. </value>
+</data>
+<data name="Description_FAQ_ShipBuilding" xml:space="preserve">
+<value>The minimum requirements for a ship are a cockpit, gyroscope, one thruster in each direction and some form of power supply, such as a reactor or a battery. </value>
+</data>
+<data name="Description_FAQ_Script" xml:space="preserve">
+<value>Scripts might be disabled in world settings. </value>
+</data>
+<data name="Description_FAQ_GridMovement" xml:space="preserve">
+<value>Make sure it has thrusters pointing in the direction it is moving and some source of power. </value>
+</data>
+<data name="Description_FAQ_StopMoving" xml:space="preserve">
+<value>Be sure to enable your jetpack with {CONTROL:THRUSTS} and turn on your dampeners with {CONTROL:DAMPING}. </value>
+</data>
+<data name="Description_FAQ_RelativeDampeners" xml:space="preserve">
+<value>Relative dampeners match your speed and direction with a moving target. Press [Ctrl-{CONTROL:DAMPING}] while looking at your target. You need to be within 100 meters for it to work. </value>
 </data>
 <data name="Description_FAQ_InertiaDampeners" xml:space="preserve">
 <value>Inertia dampeners will slow movements when there is no input and can be toggled with {CONTROL:DAMPING}. Relative dampeners will match your speed with that of a moving object and can be toggled with [Ctrl-{CONTROL:DAMPING}]. Both need thrusters in all directions to work effectively</value>
 </data>
+<data name="Description_FAQ_Flashlight" xml:space="preserve">
+<value>You can toggle your flashlight with {CONTROL:HEADLIGHTS}. Flashlights consume suit power and will not work when depleted. </value>
+</data>
+<data name="Description_FAQ_FindOtherPlayers" xml:space="preserve">
+<value>Look for factions that allow anyone to join or ask around if you can group up with players. Look for antenna signals that could indicate other players. </value>
+</data>
+<data name="Description_FAQ_HowToPlayGame" xml:space="preserve">
+<value>Can you be more specific, please?</value>
+</data>
+<data name="Description_FAQ_Thing" xml:space="preserve">
+<value>Have you tried that other thing?</value>
+</data>
+<data name="Description_FAQ_ShipWontFly" xml:space="preserve">
+<value>Does your ship have enough power? Does it have enough thrusters? Are your dampeners turned on?</value>
+</data>
+<data name="Description_FAQ_WhatIsABlock" xml:space="preserve">
+<value>Blocks are what all ships and stations are made off. There are two sizes: large and small. You can find blocks in the menu by pressing {CONTROL:BUILD_SCREEN}. </value>
+</data>
+<data name="Description_FAQ_MirrorMode" xml:space="preserve">
+<value>Mirror mode only works in creative mode and allows symmetric building. Press {CONTROL:SYMMETRY_SWITCH} to cycle through all six planes of mirrors. Use LMB button to confirm placement and RMB to remove one. Press {CONTROL:USE_SYMMETRY} to temporarily disable mirror mode. </value>
+</data>
+<data name="Description_FAQ_ProtectingMyself" xml:space="preserve">
+<value>Hide your bases underground or inside asteroids. Build turrets and decoys to defend against attacks. Build hidden medical rooms and spread them out to maintain ways to respawn when attacked from inside you base.</value>
+</data>
+<data name="Description_FAQ_LosingHealth" xml:space="preserve">
+<value>Are you suffocating? Standing in front of a thruster or perhaps you came too close to an active ship tool?</value>
+</data>
+<data name="Description_FAQ_VoxelHands" xml:space="preserve">
+<value>Voxel hands is a tool only available in creative mode, which allows you to add and sculpt voxel shapes. It can be enabled in world settings. press K to open voxel hand menu while equiped. </value>
+</data>
+<data name="Description_FAQ_AirTightnessPressure" xml:space="preserve">
+<value>A room needs to be airtight before it can be filled with oxygen by an air vent. Make sure there are no holes exposed to space and that all doors are closed. </value>
+</data>
 <data name="Description_FAQ_Components" xml:space="preserve">
 <value>Components are required to construct blocks. They can be produced in assemblers from ingots. Placing a block in survival mode always requires the first component. </value>
 </data>
+<data name="Description_FAQ_Station" xml:space="preserve">
+<value>A station is a grid that is static and directly attached to voxels like planets or asteroids. Some stations can fly, but only have enough thrusters for basic movement. </value>
+</data>
+<data name="Description_FAQ_Ship" xml:space="preserve">
+<value>A ship is a grid that is designed to move. It has thrusters in each direction, a gyroscope for orientation, a cockpit and some source of power like batteries or reactors. Ships can be designed for specific tasks like building or fighting. </value>
+</data>
+<data name="Description_FAQ_CarRover" xml:space="preserve">
+<value>A rover is a vehicle that uses wheels to move instead of thrusters, which are used to fly. Rovers are usually cheap to build, but often slow and an easy target for other players. </value>
+</data>
+<data name="Description_FAQ_GPSSignals" xml:space="preserve">
+<value>GPS signals can be disabled or created in the Coms tab. Double-click a GPS signal to disable it. GPS signals can be stored in LCD panels or broadcasted in chat. Be careful not to attract enemies.</value>
+</data>
+<data name="Description_FAQ_GridSize" xml:space="preserve">
+<value>There are 2 grid sizes available that are simply referred to as small and large. You can switch the grid size of a block by reselecting the same block on your toolbar. Not all blocks are available in both grid sizes. </value>
+</data>
+<data name="Description_FAQ_Suit" xml:space="preserve">
+<value>Your suit keeps you alive when you are in space. Your health, hydrogen, oxygen and power supplies are displayed on your HUD. Your suit is equipped with magnetic boots to walk in space and a jetpack to fly. </value>
+</data>
+<data name="Description_FAQ_HandTools" xml:space="preserve">
+<value>There are 3 hand tools. A welder builds and repairs. A grinder salvages and deconstructs, while a drill is used to find ore, collect ore and dig tunnels. </value>
+</data>
+<data name="Description_FAQ_Inventory" xml:space="preserve">
+<value>Your inventory can be accessed by pressing {CONTROL:INVENTORY}. Drag items outside of your inventory screen to drop them. Pick up items by pressing {CONTROL:PICK_UP}.</value>
+</data>
 <data name="Description_FAQ_ShipToolsWeapons" xml:space="preserve">
 <value>Tools can be added to your toolbars by pressing {CONTROL:BUILD_SCREEN}. Drag and drop or right-click tools to automatically add them to your toolbar. This works the same for ship functions when you are inside a cockpit. </value>
+</data>
+<data name="Description_FAQ_Ingots" xml:space="preserve">
+<value>Ingots are produced in refineries from ores and are essential to produce components. </value>
 </data>
 <data name="Description_FAQ_Armor" xml:space="preserve">
 <value>Armor is used to design the structure of ships and stations, and acts as protection for important blocks. Light armor is cheap and enables ships to be fast. Heavy armor offers more protection for ships, but it affects these vehicles' speed. </value>
@@ -22683,6 +22120,42 @@
 <data name="BasicMissionBlock_SelectMission_Tooltip" xml:space="preserve">
 <value>Follow Home - Allows you to select a home beacon or GPS that the grid should follow.Can be set up to wander while it is within range.Follow Player - The grid will follow the player who presses the “Follow Me” button.Autopilot - Allows the grid to move to GPS locations and patrol/circle between several locations.Patrol and Circle requires 2 GPS locations!</value>
 </data>
+<data name="LeadIndicator_OutOfWeaponRange" xml:space="preserve">
+<value>Out of weapon range</value>
+</data>
+<data name="PathRecorderBlock_FarAwayBeacon" xml:space="preserve">
+<value>Faraway beacon</value>
+</data>
+<data name="FollowPlayer_FollowDistance_Tooltip" xml:space="preserve">
+<value>The grid will try to stay within this distance of the player it is following.</value>
+</data>
+<data name="FollowHome_PositionList" xml:space="preserve">
+<value>Home List</value>
+</data>
+<data name="FollowHome_PositionList_Tooltip" xml:space="preserve">
+<value>Available home positions.</value>
+</data>
+<data name="FollowHome_SetHome_Title" xml:space="preserve">
+<value>Set Current Position</value>
+</data>
+<data name="FollowHome_SetHome_Tooltip" xml:space="preserve">
+<value>Creates a GPS at the current location and selects it as the home position.</value>
+</data>
+<data name="FollowHome_MinRange_Title" xml:space="preserve">
+<value>Min. Range from Home</value>
+</data>
+<data name="FollowHome_MinRange_Tooltip" xml:space="preserve">
+<value>Set the min range away from the home position. The grid will stay between min and max range.</value>
+</data>
+<data name="FollowHome_MaxRange_Title" xml:space="preserve">
+<value>Max. Range from Home</value>
+</data>
+<data name="FollowHome_MaxRange_Tooltip" xml:space="preserve">
+<value>Set the max range away from the home position. The grid will stay between min and max range.</value>
+</data>
+<data name="DefensiveCombatBlock_DefendAgainst" xml:space="preserve">
+<value>Defend Against</value>
+</data>
 <data name="DefensiveCombatBlock_DefendAgainst_Tooltip" xml:space="preserve">
 <value>Which other grids may be a threat?</value>
 </data>
@@ -22695,8 +22168,131 @@
 <data name="DefensiveCombatBlock_FleeTo" xml:space="preserve">
 <value>Flee to</value>
 </data>
+<data name="DefensiveCombatBlock_FleeTo_Tooltip" xml:space="preserve">
+<value>If this grid flees, it will flee towards the selected waypoint.</value>
+</data>
+<data name="DefensiveCombatBlock_FleeTrigger" xml:space="preserve">
+<value>Flee trigger</value>
+</data>
+<data name="DefensiveCombatBlock_FleeTrigger_Tooltip" xml:space="preserve">
+<value>When to flee?Never - This grid never flees.Always - This grid flees when it detects another grid within 2500m and the "defend against" and "With Subsystem" conditions are met.When being Target Locked - When another grid that meets the "Defend against" and "With Subsystem" conditions locks this grid.When taking damage - When taking damage from any source while a grid that meets the "Defend against" and "With Subsystem" is within 2500m.</value>
+</data>
+<data name="DefensiveCombatBlock_FleeTrigger_WhenTargetLocked" xml:space="preserve">
+<value>When target locked</value>
+</data>
+<data name="DefensiveCombatBlock_FleeTrigger_WhenTakingDamage" xml:space="preserve">
+<value>When taking damage</value>
+</data>
+<data name="DefensiveCombatBlock_FleeTrigger_FleeTo" xml:space="preserve">
+<value>Flee to</value>
+</data>
+<data name="DefensiveCombatBlock_WaypointSize" xml:space="preserve">
+<value>Flee waypoint size</value>
+</data>
+<data name="DefensiveCombatBlock_WaypointSize_Tooltip" xml:space="preserve">
+<value>The distance to the selected waypoint the grid should be to consider it to have been reached.</value>
+</data>
+<data name="DefensiveCombatBlock_WithSubsystem" xml:space="preserve">
+<value>With Subsystem</value>
+</data>
+<data name="DefensiveCombatBlock_WithSubsystem_Tooltip" xml:space="preserve">
+<value>Will "Defend against" grids with this subsystem.</value>
+</data>
+<data name="BasicMissionAutopilot_Mode" xml:space="preserve">
+<value>Mode</value>
+</data>
+<data name="DefensiveCombatBlock_ThreateningSubsystem" xml:space="preserve">
+<value>Threatening Subsystem</value>
+</data>
+<data name="DefensiveCombatBlock_ThreateningSubsystemTooltip" xml:space="preserve">
+<value>This block will only consider grids with the selected subsystem(s) to be a threat</value>
+</data>
+<data name="BlockPropertyTitle_AttackMode" xml:space="preserve">
+<value>Attack</value>
+</data>
+<data name="BlockPropertyTitle_SetAttackModeFormat" xml:space="preserve">
+<value>Set Attack Mode: {0}</value>
+</data>
+<data name="BlockPropertyTitle_SetTargetPriorityFormat" xml:space="preserve">
+<value>Set Target Priority: {0}</value>
+</data>
+<data name="BlockPropertyTitle_AttackPattern" xml:space="preserve">
+<value>Attack Pattern</value>
+</data>
+<data name="TargetPriority_Intercept" xml:space="preserve">
+<value>Intercept</value>
+</data>
+<data name="BlockPropertyTitle_SubsystemToDestroy" xml:space="preserve">
+<value>Subsystem to destroy</value>
+</data>
+<data name="OffensiveCombatBlock_UpdateTargetInterval" xml:space="preserve">
+<value>Target Search Interval</value>
+</data>
+<data name="OffensiveCombatBlock_UpdateTargetInterval_Tooltip" xml:space="preserve">
+<value>Determines how often this block checks and (possibly) changes targets.Warning: Setting this very low may result in erratic targeting behavior!</value>
+</data>
+<data name="BlockPropertyTitle_ActivateBehavior" xml:space="preserve">
+<value>Subsystem to destroy</value>
+</data>
+<data name="BlockPropertyTitle_AlignToGravity" xml:space="preserve">
+<value>Align to P-Gravity</value>
+</data>
+<data name="OffensiveCombatCircleOrbit_Front" xml:space="preserve">
+<value>Front</value>
+</data>
+<data name="OffensiveCombatCircleOrbit_CircleDistance_Title" xml:space="preserve">
+<value>Circle Distance</value>
+</data>
+<data name="OffensiveCombatCircleOrbit_CircleDistance_Tooltip" xml:space="preserve">
+<value>The distance the grid should circle around the target</value>
+</data>
+<data name="OffensiveCombatCircleOrbit_CircleInPGravity_Title" xml:space="preserve">
+<value>Circle in P-Gravity</value>
+</data>
+<data name="OffensiveCombatCircleOrbit_CircleInPGravity_Tooltip" xml:space="preserve">
+<value>If the engagement is taking place in P-gravity, the orbit will be around the gravity direction</value>
+</data>
 <data name="OffensiveCombatHitAndRun_BreakOffDistance_Title" xml:space="preserve">
 <value>Break-off distance</value>
+</data>
+<data name="OffensiveCombatHitAndRun_BreakOffDistance_Tooltip" xml:space="preserve">
+<value>At this distance to the target, this grid should retreat</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RetreatDistance_Title" xml:space="preserve">
+<value>Retreat distance</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RetreatDistance_Tooltip" xml:space="preserve">
+<value>The distance from the target to retreat to, before starting a new attack run</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RetreatTimeout_Title" xml:space="preserve">
+<value>Retreat timeout</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RetreatTimeout_Tooltip" xml:space="preserve">
+<value>The time this grid should take to attempt to reach its retreat distance. If it runs out of time, a new attack run will start regardless of distance from the target.</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RetreatAngle_Tooltip" xml:space="preserve">
+<value>The angle of the retreat vector relative to the attack run.A value of 180 means the grid will retreat back in the same direction it started the attack run from.A value of 0 means the retreat will continue in a straight line from the attack run.</value>
+</data>
+<data name="OffensiveCombatHitAndRun_PassOverTarget_Title" xml:space="preserve">
+<value>Pass over target</value>
+</data>
+<data name="OffensiveCombatHitAndRun_PassOverTarget_Tooltip" xml:space="preserve">
+<value>If the retreat angle is greater than 90° and the engagement is taking place in P-gravity, this will set the retreat waypoint to the far side over the target</value>
+</data>
+<data name="OffensiveCombatHitAndRun_AddWeapon_Tooltip" xml:space="preserve">
+<value>Add the selected weapon to the Selected Weapons list</value>
+</data>
+<data name="OffensiveCombatHitAndRun_RemoveWeapon_Tooltip" xml:space="preserve">
+<value>Remove the selected weapon from the Selected Weapons list</value>
+</data>
+<data name="OffensiveCombatStayAtRange_MinimalDistance_Tooltip" xml:space="preserve">
+<value>The minimal distance the grid should (try to) stay from the target</value>
+</data>
+<data name="OffensiveCombatStayAtRange_MaximalDistance_Tooltip" xml:space="preserve">
+<value>The maximal distance the grid should (try to) stay from the target</value>
+</data>
+<data name="OffensiveCombatStayAtRange_FacingPriority_Tooltip" xml:space="preserve">
+<value>The grid will attempt to keep the selected side(s) facing towards the target</value>
 </data>
 <data name="OffensiveCombatIntercept_PatternName" xml:space="preserve">
 <value>Intercept</value>
@@ -22709,6 +22305,15 @@
 </data>
 <data name="OffensiveCombatIntercept_OverrideCollisionAvoidance_Tooltip" xml:space="preserve">
 <value>If checked, the collision avoidance of the Move type block will be ignored</value>
+</data>
+<data name="OffensiveCombatIntercept_GuidanceBasic" xml:space="preserve">
+<value>Basic</value>
+</data>
+<data name="OffensiveCombatIntercept_GuidanceTargetPrediction" xml:space="preserve">
+<value>Target Prediction</value>
+</data>
+<data name="OffensiveCombatIntercept_GuidanceProportionalNavigation" xml:space="preserve">
+<value>Proportional Navigation</value>
 </data>
 <data name="BlockPropertyTooltip_PathRecorder_ShowPath" xml:space="preserve">
 <value>Displays the recorded path on the HUD.To see this, ensure you have “Show on HUD” enabled on this block, as well as “Show AI Functions” in the Info screen, and have an Antenna connection to this grid.</value>
@@ -22728,14 +22333,62 @@
 <data name="BlockPropertyTooltip_PathRecorder_Beacons" xml:space="preserve">
 <value>When a reference is selected, the waypoints are in local space coordinates relative to the reference. If none is selected, the waypoints are relative to the world space coordinates.</value>
 </data>
+<data name="BlockPropertyTooltip_PathRecorder_DeselectBeacons" xml:space="preserve">
+<value>Deselect reference beacon.</value>
+</data>
+<data name="BlockPropertyTooltip_PathRecorder_AddWaypoint" xml:space="preserve">
+<value>Manually add a waypoint at the current position.</value>
+</data>
+<data name="BlockPropertyTooltip_RemoteBlockSpeedLimit" xml:space="preserve">
+<value>The maximum speed the grid is allowed to move.</value>
+</data>
+<data name="BlockPropertyTooltip_AlignToGravity" xml:space="preserve">
+<value>If checked, the grid will at all times attempt to keep itself aligned to P-Gravity.</value>
+</data>
+<data name="BlockPropertyTooltip_MinHeightAboveTerrain" xml:space="preserve">
+<value>Set the minimum altitude the grid should keep when in P-Gravity.</value>
+</data>
+<data name="BasicMissionAutopilot_Waypoints_Tooltip" xml:space="preserve">
+<value>List of waypoints for autopilot to move to.</value>
+</data>
+<data name="BasicMissionAutopilot_SetupAction_Tooltip" xml:space="preserve">
+<value>Add actions to be triggered at the selected waypoint.</value>
+</data>
 <data name="AI_NoMovementBlock" xml:space="preserve">
 <value>[Color=#FFFF0000]ERROR: Grid has no active Move type block! Please add and/or enable a Move type block.[/Color]</value>
+</data>
+<data name="DefensiveCombatBlock_NoFleeTo" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: No "Flee to" waypoint selected! Please select a waypoint[/Color]</value>
+</data>
+<data name="PathRecorderComponent_StatusMessage_NoWaypoints" xml:space="preserve">
+<value>[Color=#FFFF0000]ERROR: No sequence found! Please record a sequence[/Color]</value>
+</data>
+<data name="PathRecorderComponent_StatusMessage_PlayingPathNextWaypoint" xml:space="preserve">
+<value>Status: Moving to Recorder index: {0}</value>
+</data>
+<data name="CombatBlock_Tooltip_StayAtRange" xml:space="preserve">
+<value>The grid will try to keep the enemy between a customizable min/max distance.</value>
+</data>
+<data name="CombatBlock_Tooltip_HitRun" xml:space="preserve">
+<value>The grid will continuously make an attack run on the target, and break off to retreat when it gets close.</value>
+</data>
+<data name="CombatBlock_Tooltip_Intercept" xml:space="preserve">
+<value>The grid will attempt to intercept the enemy and ram it.</value>
 </data>
 <data name="FlightBlock_StatusMessage_NoTaskBlock" xml:space="preserve">
 <value>[Color=#FFFF0000]ERROR: No movement input. Please add/activate a Task and/or Combat block![/Color]</value>
 </data>
+<data name="FlightBlock_PathRecorder_StatusMessage_MovingToWaypoint" xml:space="preserve">
+<value>Status: Moving to Recorder waypoint {0}</value>
+</data>
 <data name="ActiveContractsScreen_Help_Abandon" xml:space="preserve">
 <value>{CONTROL:GUI:BUTTON_A} Abandon</value>
 </data>
- 
+<data name="Plural_Seconds" xml:space="preserve">
+<value>seconds</value>
+</data>
+<data name="OffensiveCombatBlock_FacingMode" xml:space="preserve">
+<value>Facing mode</value>
+</data>
+  
 </root>
