@@ -2,9 +2,9 @@
 
 **Překlad: (Verze hry 1.203.5) (Verze češtiny 1.07) (17.11.2023)**
 <li>Přeložitelných řádků: 5937</li>
-<li>Přeložených řádků: 4809</li>
-<li>Nepřeložených řádků: 1128</li>
-<li>Přeloženo 81.0%</li>
+<li>Přeložených řádků: 4990</li>
+<li>Nepřeložených řádků: 947</li>
+<li>Přeloženo 84.0%</li>
 <br>
 
 **Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
