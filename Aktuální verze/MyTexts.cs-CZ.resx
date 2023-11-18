@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
- <data name="Add" xml:space="preserve">
+<data name="Add" xml:space="preserve">
 <value>Přidat</value>
 <comment>CZE</comment>
 </data>
@@ -19173,6 +19173,10 @@
 <value>odebrán</value>
 <comment>CZE</comment>
 </data>
+<data name="ActiveContractsScreen_Help_Abandon" xml:space="preserve">
+<value>{CONTROL:GUI:BUTTON_A} Odstoupit</value>
+<comment>CZE</comment>
+</data>
 <data name="OffensiveCombatStayAtRange_EvasiveManeuvers_Title" xml:space="preserve">
 <value>Úhybné manévry</value>
 <comment>CZE</comment>
@@ -22914,8 +22918,5 @@
 <data name="FlightBlock_StatusMessage_NoTaskBlock" xml:space="preserve">
 <value>[Color=#FFFF0000]ERROR: No movement input. Please add/activate a Task and/or Combat block![/Color]</value>
 </data>
-<data name="ActiveContractsScreen_Help_Abandon" xml:space="preserve">
-<value>{CONTROL:GUI:BUTTON_A} Abandon</value>
-</data>
- 
+  
 </root>

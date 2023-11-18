@@ -1188,7 +1188,7 @@ Translate="Zastavit"
 
 ID=BlockPropertyTitle_SoundBlockStop
 Czech="Hlasitost"
-Translate="Hlasitost"
+Translate="Zastavit"
 
 ID=BlockPropertyTitle_SoundBlockVolume
 Czech="Skladovat"
@@ -3356,7 +3356,7 @@ Translate="Varování: Zdraví je kriticky nízké."
 
 ID=NotificationHealthLow
 Czech="Varování: Zdraví je nizké."
-Translate="Varování: Zdraví je nizké."
+Translate="Varování: Zdraví je nízké."
 
 ID=NotificationProjectorGridSize
 Czech="Špatná velikost konstrukce. Plánek musí být stejně velký jako projektor."
@@ -7324,7 +7324,7 @@ Translate="Konzole - Tlačítkový - Věstavený"
 
 ID=ControlPanel
 Czech="Ovládací panel"
-Translate="Konzole - Ovládací"
+Translate="Ovládací panel"
 
 ID=DisplayName_Block_ButtonPanel
 Czech="Panel s tlačítky"
@@ -14048,7 +14048,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote35Text
 Current="Space engineers are in a high demand, especially since the Second Space Race of 2029."
-Translate="Engineer jsou vysoce žádání, hlavně od doby druhého vesmírného závodu v roce 2029."
+Translate="Engineeři jsou vysoce žádaní, hlavně od doby druhého vesmírného závodu v roce 2029."
 
 ID=Quote36Author
 Current="Wikipedia, 2077"
@@ -20352,7 +20352,7 @@ Translate=""
 
 ID=LCD_Exploration_Square
 Current="Poster Exploration"
-Translate=""
+Translate="Plakát - Průzkum"
 
 ID=LCD_SpaceTravel_Landscape
 Current="Poster Space Travel H"
@@ -21112,7 +21112,7 @@ Translate="Platák - My chceme tebe V"
 
 ID=LCD_HI_Poster3_Square
 Current="Poster We Want You"
-Translate="Platák - My checeme tebe"
+Translate="Platák - My chceme tebe"
 
 ID=CustomWorld_PetramOrbiter
 Current="Pertam Orbiter"
@@ -22845,7 +22845,7 @@ Translate="odebrán"
 
 ID=ActiveContractsScreen_Help_Abandon
 Current="{CONTROL:GUI:BUTTON_A} Abandon"
-Translate=""{CONTROL:GUI:BUTTON_A} Odstoupit"
+Translate="{CONTROL:GUI:BUTTON_A} Odstoupit"
 
 ID=OffensiveCombatStayAtRange_EvasiveManeuvers_Title
 Current="Evasive Maneuvers"
@@ -22861,7 +22861,7 @@ Translate="Vstup: {0} {1}"
 
 ID=Plural_Seconds
 Current="seconds"
-Translate="vteřin/-y"
+Translate="vteřin/y"
 
 ID=FollowHome_HomeNotSet
 Current="[Color=#FFFF0000]ERROR: Home not set, please select a home position![/Color]"
