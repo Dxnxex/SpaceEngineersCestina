@@ -1488,7 +1488,7 @@ Translate="Nástroj pro ničení hornin a k získávání minerálů. Držte {CO
 
 ID=Description_Rifle
 Czech="MR-20  hlavní zbraň vojenských a policejních sil. Zbraň je spolehlivá, jednoduše použitelná a snadno vyčistitelná."
-Translate="MR-20  hlavní zbraň vojenských a policejních sil. Zbraň je spolehlivá, jednoduše použitelná a snadno vyčistitelná."
+Translate="MR-20 - Hlavní zbraň vojenských a policejních sil. Zbraň je spolehlivá, jednoduše použitelná a snadno vyčistitelná. Režim střelby: Jednotlivé výstřely."
 
 ID=Description_LightArmor
 Czech="Lehký pancíř, který dá strukturu a tvar lodím a stanicím. Není moc odolný ale zato lehký."
@@ -6568,7 +6568,7 @@ Translate="Základní nářadí"
 
 ID=Description_BlueprintClass_BuildPlanner
 Czech="Plánovač -Klikni na jakýkoliv blok z plánovače k montáži všech součástek chybějích pro dostavění bloku."
-Translate="Plánovač -Klikni na jakýkoliv blok z plánovače k montáži všech součástek chybějích pro dostavění bloku."
+Translate="Plánovač -Klikni na jakýkoliv blok z Plánovače k montáži všech součástek chybějích pro dostavění bloku."
 
 ID=Description_BlueprintClass_Components
 Czech="Součástky - Klikni na jakoukoliv k součástku aby se smontovoala."
@@ -11492,7 +11492,7 @@ Translate="Režim stavby zapnut"
 
 ID=CannotFindBlueprintSteam
 Current="Couldn't load blueprints from {0} workshop"
-Translate="Nemožné načíst plánky z {} workshopu"
+Translate="Nemožné načíst plánky z {0} workshopu"
 
 ID=Characters
 Current="Characters"
@@ -11964,7 +11964,7 @@ Translate="Hlavice jsou mocné výbušná zařízení, která mohou být použit
 
 ID=Description_ShipWelder
 Current="A Ship welder is a utility tool that can construct blueprints and blocks using components from its inventory.Can be used from a cockpit or turned on manually. Be careful not to get too close while it's active. Press RMB to put missing components to Build Planner."
-Translate="Lodní svářečka je nástroj, který dokáže sestavit plánky a používá součástky z inventáře k sváření bloků. Může být zapnut z kokpitu nebo ručně. Pozor nepřibližujte se příliš blízko pokud jsou zapnuté. Stiskněte [RMB] k vložení chybějících součástek do plánovače."
+Translate="Lodní svářečka je nástroj, který dokáže sestavit plánky a používá součástky z inventáře k sváření bloků. Může být zapnut z kokpitu nebo ručně. Pozor nepřibližujte se příliš blízko pokud jsou zapnuté. Stiskněte [RMB] k vložení chybějících součástek do Plánovače."
 
 ID=Description_Suspension
 Current="Suspensions are highly durable and enable vehicles to drive over most terrains. "
@@ -12476,7 +12476,7 @@ Translate="Kopírovat ID bloku"
 
 ID=GuiScenarioEdit_CopyIdsTooltip
 Current="You can then paste them into "Block destroyed" trigger"
-Translate=""
+Translate="Můžete je to poté vložit do spoučteče 'Blok zničen'"
 
 ID=GuiScenarioPlayerName
 Current="Player name"
@@ -12712,7 +12712,7 @@ Translate="Pokud stavíte symetrickou loď, můžete režim symetrické stavby a
 
 ID=HelpScreen_ControllerHint6
 Current="You can modify voxels with Voxel Hand Tool, which can be accesed from System Radial Menu in Creative Mode. You can then place, remove, revert and paint voxels with {GAMEPAD_CONTROL:VOXEL:PRIMARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:SECONDARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:VOXEL_REVERT} and {GAMEPAD_CONTROL:VOXEL:VOXEL_PAINT} respectively."
-Translate=""
+Translate="Můžete upravovat terén (Voxely) pomocí Voxelové ruky, která je přístupná v Radiálovém menu k kreativním řežimu. Můžete je umísťovat, vracet a nabarvovat pomocí {GAMEPAD_CONTROL:VOXEL:PRIMARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:SECONDARY_TOOL_ACTION} , {GAMEPAD_CONTROL:VOXEL:VOXEL_REVERT} a {GAMEPAD_CONTROL:VOXEL:VOXEL_PAINT}."
 
 ID=HelpScreen_ControllerHint7
 Current="Emotes toolbar is predefined and cannot be changed."
@@ -12728,11 +12728,11 @@ Translate="Při střelbě ze zbraně na lodi, která má více zbraní stejného
 
 ID=HelpScreen_ControllerHint10
 Current="When looking at inventory port with blocks in Build Planner queue, you can add components for queued blocks into production by pressing {GAMEPAD_CONTROL:CHARACTER:BUILD_PLANNER_ADD_COMPONNETS}."
-Translate=""
+Translate="Pokud se díváte na port pro inventáře s přidanými bloky do Plánovače, můžete přidat součástky do výroby stisknutím {GAMEPAD_CONTROL:CHARACTER:BUILD_PLANNER_ADD_COMPONNETS}."
 
 ID=RadialMenu_Materials
 Current="Material Radial Menu"
-Translate=""
+Translate="Radiálové menu - Materiál"
 
 ID=HintKeyboardOnly01Control0
 Current="CUBE_DEFAULT_MOUNTPOINT"
@@ -12884,11 +12884,11 @@ Translate="Gyroskop"
 
 ID=HudEnergyGroupUtility
 Current="Utility"
-Translate=""
+Translate="Nástroje"
 
 ID=HudEnergyMissingTotal
 Current="MISSING TOTAL"
-Translate=""
+Translate="CELKOVĚ CHYBĚJÍCÍ"
 
 ID=HudInfoBroadcasting
 Current="Broadcasting"
@@ -12896,7 +12896,7 @@ Translate="Vysílání"
 
 ID=HudInfoControllingStation
 Current="Controlling Station"
-Translate=""
+Translate="Řídící stanice"
 
 ID=HudInfoCrouching
 Current="Crouching"
@@ -12924,7 +12924,7 @@ Translate="Helma"
 
 ID=HudInfoMagnetic
 Current="Magnetic"
-Translate=""
+Translate="Magnetický"
 
 ID=HudInfoNameBroadcastRange
 Current="Radio:"
@@ -12952,7 +12952,7 @@ Translate="Zdraví:"
 
 ID=HudInfoNameInProximity
 Current="In proximity:"
-Translate=""
+Translate="V blízkosti:"
 
 ID=HudInfoNameJetpack
 Current="Jetpack"
@@ -13088,7 +13088,7 @@ Translate="Použij {CONTROL:CAMERA_ZOOM_IN} a {CONTROL:CAMERA_ZOOM_OUT} k nastav
 
 ID=INVALID
 Current="INVALID TEXT WRAPPER ENUM"
-Translate=""
+Translate="INVALID TEXT WRAPPER ENUM"
 
 ID=Jump_Achievable
 Current="Achievable percentage of the jump "
@@ -13108,7 +13108,7 @@ Translate="Cíl skoku: "
 
 ID=Jump_Distance
 Current="Distance to the proximity of coordinate: "
-Translate=""
+Translate="Vzdálenost do blízkosti souřadnic: "
 
 ID=Jump_DistanceToDest
 Current="Distance to destination: "
@@ -13260,7 +13260,7 @@ Translate="Nejvíce kol"
 
 ID=MultiplayerJoinProductionMultipliers
 Current="Production multipliers"
-Translate=""
+Translate="Násobič výroby"
 
 ID=MyGuiScreenTriggerBlockDestroyed
 Current="Block destroyed"
@@ -13364,7 +13364,7 @@ Translate="Konektory povoleny"
 
 ID=NotificationCopyPasteAsteroidObstructed
 Current="Can not place asteroids/voxels over ships(except stations), players, or out of world bounds"
-Translate=""
+Translate="Nemůžete umístit asteroidy/voxely přes lodě (mimo stanice), hráče nebo mimo herní hranice."
 
 ID=NotificationGasBottleRefill
 Current="Gas refilled from bottles."
@@ -13372,7 +13372,7 @@ Translate="Plyn dplněn z láhví."
 
 ID=NotificationGridReachedPhysicalLimit
 Current="Warning! Grid's number of physical shapes is approaching limit. Further modifications may cause issues with physics."
-Translate=""
+Translate="Varování! Počet fyzických tvarů konstrukce se blíží limitu. Další upravy mohou způsobit potíže s fyzikou."
 
 ID=NotificationHandbrakeFailedToEngage
 Current="Cannot engage handbrake"
@@ -13460,11 +13460,11 @@ Translate=""
 
 ID=NotificationWeaponNotFullyCharged
 Current="Weapon is only {0} charged!"
-Translate=""
+Translate="Zbraň je nabítá pouze z {0}!"
 
 ID=NotificationJumpDriveNotFullyCharged
 Current="Jump drive is only {0} charged!"
-Translate=""
+Translate="Skokový pohon je nabití pouze ze {0}!"
 
 ID=NotificationLimitsPlayer
 Current="Player block limit reached."
@@ -13476,11 +13476,11 @@ Translate="Připravte se na další scénář..."
 
 ID=NotificationNoHelmetVariation
 Current="Cannot remove helmet on this suit."
-Translate=""
+Translate="Nelze sundat hemlu v tomto obleku."
 
 ID=NotificationObstructingBlockDuringMerge
 Current="Cannot merge ships! Some blocks would occupy the same space after the merge!"
-Translate=""
+Translate="Nelze spojit lodě! Některé bloky by zabíraly stejný prostor pro spojení."
 
 ID=NotificationPlayerDemoted_Scripter
 Current="You have been demoted to Scripter"
@@ -13508,11 +13508,11 @@ Translate="Byl jste povýšen na Space Mastera"
 
 ID=NotificationBuildingOnRespawnShip
 Current="Respawn ship. It will get removed if you spawn a new one."
-Translate=""
+Translate="Oživovací loď. Loď bude odebrána pokud se oživíte v nové."
 
 ID=NotificationShipEnergyCritical
 Current="Warning: Ship fuel is critically low. Life support failure imminent."
-Translate=""
+Translate="Varování: Hladina paliva lodi je kriticky nízká hrozí selhání podpory života."
 
 ID=NotificationShipEnergyCriticalNoDamage
 Current="Warning: Ship fuel is critically low."
@@ -13568,7 +13568,7 @@ Translate="Kolo nemůže být umístěno."
 
 ID=Notification_BlueprintScriptRemoved
 Current="Some scripts were removed from this blueprint because you do not have Scripter permissions"
-Translate=""
+Translate="Některé skripty byly odebrány z plánku, protože nemáte práva Skriptera"
 
 ID=Notification_ControllableBlockIsDamaged
 Current="{0} is damaged!"
@@ -13644,7 +13644,7 @@ Translate="www.SpaceEngineersGame.com"
 
 ID=PickColorFromCube
 Current="Pick color from cube into slot"
-Translate=""
+Translate="Vyberte barvu z kostky na slot"
 
 ID=PlayerCharacterColorBlack
 Current="Black"
@@ -13748,11 +13748,11 @@ Translate="Zkontroluje chyby kódu v editoru"
 
 ID=ProgrammableBlock_Editor_CompilationFailed
 Current="Compilation failed"
-Translate=""
+Translate="Kompilace selhala"
 
 ID=ProgrammableBlock_Editor_NotSupported
 Current="Script compilation and execution is not supported."
-Translate=""
+Translate="Kompilace skriptu a jeho provedění není podporováno."
 
 ID=ProgrammableBlock_Editor_CompilationFailedErrorFormat
 Current="Line {0} : {1}"
@@ -13760,7 +13760,7 @@ Translate="Řádek {0} : {1}"
 
 ID=ProgrammableBlock_Editor_HelpTooltip
 Current="Opens workshop page with description about in-game programming"
-Translate=""
+Translate="Otevře Workshop stárnku s popisem o programování ve hře"
 
 ID=ProgrammableBlock_Editor_LineNo
 Current="Line : {0} / {1}"
@@ -13768,7 +13768,7 @@ Translate="Řádek: {0} / {1}"
 
 ID=ProgrammableBlock_Editor_RememberCode_Tooltip
 Current="Remember current script and leave editor window open"
-Translate=""
+Translate="Zapamatovat současný skript a ponechat editor otevřený"
 
 ID=ProgrammableBlock_Exception_ExceptionCaught
 Current="Caught exception during execution of script:"
@@ -13788,15 +13788,15 @@ Translate=""
 
 ID=ProgrammableBlock_Exception_NotAllowed
 Current="In-game scripts are disabled for this world"
-Translate=""
+Translate="Programování ve hře je zakázáno v tomto světě"
 
 ID=ProgrammableBlock_Exception_NoValidConstructor
 Current="This program has no valid constructor."
-Translate=""
+Translate="Tento program nemá platný konstruktor."
 
 ID=ProgrammableBlock_Exception_Ownershipchanged
 Current="Ownership of programmable block changed. Please recompile program."
-Translate=""
+Translate="Vlastnictví programovacího bloku bylo změněno. Prosím rekompilujte program."
 
 ID=ProgrammableBlock_Exception_TooComplex
 Current="Script execution terminated, script is too complex. Please edit and rebuild script."
@@ -13804,11 +13804,11 @@ Translate=""
 
 ID=ProgrammableBlock_ReplaceScriptNameDialogText
 Current="Script with the name  {0} already exists. Do you want to replace it?"
-Translate=""
+Translate="Skript se jménem {0} již existuje. Chcete ho nahradit?"
 
 ID=ProgrammableBlock_ScriptNotFound
 Current="Cannot find the script file"
-Translate=""
+Translate="Nelze najít soubor se skriptem"
 
 ID=ProgrammableBlock_ScriptsScreenTitle
 Current="Scripts Screen"
@@ -13816,7 +13816,7 @@ Translate="Obrazovka skriptů"
 
 ID=QuickstartDX11NotAvailable
 Current="It seems that your system does not support DirectX 11, game will load scenario with no planets"
-Translate=""
+Translate="Zdá se, že Váš systém nepodporuje DirectX 11. Hra načte scénář bez planet"
 
 ID=QuickstartDX11PleaseRestartGame
 Current="Please restart the game to finish switching to DX11"
@@ -13828,7 +13828,7 @@ Translate="Prosím přepněte na DirectX 11 ke spuštění scénáře"
 
 ID=QuickstartNoDx9SelectDifferent
 Current="It seems that your system does not support DirectX 11, please select scenario with no planets"
-Translate=""
+Translate="Zdá se, že Váš systém nepodporuje DirectX 11. Vyberte scénář bez planet"
 
 ID=QuickstartNoPlanets
 Current="Game will load scenario with no planets"
@@ -14056,7 +14056,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote36Text
 Current="Space engineers take pride for their ability to get the job done right - no matter how big, how complex, or how remote."
-Translate=""
+Translate="Engineeři si zakládají na schopnosti dokončit úkol správně - bez ohledu na to, jak velký, jak složitý nebo jak vzdálený je."
 
 ID=Quote37Author
 Current="Wikipedia, 2077"
@@ -14064,7 +14064,7 @@ Translate="Wikipedia, 2077"
 
 ID=Quote37Text
 Current="The word engineer is derived from the Latin roots 'ingeniare' ("to contrive, devise") and 'ingenium' ("cleverness")."
-Translate=""
+Translate="Slovo engineer je odvozeno z latinských kořenů 'ingeniare' ('vymýšlet, vymýšlet') a 'ingenium' ('chytrost')."
 
 ID=Quote38Author
 Current="Anonym"
@@ -14080,7 +14080,7 @@ Translate="Albert Einstein"
 
 ID=Quote39Text
 Current="Scientists investigate that which already is; engineers create that which has never been."
-Translate=""
+Translate="Vědci zkoumají to, co již je.  Engineeři tvoří to, co dosud nebylo."
 
 ID=Quote40Author
 Current="U.S. Army Ordnance"
@@ -14128,7 +14128,7 @@ Translate="Alexander Calder"
 
 ID=Quote45Text
 Current="To an engineer, good enough means perfect. With an artist, there's no such thing as perfect."
-Translate=""
+Translate=""Pro engineera znamená 'dost dobré' perfektní. U umělce neexistuje nic jako perfektní"
 
 ID=Quote46Author
 Current="Buzz Aldrin"
@@ -14156,7 +14156,7 @@ Translate="Yuri Gagarin"
 
 ID=Quote49Text
 Current="I could have gone on flying through space forever."
-Translate=""
+Translate="Mohl jsem pokračovat v létání ve vesmíru do nekonečna."
 
 ID=Quote50Author
 Current="Michael Collins"
@@ -14164,7 +14164,7 @@ Translate="Michael Collins"
 
 ID=Quote50Text
 Current="To go places and do things that have never been done before - that's what living is all about."
-Translate=""
+Translate="Jít na místa a dělat věci, které dosud nebyly provedeny, to je smysl života."
 
 ID=Quote51Author
 Current="Ralph W. Emerson"
@@ -14208,7 +14208,7 @@ Translate="Albert Einstein"
 
 ID=Quote56Text
 Current="No amount of experimentation can ever prove me right; a single experiment can prove me wrong."
-Translate=""
+Translate="Žádné množství experimentování nemůže nikdy dokázat, že mám pravdu. Jediný experiment může dokázat, že se mýlím."
 
 ID=Quote57Author
 Current="George B. Shaw"
@@ -14216,55 +14216,55 @@ Translate="George B. Shaw"
 
 ID=Quote58Text
 Current="The law of conservation of energy states that energy can be neither created nor destroyed. However, energy can change forms, and energy can flow from one place to another. The total energy of an isolated system remains the same."
-Translate=""
+Translate="Zákon zachování energie stanoví, že energie nemůže být ani vytvořena, ani zničena. Nicméně může měnit formy a přesouvat se z jednoho místa na druhé. Celková energie izolovaného systému zůstává stejná."
 
 ID=Quote59Text
 Current="The flow of heat is a form of energy transfer. In other words, a quantity of heat that flows from a hot body to a cold one can be expressed as an amount of energy being transferred from the hot body to the cold one."
-Translate=""
+Translate="Tok tepla je formou přenosu energie. Jinými slovy, množství tepla, které proudí z horkého tělesa do studeného, lze vyjádřit jako množství energie přenášené z horkého tělesa do studeného"
 
 ID=Quote60Text
 Current="Every body persists in its state of being at rest or of moving uniformly straight forward, except insofar as it is compelled to change its state by force impressed."
-Translate=""
+Translate="Každé těleso setrvává ve svém stavu klidu nebo pohybu rovnoměrně přímočarým směrem, pokud není nuceno změnit svůj stav vnucenou silou."
 
 ID=Quote61Text
 Current="An object that is at rest will stay at rest unless an external force acts upon it."
-Translate=""
+Translate="Objekt, který je v klidu, zůstane v klidu, pokud na něj nepůsobí vnější síla."
 
 ID=Quote62Text
 Current="An object that is in motion will not change its velocity unless an external force acts upon it."
-Translate=""
+Translate="Objekt, který se pohybuje, nezmění svou rychlost, pokud na něj nepůsobí vnější síla."
 
 ID=Quote63Text
 Current="The acceleration of a body is directly proportional to, and in the same direction as, the net force acting on the body, and inversely proportional to its mass."
-Translate=""
+Translate="Akcelerace tělesa je přímo úměrná a ve stejném směru jako čistá síla působící na těleso a nepřímo úměrná jeho hmotnosti."
 
 ID=Quote64Text
 Current="To every action there is always an equal and opposite reaction: or the forces of two bodies on each other are always equal and are directed in opposite directions."
-Translate=""
+Translate="Na každou akci vždy existuje rovnocenná a opačná reakce: Síly dvou těles na sebe navzájem jsou vždy rovnocenné a směřují opačným směrem."
 
 ID=Quote65Text
 Current="SCIENTIFIC METHOD: principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses."
-Translate=""
+Translate="VĚDECKÁ METODA: Principy a postupy systematického pronásledování poznání zahrnující rozpoznání a formulaci problému, sběr dat prostřednictvím pozorování a experimentu a formulaci a testování hypotéz."
 
 ID=Quote66Text
 Current="To be termed scientific, a method of inquiry must be based on empirical and measurable evidence subject to specific principles of reasoning."
-Translate=""
+Translate="Aby byla metoda zkoumání označena za vědeckou, musí být založena na empirických a měřitelných důkazech podléhajících specifickým zásadám logiky."
 
 ID=Quote67Text
 Current="The laws of science or scientific laws are statements that describe, predict, and perhaps explain why, a range of phenomena behave as they appear to in nature."
-Translate=""
+Translate="Zákony vědy, nebo též vědecké zákony, jsou prohlášení, která popisují, předpovídají a možná vysvětlují, proč se jeví, že řada fenoménů se chová tak, jak se zdá, v přírodě."
 
 ID=Quote68Text
 Current="Scientific laws are strongly supported by empirical evidence - they are scientific knowledge that experiments have repeatedly verified (and never falsified)."
-Translate=""
+Translate="Vědecké zákony jsou pevně podloženy empirickými důkazy - jsou to vědecké poznatky, které opakované experimenty potvrdily (a nikdy nevyvrátily)."
 
 ID=Quote69Author
 Current="Newton's law of universal gravitation"
-Translate=""
+Translate="Newtonův zákon všeobecné gravitace"
 
 ID=Quote69Text
 Current="Every point mass in the universe attracts every other point mass with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them."
-Translate=""
+Translate="Každá bodová hmotnost ve vesmíru přitahuje každou další bodovou hmotnost silou, která je přímo úměrná součinu jejich hmotností a nepřímo úměrná druhé mocnině vzdálenosti mezi nimi."
 
 ID=Quote70Author
 Current="Albert Einstein"
@@ -14312,11 +14312,11 @@ Translate="Výpis objektů:"
 
 ID=ScenarioProgressDestroyBlocks
 Current="Destroy blocks:"
-Translate=""
+Translate="Znič bloky:"
 
 ID=ScenarioProgressLimitedLives
 Current="Limited lives: {0} left"
-Translate=""
+Translate="Počet životů: Zbývá {0}"
 
 ID=ScenarioProgressLoseConditions
 Current="Lose conditions"
@@ -14328,7 +14328,7 @@ Translate=""
 
 ID=ScenarioProgressOthersLost
 Current="All others lost. Players pending:"
-Translate=""
+Translate="Všichni ostatní prohráli. Čekající hráči:"
 
 ID=ScenarioProgressPositionLeft
 Current="Leave sphere [{0:0},{1:0},{2:0}], radius {3:0} meters"
@@ -14344,7 +14344,7 @@ Translate="Někdo jiný vyhrál scénář. Možný vítězové:"
 
 ID=ScenarioProgressTimeLimit
 Current="Scenario time limit {0} minutes"
-Translate=""
+Translate="Časový limit scénáře {0} minut"
 
 ID=ScenarioProgressWinConditions
 Current="Win conditions"
@@ -14364,7 +14364,7 @@ Translate="Bitva"
 
 ID=ScreenCaptionAISchool
 Current="AI School Scenario"
-Translate=""
+Translate="Scénár školy AI"
 
 ID=ScreenCaptionScenario
 Current="Scenario"
@@ -14376,7 +14376,7 @@ Translate="Video nastavení"
 
 ID=ScreenCaptionWorldGeneratorSettings
 Current="World generator settings"
-Translate=""
+Translate="Nastavení generování světa"
 
 ID=ScreenCubeBuilderAddGoodAiBot
 Current="Add GoodAI bot"
@@ -14396,7 +14396,7 @@ Translate="Nová stanice"
 
 ID=ScreenDebugAdminMenu_Caption
 Current="Space Master"
-Translate=""
+Translate="Space Master"
 
 ID=ScreenDebugAdminMenu_Cleanup
 Current="Trash Removal"
@@ -14532,11 +14532,11 @@ Translate="Cheateři"
 
 ID=ScreenDebugAdminMenu_Clear
 Current="Clear selected"
-Translate=""
+Translate="Zrušit vybrané"
 
 ID=ScreenDebugAdminMenu_ClearAll
 Current="Clear all"
-Translate=""
+Translate="Zrušit vše"
 
 ID=ScreenDebugAdminMenu_CheaterRowTooltip
 Current="Reason: {0} Happened at: {1}"
@@ -14564,15 +14564,15 @@ Translate="Zvolte typ:"
 
 ID=ScreenDebugSpawnMenu_AsteroidAddRandomMaterials
 Current="Add Random Materials"
-Translate=""
+Translate="Přidat náhodný materiál"
 
 ID=ScreenDebugSpawnMenu_AsteroidCoreMaterial
 Current="Core Material"
-Translate=""
+Translate="Hlavní materiál"
 
 ID=ScreenDebugSpawnMenu_AsteroidGenerationCanTakeLong
 Current="Generating asteroids can take a long time!"
-Translate=""
+Translate="Generování asteroidů trvá dlouho!"
 
 ID=ScreenDebugSpawnMenu_Asteroids
 Current="Asteroids"
@@ -14668,11 +14668,11 @@ Translate="Vytvořit do zaměřeného kontejneru"
 
 ID=ScreenDebugSpawnMenu_UpdatePlanet
 Current="Update planet"
-Translate=""
+Translate="Aktualizovat planetu"
 
 ID=ScreenGraphicsOptions_Renderer
 Current="Renderer"
-Translate=""
+Translate="Renderer"
 
 ID=ScreenGraphicsOptions_ShaderQuality
 Current="Shader quality"
@@ -14812,11 +14812,11 @@ Translate="Nehybné objekty"
 
 ID=StationRotation_Static
 Current="Cycle placement modes"
-Translate=""
+Translate="Přepnout řezim pokládání"
 
 ID=StationRotation_Static_Desc
 Current="Cycles between 3 placement modes:Local Grid - snap to local coordinate systemFree Placement - rotate and place freelyGravity-aligned - rotate and place freely, but aligned to gravity"
-Translate=""
+Translate="Řežimy pokládání bloků: Vyrovnání s konstrukci - Zarovná se lokálním systémem konstrukce | Volný - libovolné otáčení a pokládání | Vyrovnání s gravitací - libovolné otáčení a pokládání, ale zarovnané s gravitací"
 
 ID=String1TerminalTab_Factions_LeaveToolTip
 Current="Leave selected faction"
@@ -14840,7 +14840,7 @@ Translate=""
 
 ID=TerminalControlPanel_RunCodeDefault
 Current="Run with default argument"
-Translate=""
+Translate="Spustit s výchozím argumentem."
 
 ID=TerminalControlPanel_RunCode_Tooltip
 Current="Run current script and notifies about any exception during run"
@@ -14944,11 +14944,11 @@ Translate=""
 
 ID=ToolTipJoinGameServerSearch_MaximumFilterValue
 Current="Maximum filter value"
-Translate=""
+Translate="Maximální hodnota filtru"
 
 ID=ToolTipJoinGameServerSearch_MinimumFilterValue
 Current="Minimum filter value"
-Translate=""
+Translate="Minimální hodnota filtru"
 
 ID=ToolTipJoinGameServerSearch_Mods
 Current="Configure mods search settings"
@@ -14960,7 +14960,7 @@ Translate="Ukázat pouze servery, které mají stejná herní data"
 
 ID=ToolTipJoinGameServerSearch_Search
 Current="Update current server search filter"
-Translate=""
+Translate="Aktualizovat současný filt vyhledávání serverů"
 
 ID=ToolTipJoinGameServerSearch_Settings
 Current="Configure basic server search settings"
@@ -14988,19 +14988,19 @@ Translate=""
 
 ID=ToolTipLoadGame_Backups
 Current="Show backups for selected save file"
-Translate=""
+Translate="Ukáže zálohy pro vybraný uložený soubor"
 
 ID=ToolTipLoadGame_EditSettings
 Current="Edit world settings of selected save file"
-Translate=""
+Translate="Upraví nastavení světa vybraného uloženého souboru"
 
 ID=ToolTipLoadGame_SaveAs
 Current="Create a new save file from a selected world"
-Translate=""
+Translate="Vytvoří nové uložení z vybraného světa"
 
 ID=ToolTipMods_Search
 Current="Search for a mod by typing its name"
-Translate=""
+Translate="Vyhledejte mód zadání jeho jména"
 
 ID=ToolTipNewGameCustomGame_Advanced
 Current="Open advanced world configuration screen"
@@ -15008,11 +15008,11 @@ Translate="Otevře pokročilé možnosti nastavení světa"
 
 ID=ToolTipNewGame_WorkshopContent
 Current="Choose one of your subscribed workshop items or browse for more"
-Translate=""
+Translate="Vyberte jeden z odebíraných Workshop předmětů nebo hledejte další"
 
 ID=ToolTipNewGame_NoWorkshopWorld
 Current="There are no subscribed Workshop worlds. Open Workshop Browser to subscribe worlds."
-Translate=""
+Translate="Nemáte žádný odebíraný Workshop svět. Otevřete Workshop prohlížeč k vyhledávání a odebírání světů."
 
 ID=UGCService_Email
 Current="Insert your email address to login to {0}: (temporary)"
@@ -15020,7 +15020,7 @@ Translate=""
 
 ID=ToolTipNewsletter_Ok
 Current="Proceed"
-Translate=""
+Translate="Pokračovat"
 
 ID=ToolTipNewWorldQuickstart
 Current="Create a new world using the default settings:Game Type: Creative ModeScenario: Planet / Easy Start 1Auto-Save: ON"
@@ -15032,7 +15032,7 @@ Translate="Umožňuje/Zakazuje hlasovou komunikaci ve hře"
 
 ID=ToolTipOptionsAudio_HudWarnings
 Current="Use sound warnings, when low on oxygen, health or power"
-Translate=""
+Translate="Použít zvuková varování pokud je nízká hlaina kyslíku, života či energie"
 
 ID=ToolTipOptionsAudio_MusicVolume
 Current="Configure volume level of in-game music"
@@ -15112,7 +15112,7 @@ Translate="Zaškrtnutím souhlasíte s našimi zásadami ochrany osobních údaj
 
 ID=ToolTipOptionsGame_BuildingMode
 Current="Select default block-placement mode(Affects only building in creative)"
-Translate=""
+Translate="Zvolte výchozí režím pokládání (Pouze režim Kreativ)"
 
 ID=ToolTipOptionsGame_Language
 Current="Choose your preferred language settings"
@@ -15424,7 +15424,7 @@ Translate="Nástroje transformace"
 
 ID=TriggerNotSelected
 Current="Trigger not selected"
-Translate="Spoučteč nebyl vybrán"
+Translate="Spouštěč nebyl vybrán"
 
 ID=Triggers
 Current="Triggers"
@@ -15912,7 +15912,7 @@ Translate="K opravě poškozených bloků použijte svářečku. Zcela zničené
 
 ID=Description_FAQ_Welding
 Current="Use your welder on blocks to build and repair. Welding requires power drawn from your suit and components for the block. You can also install welders on ships. Use RMB to add missing components from the block you are looking at to your build planner."
-Translate="Používejte svářečku na bloky k jejich stavbě a opravám. Svařování vyžaduje energii odebranou z vašeho obleku a součástek pro blok. Svářečky můžete instalovat také na lodě. Pomocí RMB (Pravé tlačítko myši) můžete do stavebního plánovače přidat chybějící součásti z bloku, na který se díváte."
+Translate="Používejte svářečku na bloky k jejich stavbě a opravám. Svařování vyžaduje energii odebranou z vašeho obleku a součástek pro blok. Svářečky můžete instalovat také na lodě. Pomocí RMB (Pravé tlačítko myši) můžete do stavebního Plánovače přidat chybějící součásti z bloku, na který se díváte."
 
 ID=Description_FAQ_Mining
 Current="You can collect ore by using your drill on voxels like planets or asteroids. Your drill has a short-range detector that shows you the location of ores. "
@@ -17352,7 +17352,7 @@ Translate=""
 
 ID=NotificationHintPressToWithdraw
 Current="Press {0} to withdraw components from {1}"
-Translate=""
+Translate="Stiskni {0} k vybrání součátek z {1}"
 
 ID=DisplayName_BlockGroup_MiscGroup
 Current="Miscellaneous Blocks"
@@ -17728,7 +17728,7 @@ Translate="Kameny                         "
 
 ID=BuildPlannerHint
 Current="Use {0} / {1} to add/remove to/from Build planner"
-Translate="Použij {0} / {1} k přidání/odebrání do/z plánovače"
+Translate="Použij {0} / {1} k přidání/odebrání do/z Plánovače"
 
 ID=Notification_PlanetsNotSupported
 Current="Planets are not supported on this platform"
@@ -19476,7 +19476,7 @@ Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=GameOptions_Help_Screen_TabGeneral
 Current="{CONTROL:GUI:BUTTON_Y} Reset Good.bot hints   {CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Resetovat Good.bot Nápovědu   {CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=GameOptions_Help_Screen_TabCrosshair
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Back"
@@ -19484,11 +19484,11 @@ Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=GraphicsOptions_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=AdvancedWorldSettings_Help_Screen
 Current="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_X} OK   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=LoadScreen_Help_Screen
 Current="{CONTROL:GUI:VIEW} Backups   {CONTROL:GUI:MAIN_MENU} Publish   {CONTROL:GUI:RIGHT_STICK_BUTTON} Save As   {CONTROL:GUI:BUTTON_Y} Delete   {CONTROL:GUI:BUTTON_X} Edit Settings   {CONTROL:GUI:MODIF_R} + {CONTROL:GUI:BUTTON_A} Select range   {CONTROL:GUI:CANCEL} Back"
@@ -19664,7 +19664,7 @@ Translate=""
 
 ID=ColorTool_Help_Screen
 Current="{CONTROL:GUI:BUTTON_Y} Defaults   {CONTROL:GUI:CANCEL} Back"
-Translate=""
+Translate="{CONTROL:GUI:BUTTON_Y} Výchozí   {CONTROL:GUI:CANCEL} Zpět"
 
 ID=PlayersScreen_Help_PlayersList
 Current="{CONTROL:GUI:ACCEPT} Profile   {CONTROL:GUI:BUTTON_X} Trade   {CONTROL:GUI:BUTTON_Y} Toggle mute"
@@ -20376,7 +20376,7 @@ Translate=""
 
 ID=RadialMenuGroupTitle_Decoration3
 Current="Decoration #3"
-Translate=""
+Translate="Dekorace #3"
 
 ID=ScreenDebugAdminMenu_CameraSmoothness
 Current="Camera Smoothness"
@@ -20588,7 +20588,7 @@ Translate="[DLC] Warfare 1               "
 
 ID=RadialMenuGroupTitle_ArmorHeavy
 Current="Heavy Armor"
-Translate=""
+Translate="Těžký pancíř"
 
 ID=WorkshopBrowser_Service0
 Current="Steam"
@@ -20632,7 +20632,7 @@ Translate=""
 
 ID=RadialMenuGroupTitle_Decoration4
 Current="Decoration #4"
-Translate=""
+Translate="Dekorace #4"
 
 ID=Description_Embrasure
 Current="The Embrasure provides cover while allowing you to keep up the pressure on your enemies. "
