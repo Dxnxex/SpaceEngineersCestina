@@ -12476,7 +12476,7 @@ Translate="Kopírovat ID bloku"
 
 ID=GuiScenarioEdit_CopyIdsTooltip
 Current="You can then paste them into "Block destroyed" trigger"
-Translate="Můžete je to poté vložit do spoučteče 'Blok zničen'"
+Translate="Můžete je to poté vložit do spouštěče 'Blok zničen'"
 
 ID=GuiScenarioPlayerName
 Current="Player name"
