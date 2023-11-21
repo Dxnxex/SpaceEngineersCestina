@@ -11704,59 +11704,59 @@ Translate="Definice pro {0} obsahuje počítač, ale TypeId bloku není terminá
 
 ID=Department_AdditionalArtists
 Current="Additional Artists"
-Translate="Dodateční Grafici"
+Translate="Additional Artists"
 
 ID=Department_AdditionalDesigners
 Current="Additional Designers"
-Translate="Dodateční Designéři"
+Translate="Additional Designers"
 
 ID=Department_AdditionalProgrammers
 Current="Additional Programmers"
-Translate="Dodateční Programátoři"
+Translate="Additional Programmers"
 
 ID=Department_AdditionalTesters
 Current="Additional Testers"
-Translate="Dodateční Testeři"
+Translate="Additional Testers"
 
 ID=Department_Artists
 Current="Artists"
-Translate="Grafici"
+Translate="Artists"
 
 ID=Department_AssistantProducer
 Current="Assistant Producer"
-Translate="Pomocný Producent"
+Translate="Assistant Producer"
 
 ID=Department_CommunityManagers
 Current="Community Managers"
-Translate="Komunitní Manažér"
+Translate="Community Managers"
 
 ID=Department_CommunityPr
 Current="Community &amp; PR Manager"
-Translate="Komunitní &amp; PR Manažér"
+Translate="Community &amp; PR Manager"
 
 ID=Department_ExecutiveProducer
 Current="Executive Producer &amp; Creative Director"
-Translate="Výkonná Producent &amp; Kreativní Ředitel"
+Translate="Executive Producer &amp; Creative Director"
 
 ID=Department_GameDesigners
 Current="Game Designers"
-Translate="Herní designéři"
+Translate="Game Designers"
 
 ID=Department_LeadProducer
 Current="Producer"
-Translate="Producenti"
+Translate="Producer"
 
 ID=Department_LeadProgrammers
 Current="Lead Programmers"
-Translate="Vedoucí programátoři"
+Translate="Lead Programmers"
 
 ID=Department_LeadTester
 Current="QA Lead"
-Translate="Vedení kvality"
+Translate="QA Lead"
 
 ID=Department_ModContributors
 Current="Mod Contributors"
-Translate="Přispěvatelé modů"
+Translate="Mod Contributors"
 
 ID=Department_MoreInfo
 Current="For more information see"
@@ -11764,19 +11764,19 @@ Translate="Pro více informací navštivte"
 
 ID=Department_Music
 Current="Music"
-Translate="Hudba"
+Translate="Music"
 
 ID=Department_Office
 Current="Office"
-Translate="Kancelář"
+Translate="Office"
 
 ID=Department_Programmers
 Current="Programmers"
-Translate="Programátoři"
+Translate="Programmers"
 
 ID=Department_SoundDesign
 Current="Sound Design"
-Translate="Zvukový design"
+Translate="Sound Design"
 
 ID=Department_SpecialThanks
 Current="Special Thanks (in alphabetical order)"
@@ -11784,11 +11784,11 @@ Translate="Speciální poděkování (v abecedním pořadí)"
 
 ID=Department_Testers
 Current="QA Testers"
-Translate="Testeři kvality"
+Translate="QA Testers"
 
 ID=Department_Translators
 Current="Translators"
-Translate="Překladatelé"
+Translate="Translators"
 
 ID=Depower
 Current="Depower"
@@ -13316,7 +13316,7 @@ Translate="See www.havok.com for details."
 
 ID=Department_Licenses
 Current="3rd Party Software"
-Translate="rd Party Software"
+Translate="3rd Party Software"
 
 ID=NotificationArgAngleGrinder
 Current="Angle grinder"
@@ -13784,7 +13784,7 @@ Translate=""
 
 ID=ProgrammableBlock_Exception_NoMain
 Current="Main method not found. Please add Main method into script."
-Translate=""
+Translate="Hlavní metoda nenaleza. Prosím přidejte hlavní metodu do skriptu."
 
 ID=ProgrammableBlock_Exception_NotAllowed
 Current="In-game scripts are disabled for this world"
@@ -14128,7 +14128,7 @@ Translate="Alexander Calder"
 
 ID=Quote45Text
 Current="To an engineer, good enough means perfect. With an artist, there's no such thing as perfect."
-Translate=""Pro engineera znamená 'dost dobré' perfektní. U umělce neexistuje nic jako perfektní"
+Translate="Pro engineera znamená 'dost dobré' perfektní. U umělce neexistuje nic jako perfektní"
 
 ID=Quote46Author
 Current="Buzz Aldrin"
@@ -14280,7 +14280,7 @@ Translate="Reaktor"
 
 ID=RemoteAccess_Description
 Current="You can remotely access grids in the world using the antenna in your suit. Make sure your antenna is enabled.(Check the antenna symbol in the bottom left corner of the in-game HUD)To access a grid, it must be powered and have an antenna. You also need to stay within the antenna broadcast range to be able to access it.You can control grids from a distance by equipping them with a remote control block."
-Translate=""
+Translate="Můžete se spojit s konstrukcemi ve světe pomocí antény ve Vašem obleku. Ujistěte se že Vaše anténa je zapnutá (Ikona antény vlevo dole na HUD). Daná konstrukce musí mít anténu, musí být napájena a musíte zůstat v dosahu vysílání antény. Můžete ovládát konstrukci na dálku postavením bloku dálkového ovládání."
 
 ID=RespawnShip
 Current="Respawn Ship"
@@ -14424,7 +14424,7 @@ Translate="Globální oprávnění"
 
 ID=ScreenDebugAdminMenu_MedbayNotification
 Current="Removing ships or stations with Respawn point can be dangerous, because you can remove players' only respawn points, be careful"
-Translate=""
+Translate="Odebráním lodí či stanicí s oživovacím bodem může být nebezpečné, protože můžete hráčům odebrat jejich jediný oživovací bod"
 
 ID=ScreenDebugAdminMenu_Powered
 Current="Powered"
@@ -14452,7 +14452,7 @@ Translate="Smaže všechno neaktivnímu vlatníkovi, včetně konstrukci. Vlastn
 
 ID=ScreenDebugAdminMenu_ReplicateEverythingServer_Tooltip
 Current="You are on server and allready have all objects"
-Translate=""
+Translate="Již jste na serveru a máte všechny objekty"
 
 ID=ScreenDebugAdminMenu_SafeZones
 Current="Safe Zones"
@@ -14468,7 +14468,7 @@ Translate="Konfigurační filter"
 
 ID=ScreenDebugAdminMenu_SafeZones_FilterContained
 Current="Add Contained"
-Translate=""
+Translate="Přidat zahrnuté"
 
 ID=ScreenDebugAdminMenu_SafeZones_MoveToSafeZone
 Current="Move To Safe Zone"
@@ -14540,7 +14540,7 @@ Translate="Zrušit vše"
 
 ID=ScreenDebugAdminMenu_CheaterRowTooltip
 Current="Reason: {0} Happened at: {1}"
-Translate=""
+Translate="Důvod: {0} Stalo ve v: {1}"
 
 ID=ScreenDebugAdminMenu_TimeOfDay
 Current="Time of day offset:"
@@ -14584,7 +14584,7 @@ Translate="Materiál povrchu"
 
 ID=ScreenDebugSpawnMenu_Caption
 Current="Spawn Menu"
-Translate=""
+Translate="Nabídka oživení"
 
 ID=ScreenDebugSpawnMenu_CreateLayer
 Current="Create layer"
@@ -14728,23 +14728,23 @@ Translate="Popadněte je na {0}!"
 
 ID=ScreenMedicals_NoRespawnPlace
 Current="No respawn point is available! Try the refresh button for any available respawn points.If there is no chance of accessing them, the game will be over in {0:00}:{1:00}."
-Translate=""
+Translate="Žádný oživovací bod není dostupný! Zkuste tlačítko obnovit pro jakékoliv dostupné oživovací body. Pokud není šance na jejich dosažení, hra skončí za {0:00}:{1:00}."
 
 ID=ScreenMedicals_NoRespawnPlaceHeader
 Current="You must spawn in:  {0:00}:{1:00}"
-Translate=""
+Translate="Musíte se oživit do: {0:00}:{1:00}"
 
 ID=ScreenMedicals_NoRespawnPossible
 Current="No respawn point is available! Try the refresh button for any available respawn points.If there is no chance of accessing them, the game is over and you can leave the game."
-Translate=""
+Translate="Žádný oživovací bod není dostupný! Zkuste tlačítko obnovit pro jakékoliv dostupné oživovací body. Pokud není šance na jejich dosažení, hra skončila a můžete opustit hru."
 
 ID=ScreenMedicals_RespawnWhenShipReady
 Current="Will spawn on "{0}" when it is ready."
-Translate=""
+Translate="Oživíte se na místě '{0}' až bude připraveno"
 
 ID=ScreenMedicals_ActivateSpectator_Confirm
 Current="After enabling spectator mode from the respawn screen there is noway back to the respawn screen! You will have to reload/reconnectin order to respawn again.Are you sure you wish to continue?"
-Translate=""
+Translate="Po povolení diváckého režimu z oživovací karty není cesty zpět! Budete se muset znovupřipojit pro oživení. Opravdu chcete pokračovat?"
 
 ID=ScreenOptionsButtonVideo
 Current="Video"
@@ -16056,7 +16056,7 @@ Translate="Relativní tlumiče přizpůsobují rychlost a směr pohybu pohybliv�
 
 ID=Description_FAQ_InertiaDampeners
 Current="Inertia dampeners will slow movements when there is no input and can be toggled with {CONTROL:DAMPING}. Relative dampeners will match your speed with that of a moving object and can be toggled with [Ctrl-{CONTROL:DAMPING}]. Both need thrusters in all directions to work effectively"
-Translate=""
+Translate="Tlumiče zpomalí pohyb, když není konstrukce ovládána, režim může být přepnut pomocí {CONTROL:DAMPING}. Relativní tlumiče se přizpůsobí rychlosti dané konstrukci pomocí [Ctrl-{CONTROL:DAMPING}]. Oba typy tlumičů potřebují trysky do všech směrů pro správné fungování."
 
 ID=Description_FAQ_Flashlight
 Current="You can toggle your flashlight with {CONTROL:HEADLIGHTS}. Flashlights consume suit power and will not work when depleted. "
@@ -16104,7 +16104,7 @@ Translate="Místnost musí být vzduchotěsná, aby se mohla naplnit kyslíkem p
 
 ID=Description_FAQ_Components
 Current="Components are required to construct blocks. They can be produced in assemblers from ingots. Placing a block in survival mode always requires the first component. "
-Translate=""
+Translate="Součástky jsou potřebné v vytvoření bloku. Ty mohou být být vytvořeny v konstruktérech pomocí ingotů. Položení bloku v survivalu režimu vyžaduje první danou součástku."
 
 ID=Description_FAQ_Station
 Current="A station is a grid that is static and directly attached to voxels like planets or asteroids. Some stations can fly, but only have enough thrusters for basic movement. "
@@ -16148,51 +16148,51 @@ Translate="Ingoty se vyrábějí v rafinériích z rud a jsou nezbytné pro výr
 
 ID=Description_FAQ_Armor
 Current="Armor is used to design the structure of ships and stations, and acts as protection for important blocks. Light armor is cheap and enables ships to be fast. Heavy armor offers more protection for ships, but it affects these vehicles' speed. "
-Translate=""
+Translate="Pancíře jsou používány jako hlavní struktura a desing lodí a stanicí, působí tako jako ochrana pro důležité bloky. Lehký pancíř je lehký a umožňuje lodím být rychlý. Těžký pancíř nabízí více ochrany pro lodě, ale za cenu rychlosti."
 
 ID=Description_FAQ_Meteor
 Current="Meteors can be enabled in world settings. You can protect yourself against meteors by building gatling turrets, adding layers of armor to vehicles and buildings or by simply hiding inside structures."
-Translate=""
+Translate="Meteory mohou být povoleny v nastavení světa. Můžete se chránit před meteory pomocí kulometů, přidáním vrstev pancířů či schováním struktur do země."
 
 ID=Description_FAQ_UnknownSignals
 Current="Signals indicate positions of pods where you can obtain loot and skins in survival mode. Weak signals are only visible for you. Stronger signals are visible for everyone on the server but may lead to better loot. "
-Translate=""
+Translate="Signály indikují pozice schozů, kde můžete získat kořist a skiny v survival režimu. Slabé signály jsou viditelné pouze pro vás. Silnější signály jsou viditelné pro všechny na serveru, ale mohou vést k lepší kořisti."
 
 ID=Description_FAQ_GPSColors
 Current="Blue Signals are owned by you. White signals are owned by a friendly faction. Red signals are owned by a hostile faction. Green and yellow signals indicate loot pods. "
-Translate=""
+Translate="Modré signály jsou Vaše. Bílé signály jsou vlastněny přátelským klanem. Červené signály jsou vlastněny nepřátelským klanem. Zelené a žluté signály označují schozy s kořistí."
 
 ID=Description_FAQ_Drones
 Current="Drones are small unmanned ships that can either be remote controlled, script controlled or sometimes controlled by sensors and timer blocks. "
-Translate=""
+Translate="Drony jsou malé bezpilotní lodě, které mohou být buď dálkově ovládány, ovládány skripty nebo někdy ovládány senzory a časovačema.
 
 ID=Description_FAQ_Objective
 Current="Space Engineers is a sandbox game. You can set your own goals. Search the workshop for scenarios and missions or create your own to play together with friends! Active mission objectives are displayed in the top left corner. "
-Translate=""
+Translate="Space Engineers je sandboxová hra. Můžete si nastavit vlastní cíle hry. Hledejte ve Workshopu scénáře, mise nebo vytvořte vlastní, abyste mohli hrát společně s přáteli! Aktivní cíle mise jsou zobrazeny v levém horním rohu."
 
 ID=Description_FAQ_GoodBot
 Current="I am Good.bot. I am here to answer your questions to the best of my ability. How can I help you?"
-Translate=""
+Translate="Já jsem Good.bot. Jsem zde pro zodpovězení Vašich otázek, jak jen nejlépe dokažu. Jak Vám mohu pomoci?"
 
 ID=Description_FAQ_Math
 Current="Math! I do that all the time!"
-Translate=""
+Translate="Matematika! To dělám pořád!"
 
 ID=Description_FAQ_Begin
 Current="Get your production up and running. Build refineries and assemblers. Make sure you have enough power, Build solar panels, batteries and reactors. make sure your medical room is well protected and build more to be sure!"
-Translate=""
+Translate="Dostanete svou výrobu do chodu. Postavte rafinérie a konstruktéry. Ujistěte se, že máte dostatek energie. Postavte solární panely, baterie a reaktory. Ujistěte se, že je Vaše zdravotnická místnost dobře chráněna, a postavte jich více, abyste byli v bezpečí!"
 
 ID=Description_FAQ_BasicMovement
 Current="Use {CONTROL:FORWARD} {CONTROL:STRAFE_LEFT} {CONTROL:BACKWARD} {CONTROL:STRAFE_RIGHT} to move, Hold {CONTROL:SPRINT} to sprint, Toggle {CONTROL:SWITCH_WALK} to walk. Use {CONTROL:CROUCH} to crouch and {CONTROL:JUMP} to jump. "
-Translate=""
+Translate="Použijte {CONTROL:FORWARD} {CONTROL:STRAFE_LEFT} {CONTROL:BACKWARD} {CONTROL:STRAFE_RIGHT} k pohybu. Držte {CONTROL:SPRINT} k běhu nebo přepněte pomocí {CONTROL:SWITCH_WALK} k chůzi. Použijte {CONTROL:CROUCH} ke skrčení a {CONTROL:JUMP} k výskoku."
 
 ID=Description_FAQ_Time
 Current="It is time for Space Engineers!"
-Translate=""
+Translate="Čas na Space Engineers!"
 
 ID=Description_FAQ_SteamWorkshop
 Current="The {0} workshop is where you can find all player made blueprints, scenarios, scripts and mods that players published. Subscribe to workshop items to access them in game."
-Translate=""
+Translate="{0} Workshop je místo, kde můžete najít plánky, scénáře, skripty a módy, co vytvořili ostatní hráči. Odebírejte zvolený předmět, aby mohl být použit ve hře."
 
 ID=Description_FAQ_Painting
 Current="While holding a block, you can paint blocks with {CONTROL:CUBE_COLOR_CHANGE}. Press K to access more colour options. Use Ctrl-{CONTROL:CUBE_COLOR_CHANGE} or Shift-{CONTROL:CUBE_COLOR_CHANGE} to paint large surfaces. "
@@ -16200,11 +16200,11 @@ Translate=""
 
 ID=Description_FAQ_InvalidMaterial
 Current="Sorry, That material does not exist in Space Engineers. "
-Translate=""
+Translate="Omlouvám se ale daný materiál ve Space Engineers neexistuje."
 
 ID=Description_FAQ_Test
 Current="Test received!"
-Translate=""
+Translate="Test přijat!"
 
 ID=Description_FAQ_Broadcasting
 Current="Your suit has a limited range antenna for accessing grids remotely or controlling drones. You can turn it off and on with O. "
@@ -16320,7 +16320,7 @@ Translate=""
 
 ID=Description_FAQ_Elaborate
 Current="Can you be more specific?"
-Translate=""
+Translate="Můžete být více konkrétnější?"
 
 ID=Description_FAQ_CopyPaste
 Current="You can copy, paste and delete blocks and grids only in creative mode by pressing Ctrl+C, Ctrl+V and Ctrl-X. "
@@ -16332,19 +16332,19 @@ Translate=""
 
 ID=Description_FAQ_Commands
 Current="Use /help to find all chat commands. "
-Translate=""
+Translate="Zkuste napsat /help do chatu pro zobrazení všech příkazů."
 
 ID=Description_FAQ_Platinum
 Current="Platinum is a rare material only found in asteroids and moons. There is no platinum on planets. "
-Translate=""
+Translate="Platina je vzácný materiál, který se nachází pouze v asteroidech a měsících. Na planetách není žádná platina."
 
 ID=Description_FAQ_Uranium
 Current="Uranium is a rare material only found in asteroids and moons. There is no uranium on planets. "
-Translate=""
+Translate="Uran je vzácný materiál, který se nachází pouze v asteroidech a měsících. Na planetách není žádný uran."
 
 ID=Description_FAQ_Stone
 Current="Stone can be refined into small amounts of basic minerals like Iron, Silicon and Nickel in refineries or a survival kit. "
-Translate=""
+Translate="Kámen může být rafinován v rafinériích či v základních modulech na malé množství základních minerálů jako Železo, Křemík a Nikl."
 
 ID=Description_FAQ_BlockShapes
 Current="You can access alternative block shapes if you have a block equipped on your toolbar with an + symbol. Use the scroll wheel to switch to different shapes. "
@@ -16452,7 +16452,7 @@ Translate="To zní dobře"
 
 ID=ChatBot_ThankYou_Q4
 Current="Always appreciated"
-Translate=""
+Translate="Cením si"
 
 ID=ChatBot_ThankYou_Q5
 Current="Thanks so much"
@@ -16468,11 +16468,11 @@ Translate="Děkuji velice"
 
 ID=ChatBot_ThankYou_Q8
 Current="I owe you one"
-Translate=""
+Translate="Dlužím ti"
 
 ID=ChatBot_ThankYou_Q9
 Current="I can’t thank you enough"
-Translate=""
+Translate="Nemohu ti dost poděkovat"
 
 ID=ChatBot_Generic_Q0
 Current="Hi"
@@ -16556,43 +16556,43 @@ Translate="Něco nového"
 
 ID=ChatBot_HowAreYou_Q7
 Current="Whats up"
-Translate=""
+Translate="Jak se máš?"
 
 ID=ChatBot_HowAreYou_Q8
 Current="Whassup"
-Translate=""
+Translate="Whassup"
 
 ID=ChatBot_HowAreYou_Q9
 Current="What are you up to"
-Translate=""
+Translate="Co máš v plánu"
 
 ID=ChatBot_Rude_Q0
 Current="Fuck"
-Translate=""
+Translate="Doprdele"
 
 ID=ChatBot_Rude_Q1
 Current="Fucking"
-Translate=""
+Translate="Zpíčený"
 
 ID=ChatBot_Rude_Q2
 Current="dumb"
-Translate=""
+Translate="debilní"
 
 ID=ChatBot_Rude_Q3
 Current="Shit"
-Translate=""
+Translate="Nahovno"
 
 ID=ChatBot_Rude_Q4
 Current="Shitty"
-Translate=""
+Translate="Zasraný"
 
 ID=ChatBot_Rude_Q5
 Current="stupid"
-Translate=""
+Translate="hloupé"
 
 ID=ChatBot_Rude_Q6
 Current="bitch"
-Translate=""
+Translate="kurva"
 
 ID=Description_FAQ_Objective_Q0
 Current="What is my purpose"
@@ -16604,35 +16604,35 @@ Translate="Měl bych něco dělat"
 
 ID=Description_FAQ_Objective_Q2
 Current="What can I do"
-Translate=""
+Translate="Co mohu dělat"
 
 ID=Description_FAQ_Objective_Q3
 Current="what Do I do"
-Translate=""
+Translate="Co dělám dělám"
 
 ID=Description_FAQ_Objective_Q4
 Current="What do I have to do"
-Translate=""
+Translate="Co mám udělat"
 
 ID=Description_FAQ_Objective_Q5
 Current="what to do"
-Translate=""
+Translate="Co dělat"
 
 ID=Description_FAQ_GoodBot_Q0
 Current="Who are you"
-Translate=""
+Translate="Kdo jsi"
 
 ID=Description_FAQ_GoodBot_Q1
 Current="What is your purpose"
-Translate=""
+Translate="Co je tvým smyslem"
 
 ID=Description_FAQ_GoodBot_Q2
 Current="What are you"
-Translate=""
+Translate="Co jste zač"
 
 ID=Description_FAQ_GoodBot_Q3
 Current="What can you do"
-Translate=""
+Translate="Co dokážete"
 
 ID=Description_FAQ_GoodBot_Q4
 Current="Help"
@@ -16640,7 +16640,7 @@ Translate="Pomoc"
 
 ID=Description_FAQ_Begin_Q0
 Current="What should I do"
-Translate=""
+Translate="Co bych měl udělat"
 
 ID=Description_FAQ_Bug_Q0
 Current="How do I report a bug"
@@ -16652,39 +16652,39 @@ Translate="Chyba"
 
 ID=Description_FAQ_Bug_Q2
 Current="I found a bug"
-Translate=""
+Translate="Našel jsem chybu"
 
 ID=Description_FAQ_Bug_Q3
 Current="Is the game is bugged"
-Translate=""
+Translate="Má hry chyby"
 
 ID=Description_FAQ_Bug_Q4
 Current="The game is broken"
-Translate=""
+Translate="Hra je rozbitá"
 
 ID=Description_FAQ_Bug_Q5
 Current="Where can I report a bug"
-Translate=""
+Translate="Kde mohu nahlásit chybu"
 
 ID=Description_FAQ_Bug_Q6
 Current="Glitch"
-Translate=""
+Translate="Glitch"
 
 ID=Description_FAQ_Bug_Q7
 Current="This does not work"
-Translate=""
+Translate="Toto nefunguje"
 
 ID=Description_FAQ_Bug_Q8
 Current="Out of memory"
-Translate=""
+Translate="Nedostatek paměti"
 
 ID=Description_FAQ_Test_Q0
 Current="Test"
-Translate=""
+Translate="Test"
 
 ID=Description_FAQ_Test_Q1
 Current="Testing"
-Translate=""
+Translate="Testování"
 
 ID=Description_FAQ_Test_Q2
 Current="Is this working"
@@ -16708,7 +16708,7 @@ Translate="Pokročilé rotorové části"
 
 ID=ChatBot_Substitute0_D
 Current="strawberry dumpling"
-Translate=""
+Translate="Jahodové knedlíky"
 
 ID=ChatBot_Substitute1_S
 Current="Advanced Rotor Parts"
@@ -16716,7 +16716,7 @@ Translate="Pokročilé rotorové části"
 
 ID=ChatBot_Substitute1_D
 Current="strawberry dumplings"
-Translate=""
+Translate="Jahodové knedlíky"
 
 ID=ChatBot_Substitute2_S
 Current="Advanced Rotors Part"
@@ -16724,7 +16724,7 @@ Translate="Pokročilé rotorové části"
 
 ID=ChatBot_Substitute2_D
 Current="strawberry dumpling"
-Translate=""
+Translate="Jahodové knedlíky"
 
 ID=ChatBot_Substitute3_S
 Current="Advanced Rotors Parts"
@@ -16732,7 +16732,7 @@ Translate="Pokročilé rotorové části"
 
 ID=ChatBot_Substitute3_D
 Current="strawberry dumplings"
-Translate=""
+Translate="Jahodové knedlíky"
 
 ID=IngameHelp_BuildingTip2_Detail1
 Current="Are you sure you have not done this before?"
@@ -16744,19 +16744,19 @@ Translate="*Tip:* Vždycky měj u sebe pár základních součástek."
 
 ID=IngameHelp_FlyingAShipLGTip_Detail1
 Current="One Engineer told me that flying a ship is as easy as riding a bike!"
-Translate=""
+Translate="Jeden Engineer mi řekl, že létat s lodí je stejně lehké jako jízda na kole!"
 
 ID=IngameHelp_FlyingAShipLGTip_Detail2
 Current="*Tip:* Landing gears can be used to pick up other grids and move them around."
-Translate=""
+Translate="*Tip:* Podvozek může být použit ke zvednutí dalších konstrukcí a pohybu s nimi."
 
 ID=IngameHelp_FlyingAShipLG_Detail1
 Current="This ship is equipped with magnetic landing gears. Toggling landing gears will temporarily disable their magnetic lock."
-Translate=""
+Translate="Tato loď je vybavena magnetickým podvozke. Přepnutí režimu podvozku nachvíli vyřadí jeho magnetický prvek uzamčení."
 
 ID=IngameHelp_FlyingAShipLG_Detail2
 Current="Use {CONTROL:LANDING_GEAR} to toggle the landing gear."
-Translate=""
+Translate="Použijte {CONTROL:LANDING_GEAR} k přepnutí režimu podvozku."
 
 ID=IngameHelp_WheeledVehicles2_Detail1
 Current="You can adjust wheel settings individually to control steering angles, acceleration, maximum speed and much more. They can “jump” by charging their suspension to get out of gaps."
@@ -16764,7 +16764,7 @@ Translate=""
 
 ID=IngameHelp_WheeledVehicles2_Detail2
 Current="Hold and release {CONTROL:THRUSTS} to charge a jump."
-Translate=""
+Translate="Držte a uvolněte {CONTROL:THRUSTS} k nabití a následnému skoku."
 
 ID=IngameHelp_WheeledVehiclesTip_Detail1
 Current="Congratulations! You just passed your driving test!"
@@ -16772,27 +16772,27 @@ Translate="Gratujuji! Úspěšně jste složil autoškolu!"
 
 ID=IngameHelp_WheeledVehiclesTip_Detail2
 Current="*Tip:* Be careful not to go too fast with Wheeled Vehicles, which can flip over easily."
-Translate=""
+Translate="*Tip:* Nejezděte přílíš rychle, můžete se snadno převrátit."
 
 ID=IngameHelp_WheeledVehicles_Detail1
 Current="Wheeled Vehicles are cheap to build and require little power."
-Translate=""
+Translate="Vozidla jsou levná a nepotřebují tolik energie."
 
 ID=IngameHelp_WheeledVehicles_Detail2
 Current="Toggle {CONTROL:TOGGLE_REACTORS} to turn power off and on."
-Translate=""
+Translate="Přepněte {CONTROL:TOGGLE_REACTORS} k vypnutí či zapnutí napájení."
 
 ID=IngameHelp_WheeledVehicles_Detail3
 Current="Toggle {CONTROL:LANDING_GEAR} for parking."
-Translate=""
+Translate="Přepněte {CONTROL:LANDING_GEAR} řežim zaparkování."
 
 ID=IngameHelp_WheeledVehicles_Detail4
 Current="Use {CONTROL:FORWARD}, {CONTROL:BACKWARD}, {CONTROL:STRAFE_LEFT}, {CONTROL:STRAFE_RIGHT} keys to move."
-Translate=""
+Translate="Použijte {CONTROL:FORWARD}, {CONTROL:BACKWARD}, {CONTROL:STRAFE_LEFT}, {CONTROL:STRAFE_RIGHT} k pohybu"
 
 ID=IngameHelp_WheeledVehicles_Detail4:Gamepad
 Current="Use {GAMEPAD:AXIS_MOTION} to move."
-Translate=""
+Translate="Použijte {GAMEPAD:AXIS_MOTION} k pohybu."
 
 ID=IngameHelp_WheeledVehicles_Detail5
 Current="Hold {CONTROL:JUMP} to brake."
@@ -16856,7 +16856,7 @@ Translate="Výborně! Teď můžeš pokračovat ve svém tréninku."
 
 ID=IngameHelp_StuckTip_Detail2
 Current="*Tip:* Always make sure your vehicle has enough fuel before leaving your base."
-Translate=""
+Translate="*Tip:* Vždycky se ujistěte, že vozidlo má dostatek energie předtím než opustíte Vaši základnu."
 
 ID=IngameHelp_Stuck_Detail1
 Current="You appear to be stuck."
@@ -16864,11 +16864,11 @@ Translate="Vypadá to že jsi uvizl/a"
 
 ID=IngameHelp_Stuck_Detail2
 Current="Press {0} to toggle power on and off."
-Translate=""
+Translate="Stiskněte {0} k přepnutí energie."
 
 ID=IngameHelp_Stuck_Detail3
 Current="Press {0} to toggle landing gears, brakes and connectors."
-Translate=""
+Translate="Stiskněte {0} k přepnutí podvozku, brzd a konektorů."
 
 ID=IngameHelp_Stuck_Title
 Current="Good.bot: Stuck?"
@@ -16876,23 +16876,23 @@ Translate="Good.bot: Uvízl/a jsi?"
 
 ID=NotificationJumpAbortedAlreadyJumping
 Current="Jump was aborted, connected grid is already jumping."
-Translate=""
+Translate="Skok byl přerušen, spojená konstrukce již skáče."
 
 ID=NotificationJumpAbortedLocked
 Current="Jump was aborted, the grid is locked."
-Translate=""
+Translate="Skok byl přerušen, konstrukce je uzamčena."
 
 ID=NotificationJumpAbortedNoLocation
 Current="Jump was aborted, no suitable target location found."
-Translate=""
+Translate="Skok byl přerušen, nebyla nalezena vhodná cílová pozice."
 
 ID=NotificationJumpAbortedShortDistance
 Current="Jump was aborted, distance too short."
-Translate=""
+Translate="Skok byl přerušen, vzdálenost je příliš malá."
 
 ID=NotificationJumpAbortedStatic
 Current="Jump was aborted, the grid is static."
-Translate=""
+Translate="Skok byl přerušen, konstrukce je statická (stanice)."
 
 ID=SetEntityPositionDialog
 Current="Set entity position"
@@ -16900,11 +16900,11 @@ Translate=""
 
 ID=ScreenMedicals_WaitingForAcceptance
 Current="Waiting for faction acceptance"
-Translate=""
+Translate="Čekání na přijetí klanem"
 
 ID=ScreenMedicals_RequiresAcceptance
 Current="Requires acceptance from a leader."
-Translate=""
+Translate="Vyžaduje přijetí od vůdce."
 
 ID=CustomWorld_NeverSurrender
 Current="Never Surrender"
@@ -16932,7 +16932,7 @@ Translate="Sdílej tvůj postup hrou se zvoleným členem."
 
 ID=IngameHelp_Turbine2_Detail1
 Current="Your base will require more power as you add more functional blocks. Be sure to build more wind turbines or solar panels or turn blocks off to prevent them from consuming power."
-Translate=""
+Translate="Vaše základna bude vyžadovat více energie s přidáváním dalších funkčních bloků. Ujistěte se, že postavíte více větrných turbín nebo solárních panelů, nebo vypněte bloky, aby nespotřebovávaly energii."
 
 ID=IngameHelp_Turbine_Detail1
 Current="A solar panel or wind turbine under the right conditions will be able to provide enough energy for you to get started. Continue by adding a basic assembler or deconstruct your old survival kit and move it over to your new base."
@@ -16964,7 +16964,7 @@ Translate="Good.bot: Výzkum"
 
 ID=IngameHelp_Temperature_Detail1
 Current="Temperature affects how quickly your suit energy drains. Hot or cold temperatures will hurt you when your suit is out of power. Tip: Pressurized environments will always maintain optimal temperatures."
-Translate=""
+Translate="Teplota ovlivňuje, jak rychle se vybíjí energie ve Vašem obleku. Vysoké nebo nízké teploty Vám ublíží, když je Váš oblek bez energie. Tip: Natlakované prostředí vždy udržuje optimální teploty."
 
 ID=IngameHelp_Temperature_Title
 Current="Good.bot: Temperature"
@@ -16972,23 +16972,23 @@ Translate="Good.bot: Teplota"
 
 ID=Department_Designers
 Current="Designers"
-Translate="Designéři"
+Translate="Designers"
 
 ID=Department_LeadArtist
 Current="Lead Artist"
-Translate=""
+Translate="Lead Artist"
 
 ID=Department_LeadDesigner
 Current="Lead Designer"
-Translate=""
+Translate="Lead Designer"
 
 ID=Department_TechnicalDirector
 Current="Technical Director"
-Translate=""
+Translate="Technical Director"
 
 ID=Department_TeamOperations
 Current="Team Operations"
-Translate=""
+Translate="Team Operations"
 
 ID=Department_Video
 Current="Video"
@@ -21448,19 +21448,19 @@ Translate=""
 
 ID=Department_LiveOpsDesigners
 Current="LiveOps Designers"
-Translate=""
+Translate="LiveOps Designers"
 
 ID=Department_LiveOpsProducer
 Current="LiveOps Producer"
-Translate=""
+Translate="LiveOps Producer"
 
 ID=Department_LiveOpsProgrammers
 Current="LiveOps Programmers"
-Translate=""
+Translate="LiveOps Programmers"
 
 ID=Department_LiveOpsTechLead
 Current="LiveOps Technical Leader"
-Translate=""
+Translate="LiveOps Technical Leader"
 
 ID=Description_HeavyCalibreGun
 Current="A titanic gun perfectly suited for battles against heavily armored targets. Uses Artillery Shells.Maximum range: 2000 m"
