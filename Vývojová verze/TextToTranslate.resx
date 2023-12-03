@@ -11204,7 +11204,7 @@ Translate="Menu admina je pouze dostupné pokud jsi adminem či tě admin pový�
 
 ID=Afterburner
 Current="Sprint"
-Translate=""
+Translate="Sprint"
 
 ID=AngleGrinderPrimaryAction
 Current="Press {0} to dismount target"
@@ -11296,7 +11296,7 @@ Translate="Omezuje výšku zdvihu odpružení. Nastavením na 0 % se odpružení
 
 ID=BlockPropertyDescription_SpaceBallRestitution
 Current="Restitution"
-Translate=""
+Translate="Obnovení"
 
 ID=BlockPropertyTitle_AssignedPB
 Current="Assigned Programmable Block"
@@ -11308,7 +11308,7 @@ Translate="Síla zlomu"
 
 ID=BlockPropertyTitle_MotorUsesWheelCommands
 Current="Uses wheel commands"
-Translate=""
+Translate="Používá příkazy kola"
 
 ID=BlockPropertyTitle_Motor_Damping
 Current="Damping"
@@ -11352,7 +11352,7 @@ Translate="Okamžité stavění"
 
 ID=BlockPropertyTitle_Projector_InstantBuilding_Tooltip
 Current="Enable the projector to build the blueprint instantly, even in survival"
-Translate="Umožňuje projektorům k okamžitému postavení (i v módu survival)"
+Translate="Umožnit projektoru okamžité sestavení plánku, dokonce i v režimu survival"
 
 ID=BlockPropertyTitle_Projector_NumberOfProjections_Tooltip
 Current="The maximum number of projections this projector can build instantly"
@@ -11608,7 +11608,7 @@ Translate="Zadat nastavení symetrie"
 
 ID=ControlMenuItemLabel_ExitSymmetrySetup
 Current="Exit Symmetry Setup"
-Translate=Opustit nastavení symetrie"
+Translate="Opustit nastavení symetrie"
 
 ID=ControlMenuItemLabel_ColorPicker
 Current="Open Color Picker"
@@ -11680,7 +11680,7 @@ Translate="Plánek je příliš velký, náhled je zakázaný"
 
 ID=CubeBuilder_CubeSizeModeChange
 Current="Press {0} again{1}to change block size."
-Translate=""
+Translate="Stiskněte {0} znovu{1}pro změnu velikosti bloku."
 
 ID=CustomWorld_HomeSystem
 Current="Home System"
