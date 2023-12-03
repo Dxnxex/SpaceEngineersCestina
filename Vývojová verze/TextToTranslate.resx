@@ -21749,11 +21749,11 @@ Translate="Přehrát"
 
 ID=BasicMissionBlock_SelectMission
 Current="Select Objective"
-Translate=""
+Translate="Vybrat úkol"
 
 ID=BasicMissionBlock_SelectMission_Tooltip
 Current="Follow Home - Allows you to select a home beacon or GPS that the grid should follow.Can be set up to wander while it is within range.Follow Player - The grid will follow the player who presses the “Follow Me” button.Autopilot - Allows the grid to move to GPS locations and patrol/circle between several locations.Patrol and Circle requires 2 GPS locations!"
-Translate=""
+Translate="Následovat domů - Umožňuje vybrat domovský maják nebo GPS, který má konstrukce následovat.Může být nastavena tak, aby se pohybovala, dokud je v dosahu.Následovat hráče - Konstrukce bude následovat hráče, který stiskne tlačítko "Následovat mě".Autopilot - Umožňuje konstrukci pohybovat se na místa GPS a hlídkovat/kroužit mezi několika místy.Hlídkování a kroužení vyžaduje 2 místa GPS!"
 
 ID=BasicMission_FollowHome
 Current="Follow Home"
@@ -21901,11 +21901,11 @@ Translate="Bránit se proti"
 
 ID=DefensiveCombatBlock_DefendAgainst_Tooltip
 Current="Which other grids may be a threat?"
-Translate=""
+Translate="Které další konstrukce mohou být hrozbou?"
 
 ID=DefensiveCombatBlock_TargetLock
 Current="Target lock"
-Translate=""
+Translate="Uzamčení cíle"
 
 ID=DefensiveCombatBlock_TargetLock_Enemies
 Current="Enemies"
@@ -21921,11 +21921,11 @@ Translate="Nikoho"
 
 ID=DefensiveCombatBlock_SubsystemsToDestroy
 Current="Subsystems to destroy"
-Translate=""
+Translate="Podsystémy ke zničení"
 
 ID=DefensiveCombatBlock_FleeTo
 Current="Flee to"
-Translate=""
+Translate="Útěk do"
 
 ID=DefensiveCombatBlock_FleeTo_Tooltip
 Current="If this grid flees, it will flee towards the selected waypoint."
@@ -23517,7 +23517,7 @@ Translate="Pohovka - Věstavená"
 
 ID=DisplayName_Block_InsetBookshelf
 Current="Inset Bookshelf"
-Translate="Knihovna  - Věstavená"
+Translate="Knihovna - Věstavená"
 
 ID=DisplayName_Block_InsetEntertainmentCorner
 Current="Inset Entertainment Corner"
@@ -23525,7 +23525,7 @@ Translate="Zábavný koutek - Věstavený"
 
 ID=DisplayName_Block_InsetAquarium
 Current="Inset Aquarium"
-Translate="Akvárium  - Věstavené"
+Translate="Akvárium - Věstavené"
 
 ID=DisplayName_Block_HoloLCD
 Current="Holo LCD"
