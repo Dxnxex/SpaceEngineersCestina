@@ -22397,19 +22397,19 @@ Translate="Zobrazí vybraný(é) bod(y) na HUD.Chcete-li jej vidět, ujistěte s
 
 ID=BlockPropertyTooltip_PathRecorder_RecordPath
 Current="Start recording a new path. Recording adds to the end of any existing record. A path cannot be recorded while the Autopilot is enabled."
-Translate=""
+Translate="Začněte nahrávat novou trasu. Nahrávání se přidá na konec jakéhokoli existujícího záznamu. Cestu nelze zaznamenat, pokud je zapnutý Autopilot."
 
 ID=BlockPropertyTooltip_PathRecorder_RecordsSteps
 Current="A waypoint is added when the time since the last waypoint is greater than this value, and the distance to the previous waypoint exceeds the Minimal Distance value."
-Translate=""
+Translate="Bod trasy je přidán, pokud je čas od posledního bodu trasy větší než tato hodnota a vzdálenost k předchozímu bodu trasy je větší než hodnota pro minimální vzdálenost."
 
 ID=BlockPropertyTooltip_PathRecorder_RecordsDistance
 Current="A waypoint is added when the distance to the last waypoint is greater than this value, and the time since the previous waypoint exceeds the Waypoint Addition Interval value."
-Translate=""
+Translate="Bod trasy se přidá, pokud je vzdálenost k poslednímu bodu trasy větší než tato hodnota a čas od předchozího bodu trasy přesáhne hodnotu zadanou pro interval přidávání bodů trasy."
 
 ID=BlockPropertyTooltip_PathRecorder_Beacons
 Current="When a reference is selected, the waypoints are in local space coordinates relative to the reference. If none is selected, the waypoints are relative to the world space coordinates."
-Translate=""
+Translate="Pokud je vybrána reference, jsou body trasy v lokálních prostorových souřadnicích vzhledem k referenci. Pokud není vybrán žádný, jsou body trasy vztaženy k souřadnicím světového prostoru."
 
 ID=BlockPropertyTooltip_PathRecorder_DeselectBeacons
 Current="Deselect reference beacon."
@@ -22549,7 +22549,7 @@ Translate=""
 
 ID=DefensiveCombatBlock_NoFleeTo
 Current="[Color=#FFFF0000]ERROR: No "Flee to" waypoint selected! Please select a waypoint[/Color]"
-Translate="[Color=#FFFF0000]CHYBA: Není vybrán žádný bod trasy "Útěk do"! Vyberte prosím bod trasy[/Color]"
+Translate="[Color=#FFFF0000]CHYBA: Není vybrán žádný bod trasy 'Útěk do'! Vyberte prosím bod trasy[/Color]"
 
 ID=PathRecorderComponent_StatusMessage_NoWaypoints
 Current="[Color=#FFFF0000]ERROR: No sequence found! Please record a sequence[/Color]"
