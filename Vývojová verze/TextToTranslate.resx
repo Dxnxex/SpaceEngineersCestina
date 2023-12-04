@@ -3356,7 +3356,7 @@ Translate="Varování: Zdraví je kriticky nízké."
 
 ID=NotificationHealthLow
 Czech="Varování: Zdraví je nizké."
-Translate="Varování: Zdraví je nízké."
+Translate="Varování: Nízký stav zdraví."
 
 ID=NotificationProjectorGridSize
 Czech="Špatná velikost konstrukce. Plánek musí být stejně velký jako projektor."
@@ -10068,11 +10068,11 @@ Translate="Zaseknutý? Stiskni {0} pro možnost oživení."
 
 ID=Hint21Text
 Czech="Veděl jsi že? Můžeš manuálně ovládat veže k lepšímu vybrání tvého cíle."
-Translate="Veděl jsi že? Můžeš manuálně ovládat věže k lepšímu vybrání tvého cíle."
+Translate="Věděli jste, že? Můžeš manuálně ovládat věže k lepšímu vybrání tvého cíle."
 
 ID=Hint22Text
 Czech="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
-Translate="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
+Translate="Věděli jste, že? Tvé magnetické boty fungují jen když není okolo gravitace."
 
 ID=HintKeyboardOnly03Text
 Czech="Věděli jste, že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
@@ -11732,19 +11732,19 @@ Translate="Community Managers"
 
 ID=Department_CommunityPr
 Current="Community &amp; PR Manager"
-Translate="Community &amp; PR Manager"
+Translate="Komunitní &amp; PR Manažér"
 
 ID=Department_ExecutiveProducer
 Current="Executive Producer &amp; Creative Director"
-Translate="Executive Producer &amp; Creative Director"
+Translate="Výkonný Producent &amp; Kreativní Ředitel"
 
 ID=Department_GameDesigners
 Current="Game Designers"
-Translate="Game Designers"
+Translate="Herní designéři"
 
 ID=Department_LeadProducer
 Current="Producer"
-Translate="Producer"
+Translate="Producent"
 
 ID=Department_LeadProgrammers
 Current="Lead Programmers"
@@ -11764,7 +11764,7 @@ Translate="Pro více informací navštivte"
 
 ID=Department_Music
 Current="Music"
-Translate="Music"
+Translate="Hudba"
 
 ID=Department_Office
 Current="Office"
@@ -11772,11 +11772,11 @@ Translate="Office"
 
 ID=Department_Programmers
 Current="Programmers"
-Translate="Programmers"
+Translate="Programátoři"
 
 ID=Department_SoundDesign
 Current="Sound Design"
-Translate="Sound Design"
+Translate="Zvukový design"
 
 ID=Department_SpecialThanks
 Current="Special Thanks (in alphabetical order)"
@@ -11784,11 +11784,11 @@ Translate="Speciální poděkování (v abecedním pořadí)"
 
 ID=Department_Testers
 Current="QA Testers"
-Translate="QA Testers"
+Translate="Testeři kvality"
 
 ID=Department_Translators
 Current="Translators"
-Translate="Translators"
+Translate="Překladatelé"
 
 ID=Depower
 Current="Depower"
@@ -12624,7 +12624,7 @@ Translate="Rozhlížení se"
 
 ID=HelpScreen_ControllerLookAround_PassengerSeat
 Current="Look Around in passenger seat"
-Translate="Rozhlížení se v sedadle"
+Translate="Rozhlížení se v sedadle spolujezdce"
 
 ID=HelpScreen_ControllerCharacterSurvival
 Current="Survival Only Character"
@@ -12768,7 +12768,7 @@ Translate="Věděli jste, že? Když řidíte rover, zmáčknutím {0} zabrzdít
 
 ID=Hint12Text
 Current="Did you know?you can open the color picker by pressing {0}."
-Translate="Veděl jsi že? Můžeš otevřít palet s barvami stisknutím {0}."
+Translate="Věděli jste, že? Můžete otevřít palet s barvami stisknutím {0}."
 
 ID=Hint13Text
 Current="Batteries will automatically charge and distribute power when necessary according to their settings."
@@ -15916,7 +15916,7 @@ Translate="Používejte svářečku na bloky k jejich stavbě a opravám. Svařo
 
 ID=Description_FAQ_Mining
 Current="You can collect ore by using your drill on voxels like planets or asteroids. Your drill has a short-range detector that shows you the location of ores. "
-Translate="Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy.""
+Translate="Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy."
 
 ID=Description_FAQ_Healing
 Current="You can heal yourself at a medical room or survival kit if you are injured. Hold {CONTROL:USE} to use the console. "
@@ -21797,7 +21797,7 @@ Translate="Domovské pozice"
 
 ID=FollowHome_PositionList_Tooltip
 Current="Available home positions."
-Translate="Dostupné domácí pozice."
+Translate="Dostupné domovské pozice."
 
 ID=FollowHome_SetHome_Title
 Current="Set Current Position"
@@ -22149,7 +22149,7 @@ Translate="Přidat zbraň"
 
 ID=OffensiveCombatHitAndRun_AddWeapon_Tooltip
 Current="Add the selected weapon to the Selected Weapons list"
-Translate="Přidat vybrané zbraně do seznamu vybraných zbraní"
+Translate="Přidat vybranou zbraň do seznamu vybraných zbraní"
 
 ID=OffensiveCombatHitAndRun_RemoveWeapon_Title
 Current="Remove Weapon"
@@ -22389,11 +22389,11 @@ Translate="Obrátit pořadí všech tras."
 
 ID=BlockPropertyTooltip_PathRecorder_ShowPath
 Current="Displays the recorded path on the HUD.To see this, ensure you have “Show on HUD” enabled on this block, as well as “Show AI Functions” in the Info screen, and have an Antenna connection to this grid."
-Translate=""
+Translate="Zobrazí zaznamenanou trasu na HUD.Chcete-li ji vidět, ujistěte se, že máte na tomto bloku povoleno "Zobrazit na HUD", stejně jako "Zobrazit funkce UI" na obrazovce informací, a že máte k této konstrukci připojenou anténu."
 
 ID=BlockPropertyTooltip_PathRecorder_ShowPoints
 Current="Displays the selected point(s) on the HUD.To see this, ensure you have “Show on HUD” enabled on this block, as well as “Show AI Functions” in the Info screen, and have an Antenna connection to this grid."
-Translate=""
+Translate="Zobrazí vybraný(é) bod(y) na HUD.Chcete-li jej vidět, ujistěte se, že máte na tomto bloku povoleno "Zobrazit na HUD", stejně jako "Zobrazit funkce UI" na obrazovce informací, a že máte k této konstrukci připojenou anténu."
 
 ID=BlockPropertyTooltip_PathRecorder_RecordPath
 Current="Start recording a new path. Recording adds to the end of any existing record. A path cannot be recorded while the Autopilot is enabled."
