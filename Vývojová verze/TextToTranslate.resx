@@ -22549,7 +22549,7 @@ Translate=""
 
 ID=DefensiveCombatBlock_NoFleeTo
 Current="[Color=#FFFF0000]ERROR: No "Flee to" waypoint selected! Please select a waypoint[/Color]"
-Translate="[Color=#FFFF0000]CHYBA: Není vybrán žádný bod trasy 'Útěk do'! Vyberte prosím bod trasy[/Color]"
+Translate="[Color=#FFFF0000]CHYBA: Není vybrán žádný bod trasy "Útěk do"! Vyberte prosím bod trasy[/Color]"
 
 ID=PathRecorderComponent_StatusMessage_NoWaypoints
 Current="[Color=#FFFF0000]ERROR: No sequence found! Please record a sequence[/Color]"
