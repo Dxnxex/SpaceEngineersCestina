@@ -15916,7 +15916,7 @@ Translate="Používejte svářečku na bloky k jejich stavbě a opravám. Svařo
 
 ID=Description_FAQ_Mining
 Current="You can collect ore by using your drill on voxels like planets or asteroids. Your drill has a short-range detector that shows you the location of ores. "
-Translate=Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy.""
+Translate="Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy.""
 
 ID=Description_FAQ_Healing
 Current="You can heal yourself at a medical room or survival kit if you are injured. Hold {CONTROL:USE} to use the console. "
