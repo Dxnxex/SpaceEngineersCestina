@@ -22593,7 +22593,7 @@ Translate="Konstrukce se pokusí zadržet nepřítele a vrazit do něj."
 
 ID=FlightBlock_StatusMessage_NoTaskBlock
 Current="[Color=#FFFF0000]ERROR: No movement input. Please add/activate a Task and/or Combat block![/Color]"
-Translate=""
+Translate="[Color=#FFFF0000]CHYBA: Není zadán žádný pohyb. Prosím, přidejte/aktivujte blok Úkol a/nebo Boj![/Color]"
 
 ID=AIBlocks_HudMessage_Error
 Current="ERROR"
