@@ -11324,7 +11324,7 @@ Translate=""
 
 ID=BlockPropertyTitle_Motor_SteerReturnSpeed
 Current="Steer Return Speed"
-Translate=""
+Translate="Návratová rychlost řízení"
 
 ID=BlockPropertyTitle_Motor_SteerSpeed
 Current="Steering Speed"
@@ -13388,19 +13388,19 @@ Translate="Helma zavřena"
 
 ID=NotificationHintJoystickPressToOpenButtonPanel
 Current="Access control menu to setup panel's buttons"
-Translate=""
+Translate="Přístup k nabídce ovládání pro nastavení tlačítek panelu"
 
 ID=NotificationHintJoystickPressToOpenControlPanel
 Current="Access control menu to open control panel of {0}"
-Translate=""
+Translate="Přístup k nabídce ovládání pro otevření ovládacího panelu {0}"
 
 ID=NotificationHintJoystickPressToOpenInventory
 Current="Access control menu to open inventory of {0}"
-Translate=""
+Translate="Přístup k nabídce ovládání pro otevření inventáře {0}"
 
 ID=NotificationHintJoystickPressToOpenTerminal
 Current="Access control menu to open terminal"
-Translate=""
+Translate="Přístup k nabídce ovládání pro otevření terminálu"
 
 ID=NotificationHintLeaveCryoChamber
 Current="Press {0} to leave cryo chamber"
@@ -13428,11 +13428,11 @@ Translate="Stiskni {0} k otevření ovládacího panelu {1}"
 
 ID=NotificationHintPressToShowScreen
 Current="Press {0} to show screen"
-Translate=""
+Translate="Stiskni {0} pro zobrazení obrazovky"
 
 ID=NotificationHintSwitchWeaponMode
 Current="Press {0} to switch between single/all weapon mode."
-Translate=""
+Translate="Stiskni {0} pro přepnutí mezi režimem jedné/všech zbraní."
 
 ID=NotificationHintTurnPowerOff
 Current="Press {0} to turn power off"
@@ -13444,7 +13444,7 @@ Translate="Stiskni {0} k zapnutí energie."
 
 ID=NotificationHint_CubeDefaultMountpoint
 Current="Press {0} to toggle auto orientation"
-Translate=""
+Translate="Stiskni {0} pro přepnutí automatické orientace"
 
 ID=NotificationJetpackOff
 Current=""
@@ -13456,7 +13456,7 @@ Translate="Jetpack VYP (Není vodík)"
 
 ID=NotificationJoystickColorFormat
 Current="Press {0} to apply color, access control menu to change color"
-Translate=""
+Translate="Stiskni {0} pro použití barvy, přístup do nabídky ovládání pro změnu barvy"
 
 ID=NotificationWeaponNotFullyCharged
 Current="Weapon is only {0} charged!"
@@ -13528,11 +13528,11 @@ Translate="Varování: Nízká hladina paliva."
 
 ID=NotificationStationRotation
 Current="Station rotation mode, press {0} to switch off"
-Translate=""
+Translate="Režim otáčení stanice, stiskni {0} pro vypnutí"
 
 ID=NotificationStationRotationOff
 Current="Press {0} for station rotation mode"
-Translate=""
+Translate="Stiskni {0} pro režim otáčení stanice"
 
 ID=NotificationSuitEnergyCritical
 Current="Warning: Suit energy is critically low. Life support failure imminent."
@@ -13560,7 +13560,7 @@ Translate="Dochází palivo pro jetpack"
 
 ID=NotificationUsingWeaponType
 Current="Using {0}"
-Translate=""
+Translate="Pomocí {0}"
 
 ID=NotificationWheelNotPlaced
 Current="Wheel could not be placed."
@@ -13584,11 +13584,11 @@ Translate="Autopilot povolen"
 
 ID=Notification_NoControlLowerPriority
 Current="Grid control forbidden.Seat/Remote with higher priority is already occupied."
-Translate=""
+Translate="Ovládání konstrukce je zakázáno.Sedadlo/dálkové ovládání s vyšší prioritou je již obsazeno."
 
 ID=Notification_NoControlOtherShip
 Current="A connected ship has taken control"
-Translate=""
+Translate="Propojená loď převzala kontrolu"
 
 ID=Notification_NoControlStation
 Current="Someone else is using this station!"
@@ -13628,7 +13628,7 @@ Translate="Kyslík nebo vzduchotěnost je zakázana v nastavění světa!"
 
 ID=Parachute_ConstraintItem
 Current="Parachute Material"
-Translate=""
+Translate="Materiál padáku"
 
 ID=Person_FB
 Current="Like us on Facebook: www.facebook.com/SpaceEngineers"
@@ -13712,15 +13712,15 @@ Translate="Editor kódu"
 
 ID=ProgrammableBlock_DefaultScript_Constructor
 Current="The constructor, called only once every session andalways before any other method is called. Use it toinitialize your script. The constructor is optional and can be removed if notneeded.It's recommended to set RuntimeInfo.UpdateFrequency here, which will allow your script to run itself without a timer block."
-Translate=""
+Translate="Konstruktor, který se volá pouze jednou za relaci a vždy před voláním jakékoli jiné metody. Použij jej k inicializaci skriptu. Konstruktor je nepovinný, a pokud jej nepotřebuješ, můžeš jej odstranit.Doporučujeme zde nastavit RuntimeInfo.UpdateFrequency, což umožní, aby tvůj skript běžel sám bez bloku časovače."
 
 ID=ProgrammableBlock_DefaultScript_Main
 Current="The main entry point of the script, invoked every timeone of the programmable block's Run actions are invoked,or the script updates itself. The updateSource argumentdescribes where the update came from.The method itself is required, but the arguments abovecan be removed if not needed."
-Translate=""
+Translate="Hlavní vstupní bod skriptu, který se vyvolá pokaždé, když je vyvolána jedna z akcí Run programovatelného bloku nebo když se skript sám aktualizuje. Argument updateSource popisuje, odkud aktualizace přišla.Samotná metoda je povinná, ale výše uvedené argumenty lze odstranit, pokud nejsou potřeba."
 
 ID=ProgrammableBlock_DefaultScript_Save
 Current="Called when the program needs to save its state. Usethis method to save your state to the Storage fieldor some other means. This method is optional and can be removed if notneeded."
-Translate=""
+Translate="Volá se, když program potřebuje uložit svůj stav. Tuto metodu použij k uložení stavu do pole Úložiště nebo jiným způsobem. Tato metoda je nepovinná a může být odstraněna, pokud není potřebná."
 
 ID=ProgrammableBlock_DeleteScriptDialogText
 Current="Are you sure you want to delete this script ?"
@@ -13772,15 +13772,15 @@ Translate="Zapamatovat současný skript a ponechat editor otevřený"
 
 ID=ProgrammableBlock_Exception_ExceptionCaught
 Current="Caught exception during execution of script:"
-Translate=""
+Translate="Zachycená výjimka během provádění skriptu:"
 
 ID=ProgrammableBlock_Exception_NestedTooComplex
 Current="Script execution halted temporarily. The combined execution between a calling programmable block and this script became too complex. This script has not been terminated, but the calling script has."
-Translate=""
+Translate="Provádění skriptu se dočasně zastavilo. Kombinované provádění mezi volajícím programovatelným blokem a tímto skriptem bylo příliš složité. Tento skript nebyl ukončen, ale volající skript ano."
 
 ID=ProgrammableBlock_Exception_NoAssembly
 Current="Assembly not found. Please compile script."
-Translate=""
+Translate="Sestava nebyla nalezena. Zkompilujte prosím skript."
 
 ID=ProgrammableBlock_Exception_NoMain
 Current="Main method not found. Please add Main method into script."
