@@ -20356,19 +20356,19 @@ Translate="Plakát - Průzkum"
 
 ID=LCD_SpaceTravel_Landscape
 Current="Poster Space Travel H"
-Translate=""
+Translate="Plakát - Vesmirné  cestování H"
 
 ID=LCD_SpaceTravel_Portrait
 Current="Poster Space Travel V"
-Translate=""
+Translate="Plakát - Vesmirné  cestování V"
 
 ID=LCD_SpaceTravel_Square
 Current="Poster Space Travel"
-Translate=""
+Translate="Plakát - Vesmirné  cestování"
 
 ID=LCD_ThunderFleet_Square
 Current="Poster Thunder Fleet"
-Translate=""
+Translate="Plakát - Hromová flotila"
 
 ID=ScreenDebugAdminMenu_RevertBoulderTooltip
 Current="For Boulder reverting, minimum player distance is: {0} m."
@@ -23747,14 +23747,6 @@ ID=SoundBlock_SoundName_MusCompetition2_16
 Current="Voyage To Andromeda"
 Translate="Voyage To Andromeda"
 
-ID=Name1
-Current="ame="Color1" type="System.Drawing.Color, System.Drawing">Blue</data><data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64"><value>[base64 mime encoded serialized .NET Framework object]"
-Translate=""
-
-ID=Color1
-Current="ame="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64"><value>[base64 mime encoded serialized .NET Framework object]"
-Translate=""
-
 ID=BlockActionDropDownValue_RotationAuto
 Current="Auto"
 Translate=""
@@ -23901,10 +23893,6 @@ Translate=""
 
 ID=DisplayName_Block_SymbolZ
 Current="Letter Z"
-Translate=""
-
-ID=String4
-Current="/></data><data name="DisplayName_Block_Armor2x1HalfSlopedTipPanelLight" xml:space="preserve"><value>Light Armor Half Panel 2x1 Tip Right"
 Translate=""
 
 ID=DisplayName_Block_AdvancedRotor3x3
@@ -25733,7 +25721,7 @@ Translate=""
 
 ID=DisplayName_BlockGroup_Projectors
 Current="Projectors"
-Translate=""
+Translate="Projektory"
 
 ID=DisplayName_BlockGroup_RadioAntennas
 Current="Radio Antennas"
@@ -25741,11 +25729,11 @@ Translate=""
 
 ID=DisplayName_BlockGroup_Reactors
 Current="Reactors"
-Translate=""
+Translate="Reaktory"
 
 ID=DisplayName_BlockGroup_Refineries
 Current="Refineries"
-Translate=""
+Translate="Rafinérie"
 
 ID=DisplayName_BlockGroup_RespawnPoints
 Current="Respawn Points"
@@ -25753,7 +25741,7 @@ Translate=""
 
 ID=DisplayName_BlockGroup_Rotors
 Current="Rotors"
-Translate=""
+Translate="Rotory"
 
 ID=DisplayName_BlockGroup_SafeZones
 Current="Safe Zones"
