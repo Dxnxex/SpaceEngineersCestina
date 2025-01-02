@@ -1,11 +1,7 @@
 # Space Engineers Čeština
 
-**Překlad: (Verze hry 1.203.5) (Verze češtiny 1.08) (18.11.2023)**
-<li>Jedná se o překlad hlavního souboru, následují ještě 2 další.</li>
-<li>Přeložitelných řádků: 5937</li>
-<li>Přeložených řádků: 4990</li>
-<li>Nepřeložených řádků: 947</li>
-<li>Přeloženo 84.0%</li>
+**Překlad: (Verze hry 1.205.026 b0) (Verze češtiny 1.09) (02.01.2025) (Contact update)**
+<li>Přeloženo 80.0%</li>
 <br>
 
 **Návod na instalaci. (Upozornění - Přepisujete oficiální soubor s češtinou, nejedná se o modifikaci - Jedná se o textový soubor, takže žádné viry ani scamy nečekejte.)**
