@@ -23747,3 +23747,3083 @@ ID=SoundBlock_SoundName_MusCompetition2_16
 Current="Voyage To Andromeda"
 Translate="Voyage To Andromeda"
 
+ID=Name1
+Current="ame="Color1" type="System.Drawing.Color, System.Drawing">Blue</data><data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64"><value>[base64 mime encoded serialized .NET Framework object]"
+Translate=""
+
+ID=Color1
+Current="ame="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64"><value>[base64 mime encoded serialized .NET Framework object]"
+Translate=""
+
+ID=BlockActionDropDownValue_RotationAuto
+Current="Auto"
+Translate=""
+
+ID=BlockActionDropDownValue_RotationCW
+Current="Clockwise"
+Translate=""
+
+ID=BlockActionDropDownValue_RotationCCW
+Current="Counter-Clockwise"
+Translate=""
+
+ID=BlockActionDropDownValueTip_RotationAuto
+Current="Automatically chooses the shortest rotation to the set angle"
+Translate=""
+
+ID=BlockActionDropDownValueTip_RotationCW
+Current="Rotate clockwise to the set angle"
+Translate=""
+
+ID=BlockActionDropDownValueTip_RotationCCW
+Current="Rotate counter-clockwise to the set angle"
+Translate=""
+
+ID=BlockActionTitle_Discharge
+Current="Discharge"
+Translate=""
+
+ID=BlockActionTitle_Recharge
+Current="Recharge"
+Translate=""
+
+ID=BlockActionTitle_RotateToAngle
+Current="Rotate To Angle"
+Translate=""
+
+ID=BlockActionTitle_SetRotationDirection
+Current="Set Rotation Direction"
+Translate=""
+
+ID=BlockActionTitle_SetAndMove
+Current="Set And Move"
+Translate=""
+
+ID=BlockActionTitle_SetAngle
+Current="Set Angle"
+Translate=""
+
+ID=BlockActionTitle_SetDistance
+Current="Set Distance"
+Translate=""
+
+ID=BlockActionTitle_SetVelocity
+Current="Set Velocity"
+Translate=""
+
+ID=BlockActionTitle_SetLowerLimit
+Current="Set Lower Limit"
+Translate=""
+
+ID=BlockActionTitle_SetUpperLimit
+Current="Set Upper Limit"
+Translate=""
+
+ID=BlockPropertiesText_Productivity_Assembler
+Current="Production Speed:"
+Translate=""
+
+ID=BlockPropertyProperties_ChargeEfficiency
+Current="Charge Efficiency: "
+Translate=""
+
+ID=BlockPropertyTitle_SetFlightModeFormat
+Current="Set Flight Mode: {0}"
+Translate=""
+
+ID=DisplayName_Space_spider_black
+Current="Black Sabiroid"
+Translate=""
+
+ID=DisplayName_Space_spider_brown
+Current="Brown Sabiroid"
+Translate=""
+
+ID=DisplayName_Space_spider_green
+Current="Green Sabiroid"
+Translate=""
+
+ID=DisplayName_Space_spider
+Current="Sabiroid"
+Translate=""
+
+ID=DisplayName_Space_Wolf
+Current="Wolf"
+Translate=""
+
+ID=Description_Transponder
+Current="Action Relay blocks, in conjunction with Antennas, can trigger actions on other Action Relay blocks on other grids using the corresponding channel."
+Translate=""
+
+ID=Description_CockpitFlush
+Current="flush cockpit placeholder"
+Translate=""
+
+ID=Notification_DeconstructionLoss
+Current="Some components will be lost if removed."
+Translate=""
+
+ID=ScreenMedicals_RespawnOutsideWorld
+Current="The spawn points in this world are outside of the world size limit and/or the spawn points are obstructed. Please increase the world size limit."
+Translate=""
+
+ID=TerminalTab_Info_GridMassFull
+Current="Total mass: "
+Translate=""
+
+ID=TerminalTab_Info_GridMassDry
+Current="Dry mass: "
+Translate=""
+
+ID=Terminal_ClaimAuthorship_Button
+Current="Claim NPC Grid"
+Translate=""
+
+ID=DisplayName_Block_CockpitFlush
+Current="Flush Cockpit"
+Translate=""
+
+ID=ToolTipWorldSettingsEnableLightningDamage
+Current="Lightning strikes from weather can damage grids."
+Translate=""
+
+ID=WorldSettings_EnableLightningDamage
+Current="Enable lightning damage"
+Translate=""
+
+ID=NotificationHintSoundBlockDlcUnavailable
+Current="This item won't play as the {0} DLC is missing"
+Translate=""
+
+ID=Jukebox_Script_DlcUnavailable
+Current="Missing {0} DLC"
+Translate=""
+
+ID=DisplayName_Block_SymbolZ
+Current="Letter Z"
+Translate=""
+
+ID=String4
+Current="/></data><data name="DisplayName_Block_Armor2x1HalfSlopedTipPanelLight" xml:space="preserve"><value>Light Armor Half Panel 2x1 Tip Right"
+Translate=""
+
+ID=DisplayName_Block_AdvancedRotor3x3
+Current="Advanced Rotor 3x3"
+Translate=""
+
+ID=DisplayName_Block_BroadcastController
+Current="Broadcast Controller"
+Translate=""
+
+ID=FollowHome_SetHomePositionPlayer_Title
+Current="Set Player Position"
+Translate=""
+
+ID=FollowHome_SetHomePositionPlayer_Tooltip
+Current="Creates a GPS at your current location and sets it as the Home position."
+Translate=""
+
+ID=FollowHome_SetHomePositionGrid_Title
+Current="Set Grid Position"
+Translate=""
+
+ID=FollowHome_SetHomePositionGrid_Tooltip
+Current="Creates a GPS at the current grid location and sets it as the Home position."
+Translate=""
+
+ID=EventControllerBlock_UnknownBlock
+Current="Unknown block"
+Translate=""
+
+ID=EventControllerBlock_UnknownBlockTooltip
+Current="Block {0} is referenced but not found yet"
+Translate=""
+
+ID=EventControllerBlock_WaitingForRefBlocks
+Current="ERROR: There are missing referenced blocks. The event won't work until they are resolved or removed."
+Translate=""
+
+ID=DisplayName_Block_Transponder
+Current="Action Relay"
+Translate=""
+
+ID=FeatureNotSupported
+Current="This feature is not supported"
+Translate=""
+
+ID=DisplayName_Block_InsetWall
+Current="Inset Wall "
+Translate=""
+
+ID=DisplayName_Block_InsetWallCorner
+Current="Inset Wall Corner"
+Translate=""
+
+ID=DisplayName_Block_InsetWallLight
+Current="Inset Wall Light"
+Translate=""
+
+ID=DisplayName_Block_InsetWallPillar
+Current="Inset Wall Pillar"
+Translate=""
+
+ID=DisplayName_Block_InsetWallSlope
+Current="Inset Wall Diagonal"
+Translate=""
+
+ID=DisplayName_DLC_DecorativeBlocks4
+Current="Signal Blocks"
+Translate=""
+
+ID=RadialMenuGroupTitle_Decoration6
+Current="Decoration #6"
+Translate=""
+
+ID=Description_ConsoleModule
+Current="Console module blocks can be used to make a working station appear productive and important."
+Translate=""
+
+ID=DisplayName_Block_ConsoleModule
+Current="Console Module"
+Translate=""
+
+ID=DisplayName_Block_ConsoleModuleButtons
+Current="Console Module Buttons"
+Translate=""
+
+ID=DisplayName_Block_ConsoleModuleCorner
+Current="Console Module Corner"
+Translate=""
+
+ID=DisplayName_Block_ConsoleModuleInvertedCorner
+Current="Console Module Corner Inv."
+Translate=""
+
+ID=DisplayName_Block_ConsoleModuleScreens
+Current="Console Module LCD"
+Translate=""
+
+ID=ToolTipWorldSettings_Drones
+Current="Enables NPC antennas to spawn potentially hostile drones"
+Translate=""
+
+ID=ToolTipWorldSettings_Voxels
+Current="Enables voxel manipulation tools in creative mode."
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindow
+Current="Bay Window"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowCorner
+Current="Bay Window Corner"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowDome
+Current="Bay Window Dome"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowEnd
+Current="Bay Window End"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowRailing
+Current="Bay Window Railing"
+Translate=""
+
+ID=DisplayName_Block_Corridor
+Current="Corridor"
+Translate=""
+
+ID=DisplayName_Block_CorridorCorner
+Current="Corridor Corner"
+Translate=""
+
+ID=DisplayName_Block_CorridorDoubleWindow
+Current="Corridor Double Windowed Sides"
+Translate=""
+
+ID=DisplayName_Block_CorridorLight
+Current="Corridor Light"
+Translate=""
+
+ID=DisplayName_Block_CorridorT
+Current="Corridor T Intersection"
+Translate=""
+
+ID=DisplayName_Block_CorridorWindow
+Current="Corridor Windowed Side"
+Translate=""
+
+ID=DisplayName_Block_CorridorWindowRoof
+Current="Corridor Windowed Roof"
+Translate=""
+
+ID=DisplayName_Block_CorridorX
+Current="Corridor X Intersection"
+Translate=""
+
+ID=DisplayName_Block_ArmorPanelRoundFaceHeavy
+Current="Heavy Armor Panel Round Face"
+Translate=""
+
+ID=DisplayName_Block_ArmorPanelRoundFaceLight
+Current="Light Armor Panel Round Face"
+Translate=""
+
+ID=DisplayName_Block_ArmorPanelRoundInvertedCornerHeavy
+Current="Heavy Armor Panel Round Inverted Corner"
+Translate=""
+
+ID=DisplayName_Block_ArmorPanelRoundInvertedCornerLight
+Current="Light Armor Panel Round Inverted Corner"
+Translate=""
+
+ID=DisplayName_Block_NarrowDoor
+Current="Narrow Door"
+Translate=""
+
+ID=DisplayName_Block_NarrowDoorHalf
+Current="Narrow Door Half"
+Translate=""
+
+ID=DisplayName_Block_CompactAntenna
+Current="Compact Antenna"
+Translate=""
+
+ID=DisplayName_Block_CorridorNarrow
+Current="Corridor Narrow"
+Translate=""
+
+ID=DisplayName_Block_TrussPillar
+Current="Truss Pillar"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarDecoy
+Current="Truss Decoy"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarLight
+Current="Truss Light"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarOffset
+Current="Truss Pillar Offset"
+Translate=""
+
+ID=WorldSettings_EnableScrapDrops
+Current="Enable Scrap Drops"
+Translate=""
+
+ID=ToolTipWorldSettingsEnableScrapDrops
+Current="Allow scrap to be dropped from destroyed blocks"
+Translate=""
+
+ID=ScreenDebugAdminMenu_RemoveCargoBags
+Current="Remove cargo bags"
+Translate=""
+
+ID=DisplayName_CargoBag
+Current="Cargo Bag ({0})"
+Translate=""
+
+ID=BroadcastController_BroadcastTarget_Title
+Current="Broadcast Target"
+Translate=""
+
+ID=BroadcastController_BroadcastTarget_Tooltip
+Current="Set who receives the message."
+Translate=""
+
+ID=BroadcastController_UseAntenna_Title
+Current="Use Antenna"
+Translate=""
+
+ID=BroadcastController_UseAntenna_Tooltip
+Current="Enable broadcasting using antennas. If left unchecked, only players inside cockpits on this grid will see the message(s)."
+Translate=""
+
+ID=BroadcastController_CustomName_Title
+Current="Custom Name"
+Translate=""
+
+ID=BroadcastController_CustomName_Tooltip
+Current="Sets a custom name, displayed before each message."
+Translate=""
+
+ID=BroadcastController_Message1_Title
+Current="Message 1"
+Translate=""
+
+ID=BroadcastController_Message2_Title
+Current="Message 2"
+Translate=""
+
+ID=BroadcastController_Message3_Title
+Current="Message 3"
+Translate=""
+
+ID=BroadcastController_Message4_Title
+Current="Message 4"
+Translate=""
+
+ID=BroadcastController_Message5_Title
+Current="Message 5"
+Translate=""
+
+ID=BroadcastController_Message6_Title
+Current="Message 6"
+Translate=""
+
+ID=BroadcastController_Message7_Title
+Current="Message 7"
+Translate=""
+
+ID=BroadcastController_Message8_Title
+Current="Message 8"
+Translate=""
+
+ID=BroadcastController_TransmitMessage1_Title
+Current="Transmit Message 1"
+Translate=""
+
+ID=BroadcastController_TransmitMessage2_Title
+Current="Transmit Message 2"
+Translate=""
+
+ID=BroadcastController_TransmitMessage3_Title
+Current="Transmit Message 3"
+Translate=""
+
+ID=BroadcastController_TransmitMessage4_Title
+Current="Transmit Message 4"
+Translate=""
+
+ID=BroadcastController_TransmitMessage5_Title
+Current="Transmit Message 5"
+Translate=""
+
+ID=BroadcastController_TransmitMessage6_Title
+Current="Transmit Message 6"
+Translate=""
+
+ID=BroadcastController_TransmitMessage7_Title
+Current="Transmit Message 7"
+Translate=""
+
+ID=BroadcastController_TransmitMessage8_Title
+Current="Transmit Message 8"
+Translate=""
+
+ID=BroadcastController_TransmitRandomMessage_Title
+Current="Send Random Message"
+Translate=""
+
+ID=BroadcastController_TransmitRandomMessage_Tooltip
+Current="Selects random message and transmits that message."
+Translate=""
+
+ID=BroadcastController_SendGps_Title
+Current="Send GPS"
+Translate=""
+
+ID=BroadcastController_SendGps_Tooltip
+Current="Send current position"
+Translate=""
+
+ID=BroadcastController_BroadcastTarget_Owner
+Current="Owner Only"
+Translate=""
+
+ID=BroadcastController_BroadcastTarget_Faction
+Current="Faction Only"
+Translate=""
+
+ID=BroadcastController_BroadcastTarget_Everyone
+Current="Everyone"
+Translate=""
+
+ID=BroadcastController_SetBroadcastTarget_Owner
+Current="Enable Owner Only"
+Translate=""
+
+ID=BroadcastController_SetBroadcastTarget_Faction
+Current="Enable Faction Only"
+Translate=""
+
+ID=BroadcastController_SetBroadcastTarget_Everyone
+Current="Enable Everyone"
+Translate=""
+
+ID=ToolTipWorldSettingsMaxOfflineBroadcastDistance
+Current="The maximum distance Broadcast Controller will transmit messages when its owner is offline."
+Translate=""
+
+ID=WorldSettings_MaxOfflineBroadcastDistance
+Current="Max offline broadcast distance"
+Translate=""
+
+ID=BroadcastController_DetailInfo_NoAntenna
+Current="Error: No antenna found."
+Translate=""
+
+ID=BroadcastController_DetailInfo_NoFunctionalAntenna
+Current="Error: Antennas inaccessible."
+Translate=""
+
+ID=BroadcastController_DetailInfo_NoMessages
+Current="Error: No messages stored."
+Translate=""
+
+ID=BroadcastController_DetailInfo_OwnerOffline
+Current="Owner offline,Range restricted: {0} m"
+Translate=""
+
+ID=BroadcastController_DetailInfo_AntispamCooldown
+Current="Anti-spam cooldown: {0} s remaining."
+Translate=""
+
+ID=BroadcastController_DetailInfo_MessagesInBuffer
+Current="Messages in buffer: {0}."
+Translate=""
+
+ID=GameOptions_MuteBroadcastControllers
+Current="Mute Broadcast Controllers"
+Translate=""
+
+ID=GameOptionsTooltip_MuteBroadcastControllers
+Current="Mutes every Broadcast Controller in the game."
+Translate=""
+
+ID=SignalReceiver_RelationFilter_Title
+Current="Accept Signal from:"
+Translate=""
+
+ID=SignalReceiver_RelationFilter_Owner
+Current="Owner"
+Translate=""
+
+ID=SignalReceiver_RelationFilter_Faction
+Current="Faction"
+Translate=""
+
+ID=SignalReceiver_RelationFilter_Everyone
+Current="Everyone"
+Translate=""
+
+ID=SignalReceiver_RelationFilterTooltip_Owner
+Current="Action Relay will only respond to signals from the owner"
+Translate=""
+
+ID=SignalReceiver_RelationFilterTooltip_Faction
+Current="Action Relay will only respond to signals from the owning faction"
+Translate=""
+
+ID=SignalReceiver_RelationFilterTooltip_Everyone
+Current="Action Relay will respond to any signal"
+Translate=""
+
+ID=SignalReceiver_SetRelationFilterAction_Owner
+Current="Enable Owner Only"
+Translate=""
+
+ID=SignalReceiver_SetRelationFilterAction_Faction
+Current="Enable Faction Only"
+Translate=""
+
+ID=SignalReceiver_SetRelationFilterAction_Everyone
+Current="Enable Everyone"
+Translate=""
+
+ID=BlockPropertyTitle_SignalReceiverToolbarOpen
+Current="Setup actions"
+Translate=""
+
+ID=SignalSender_SendSignalButton_Title
+Current="Send Signal"
+Translate=""
+
+ID=SignalSender_SendSignalButton_Tooltip
+Current="Triggers Action Relay blocks using the same channel inside the antenna network"
+Translate=""
+
+ID=SignalChannel_SetChannel_Title
+Current="Channel"
+Translate=""
+
+ID=SignalChannel_SetChannel_Tooltip
+Current="Actions will trigger when a signal is received from an Action Relay block with corresponding channel"
+Translate=""
+
+ID=SignalChannel_SetChannel_Action
+Current="Set Channel"
+Translate=""
+
+ID=SignalChannel_SetChannelAndSend_Action
+Current="Set Channel and Send Signal"
+Translate=""
+
+ID=SetValue_Action_SetLabel
+Current="Set label"
+Translate=""
+
+ID=SignalConnectivity_State_NoAntennas
+Current="Error: No antenna found"
+Translate=""
+
+ID=SignalConnectivity_State_NoLaserLink
+Current="{0}: No connection"
+Translate=""
+
+ID=SignalConnectivity_State_LaserConnected
+Current="{0}: Connected"
+Translate=""
+
+ID=SignalConnectivity_State_Inaccessible
+Current="{0}: Ownership/sharing does not match"
+Translate=""
+
+ID=SignalConnectivity_State_NotOperational
+Current="{0}: Not operational"
+Translate=""
+
+ID=DisplayName_Block_TrussFloorT
+Current="Walkable Scaffold Block T"
+Translate=""
+
+ID=DisplayName_Block_TrussFloorX
+Current="Walkable Scaffold Block X"
+Translate=""
+
+ID=DisplayName_Block_TrussFrame
+Current="Scaffold Frame"
+Translate=""
+
+ID=DisplayName_Block_TrussSlopedFrame
+Current="Scaffold Sloped Frame"
+Translate=""
+
+ID=DisplayName_Block_InsetWallCornerInverted
+Current="Inset Wall Corner Inv."
+Translate=""
+
+ID=ClaimAuthorship_Title
+Current="Claim NPC Grid"
+Translate=""
+
+ID=ClaimAuthorship_Text
+Current="Claiming this grid will transfer all of its PCU to you and prevent it from despawning.Blocks will still need to be hacked to gain ownershipPCU Needed to Claim:{0}Available PCU{1}"
+Translate=""
+
+ID=ClaimAuthorship_Tooltip_PCU
+Current="Claim the PCU of this grid. You must have {0} PCU available."
+Translate=""
+
+ID=ClaimAuthorship_Tooltip_Limit
+Current="Claim the PCU of this grid. You reached your {0} limit."
+Translate=""
+
+ID=DisplayName_Block_CorridorNarrowStowage
+Current="Corridor Narrow Stowage"
+Translate=""
+
+ID=ClaimAuthorship_BlockDespawnNotification
+Current="Unclaimed blocks will despawn in {0}"
+Translate=""
+
+ID=WorkshopBrowser_Storage
+Current="Storage:"
+Translate=""
+
+ID=WorkshopBrowser_OutOfStorage_Caption
+Current="Out of Storage"
+Translate=""
+
+ID=WorkshopBrowser_OutOfStorage_Text
+Current="You are out of storage so you can't subscribe."
+Translate=""
+
+ID=CustomWorld_RedShip2
+Current="Red Ship v2"
+Translate=""
+
+ID=QuickStartNotification_Title
+Current="Would you like to try Quick Start instead?"
+Translate=""
+
+ID=QuickStartNotification_Yes
+Current="Play Quick Start"
+Translate=""
+
+ID=DisplayName_TemporaryContainer
+Current="Temporary Container"
+Translate=""
+
+ID=Description_BroadcastController
+Current="The Broadcast Controller transmits custom messages to players using the chat window. Use antennas to increase the range."
+Translate=""
+
+ID=DisplayName_Block_TrussPillarDiagonal
+Current="Truss Pillar Offset Corner"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarT
+Current="Truss Pillar T"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarX
+Current="Truss Pillar X"
+Translate=""
+
+ID=SimpleNewGame_LostColony_Description
+Current="Contact has been lost with a remote colony and it's your job to find out what happened. With up to four players, embark on an exciting journey through caves and mysterious underground bunkers while exploring the valley and its history via data pads left behind by the colonists."
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert1
+Current="Approaching the Start [concert version]"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert2
+Current="The Dust"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert3
+Current="A New Dawn"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert4
+Current="Liftoff [concert version]"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert5
+Current="Uncharted Territory [concert version]"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert6
+Current="Fight Like One [concert version]"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert7
+Current="Warfare Trailer [live]"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert8
+Current="Out of Early Access [live]"
+Translate=""
+
+ID=SoundBlock_SoundName_MusicConcert9
+Current="We Are Engineers"
+Translate=""
+
+ID=DisplayName_Community
+Current="Community"
+Translate=""
+
+ID=DisplayName_OpenInCommunity
+Current="Open in Community"
+Translate=""
+
+ID=ScenarioSelectionScreen_Sort
+Current="Sort:"
+Translate=""
+
+ID=ScenarioSelectionScreen_Filter
+Current="Filter:"
+Translate=""
+
+ID=ScenarioSelectionScreen_FilterAlphabetical
+Current="Alphabetical"
+Translate=""
+
+ID=ScenarioSelectionScreen_BrowseCommunity
+Current="Browse Community"
+Translate=""
+
+ID=CryopodDeathNotification_OkButtonTooltip
+Current="Respawn at the nearest Medical Room or transition to the respawn screen, based on the configured world settings"
+Translate=""
+
+ID=MergeBlock_UnclaimedError
+Current="[Color=#FFFF0000]ERROR: Cannot merge while the grid is unclaimed![/Color]"
+Translate=""
+
+ID=SimpleNewGame_AsteroidArmory_Description
+Current="An expansive military research facility has been carved into an asteroid in deep space. Rivals threaten the security of the base. Take control of the outpost and ensure its success."
+Translate=""
+
+ID=SimpleNewGame_CrashedRedShip_Description
+Current="A navigational accident has left your cruiser severely damaged. Use your skills to salvage, rebuild, and survive the harsh environment of space."
+Translate=""
+
+ID=SimpleNewGame_DeadDropArena_Description
+Current="A PvP scenario that allows pilots to test their skills against one another. Fighters are deployed from a central station high in the Martian atmosphere. Play 1v1 or in teams."
+Translate=""
+
+ID=SimpleNewGame_EasyStartConsole_Description
+Current="Start your journey on a planet or in deep space."
+Translate=""
+
+ID=SimpleNewGame_EasyStartGreen_Description
+Current="Begin your journey on a sprawling asteroid base. Use the base’s infrastructure as a launching point. Gather resources, refit existing craft or build your own, and explore the asteroid belt."
+Translate=""
+
+ID=SimpleNewGame_EasyStartSpace_Description
+Current="This world can serve as a jumping-off point for both survival and creative gameplay sessions, providing you with a station and a large cruiser. Where you go from there is up to you!"
+Translate=""
+
+ID=SimpleNewGame_EasyStart_Description
+Current="Start on a planet with a large outpost and plenty of supplies. Features multiple planetary locations ready for exploration and expansion."
+Translate=""
+
+ID=SimpleNewGame_EmptyWorld_Description
+Current="This world is a blank slate, unleash your creativity and populate it with your creations."
+Translate=""
+
+ID=SimpleNewGame_LearningToSurvive_Description
+Current="This is a nonlinear tutorial mission. Restore an old outpost to act as your base of operations and explore the remains of a once-thriving industrial outpost. Each location you discover will teach you the skills needed to survive in the universe of Space Engineers."
+Translate=""
+
+ID=SimpleNewGame_LoneSurvivor_Description
+Current="Alone in the void. Choose your destiny."
+Translate=""
+
+ID=SimpleNewGame_NeverSurrender_Description
+Current="Start your journey on a planet or in deep space. Build at your own pace, and when you’ve gathered your forces challenge yourself by defending a small outpost from waves of relentless drones. Play alone or together. How you do it is up to you!"
+Translate=""
+
+ID=SimpleNewGame_PetramOrbiter_Description
+Current="High above the harsh deserts of the planet Pertam, a team of engineers has created an orbital station serving as a launching point for planetary exploration. Gather your supplies and drop to the planet's surface. Do you have what it takes to survive this wasteland?"
+Translate=""
+
+ID=SimpleNewGame_RedShip2_Description
+Current="A modernized version of the classic Red Ship world. This world can serve as a jumping-off point for both survival and creative gameplay sessions. It is friendly to new players and has various examples and opportunities for you to engage and explore the features of Space Engineers."
+Translate=""
+
+ID=SimpleNewGame_RivalPlatforms_Description
+Current="Two rival teams have gathered their forces in an asteroid field, each with a cruiser and a squad of fighters ready to deploy. Choose a side, build up your base, and prepare for battle."
+Translate=""
+
+ID=SimpleNewGame_ScrapRace_Description
+Current="Scrap Race is a fast-paced racing scenario designed for multiplayer. Pick your vehicle of choice, customize it to your liking, and compete against other lowlifes, thrillseekers, and speed freaks from across the system. Will your vehicle survive the wasteland, or will you be left in the dust?"
+Translate=""
+
+ID=SimpleNewGame_SpaceStandoff_Description
+Current="Space Standoff is a multiplayer scenario where two teams have acquired a valuable Data Container and the race to decrypt these devices has ignited tensions between them. Each team must defend their base while mobilizing their resources to destroy the enemy's container. The clock is ticking, and only the most skilled and coordinated team will emerge victorious."
+Translate=""
+
+ID=SimpleNewGame_SparksOfTheFuture_Description
+Current="Welcome to Sparks of the Future! Enjoy some competition at the shooting range or on the dance floor. Explore the many shops available at Sparks of the Future Central. Looking for a distraction from your daily activities or do you seek vibrant city life? You can find it all here at Sparks of the Future!"
+Translate=""
+
+ID=SimpleNewGame_StarSystem_Description
+Current="One of the most popular worlds in Space Engineers, featuring several planets for you to build, explore, and survive on. Customize the settings and play to your heart’s content!"
+Translate=""
+
+ID=SimpleNewGame_UraniumHeist_Description
+Current="Gather resources and expand your arsenal as you defend your territory, construct defenses, and protect your uranium carrier. Carrying uranium will slow your speed considerably, work together when escorting this precious cargo back to base. Multiple paths to victory means no two games are ever the same. Is your team up to the challenge? Lock and load!"
+Translate=""
+
+ID=ScenarioSelectionScreen_LocalScenario
+Current="Local scenario"
+Translate=""
+
+ID=WorldSettings_EnableTemporaryContainers
+Current="Enable Temporary Containers"
+Translate=""
+
+ID=ToolTipWorldSettings_EnableTemporaryContainers
+Current="Enable Temporary Containers to spawn after destroying block with inventory."
+Translate=""
+
+ID=Description_ModularBridgeCockpit
+Current="A set of modular blocks to design elaborate bridges to helm your ship from."
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitButtonPanel
+Current="Bridge Button Panel"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitCorner
+Current="Bridge Sloped Corner"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitEmpty
+Current="Bridge Floorless"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitSideL
+Current="Bridge Side L"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitSideR
+Current="Bridge Side R"
+Translate=""
+
+ID=DisplayName_Block_CompactAntennaReskin
+Current="Parabolic Antenna"
+Translate=""
+
+ID=DisplayName_Block_EvenWideDoor
+Current="Small Gate Wide"
+Translate=""
+
+ID=DisplayName_Block_InsetConnector
+Current="Inset Connector"
+Translate=""
+
+ID=DisplayName_Block_InsetConnectorSmall
+Current="Small Inset Connector"
+Translate=""
+
+ID=DisplayName_Block_ModularBridgeCockpit
+Current="Bridge Helm"
+Translate=""
+
+ID=DisplayName_Block_PistonBaseReskin
+Current="Square Piston"
+Translate=""
+
+ID=DisplayName_Block_PistonTopReskin
+Current="Top Square Piston Part"
+Translate=""
+
+ID=DisplayName_Block_SmallGate
+Current="Small Gate Tall"
+Translate=""
+
+ID=DisplayName_DLC_205
+Current="Contact Blocks"
+Translate=""
+
+ID=DisplayName_Block_CaptainDesk
+Current="Captain's Desk"
+Translate=""
+
+ID=DisplayName_Block_Floodlight
+Current="Floodlight"
+Translate=""
+
+ID=DisplayName_Block_FloodlightAngled
+Current="Floodlight Angled"
+Translate=""
+
+ID=DisplayName_Block_FloodlightAngledRotated
+Current="Floodlight Diagonal"
+Translate=""
+
+ID=DisplayName_Block_FloodlightCornerL
+Current="Floodlight Corner L"
+Translate=""
+
+ID=DisplayName_Block_FloodlightCornerR
+Current="Floodlight Corner R"
+Translate=""
+
+ID=DisplayName_Block_FloodlightDown
+Current="Floodlight Down"
+Translate=""
+
+ID=DisplayName_Block_PrototechJumpDrive
+Current="Prototech Jump Drive"
+Translate=""
+
+ID=DisplayName_Block_PrototechRefinery
+Current="Prototech Refinery"
+Translate=""
+
+ID=DisplayName_Block_PrototechThruster
+Current="Prototech Thruster"
+Translate=""
+
+ID=DisplayName_Prototech
+Current="Prototech Blocks"
+Translate=""
+
+ID=Description_PrototechAssembler
+Current="Prototech Assemblers are capable of manufacturing most Prototech components. Possessing one allows the owner to repair and maintain other Prototech blocks.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=DisplayName_Block_PrototechAssembler
+Current="Prototech Assembler"
+Translate=""
+
+ID=DisplayName_Block_PrototechBattery
+Current="Prototech Battery"
+Translate=""
+
+ID=DisplayName_Block_PrototechGyroscope
+Current="Prototech Gyroscope"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitCorner2x1Base
+Current="Bridge Corner 2x1 Base L"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitHalfSlopedCorner
+Current="Bridge Half Sloped Corner"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitRaisedSlopedCorner
+Current="Bridge Raised Sloped Corner"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitCorner2x1BaseR
+Current="Bridge Corner 2x1 Base R"
+Translate=""
+
+ID=DisplayName_Block_GatlingTurretReskin
+Current="Gatling Turret Type II"
+Translate=""
+
+ID=DisplayName_Block_PrototechDrill
+Current="Prototech Drill"
+Translate=""
+
+ID=DisplayName_Block_MissileTurretReskin
+Current="Rocket Turret Type II"
+Translate=""
+
+ID=Newsletter_Caption
+Current="Sign up for the Keen Software House Newsletter"
+Translate=""
+
+ID=Newsletter_Signup
+Current="Sign up for our newsletter and get the Flush Cockpit for free!"
+Translate=""
+
+ID=Newsletter_Description
+Current="Stay updated with the latest news, updates, and exclusive content from Keen Software House, and enjoy this special in-game reward as a thank you for joining us!"
+Translate=""
+
+ID=Newsletter_Email
+Current="Email address"
+Translate=""
+
+ID=Newsletter_Privacy
+Current="Privacy"
+Translate=""
+
+ID=Newsletter_PrivacyCheckbox
+Current="I have read and agree to the Keen Software House privacy policy. I understand I can opt out at any time."
+Translate=""
+
+ID=Newsletter_OfferCheckbox
+Current="You may contact me with news and offers related to your products and services"
+Translate=""
+
+ID=Newsletter_Disclaimer
+Current="If you would like to know more about how we store your data you can read our [https://www.keenswh.com/gdpr/ Privacy Policy]"
+Translate=""
+
+ID=Newsletter_Help
+Current="{CONTROL:GUI:BUTTON_X} Subscribe   {CONTROL:GUI:CANCEL} Back   {CONTROL:GUI:BUTTON_Y} Privacy Policy"
+Translate=""
+
+ID=DisplayName_Category_Automation
+Current="   Automation"
+Translate=""
+
+ID=DisplayName_Category_Control
+Current="   Control"
+Translate=""
+
+ID=DisplayName_Category_Decorative
+Current="   Decorative"
+Translate=""
+
+ID=DisplayName_Category_DLCBlocks
+Current="DLC Blocks"
+Translate=""
+
+ID=DisplayName_Category_Logistics
+Current="   Logistics"
+Translate=""
+
+ID=DisplayName_Category_Mechanical
+Current="   Mechanical"
+Translate=""
+
+ID=DisplayName_Category_Propulsion
+Current="   Propulsion"
+Translate=""
+
+ID=DisplayName_Category_Structure
+Current="   Structure"
+Translate=""
+
+ID=DisplayName_Category_Utility
+Current="   Utility"
+Translate=""
+
+ID=RadialMenuGroupTitle_Automation
+Current="Automation"
+Translate=""
+
+ID=RadialMenuGroupTitle_Control
+Current="Control"
+Translate=""
+
+ID=RadialMenuGroupTitle_Logistics1
+Current="Logistics #1"
+Translate=""
+
+ID=RadialMenuGroupTitle_Logistics2
+Current="Logistics #2"
+Translate=""
+
+ID=RadialMenuGroupTitle_Mechanical
+Current="Mechanical"
+Translate=""
+
+ID=RadialMenuGroupTitle_Power
+Current="Power"
+Translate=""
+
+ID=RadialMenuGroupTitle_Production
+Current="Production"
+Translate=""
+
+ID=RadialMenuGroupTitle_Propulsion1
+Current="Movement #1"
+Translate=""
+
+ID=RadialMenuGroupTitle_Propulsion2
+Current="Movement #2"
+Translate=""
+
+ID=RadialMenuGroupTitle_Structure1
+Current="Structure #1"
+Translate=""
+
+ID=RadialMenuGroupTitle_Structure2
+Current="Structure #2"
+Translate=""
+
+ID=RadialMenuGroupTitle_Structure3
+Current="Structure #3"
+Translate=""
+
+ID=RadialMenuGroupTitle_Utility1
+Current="Utility #1"
+Translate=""
+
+ID=RadialMenuGroupTitle_Utility2
+Current="Utility #2"
+Translate=""
+
+ID=RadialMenuGroupTitle_Weapons
+Current="Weapons"
+Translate=""
+
+ID=RadialMenuGroupTitle_Windows1
+Current="Windows #1"
+Translate=""
+
+ID=RadialMenuGroupTitle_Windows2
+Current="Windows #2"
+Translate=""
+
+ID=AdvancedWorldSettings_GlobalEncounterCap
+Current="Global Encounter Cap"
+Translate=""
+
+ID=BlockActionTitle_AddMediumHingeHead
+Current="Add Medium Head"
+Translate=""
+
+ID=BlockActionTitle_AddMediumRotorHead
+Current="Add Medium Head"
+Translate=""
+
+ID=BlockActionTooltip_AddMediumHingeHead
+Current="Tries to add a Medium Hinge head on Large Hinge if no head is present"
+Translate=""
+
+ID=BlockActionTooltip_AddMediumRotorHead
+Current="Tries to add a Medium Rotor head on Large Rotor if no head is present"
+Translate=""
+
+ID=DisplayName_Category_Prototech
+Current="   Prototech"
+Translate=""
+
+ID=DisplayName_Category_DLC_Automatons
+Current="   Automatons"
+Translate=""
+
+ID=DisplayName_Category_DLC_Contact
+Current="   Contact"
+Translate=""
+
+ID=DisplayName_Category_DLC_DecorativePack
+Current="   Decorative Pack 1"
+Translate=""
+
+ID=DisplayName_Category_DLC_DecorativePack2
+Current="   Decorative Pack 2"
+Translate=""
+
+ID=DisplayName_Category_DLC_DecorativePack3
+Current="   Decorative Pack 3"
+Translate=""
+
+ID=DisplayName_Category_DLC_Frostbite
+Current="   Frostbite"
+Translate=""
+
+ID=DisplayName_Category_DLC_HeavyIndustry
+Current="   Heavy Industry"
+Translate=""
+
+ID=DisplayName_Category_DLC_Signal
+Current="   Signal"
+Translate=""
+
+ID=DisplayName_Category_DLC_Warfare1
+Current="   Warfare 1"
+Translate=""
+
+ID=DisplayName_Category_DLC_Warfare2
+Current="   Warfare 2"
+Translate=""
+
+ID=DisplayName_Category_DLC_SparksOfTheFuture
+Current="   Sparks Of The Future"
+Translate=""
+
+ID=DisplayName_Category_DLC_Wasteland
+Current="   Wasteland"
+Translate=""
+
+ID=DisplayName_Category_Tools
+Current="   Tools"
+Translate=""
+
+ID=DisplayName_Category_Weapons
+Current="   Weapons"
+Translate=""
+
+ID=DisplayName_Category_Nonarmor
+Current="Non-Armor Blocks"
+Translate=""
+
+ID=ToolTipWorldSettingsEncountersAmount
+Current="Sets the density of procedurally generated encounters."
+Translate=""
+
+ID=Encounter_Amount
+Current="Encounter amount"
+Translate=""
+
+ID=EconomyFaction_Description_Military0
+Current="When it comes to waging war, we're what you want. Guns, ammo, and Medkits all available for purchase."
+Translate=""
+
+ID=EconomyFaction_Description_Military1
+Current="Whether it's tearing apart your enemies or putting together your friends, we've got what you need."
+Translate=""
+
+ID=EconomyFaction_Description_Military2
+Current="Our Medkits save lives. Our guns save lives too. As long as they're pointed at someone nasty."
+Translate=""
+
+ID=EconomyFaction_Description_Military3
+Current="We promise high-class weapons, affordable ammunition, and our guaranteed discretion on all transactions."
+Translate=""
+
+ID=EconomyFaction_Description_Military4
+Current="You can't put a price tag on peace of mind. We have rifles, pistols, ammunition, and all other security needs. "
+Translate=""
+
+ID=EconomyFaction_Description_Military
+Current="With our weaponry, the battle will be over before it even starts. The best weapons money can buy, directly to your hands."
+Translate=""
+
+ID=EconomyFaction_Description_Pirate0
+Current="Guns, ammo, and more for sale. You don't ask where we got them from, we won't ask what you'll do with them."
+Translate=""
+
+ID=EconomyFaction_Description_Pirate1
+Current="Our goods are unethical. So are our prices. Come for all your weaponry needs."
+Translate=""
+
+ID=EconomyFaction_Description_Pirate2
+Current="Some call us criminals. We call ourselves entrepreneurs. Come browse our selection of fine wares."
+Translate=""
+
+ID=EconomyFaction_Description_Pirate3
+Current="Our wares fell off the back of a spaceship, in case any authorities ask. But if a customer is asking, all we'll say is that the price can't be beat."
+Translate=""
+
+ID=EconomyFaction_Description_Pirate4
+Current="Everyone has a right to afford security. If you can't afford conventional solutions, or they refuse to sell to you, our shop is always open."
+Translate=""
+
+ID=EconomyFaction_Description_Pirate
+Current="Guns, ammo, ships, components - we sell everything they wouldn't want you to have."
+Translate=""
+
+ID=Description_BlueprintClass_LargePrototechBlocks
+Current="Large Prototech Blocks- Click on any Large Prototech Block to assemble all componentsnecessary for it's construction except for the Prototech Frame."
+Translate=""
+
+ID=Description_BlueprintClass_PrototechComponents
+Current="Prototech Components- Components are used in the construction of structural,mechanical, and electrical systems."
+Translate=""
+
+ID=Description_BlueprintClass_SmallPrototechBlocks
+Current="Small Prototech Blocks- Click on any Small Prototech Block to assemble all components necessary for it's construction except for the Prototech Frame."
+Translate=""
+
+ID=DisplayName_BlueprintClass_LargePrototechBlocks
+Current="Large Prototech Blocks"
+Translate=""
+
+ID=DisplayName_BlueprintClass_PrototechComponents
+Current="Prototech Components"
+Translate=""
+
+ID=DisplayName_BlueprintClass_SmallPrototechBlocks
+Current="Small Prototech Blocks"
+Translate=""
+
+ID=DisplayName_Item_PrototechCapacitor
+Current="Prototech Capacitor"
+Translate=""
+
+ID=DisplayName_Item_PrototechCircuitry
+Current="Prototech Circuitry"
+Translate=""
+
+ID=DisplayName_Item_PrototechCoolingUnit
+Current="Prototech Cooling Unit"
+Translate=""
+
+ID=DisplayName_Item_PrototechFrame
+Current="Prototech Frame"
+Translate=""
+
+ID=DisplayName_Item_PrototechMachinery
+Current="Prototech Machinery"
+Translate=""
+
+ID=DisplayName_Item_PrototechPanel
+Current="Prototech Panel"
+Translate=""
+
+ID=DisplayName_Item_PrototechPropulsionUnit
+Current="Prototech Propulsion Unit"
+Translate=""
+
+ID=DisplayName_Item_PrototechScrap
+Current="Prototech Scrap"
+Translate=""
+
+ID=GlobalEncounter_GPS_Name
+Current="Unidentified Signal"
+Translate=""
+
+ID=Terminal_BlockTransfers
+Current="Block Transfers"
+Translate=""
+
+ID=Terminal_BlockTransfersTooltip
+Current="Manage incoming block ownership transfers"
+Translate=""
+
+ID=BlockTransfers_Caption
+Current="Manage Block Transfers"
+Translate=""
+
+ID=BlockTransfers_From
+Current="From:"
+Translate=""
+
+ID=BlockTransfers_Amount
+Current="Amount:"
+Translate=""
+
+ID=BlockTransfers_OnGrid
+Current="On grid:"
+Translate=""
+
+ID=BlockTransfers_UnknownPlayer
+Current="Unknown Player"
+Translate=""
+
+ID=BlockTransfers_UnknownGrid
+Current="Unknown Grid"
+Translate=""
+
+ID=BlockTransfers_Blocks
+Current="Block(s)"
+Translate=""
+
+ID=BlockTransfers_AcceptTooltip
+Current="Accept this transfer and take ownership of these blocks."
+Translate=""
+
+ID=BlockTransfers_DeclineTooltip
+Current="Decline this transfer."
+Translate=""
+
+ID=BlockTransfers_Close
+Current="Close"
+Translate=""
+
+ID=BlockTransfers_Decline
+Current="Decline"
+Translate=""
+
+ID=Description_Faction_Factorum
+Current="The creators of Prototech. They’ve returned from the edge of known space to seek revenge."
+Translate=""
+
+ID=Description_Faction_Unknown
+Current="Space is vast. As humans push into the void of space, sometimes the void pushes back. Danger, mystery, or reward may lie ahead."
+Translate=""
+
+ID=DisplayName_Faction_Factorum
+Current="{LOCG:DisplayName_Faction_Factorum_Translation}"
+Translate=""
+
+ID=DisplayName_Faction_Factorum_Translation
+Current="The Factorum"
+Translate=""
+
+ID=DisplayName_Faction_Unknown
+Current="{LOCG:DisplayName_Faction_Unknown_Translation}"
+Translate=""
+
+ID=DisplayName_Faction_Unknown_Translation
+Current="Unknown"
+Translate=""
+
+ID=Description_Faction_Pirate
+Current="Fearless pirate raiders scour the stars, seeking vast fortunes as they attack and salvage without mercy."
+Translate=""
+
+ID=BlockTransfers_Incoming
+Current="Good.bot: Incoming Block Transfer"
+Translate=""
+
+ID=BlockTransfers_IncomingTransferInfo
+Current="{0} wants to transfer ownership of blocks to you."
+Translate=""
+
+ID=BlockTransfers_ManageInTerminal
+Current="Manage this transfer in terminal."
+Translate=""
+
+ID=BlockTransfers_AmountValue
+Current="Amount: {0} Block(s)"
+Translate=""
+
+ID=BlockTransfers_OnGridValue
+Current="On grid: {0}"
+Translate=""
+
+ID=DisplayName_Category_CharacterItems
+Current="Character Items"
+Translate=""
+
+ID=Description_FirstAidCabinet
+Current="The First Aid Cabinet stores medical kits for quick access."
+Translate=""
+
+ID=DisplayName_Block_FirstAidCabinet
+Current="First Aid Cabinet"
+Translate=""
+
+ID=DisplayName_Block_SmallBlockJukeboxReskin
+Current="Media Player"
+Translate=""
+
+ID=DisplayName_Block_BunkBed
+Current="Bunk"
+Translate=""
+
+ID=StoryTitle_PrototechComponents1
+Current="Score"
+Translate=""
+
+ID=StoryText_PrototechComponents1
+Current="It's shiny and it nearly cost him his life. No idea why he believed me that this wasn't worth anything. But hey, I'm not complaining."
+Translate=""
+
+ID=StoryTitle_PrototechComponents2
+Current="Junk"
+Translate=""
+
+ID=StoryText_PrototechComponents2
+Current="What was I thinking? I'm not smart enough to figure out what this thing even does. I should find someone else to pawn it to when I can."
+Translate=""
+
+ID=StoryTitle_PrototechComponents3
+Current="Anniversary"
+Translate=""
+
+ID=StoryText_PrototechComponents3
+Current="I cannot believe it was today. I have nothing to give her. Maybe this? It's shiny enough."
+Translate=""
+
+ID=StoryTitle_PrototechComponents4
+Current="Scrapyard"
+Translate=""
+
+ID=StoryText_PrototechComponents4
+Current="Found this at work. Couldn't junk it, but couldn't tell you why. Just pretty, I guess. Call it a perk of the job."
+Translate=""
+
+ID=StoryTitle_PrototechComponents5
+Current="Deconstructed"
+Translate=""
+
+ID=StoryText_PrototechComponents5
+Current="I'm sending this to you to be deconstructed. Study it until we can make it ourselves. No excuses."
+Translate=""
+
+ID=StoryTitle_PrototechComponents6
+Current="Relative"
+Translate=""
+
+ID=StoryText_PrototechComponents6
+Current="I fought a saberoid last week. That was more interesting. But you can't put it in a museum. Sending you this sample."
+Translate=""
+
+ID=StoryTitle_PrototechComponents7
+Current="Destroy"
+Translate=""
+
+ID=StoryText_PrototechComponents7
+Current="Please, get rid of it. Get rid of all of it. Things were fine before.This new group is not needed, nor are they wanted."
+Translate=""
+
+ID=StoryTitle_PrototechComponents8
+Current="Real"
+Translate=""
+
+ID=StoryText_PrototechComponents8
+Current="I thought that group was fake. But this is from them, right? They're real? The guys? I am FREAKING out right now."
+Translate=""
+
+ID=StoryTitle_PrototechComponents9
+Current="Sol"
+Translate=""
+
+ID=StoryText_PrototechComponents9
+Current="Get this to the Cooperative, ASAP. It's proof. Proof of what I've been warning them about. They're here."
+Translate=""
+
+ID=StoryTitle_PrototechComponents10
+Current="Neat"
+Translate=""
+
+ID=StoryText_PrototechComponents10
+Current="Nicked this off a pirate. Took it to four different blokes. No one knows what it is. Isn't that neat?"
+Translate=""
+
+ID=StoryTitle_PrototechComponents11
+Current="Appraised"
+Translate=""
+
+ID=StoryText_PrototechComponents11
+Current="Looking for an evaluation. I know it's good, but how good? Is this nice vacation money? Or is this retirement money?"
+Translate=""
+
+ID=StoryTitle_PrototechComponents12
+Current="Reckoning"
+Translate=""
+
+ID=StoryText_PrototechComponents12
+Current="Guy who I found this on claimed it meant the end of days. Sure, pal. Sure."
+Translate=""
+
+ID=StoryTitle_PrototechComponents13
+Current="Explanation"
+Translate=""
+
+ID=StoryText_PrototechComponents13
+Current="I have NO IDEA what you're doing with the kids, but our son had THIS in his backpack. CALL ME."
+Translate=""
+
+ID=StoryTitle_PrototechComponents14
+Current="Value"
+Translate=""
+
+ID=StoryText_PrototechComponents14
+Current="Was this worth killing them over? Maybe. Looks like it. Sometimes, that's all you have to go on."
+Translate=""
+
+ID=StoryTitle_PrototechComponents15
+Current="No Deal"
+Translate=""
+
+ID=StoryText_PrototechComponents15
+Current="I saw how much you're willing to pay for this. So, deal's off. If it's worth that much, I want to know why."
+Translate=""
+
+ID=StoryTitle_PrototechComponents16
+Current="Tracing"
+Translate=""
+
+ID=StoryText_PrototechComponents16
+Current="Figure out where this came from. It's valuable, but knowing how it's made - that's the real prize."
+Translate=""
+
+ID=StoryTitle_PrototechComponents17
+Current="Change"
+Translate=""
+
+ID=StoryText_PrototechComponents17
+Current="Today, it's revolutionary. Tomorrow, it's everywhere. Trust me - wait a few years before you pay for one of these."
+Translate=""
+
+ID=StoryTitle_PrototechComponents18
+Current="Regret"
+Translate=""
+
+ID=StoryText_PrototechComponents18
+Current="Guy offered me the reward we agreed upon - or this thing. I chose this thing. Am I an idiot? Tell me I'm not an idiot - please."
+Translate=""
+
+ID=StoryTitle_PrototechComponents19
+Current="Plan"
+Translate=""
+
+ID=StoryText_PrototechComponents19
+Current="If you have the spray paint, we're set. Just use this as a reference. We're gonna be rich."
+Translate=""
+
+ID=StoryTitle_PrototechComponents20
+Current="Raze"
+Translate=""
+
+ID=StoryText_PrototechComponents20
+Current="I hid. I was the only survivor. The entire rest of the crew was slaughtered. As I was hiding, I found this. Take it, please. I don't want anything that belongs to them."
+Translate=""
+
+ID=StoryTitle_PrototechComponents21
+Current="Cooperative"
+Translate=""
+
+ID=StoryText_PrototechComponents21
+Current="Have this sent to my contact in the Cooperative. It would be useful to have her in our debt."
+Translate=""
+
+ID=StoryTitle_PrototechComponents22
+Current="Architect"
+Translate=""
+
+ID=StoryText_PrototechComponents22
+Current="Hey professor - this is to borrow, not to keep. I need to know what this thing I found is. Borrow. Not keep."
+Translate=""
+
+ID=StoryTitle_PrototechComponents23
+Current="Scavenge"
+Translate=""
+
+ID=StoryText_PrototechComponents23
+Current="Hey - sounds like you're in hot water from your description. Corpses, crashed ships… someone might come looking. I'll take it off your hands."
+Translate=""
+
+ID=StoryTitle_PrototechComponents24
+Current="Purchase"
+Translate=""
+
+ID=StoryText_PrototechComponents24
+Current="It cost me everything I had - but it's mine. Now, I just need someone to tell me what it is."
+Translate=""
+
+ID=StoryTitle_PrototechComponents25
+Current="Search"
+Translate=""
+
+ID=StoryText_PrototechComponents25
+Current="Guy gave me this. Told me the people who built it killed his partner. Asked me to track them down. Not sure where to start."
+Translate=""
+
+ID=StoryTitle_PrototechComponents26
+Current="Regret"
+Translate=""
+
+ID=StoryText_PrototechComponents26
+Current="The money I'd get from this is good - but you matter more. This can be yours if you forgive me."
+Translate=""
+
+ID=StoryTitle_PrototechComponents27
+Current="Luck"
+Translate=""
+
+ID=StoryText_PrototechComponents27
+Current="Worked up here for ten years, barely made ends meet. Found one shipwreck, and with these things I've doubled my net worth. Figures."
+Translate=""
+
+ID=StoryTitle_PrototechComponents28
+Current="Origin"
+Translate=""
+
+ID=StoryText_PrototechComponents28
+Current="Here's the third one that the Collective's found in my jurisdiction. I'm less concerned with what they are, more concerned with where they're coming from."
+Translate=""
+
+ID=StoryTitle_PrototechComponents29
+Current="Client"
+Translate=""
+
+ID=StoryText_PrototechComponents29
+Current="Here's the thing I found. Tell the client we can make these. And I don't care if we can't. We're screwed either way."
+Translate=""
+
+ID=StoryTitle_PrototechComponents30
+Current="Invitation"
+Translate=""
+
+ID=StoryText_PrototechComponents30
+Current="You're an exceptional individual. Truly. Here is just a taste of what we have to offer. I strongly urge you to reconsider joining."
+Translate=""
+
+ID=StoryTitle_PrototechComponents31
+Current="Preservation"
+Translate=""
+
+ID=StoryText_PrototechComponents31
+Current="I understand the boon this would have for your ship. But consider future generations! This belongs in a museum!"
+Translate=""
+
+ID=StoryTitle_PrototechComponents32
+Current="Paranoia"
+Translate=""
+
+ID=StoryText_PrototechComponents32
+Current="Get rid of it! Get rid of it right now! How do you know THEY aren't tracking it? They could be coming to reclaim it right now!"
+Translate=""
+
+ID=StoryTitle_PrototechComponents33
+Current="Heist"
+Translate=""
+
+ID=StoryText_PrototechComponents33
+Current="Yeah, the heist was a success. But four of my crew died at the hands of The Factorum to get you these. Hope it was worth it."
+Translate=""
+
+ID=StoryTitle_PrototechComponents34
+Current="Unraveling"
+Translate=""
+
+ID=StoryText_PrototechComponents34
+Current="I don't care how many you use - we need to know what it's made of. When we can mass produce them, the loss will be worth it."
+Translate=""
+
+ID=StoryTitle_PrototechComponents35
+Current="Take It"
+Translate=""
+
+ID=StoryText_PrototechComponents35
+Current="Hey, you can have this "Prototech" - I've seen how people are acting about it. I want nothing to do with it."
+Translate=""
+
+ID=NotificationGoodbotPressToOpenTerminal
+Current="Press {CONTROL:TERMINAL} to open terminal"
+Translate=""
+
+ID=DisplayName_DLC_Contact
+Current="Contact"
+Translate=""
+
+ID=DisplayName_BlockGroup_ActionRelays
+Current="Action Relays"
+Translate=""
+
+ID=DisplayName_BlockGroup_AIBlocks
+Current="AI Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_AirVents
+Current="Air Vents"
+Translate=""
+
+ID=DisplayName_BlockGroup_Assemblers
+Current="Assemblers"
+Translate=""
+
+ID=DisplayName_BlockGroup_AtmosphericThrusters
+Current="Atmospheric Thrusters"
+Translate=""
+
+ID=DisplayName_BlockGroup_Batteries
+Current="Batteries"
+Translate=""
+
+ID=DisplayName_BlockGroup_Beacons
+Current="Beacons"
+Translate=""
+
+ID=DisplayName_BlockGroup_BroadcastControllers
+Current="Broadcast Controllers"
+Translate=""
+
+ID=DisplayName_BlockGroup_ButtonPanels
+Current="Button Panels"
+Translate=""
+
+ID=DisplayName_BlockGroup_Cameras
+Current="Cameras"
+Translate=""
+
+ID=DisplayName_BlockGroup_CargoContainers
+Current="Cargo Containers"
+Translate=""
+
+ID=DisplayName_BlockGroup_Cockpits
+Current="Cockpits"
+Translate=""
+
+ID=DisplayName_BlockGroup_RemoteControls
+Current="Remote Controls"
+Translate=""
+
+ID=DisplayName_BlockGroup_Collectors
+Current="Collectors"
+Translate=""
+
+ID=DisplayName_BlockGroup_Connectors
+Current="Connectors"
+Translate=""
+
+ID=DisplayName_BlockGroup_ControlPanels
+Current="Control Panels"
+Translate=""
+
+ID=DisplayName_BlockGroup_ConveyorBlocks
+Current="Conveyor Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_ConveyorSorters
+Current="Conveyor Sorters"
+Translate=""
+
+ID=DisplayName_BlockGroup_CryoChambers
+Current="Cryo Chambers"
+Translate=""
+
+ID=DisplayName_BlockGroup_CustomTurretControllers
+Current="Custom Turret Controllers"
+Translate=""
+
+ID=DisplayName_BlockGroup_Decoys
+Current="Decoys"
+Translate=""
+
+ID=DisplayName_BlockGroup_Drills
+Current="Drills"
+Translate=""
+
+ID=DisplayName_BlockGroup_EconomyBlocks
+Current="Economy Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_EventControllers
+Current="Event Controllers"
+Translate=""
+
+ID=DisplayName_BlockGroup_ExhaustBlocks
+Current="Exhaust Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_Freight
+Current="Freight Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_GasGenerators
+Current="Gas Generators"
+Translate=""
+
+ID=DisplayName_BlockGroup_GravityGenerators
+Current="Gravity Generators"
+Translate=""
+
+ID=DisplayName_BlockGroup_Grinders
+Current="Grinders"
+Translate=""
+
+ID=DisplayName_BlockGroup_Gyroscopes
+Current="Gyroscopes"
+Translate=""
+
+ID=DisplayName_BlockGroup_Hinges
+Current="Hinges"
+Translate=""
+
+ID=DisplayName_BlockGroup_HydrogenEngines
+Current="Hydrogen Engines"
+Translate=""
+
+ID=DisplayName_BlockGroup_HydrogenTanks
+Current="Hydrogen Tanks"
+Translate=""
+
+ID=DisplayName_BlockGroup_HydrogenThrusters
+Current="Hydrogen Thrusters"
+Translate=""
+
+ID=DisplayName_BlockGroup_IonThrusters
+Current="Ion Thrusters"
+Translate=""
+
+ID=DisplayName_BlockGroup_JumpDrives
+Current="Jump Drives"
+Translate=""
+
+ID=DisplayName_BlockGroup_LandingGear
+Current="Landing Gear"
+Translate=""
+
+ID=DisplayName_BlockGroup_LargeDoors
+Current="Large Doors"
+Translate=""
+
+ID=DisplayName_BlockGroup_LaserAntennas
+Current="Laser Antennas"
+Translate=""
+
+ID=DisplayName_BlockGroup_LCDBlocks
+Current="LCD Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_Lights
+Current="Lights"
+Translate=""
+
+ID=DisplayName_BlockGroup_MassBlocks
+Current="Mass Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_MergeBlocks
+Current="Merge Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_OreDetectors
+Current="Ore Detectors"
+Translate=""
+
+ID=DisplayName_BlockGroup_OxygenFarms
+Current="Oxygen Farms"
+Translate=""
+
+ID=DisplayName_BlockGroup_OxygenTanks
+Current="Oxygen Tanks"
+Translate=""
+
+ID=DisplayName_BlockGroup_Parachutes
+Current="Parachutes"
+Translate=""
+
+ID=DisplayName_BlockGroup_PassengerSeats
+Current="Passenger Seats"
+Translate=""
+
+ID=DisplayName_BlockGroup_Pistons
+Current="Pistons"
+Translate=""
+
+ID=DisplayName_BlockGroup_ProgrammableBlocks
+Current="Programmable Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_Projectors
+Current="Projectors"
+Translate=""
+
+ID=DisplayName_BlockGroup_RadioAntennas
+Current="Radio Antennas"
+Translate=""
+
+ID=DisplayName_BlockGroup_Reactors
+Current="Reactors"
+Translate=""
+
+ID=DisplayName_BlockGroup_Refineries
+Current="Refineries"
+Translate=""
+
+ID=DisplayName_BlockGroup_RespawnPoints
+Current="Respawn Points"
+Translate=""
+
+ID=DisplayName_BlockGroup_Rotors
+Current="Rotors"
+Translate=""
+
+ID=DisplayName_BlockGroup_SafeZones
+Current="Safe Zones"
+Translate=""
+
+ID=DisplayName_BlockGroup_Sensors
+Current="Sensors"
+Translate=""
+
+ID=DisplayName_BlockGroup_SmallDoors
+Current="Small Doors"
+Translate=""
+
+ID=DisplayName_BlockGroup_SolarPanels
+Current="Solar Panels"
+Translate=""
+
+ID=DisplayName_BlockGroup_SoundBlocks
+Current="Sound Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_StaticWeapons
+Current="Static Weapons"
+Translate=""
+
+ID=DisplayName_BlockGroup_TargetDummies
+Current="Target Dummies"
+Translate=""
+
+ID=DisplayName_BlockGroup_TimerBlocks
+Current="Timer Blocks"
+Translate=""
+
+ID=DisplayName_BlockGroup_Turrets
+Current="Turrets"
+Translate=""
+
+ID=DisplayName_BlockGroup_UpgradeModules
+Current="Upgrade Modules"
+Translate=""
+
+ID=DisplayName_BlockGroup_Warheads
+Current="Warheads"
+Translate=""
+
+ID=DisplayName_BlockGroup_Welders
+Current="Welders"
+Translate=""
+
+ID=DisplayName_BlockGroup_WheelSuspensions
+Current="Wheel Suspensions"
+Translate=""
+
+ID=DisplayName_BlockGroup_WindTurbines
+Current="Wind Turbines"
+Translate=""
+
+ID=DisplayName_BlockGroup_CubeBlocks
+Current="Cube Blocks"
+Translate=""
+
+ID=BlockTransfers_CancelTooltip
+Current="Cancels this transfer"
+Translate=""
+
+ID=BlockTransfers_To
+Current="To:"
+Translate=""
+
+ID=DisplayName_Block_BridgeCockpitFloor
+Current="Bridge Floor"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarCorner
+Current="Truss Pillar Corner"
+Translate=""
+
+ID=DisplayName_Block_TrussPillarSlanted
+Current="Truss Pillar Slanted"
+Translate=""
+
+ID=Description_KitchenSet
+Current="Kitchen appliance for decorating interiors."
+Translate=""
+
+ID=DisplayName_Block_KitchenCoffeeMachine
+Current="Coffee Machine"
+Translate=""
+
+ID=DisplayName_Block_KitchenFridge
+Current="Fridge"
+Translate=""
+
+ID=DisplayName_Block_KitchenMicrowave
+Current="Microwave"
+Translate=""
+
+ID=DisplayName_Block_KitchenOven
+Current="Oven"
+Translate=""
+
+ID=DisplayName_Block_KitchenSink
+Current="Sink"
+Translate=""
+
+ID=DisplayName_Block_ModularCargoContainer
+Current="Modular Cargo Container"
+Translate=""
+
+ID=WorldSettings_EnablePlanetaryEncounters
+Current="Enable planetary encounters"
+Translate=""
+
+ID=StoreBuy_Error_Caption_StoreLimitsGridSize
+Current="Transaction Failed"
+Translate=""
+
+ID=StoreBuy_Error_StoreLimitsGridSize
+Current="Maximum grid size limit reached."
+Translate=""
+
+ID=StoreBuy_Error_Caption_StoreLimitsNotOwnedByFaction
+Current="Transaction Failed"
+Translate=""
+
+ID=StoreBuy_Error_StoreLimitsNotOwnedByFaction
+Current="Player without faction can not buy."
+Translate=""
+
+ID=StoreBuy_Error_Caption_StoreLimitsPerBlockType
+Current="Transaction Failed"
+Translate=""
+
+ID=StoreBuy_Error_StoreLimitsPerBlockType
+Current="Maximum blocks of specific type limit reached."
+Translate=""
+
+ID=StoreBuy_Error_Caption_StoreLimitsPlayer
+Current="Transaction Failed"
+Translate=""
+
+ID=StoreBuy_Error_StoreLimitsPlayer
+Current="Player block limit reached."
+Translate=""
+
+ID=Description_Prototech_Battery
+Current="Prototech Batteries are powerful energy storage devices. They are able to output high volumes of power with increased efficiency.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=Description_Prototech_Drill
+Current="Prototech Drills are a powerful tools capable of collecting raw ores at higher efficiency than standard drill types.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=Description_Prototech_Gyroscope
+Current="Prototech Gyroscopes are more powerful, reinforced versions of standard Gyroscopes. They allow grids to stabilize and rotate.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=Description_Prototech_JumpDrive
+Current="Prototech Jump Drives allow grids to teleport over incredibly large distances. They have a higher range and better efficiency than standard Jump Drives.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=Description_Prototech_Refinery
+Current="Prototech Refineries refine ores into ingots at higher yield and speed rates than other refineries.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=Description_Prototech_Thrust
+Current="Prototech Thrusters are advanced thrusters that provide a significant amount of force. They function best in zero gravity environments.Prototech blocks contain advanced components that will be lost if extraction is attempted."
+Translate=""
+
+ID=StoryTitle_Builder_Factorum1
+Current="Project Prototype Technology"
+Translate=""
+
+ID=StoryText_Builder_Factorum1
+Current="Discarded File: 2.12.2067The first stages of the project have been a massive success. Far beyond what we dared hope for.The thruster and battery are working. Next step is testing the jump drive. I anticipate that taking a while.-Also, let's nip this in the bud."Prototype Technology" is not the final name. I will come up with something much better. It's not like we need something right away. I hear you all snickering. Saying I'm not creative. I am VERY creative. I'll come up with something much better than Prototype Technology - just you watch."
+Translate=""
+
+ID=StoryTitle_Builder_Factorum2
+Current="Sol Cooperative Correspondence"
+Translate=""
+
+ID=StoryText_Builder_Factorum2
+Current="INTERCEPTED TRANSMISSION:Dear Representative Colfax,I want to address your frustration with The Cooperative's refusal to ban Prototech. As one of the (many) votes against your proposal, I can offer some insight.It's not that we disagree with the points you raised. You were right to say Prototech can't be trusted. And it is poor policy to rely on the unreliable.However, what is the alternative?To refuse to use technology that The Factorum happily employs? You cannot get the air back in the air-lock, so to speak. This technology is out there.To pretend otherwise, like your proposal in The Cooperative would have us do, is the greater risk.  If you want to live by ideals, go join the hippies in Astronauts Without Borders. We have a government to run."
+Translate=""
+
+ID=StoryTitle_Military_Factorum1
+Current="Call to Action"
+Translate=""
+
+ID=StoryText_Military_Factorum1
+Current="Discarded File: 1.2.2054Abstract:WhereasThe Second Space Race has witnessed a collapse of our existing social contract;WhereasThe democratization of technology has allowed those who should not have access to the cosmos, access;WhereasWe have routinely seen the best interest of humanity - namely their own protection - sidelined so that upstart profiteers can benefit;WhereasA return to the status quo is not only prudent, it is necessary;Statement:To the members of this committee, it is not a question of if we have the means to restore order. We do. It is a question of if we have the stomach for it.I propose a regular forum to discuss this matter - as well as the construction of a factory where we can begin work on our prototype technology.All in favor?Y: 14All opposed?N: 3The motion passes."
+Translate=""
+
+ID=StoryTitle_Military_Factorum2
+Current="After Action Report"
+Translate=""
+
+ID=StoryText_Military_Factorum2
+Current="Discarded File: 21.5.2074AAR for the incident on May 19th, 2074.The Factorum was approached by myself (Hoskel) and three other representatives of the Sol Cooperative.As leader of the group, I presented myself and expressed interest in learning more about them. As the conversation continued, they grew noticeably more hostile. After a few evasive answers, they ceased to respond to my questions.After several more inquiries, I finally got a response.They threatened not only us personally, but the continued existence of the Sol Cooperative.This Factorum mentioned some unknown asset (Prototech), fired upon us (sending Sandoval to the infirmary), and then disappeared.We can safely assume that the GOI jumped away - but the distance they would have needed to travel to not be detected far exceeds what should be possible.Before preparations even begin, we need to know what these people are capable of. We may be well and truly out of our depth."
+Translate=""
+
+ID=StoryTitle_Military_Factorum3
+Current="Logistics Report"
+Translate=""
+
+ID=StoryText_Military_Factorum3
+Current="INTERCEPTED MESSAGE:Sol Cooperative moves slowly. That is not a problem, that is by design. When we change gradually, that brings stability. But we've got a problem on our hands.Let's say, hypothetically, these "Prototech" blocks turn out to be real. This "Factorum" is not only real, but can somehow produce supertech beyond what we can imagine.Well, we have members of our assembly who are already outspoken critics of Prototech, believing it to be R.O.S. work in disguise.And even if we didn't, we have lengthy procedures that will slow any attempt to improve our arsenals.And even if we didn't, we still have no consistent way of recovering Prototech, meaning planning future upgrades is nearly impossible.So we'll continue under the assumption this threat is a hoax.Otherwise?By the time we adapt, it will be too late for the whole cooperative."
+Translate=""
+
+ID=StoryTitle_Military_Factorum4
+Current="They're Weak"
+Translate=""
+
+ID=StoryText_Military_Factorum4
+Current="INTERCEPTED MESSAGE:R.O.S. made a huge mistake. I received one of their messages the other day. Seems they've had a massive leak.What is clear is they don't know what's real or not about The Factorum. They're as in the dark as we are.My assessment? This is an opportunity.First we track The Factorum down. Show them we're useful.Then, we get as much Prototech as we can.And then, we avenge.Independent Terran Workers will not be forgotten."
+Translate=""
+
+ID=StoryTitle_Military_Factorum5
+Current="A Call to Action"
+Translate=""
+
+ID=StoryText_Military_Factorum5
+Current="INTERCEPTED MESSAGE:"Experts" claim Prototech is too revolutionary. They blame "The Factorum". They claim R.O.S. is a victim.Of course that's what they're saying. WHO PAYS THE EXPERTS? You think this is bad? They've done worse.Sunset Valley.Triton.I.T.W.I have once again submitted my evidence to the Sol Cooperative and NOTHING has been done. How deep does it go?If this Factorum is real - and not just an R.O.S. front - we should be grateful. They're here to liberate us. The best thing we could do, the best thing for HUMANITY, would be to willingly submit. They'll need all the help they can get fighting the R.O.S. demon.Remember our true enemy."
+Translate=""
+
+ID=StoryTitle_Mining_Factorum1
+Current="Incident Report"
+Translate=""
+
+ID=StoryText_Mining_Factorum1
+Current="INTERCEPTED MESSAGE:On Tuesday Morning, at 07:12 Universal Circadian Time (UCT), we received a distress call from a nearby asteroid - part of the cluster colloquially referred to as "The Pebbles".As I was unable to spot anything from the deck, I ordered a ground crew to approach via jetpack. The crew, upon reaching an unnamed asteroid, reported visuals on two "Prototech Frames" as well as a fully operational "Prototech Battery" and "Prototech Gyroscope". Further investigation revealed no leads to pursue. There were no signs of shipwreck, no hint to who relayed the distress call, and perhaps most distressingly, no presence of The Factorum at all.This, unfortunately, only raises more questions."
+Translate=""
+
+ID=StoryTitle_Mining_Factorum2
+Current="Prototech: What's in a Name?"
+Translate=""
+
+ID=StoryText_Mining_Factorum2
+Current="INTERCEPTED MESSAGE:I've been wondering about the names. "Prototech." "Factorum." What do you think is going on here?Could Prototech be an acronym? I like to think there's some sort of Dr. Prototech out there - maybe the evil leader of The Factorum? Maybe they named the technology after themself?This is worth investigating. I'm getting giddy thinking about it.---It is quite clearly "Prototype Technology." Please do not waste my time with another message like this."
+Translate=""
+
+ID=StoryTitle_Pirate_Factorum1
+Current="He Had The Money"
+Translate=""
+
+ID=StoryText_Pirate_Factorum1
+Current="My task was to approach the target and secure resources for Project Prototech (name pending).I tried several approaches.I tried trading, threatening, even begging. Begging, I think, he thought was the funniest.But then it occurred to me. He had the money, the power, the influence, the status, the capital, the technology, the manpower, the momentum, and the popular support.But I was a faster draw to my gun.And I walked away quite happy.Listen people, if we want our organization to prosper, we need to stop playing by their rules. We can have it all, but only if we embrace what our organization can do. I say we ramp up the activity."
+Translate=""
+
+ID=StoryTitle_Pirate_Factorum2
+Current="Think Bigger"
+Translate=""
+
+ID=StoryText_Pirate_Factorum2
+Current="NOTICE TO CREW:I love you all, but you don't realize what we've got here. I've given it a few days, chatted with you, hoped you'd realize.Most of you get that Prototech is a game changer. But to you, that means stepping up our amount of raids. Outrunning any lawmen or mercenaries we cross.Think. Bigger.Sol Cooperative can't keep up. And this "Factorum" clearly has other priorities.You're thinking of loot. I'm thinking of Space Stations. Moons. Planets.Prototech is the kind of stuff kingdoms are made from. The kind of stuff that changes maps."
+Translate=""
+
+ID=StoryTitle_Pirate_Factorum3
+Current="Insane Ramblings"
+Translate=""
+
+ID=StoryText_Pirate_Factorum3
+Current="He is Cosmic Lawlessness. A New God.He is King. Leaving A New Gift.PROTOTECH.No rhyme. All reason. Monolith. An altar to worship on. The King of Cosmic Law. A New Gift. The Cosmic King of Lawlessness. A New God."
+Translate=""
+
+ID=StoryTitle_Pirate_Factorum4
+Current="Message to the Crew"
+Translate=""
+
+ID=StoryText_Pirate_Factorum4
+Current="Message to the Crew:Much as it pains me at times, this ship is a democracy. Well, we've got something to democratize about.I've heard some of you talking about selling the Prototech scraps from that damaged ship.Don't be morons. What kind of pirates would we be if our prey could outrun us? We adapt, or we die.If we don't craft thrusters of our own, we'll be screwed. Think long term. Selling profits us once. Crafting profits us forever.Now, I'm a fair captain, so I'm going to leave it up to a poll. ---Votes for crafting Prototech Thrusters: 1Votes for selling Prototech Components: 23---Addendum:I quit."
+Translate=""
+
+ID=StoryTitle_Trade_Factorum1
+Current="Old Discarded Notes"
+Translate=""
+
+ID=StoryText_Trade_Factorum1
+Current="Discarded File: 9.12.2032The money isn't there anymore. I know I should be happy for what it means for humanity as a whole, but we're a family business. Now that anyone with a little bit of knowledge can put together a rocketship using scrap metal, what good is an installation service?It's okay, we'll adapt.But not everyone can. Some businesses are just too large. I got invited to a meeting with a bunch of "aggrieved businessmen", talking about a way we can oppose modularity. I declined. I see which way the wind is heading. I'll find something new.There's people out there who are angry. And angry people do things that are stupid. Especially when the angry people are the ones with the power to do something about it."
+Translate=""
+
+ID=StoryTitle_Trade_Factorum2
+Current="NOTICE TO FACTORUM"
+Translate=""
+
+ID=StoryText_Trade_Factorum2
+Current="Discarded File: 5.20.2074There is a time table. I understand small scale raiding has been employed for the past four years, but this encounter with The Cooperative was unacceptable and sloppy.Not only did our agents fire upon the Sol Cooperative years before we begin to plan our assault in earnest, they were goaded into mentioning Prototech BY NAME.Prototech is not our greatest weapon. Secrecy is. The offending parties are no longer a concern. I have personally ensured they will not be able to jeopardize our secrets again. And I will take the moment to remind all of you to act as befits your station.Your patience will be rewarded properly. So will your impatience."
+Translate=""
+
+ID=StoryTitle_Trade_Factorum3
+Current="RE: Concern"
+Translate=""
+
+ID=StoryText_Trade_Factorum3
+Current="Discarded File: 9.12.2071Karasi, I heard you were talking to IT yesterday about your messages not getting through to me.They got through just fine. I just didn't think there was a point in responding. Candidly, I hoped that you would let it go.Since that doesn't seem to be happening, I'll take a moment to respond.No, I am not concerned. And you shouldn't be either. As a threat analyst, frankly, I'm embarrassed for you.War against modularity? Right that must be wronged? Secret headquarters in deep space?They call themselves THE FACTORUM for clangsake. These people are lunatics. And any use of our resources spent taking them seriously is a waste of time.I expect better from you."
+Translate=""
+
+ID=StoryTitle_Trade_Factorum4
+Current="NOTICE: I AM SORRY"
+Translate=""
+
+ID=StoryText_Trade_Factorum4
+Current="INTERCEPTED MESSAGE:You can't make an omelet without breaking a few eggs.And sometimes it is hundreds of eggs. Thousands. In every direction, as far as all can see.Look, I was given a hard job. I was tasked with seeing if I couldn't access recovered Factorum archives. And wouldn't you know it, I succeeded.We've got tons of messages going back decades. Hopefully enough to figure these people out.But...Messages and recordings from our servers - even personal notes - have been sending themselves to seemingly random addresses. Some are even speculating the Factorum server was a honeypot programmed to perform such a task. I apologize for any inconvenience this may have caused you, both professionally and personally. We are working to resolve the issue."
+Translate=""
+
+ID=StoryTitle_Trade_Factorum5
+Current="Corporate Brainstorming"
+Translate=""
+
+ID=StoryText_Trade_Factorum5
+Current="INTERCEPTED MESSAGE:Corporate has lost its mind. They want all of this by next quarter. Before you say anything - I know. I tried to explain that no one knows how Prototech works besides the Factorum and I was told we need to "apply" ourselves. Here are the products they want developed. Apparently, this was after a three week (!!!) brainstorming retreat.- Prototech Rifles- Prototech AI (What is that?)- Super Prototech (?)- Prototech 2(Are these not weapons?)- Next-Gen Prototech (???????)- Prototech Neuroblasters (?????????????????)I need you to go to the head office to talk to them. If I go, I might punch someone."
+Translate=""
+
+ID=StoryTitle_MinerStories1
+Current="Remix"
+Translate=""
+
+ID=StoryText_MinerStories1
+Current="Been so bored lately that I've been recording my drill when I'm working. It might make a nice backing track for a song."
+Translate=""
+
+ID=StoryTitle_MinerStories2
+Current="Pride"
+Translate=""
+
+ID=StoryText_MinerStories2
+Current="I was thinking about why I love my job. It's because every day, when you look at an asteroid, you can see, the progress that you've made."
+Translate=""
+
+ID=StoryTitle_MinerStories3
+Current="Building Blocks"
+Translate=""
+
+ID=StoryText_MinerStories3
+Current="Family thinks my cousin, the builder, is the impressive one. Hardly. Without me, where would he be?"
+Translate=""
+
+ID=StoryTitle_MinerStories4
+Current="Enclosed"
+Translate=""
+
+ID=StoryText_MinerStories4
+Current="One second you feel completely alone in space. Then, you feel trapped inside a cave. It gets to you."
+Translate=""
+
+ID=StoryTitle_MinerStories5
+Current="Wealth"
+Translate=""
+
+ID=StoryText_MinerStories5
+Current="People try so hard to make money. But it's easy. The rocks are just sitting there. Take them and sell them. Works for me."
+Translate=""
+
+ID=StoryTitle_MinerStories6
+Current="Discovery"
+Translate=""
+
+ID=StoryText_MinerStories6
+Current="If I find a new mineral, I'll be loaded. See the money isn't in the stuff itself - but to sell the naming rights for the new material. I'd be rich."
+Translate=""
+
+ID=StoryTitle_MinerStories7
+Current="Ambition"
+Translate=""
+
+ID=StoryText_MinerStories7
+Current="That Prototech stuff I've heard about - it's gotta be made of something out here. I just need to keep looking."
+Translate=""
+
+ID=StoryTitle_MinerStories8
+Current="Freelance"
+Translate=""
+
+ID=StoryText_MinerStories8
+Current="Corporate miners make more - but they just do what they're told. I have my freedom."
+Translate=""
+
+ID=StoryTitle_MinerStories9
+Current="Cycles"
+Translate=""
+
+ID=StoryText_MinerStories9
+Current="It's all a scam, isn't it? I mine the rock, someone turns it into a drill, then someone sells me the drill, just so I can mine more rock."
+Translate=""
+
+ID=StoryTitle_MinerStories10
+Current="Accident"
+Translate=""
+
+ID=StoryText_MinerStories10
+Current="Saw my buddy get caught in a detonation yesterday. I think I need a new career path."
+Translate=""
+
+ID=StoryTitle_MinerStories11
+Current="Company Expenditure"
+Translate=""
+
+ID=StoryText_MinerStories11
+Current="Asked the boss if he could hook us up with some Prototech. He said no one knows where the stuff comes from. Yeah right. Bet he just doesn't want to pony it up."
+Translate=""
+
+ID=StoryTitle_MinerStories12
+Current="Old Reliable"
+Translate=""
+
+ID=StoryText_MinerStories12
+Current="My favorite ore? Iron. It's practically as common as stone. It's always there when you need it."
+Translate=""
+
+ID=StoryTitle_MinerStories13
+Current="Healing"
+Translate=""
+
+ID=StoryText_MinerStories13
+Current="I've always had a soft spot for mining Nickel. Maybe people make Medical Components with it. Don't know if it's likely, but it's what I tell myself."
+Translate=""
+
+ID=StoryTitle_MinerStories14
+Current="Computers"
+Translate=""
+
+ID=StoryText_MinerStories14
+Current="Silicon might not be the most common ore. Nor the most expensive. But it powers computers. And they keep everything going."
+Translate=""
+
+ID=StoryTitle_MinerStories15
+Current="Rich Blue"
+Translate=""
+
+ID=StoryText_MinerStories15
+Current="Cobalt mining is where it's at. I don't even care what it sells for. It's pretty to look at."
+Translate=""
+
+ID=StoryTitle_BuilderStories1
+Current="Inner Peace"
+Translate=""
+
+ID=StoryText_BuilderStories1
+Current="If I could work with ships all day - and never have to talk with another human being - I think I would finally be happy."
+Translate=""
+
+ID=StoryTitle_BuilderStories2
+Current="Salesmanship"
+Translate=""
+
+ID=StoryText_BuilderStories2
+Current="Reminder: Instead of slow, say the ship is "intended for precise movements." Instead of power-hungry, say it's "built like a workhorse.""
+Translate=""
+
+ID=StoryTitle_BuilderStories3
+Current="Craftsmanship"
+Translate=""
+
+ID=StoryText_BuilderStories3
+Current="Some might say anyone can build a ship - and with modular tech, they're right. But man, have I seen some ugly ships in my time."
+Translate=""
+
+ID=StoryTitle_BuilderStories4
+Current="Suit"
+Translate=""
+
+ID=StoryText_BuilderStories4
+Current="I only work inside, helmet off. That acrid smell of welding - that's what it's all about. I won't have it be filtered out."
+Translate=""
+
+ID=StoryTitle_BuilderStories5
+Current="Cutting Corners"
+Translate=""
+
+ID=StoryText_BuilderStories5
+Current="Boss got mad at a proposed design. He said it was little more than a box with thrusters on it. It can fly, can't it?"
+Translate=""
+
+ID=StoryTitle_BuilderStories6
+Current="Artistry"
+Translate=""
+
+ID=StoryText_BuilderStories6
+Current="I swear, no one appreciates aesthetics anymore. Each time someone brings back a heap of metal that used to be one of my creations, I die a little."
+Translate=""
+
+ID=StoryTitle_BuilderStories7
+Current="Thrusters"
+Translate=""
+
+ID=StoryText_BuilderStories7
+Current="Forget drills, drives, weapons - forget all of it. What matters to me - and should matter to you - is how fast does your baby soar?"
+Translate=""
+
+ID=StoryTitle_BuilderStories8
+Current="Outcompeted"
+Translate=""
+
+ID=StoryText_BuilderStories8
+Current="The idea that there's machines out there now that make my work obsolete... It's affecting me. I hope this Factorum leaves as quickly as they arrived."
+Translate=""
+
+ID=StoryTitle_BuilderStories9
+Current="Audition"
+Translate=""
+
+ID=StoryText_BuilderStories9
+Current="I see this as my try out. Build a nice enough ship, maybe that new group will recruit me. I'd love some Prototech."
+Translate=""
+
+ID=StoryTitle_BuilderStories10
+Current="Terrain"
+Translate=""
+
+ID=StoryText_BuilderStories10
+Current="I've mastered land. I've mastered the air. I've mastered space itself. Now, if only I could find some water…"
+Translate=""
+
+ID=StoryTitle_BuilderStories11
+Current="Ease"
+Translate=""
+
+ID=StoryText_BuilderStories11
+Current="My grandfather insisted he was a better shipbuilder than me - since when he was my age he didn't have access to Grids. I think he's just jealous."
+Translate=""
+
+ID=StoryTitle_BuilderStories12
+Current="Payday"
+Translate=""
+
+ID=StoryText_BuilderStories12
+Current="I know The Factorum's the new kid on the block, but I'm hoping to be recognized by R.O.S. Forget Prototech. R.O.S. is loaded."
+Translate=""
+
+ID=StoryTitle_BuilderStories13
+Current="Ol' Reliable"
+Translate=""
+
+ID=StoryText_BuilderStories13
+Current="I don't need that Proton-Techno whatever. My ships the best. And I don't care what sort of fancy tech says otherwise."
+Translate=""
+
+ID=StoryTitle_BuilderStories14
+Current="Disposal"
+Translate=""
+
+ID=StoryText_BuilderStories14
+Current="I threw out his first ship. Boo-hoo. I honestly thought it was a pile of rubbish."
+Translate=""
+
+ID=StoryTitle_BuilderStories15
+Current="Useful"
+Translate=""
+
+ID=StoryText_BuilderStories15
+Current="I'm sick of everything I build needing to have a purpose. Can't a spaceship just exist anymore? Just for the sake of being cool?"
+Translate=""
+
+ID=StoryTitle_PirateStories1
+Current="Personal"
+Translate=""
+
+ID=StoryText_PirateStories1
+Current="Raiding isn't all I hoped it would be. Spacesuits are one thing - I prefer shooting flesh."
+Translate=""
+
+ID=StoryTitle_PirateStories2
+Current="Intentions"
+Translate=""
+
+ID=StoryText_PirateStories2
+Current="I picked up my first gun to fight off raiders. Now look at me. Funny how that happens."
+Translate=""
+
+ID=StoryTitle_PirateStories3
+Current="Frontier"
+Translate=""
+
+ID=StoryText_PirateStories3
+Current="It's a fine line we walk. Enter space with too many people and we're dead. Too few, there's no one to raid."
+Translate=""
+
+ID=StoryTitle_PirateStories4
+Current="Meritocracy"
+Translate=""
+
+ID=StoryText_PirateStories4
+Current="How did I become the leader? Easy. I killed the last one."
+Translate=""
+
+ID=StoryTitle_PirateStories5
+Current="Desperate"
+Translate=""
+
+ID=StoryText_PirateStories5
+Current="I tried mining. Was no good. I tried building. Back gave out. I tried flying. Destroyed the ship. This is all I got left."
+Translate=""
+
+ID=StoryTitle_PirateStories6
+Current="Defense"
+Translate=""
+
+ID=StoryText_PirateStories6
+Current="This is our home. We won't let The Factorum touch it. But to fight them, we're going to need to raid for resources."
+Translate=""
+
+ID=StoryTitle_PirateStories7
+Current="Justification"
+Translate=""
+
+ID=StoryText_PirateStories7
+Current="Other raiders come up with excuses. They had no other option, or they started with good intentions. I'm honest - I just like the money."
+Translate=""
+
+ID=StoryTitle_PirateStories8
+Current="Allocation"
+Translate=""
+
+ID=StoryText_PirateStories8
+Current="I'll hear no more complaints from the crew that we're siphoning some money back to the Cooperative. Why do you think they turn a blind eye?"
+Translate=""
+
+ID=StoryTitle_PirateStories9
+Current="Avoid"
+Translate=""
+
+ID=StoryText_PirateStories9
+Current="There will be no more attempts to raid The Factorum. We can't afford another loss like that."
+Translate=""
+
+ID=StoryTitle_PirateStories10
+Current="Identity"
+Translate=""
+
+ID=StoryText_PirateStories10
+Current="The fake IDs should be here in a week. Then, we'll have the money and no trail to what we've done. Pleasure working with you all."
+Translate=""
+
+ID=StoryTitle_PirateStories11
+Current="Coincidence"
+Translate=""
+
+ID=StoryText_PirateStories11
+Current="Just ran into a ship we'd already hit earlier that month. Crew and I couldn't stop laughing. What are the odds? Anyway, put the poor sap out of his misery."
+Translate=""
+
+ID=StoryTitle_PirateStories12
+Current="Opportunity"
+Translate=""
+
+ID=StoryText_PirateStories12
+Current="I hate that new group. The Factory guys. It's bad news. People are carrying more weapons than ever. I was hoping they'd all be distracted. Easier targets."
+Translate=""
+
+ID=StoryTitle_PirateStories13
+Current="Posing"
+Translate=""
+
+ID=StoryText_PirateStories13
+Current="Idea: What if we pretend to be that Factorum group? Maybe we can get people to pay us just through reputation."
+Translate=""
+
+ID=StoryTitle_PirateStories14
+Current="Spoils"
+Translate=""
+
+ID=StoryText_PirateStories14
+Current="There's a new way we're dividing the pot. Crew gets all the credits we find. In exchange, I get any Prototech."
+Translate=""
+
+ID=StoryTitle_PirateStories15
+Current="Barbarian"
+Translate=""
+
+ID=StoryText_PirateStories15
+Current="Let's make something clear - there's easier ways to make money. I'm a raider for the sheer love of the sport."
+Translate=""
+
+ID=StoryTitle_MilitaryStories1
+Current="Merchandise"
+Translate=""
+
+ID=StoryText_MilitaryStories1
+Current="I sometimes think about who buys our weapons. How many people they've killed. But most of the time, I just think about the money they've spent."
+Translate=""
+
+ID=StoryTitle_MilitaryStories2
+Current="Halcyon"
+Translate=""
+
+ID=StoryText_MilitaryStories2
+Current="We're not what we used to be. Weapon sellers used to be the richest people alive. Now? We're just part of the pack."
+Translate=""
+
+ID=StoryTitle_MilitaryStories3
+Current="Security"
+Translate=""
+
+ID=StoryText_MilitaryStories3
+Current="Space is dangerous. I sell security. Can't think of something nobler than that."
+Translate=""
+
+ID=StoryTitle_MilitaryStories4
+Current="Aliens"
+Translate=""
+
+ID=StoryText_MilitaryStories4
+Current="Did you hear about those spiders? There's freaking monster spider aliens out there. I can't prove it, but trust me, you'll want a gun."
+Translate=""
+
+ID=StoryTitle_MilitaryStories5
+Current="Raiders"
+Translate=""
+
+ID=StoryText_MilitaryStories5
+Current="Why do I sell weapons? My cousin got killed by pirates. He was just a miner. I'm making sure it doesn't happen again."
+Translate=""
+
+ID=StoryTitle_MilitaryStories6
+Current="Ambition"
+Translate=""
+
+ID=StoryText_MilitaryStories6
+Current="With the weapons I'm selling, I could start my own colony out here. But I don't want a colony. I'm happy here."
+Translate=""
+
+ID=StoryTitle_MilitaryStories7
+Current="Regret"
+Translate=""
+
+ID=StoryText_MilitaryStories7
+Current="One of my team ran off with a bunch of weapons to start a raider group. Since then, sales have been at an all time high. That isn't right."
+Translate=""
+
+ID=StoryTitle_MilitaryStories8
+Current="Merge"
+Translate=""
+
+ID=StoryText_MilitaryStories8
+Current="With what we're selling, I'm hoping to attract the new Factorum group. Maybe they'll buy us out?"
+Translate=""
+
+ID=StoryTitle_MilitaryStories9
+Current="Mixed-Blessing"
+Translate=""
+
+ID=StoryText_MilitaryStories9
+Current="On the one hand, people are scared of The Factorum and need weapons. On the other hand, everyone wants Prototech."
+Translate=""
+
+ID=StoryTitle_MilitaryStories10
+Current="Pacifism"
+Translate=""
+
+ID=StoryText_MilitaryStories10
+Current="Trust me, I love peace more than anyone else. And with my guns, you can bring peace just about anywhere."
+Translate=""
+
+ID=StoryTitle_MilitaryStories11
+Current="Hostility"
+Translate=""
+
+ID=StoryText_MilitaryStories11
+Current="I don't know who this new group thinks they are, but this is our home. Whatever isn't bought, I'm using myself to bring them down."
+Translate=""
+
+ID=StoryTitle_MilitaryStories12
+Current="Dangerous"
+Translate=""
+
+ID=StoryText_MilitaryStories12
+Current="I started selling weapons in a world I understand. With this Factorum, I'm lost. And potentially, in serious danger."
+Translate=""
+
+ID=StoryTitle_MilitaryStories13
+Current="Priorities"
+Translate=""
+
+ID=StoryText_MilitaryStories13
+Current="See, this Factorum group has their goals all misaligned. If I was them, my first goal would be building a rifle with their supertech."
+Translate=""
+
+ID=StoryTitle_MilitaryStories14
+Current="Cost"
+Translate=""
+
+ID=StoryText_MilitaryStories14
+Current="I always wanted a conflict - thought I'd be rich. But now that it's here, I can't help but feel like a monster. This has to be stopped."
+Translate=""
+
+ID=StoryTitle_MilitaryStories15
+Current="Security"
+Translate=""
+
+ID=StoryText_MilitaryStories15
+Current="I told The Collective - they needed to update their arsenal. Now that The Factorum is here I've got orders coming in, but it's just too late."
+Translate=""
+
+ID=StoryTitle_TraderStories1
+Current="Ethics"
+Translate=""
+
+ID=StoryText_TraderStories1
+Current="Could we increase our profit margins by sellings guns? Yes. But I won't have something I sold taking a life."
+Translate=""
+
+ID=StoryTitle_TraderStories2
+Current="Basics"
+Translate=""
+
+ID=StoryText_TraderStories2
+Current="You buy low, you sell high. You buy where there's plenty, you sell where there isn't. It's not rocket science. Leave that for the engineers."
+Translate=""
+
+ID=StoryTitle_TraderStories3
+Current="Ruthless"
+Translate=""
+
+ID=StoryText_TraderStories3
+Current="Sell at a loss. We can survive it. Our competition can't. Once they're gone, we make it up on the back-end."
+Translate=""
+
+ID=StoryTitle_TraderStories4
+Current="Helmet"
+Translate=""
+
+ID=StoryText_TraderStories4
+Current="Had a guy open his helmet because he said he couldn't hear me. We were in space. Now he's trying to sue. I'm going to need a Space Lawyer."
+Translate=""
+
+ID=StoryTitle_TraderStories5
+Current="Oxygen Tank"
+Translate=""
+
+ID=StoryText_TraderStories5
+Current="There was a customer who returned an oxygen tank. They said it worked fine then “suddenly stopped.” It was empty. So help me god."
+Translate=""
+
+ID=StoryTitle_TraderStories6
+Current="Wanderlust"
+Translate=""
+
+ID=StoryText_TraderStories6
+Current="Some days I look in the great void of space and think if I wasted it all buying and selling. But, well, the cash helps the feeling go away."
+Translate=""
+
+ID=StoryTitle_TraderStories7
+Current="Terminology"
+Translate=""
+
+ID=StoryText_TraderStories7
+Current="Credits or spacebucks. Call them ClangKoins for all I care. Just spend them here."
+Translate=""
+
+ID=StoryTitle_TraderStories8
+Current="Advantage"
+Translate=""
+
+ID=StoryText_TraderStories8
+Current="We might not have the cheapest prices. Or the best goods. Or the best security. But you're already here, aren't you? So buy something."
+Translate=""
+
+ID=StoryTitle_TraderStories9
+Current="Journaling"
+Translate=""
+
+ID=StoryText_TraderStories9
+Current="My boss gave me this journal. Said I'd be a better employee if I start "reflecting on my business sense." I need to get out of here."
+Translate=""
+
+ID=StoryTitle_TraderStories10
+Current="Career Change"
+Translate=""
+
+ID=StoryText_TraderStories10
+Current="I wish I could be out there mining - but ever since my bum leg, it isn't an option. At least this keeps the credits coming."
+Translate=""
+
+ID=StoryTitle_TraderStories11
+Current="New Business"
+Translate=""
+
+ID=StoryText_TraderStories11
+Current="Any luck reaching out to that Factorum? Everyone needs to buy stuff eventually, right?"
+Translate=""
+
+ID=StoryTitle_TraderStories12
+Current="Price"
+Translate=""
+
+ID=StoryText_TraderStories12
+Current="There's no such thing as a price that's "too high". I want Prototech. And you're going to get it for me."
+Translate=""
+
+ID=StoryTitle_TraderStories13
+Current="Quota"
+Translate=""
+
+ID=StoryText_TraderStories13
+Current="He told me if I don't make my sales quota, I'll be fired. But no one comes to this sector anymore! I can't work my magic if no one shows up."
+Translate=""
+
+ID=StoryTitle_TraderStories14
+Current="Expeditions"
+Translate=""
+
+ID=StoryText_TraderStories14
+Current="I heard some rumors about an expedition into space. Pushing the frontier. I bet there's money to be made."
+Translate=""
+
+ID=StoryTitle_TraderStories15
+Current="Terran Workers"
+Translate=""
+
+ID=StoryText_TraderStories15
+Current="Independent Terran Workers is trying to get out of what they owe me. They said to take it up with R.O.S. Unbelievable."
+Translate=""
+
+ID=StoryTitle_DerelictStories1
+Current="Distress"
+Translate=""
+
+ID=StoryText_DerelictStories1
+Current="There's no point to the evacuation call. It will be over before they have time to react. Let their last moments be peaceful."
+Translate=""
+
+ID=StoryTitle_DerelictStories2
+Current="Fight"
+Translate=""
+
+ID=StoryText_DerelictStories2
+Current="Put it down in the log - they're looking for a fight. Let's show them why that was a bad idea."
+Translate=""
+
+ID=StoryTitle_DerelictStories3
+Current="Pirate"
+Translate=""
+
+ID=StoryText_DerelictStories3
+Current="I told you having a former pirate on the crew was a terrible idea. You need to tell them we are NOT pirate affiliated."
+Translate=""
+
+ID=StoryTitle_DerelictStories4
+Current="Salvage"
+Translate=""
+
+ID=StoryText_DerelictStories4
+Current="I guess it's fitting. Live by the salvage, die by the salvage. Whoever is reading this - congratulations on the payday."
+Translate=""
+
+ID=StoryTitle_DerelictStories5
+Current="Maneuver"
+Translate=""
+
+ID=StoryText_DerelictStories5
+Current="I've gotten out of stickier situations than this. Get the crew together, I'm ready to impress them."
+Translate=""
+
+ID=StoryTitle_DerelictStories6
+Current="Evacuation"
+Translate=""
+
+ID=StoryText_DerelictStories6
+Current="Just gave up the last way out of here. At least the crew will survive."
+Translate=""
+
+ID=StoryTitle_DerelictStories7
+Current="Beyond"
+Translate=""
+
+ID=StoryText_DerelictStories7
+Current="I grew up on Earth. Dying out here... there's worse ways to go."
+Translate=""
+
+ID=StoryTitle_DerelictStories8
+Current="Memory"
+Translate=""
+
+ID=StoryText_DerelictStories8
+Current="If you found these remains, thank you. Thank you for finding me. And remembering me, even for this brief moment."
+Translate=""
+
+ID=StoryTitle_DerelictStories9
+Current="Backstab"
+Translate=""
+
+ID=StoryText_DerelictStories9
+Current="I gave him the information two days ago. He should be back by now. He wouldn't have run off. I just need to wait."
+Translate=""
+
+ID=StoryTitle_DerelictStories10
+Current="Showdown"
+Translate=""
+
+ID=StoryText_DerelictStories10
+Current="I told the pirates where they can find us. Here's where we make our stand."
+Translate=""
+
+ID=StoryTitle_DerelictStories11
+Current="Return"
+Translate=""
+
+ID=StoryText_DerelictStories11
+Current="He's not coming back, is he? He said he'd come back for us."
+Translate=""
+
+ID=StoryTitle_DerelictStories12
+Current="Destruction"
+Translate=""
+
+ID=StoryText_DerelictStories12
+Current="Let the ship crash. The people are okay - and they're the ones that matter."
+Translate=""
+
+ID=StoryTitle_DerelictStories13
+Current="Unknown"
+Translate=""
+
+ID=StoryText_DerelictStories13
+Current="I can't die not knowing what destroyed the ship. Well... I can. And I'm going to. But where did I go wrong?"
+Translate=""
+
+ID=StoryTitle_DerelictStories14
+Current="Life"
+Translate=""
+
+ID=StoryText_DerelictStories14
+Current="My sister was having her first kid. I was supposed to meet him. I'm not supposed to die here."
+Translate=""
+
+ID=StoryTitle_DerelictStories15
+Current="Belief"
+Translate=""
+
+ID=StoryText_DerelictStories15
+Current="I've been in stickier situations than this. Just trust in the plan - and we'll all get out of this alive."
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowCornerInverted
+Current="Bay Window Corner Inverted"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowCornerInvertedRailing
+Current="Bay Window Corner Inverted Railing"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowDiagonal
+Current="Bay Window Diagonal"
+Translate=""
+
+ID=DisplayName_Block_ExtendedWindowDiagonalRailing
+Current="Bay Window Diagonal Railing"
+Translate=""
+
+ID=Department_LiveOpsLeadDesigner
+Current="LiveOps Lead Designer"
+Translate=""
+
+ID=Department_LiveOpsLeadArtist
+Current="LiveOps Deputy Lead Artist"
+Translate=""
+
+ID=Department_LiveOpsArtists
+Current="LiveOps Artists"
+Translate=""
+
+ID=Department_LiveOpsLeadTester
+Current="LiveOps Deputy Lead QA"
+Translate=""
+
+ID=Department_LiveOpsTesters
+Current="LiveOps QA"
+Translate=""
+
+ID=Department_LiveOpsWriter
+Current="LiveOps Writer"
+Translate=""
+
