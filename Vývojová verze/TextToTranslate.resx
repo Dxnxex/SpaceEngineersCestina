@@ -14440,7 +14440,7 @@ Translate="Nemůžete odebrat posazeného hráče!"
 
 ID=ScreenDebugAdminMenu_RemoveFloating
 Current="Remove floating obj."
-Translate=""
+Translate="Odstranit plovoucí obj."
 
 ID=ScreenDebugAdminMenu_RemoveOwner
 Current="Remove inactive owner and his grids"
@@ -14772,7 +14772,7 @@ Translate="Zvolený spouštěč"
 
 ID=ServerDetails_BlockTypeLimits
 Current="Block Type Limits"
-Translate=""
+Translate="Limity typu bloků"
 
 ID=ServerDetails_ServerManagement
 Current="Server Management"
@@ -14796,15 +14796,15 @@ Translate="Úkol dokončen"
 
 ID=SpectatorControls_Free_Desc
 Current="Free spectator. You can still shoot and do actions with controlled object"
-Translate=""
+Translate="Volný divák. Stále můžete střílet a vykonávat akce s ovládaným objektem"
 
 ID=SpectatorControls_None_Desc
 Current="Get back into controlled character / cockpit"
-Translate=""
+Translate="Vraťte se zpět do ovládané postavy / kokpitu"
 
 ID=SpectatorControls_Static_Desc
 Current="Static spectator. You control character / cockpit, but camera is static"
-Translate=""
+Translate="Statický divák. Ovládáte postavu / kokpit, ale kamera je statická"
 
 ID=StaticObjects
 Current="StaticObjects"
@@ -14824,19 +14824,19 @@ Translate="Opustit zvolený klan"
 
 ID=SwitchBuilderMode
 Current="Switch cockpit builder mode"
-Translate=""
+Translate="Přepnout na stavění z kokpitu"
 
 ID=SwitchToNormalVT
 Current="With this release we changed visuals of the game a lot. Your graphics settings were changed to Medium to avoid any performance issues."
-Translate=""
+Translate="V této verzi jsme výrazně změnili vizuály hry. Vaše nastavení grafiky bylo změněno na Střední, aby se předešlo problémům s výkonem."
 
 ID=TerminalControlPanel_EditCode_Tooltip
 Current="Opens code editor where you can create new scripts and upload/download them from workshop"
-Translate=""
+Translate="Otevře editor kódu, kde můžete vytvářet nové skripty a nahrávat/stahovat je z workshopu."
 
 ID=TerminalControlPanel_RunArgument_ToolTip
 Current="An argument passed to your code when clicking the Run button"
-Translate=""
+Translate="Argument předaný vašemu kódu při kliknutí na tlačítko Spustit"
 
 ID=TerminalControlPanel_RunCodeDefault
 Current="Run with default argument"
@@ -14844,11 +14844,11 @@ Translate="Spustit s výchozím argumentem."
 
 ID=TerminalControlPanel_RunCode_Tooltip
 Current="Run current script and notifies about any exception during run"
-Translate=""
+Translate="Spustí aktuální skript a informuje o jakýchkoli výjimkách během spuštění."
 
 ID=TerminalTab_GPS_SaveWarning
 Current="Warning: illegal data. Modifications will not be saved."
-Translate=""
+Translate="Upozornění: nelegální data. Změny nebudou uloženy."
 
 ID=TerminalTab_Info_Description
 Current="Building a grid partially inside of terrain automatically turns the grid into a station.Stations are more performance friendly but are static and cannot be moved.You can convert any station into a ship. Be careful that it's not embedded in any terrain as it might explode.A ship needs to be stationary in order to convert it into a station."
@@ -14856,15 +14856,15 @@ Translate="Postavění konstrukce unitř terénu automaticky převede konstrukci
 
 ID=TerminalTab_Info_DestructibleBlocks_Tooltip
 Current="Toogles destructible blocks only for this grid. If destructible blocks are disabled in world settings, this is ignored. Only available in scenarios."
-Translate=""
+Translate="Přepíná zničitelné bloky pouze pro tuto mřížku. Pokud jsou zničitelné bloky zakázány v nastavení světa, tato možnost se ignoruje. Dostupné pouze ve scénářích."
 
 ID=Terminal_AuthorshipNotAvailable
 Current="Authorship operations are not available when playing with no limits."
-Translate=""
+Translate="Operace autorských práv nejsou dostupné při hraní bez omezení."
 
 ID=Terminal_PowerTransferOverride
 Current="Override Power Transfer"
-Translate=""
+Translate="Přepsat přenos energie"
 
 ID=ToolbarConfig_ResearchTabDisabledTooltip
 Current="Progression is currently disabled, you can enable it in the advanced world settings."
@@ -14872,27 +14872,28 @@ Translate="Výzkum je momentálně nedostupný, můžeš jej povolit v pokročil
 
 ID=ToolTipAudioOptionsEnableReverb
 Current="Enable sound echo. Note that if your audio rate is larger than 48kHz, this feature will not work.(You can configure the audio rate in system's speaker properties)"
-Translate=""
+Translate="Povolit zvukovou ozvěnu. Poznámka: Pokud je vaše audio frekvence vyšší než 48 kHz, tato funkce nebude fungovat. (Frekvenci zvuku můžete nastavit v nastavení reproduktorů systému)"
 
 ID=ToolTipBatteryBlock
 Current="Check for power storage, uncheck for power output"
-Translate=""
+Translate="Zaškrtněte pro ukládání energie, zrušte zaškrtnutí pro výstup energie"
 
 ID=ToolTipBatteryBlock_Semiauto
 Current="Sets to recharge when stored power is 0, sets to discharge when stored power is max."
-Translate=""
+Translate="Nastaví na nabíjení, když je uložená energie na 0, nastaví na vybíjení, když je uložená energie na max."
 
 ID=ToolTipCharacterScreen_HideDuplicates
 Current="Show only one item in case you ownmultiple items of the same type"
-Translate=""
+Translate="Zobrazit pouze jednu položku, pokud vlastníte více položek stejného typu"
 
 ID=ToolTipCharacterScreen_Model
 Current="Change your character model"
-Translate=""
+Translate="Změnit model postavy"
 
 ID=ToolTipCharacterScreen_ShowOnlyDuplicates
 Current="Show only items you own more than one time"
-Translate=""
+Translate="Zobrazit pouze položky, které vlastníte více než jednou"
+
 
 ID=ToolTipFlaresIntensity
 Current="Intensity multiplier for all lens flares"
@@ -14900,11 +14901,11 @@ Translate="Násobič intenzity světel"
 
 ID=ToolTipOptionsDisplay_SpriteMainViewportScale
 Current="Scale of the UI screens to prevent having text outside of the TV border."
-Translate=""
+Translate="Měřítko obrazovky UI, aby se předešlo zobrazení textu mimo okraje TV."
 
 ID=LabelOptionsDisplay_SpriteMainViewportScale
 Current="UI scale"
-Translate="Velikost UI"
+Translate="Měřítko UI"
 
 ID=ToolTipItemFilter_AmmoMagazineInput
 Current="Any ammo magazine accepted by {0}"
@@ -14932,15 +14933,15 @@ Translate=""
 
 ID=ToolTipJoinGameDirectConnect_Favorite
 Current="Check to add this IP to your favorite servers list"
-Translate=""
+Translate="Zaškrtněte pro přidání této IP do seznamu oblíbených serverů"
 
 ID=ToolTipJoinGameServerSearch_AllowedGroups
 Current="Show servers supporting {0} group whitelisting"
 Translate=""
 
 ID=ToolTipJoinGameServerSearch_EvnironmentHostility
-Current="Show only servers with corresponding level ofenvironment hostility"
-Translate=""
+Current="Show only servers with corresponding level of environment hostility"
+Translate="Zobrazit pouze servery s odpovídající úrovní nehostinosti prostředí"
 
 ID=ToolTipJoinGameServerSearch_MaximumFilterValue
 Current="Maximum filter value"
@@ -14952,7 +14953,7 @@ Translate="Minimální hodnota filtru"
 
 ID=ToolTipJoinGameServerSearch_Mods
 Current="Configure mods search settings"
-Translate=""
+Translate="Nastavit hledání modifikací"
 
 ID=ToolTipJoinGameServerSearch_SameGameData
 Current="Show only servers with same game data"
@@ -14964,7 +14965,7 @@ Translate="Aktualizovat současný filt vyhledávání serverů"
 
 ID=ToolTipJoinGameServerSearch_Settings
 Current="Configure basic server search settings"
-Translate=""
+Translate="Nastavit základní možnosti hledání serverů"
 
 ID=ToolTipJoinGameServerSearch_Survival
 Current="Show survival servers"
@@ -14972,7 +14973,7 @@ Translate="Ukázat survival servery"
 
 ID=ToolTipJoinGame_Advanced
 Current="Open advanced server search settings"
-Translate=""
+Translate="Otevřít pokročilá nastavení hledání serverů"
 
 ID=ToolTipJoinGame_DirectConnect
 Current="Connect to a server via IP"
@@ -14980,11 +14981,11 @@ Translate="Připojit se na server pomocí IP"
 
 ID=ToolTipJoinGame_SearchClear
 Current="Clear search"
-Translate=""
+Translate="Vymazat hledání"
 
 ID=ToolTipJoinGame_ServerDetails
 Current="Open server details screen"
-Translate=""
+Translate="Otevřít detaily serveru"
 
 ID=ToolTipLoadGame_Backups
 Current="Show backups for selected save file"
@@ -15047,24 +15048,24 @@ Current="Configure volume level of sound effects"
 Translate="Nasavte hladinu hlasitosti zvukových efektů ve hře"
 
 ID=ToolTipOptionsAudio_SpeedBasedSounds
-Current="Play ship engine sounds based solely on the speed of the craft.Uncheck for realistic sound."
-Translate=""
+Current="Play ship engine sounds based solely on the speed of the craft. Uncheck for realistic sound."
+Translate="Přehrávat zvuky motoru lodě pouze na základě rychlosti plavidla. Zrušte zaškrtnutí pro realistický zvuk."
 
 ID=ToolTipOptionsAudio_UseContextualMusic
 Current="Change music according to current in-game situation"
-Translate=""
+Translate="Změnit hudbu podle aktuální herní situace"
 
 ID=ToolTipOptionsAudio_VoiceChatVolume
 Current="Configure volume level of player voice chat"
-Translate=""
+Translate="Nastavit hlasitost hlasového chatu hráčů"
 
 ID=ToolTipOptionsControls_Category
 Current="Choose controls category"
-Translate=""
+Translate="Vyberte kategorii ovládání"
 
 ID=ToolTipOptionsControls_ClickToEdit
-Current="Click to editRight click to remove binding"
-Translate=""
+Current="Click to edit. Right click to remove binding"
+Translate="Klikněte pro úpravu. Pravým tlačítkem klikněte pro odstranění vazby"
 
 ID=ToolTipOptionsControls_InvertMouseX
 Current="Reverse horizontal movement of mouse"
@@ -15088,11 +15089,11 @@ Translate="Nastavte jak citlivě bude ovladač reagovat na pomalý pohyb."
 
 ID=ToolTipOptionsControls_JoystickOrGamepad
 Current="Select active controller"
-Translate=""
+Translate="Vyberte aktivní ovladač"
 
 ID=ToolTipOptionsControls_JoystickSensitivity
-Current="Adjust sensitivty of your controller"
-Translate=""
+Current="Adjust sensitivity of your controller"
+Translate="Upravit citlivost vašeho ovladače"
 
 ID=ToolTipOptionsControls_MouseSensitivity
 Current="Change how sensitive your mouse is to movement"
@@ -15147,8 +15148,8 @@ Current="Set model complexity"
 Translate="Vyberte kvalitu modelování"
 
 ID=ToolTipOptionsGraphics_PostProcessing
-Current="Enables Bloom, Vignette, Chromatic Aberation and washes the visor up"
-Translate=""
+Current="Enables Bloom, Vignette, Chromatic Aberration and washes the visor up"
+Translate="Povolí Bloom, Vignette, chromatickou aberaci a vyčistí Vaše hledí"
 
 ID=ToolTipOptionsGraphics_QualityPreset
 Current="Choose a quality preset, according to your HW specifications"
@@ -15204,11 +15205,11 @@ Translate="Nakonfigurujte grafické nastavení"
 
 ID=ToolTipSafeZone_AddContained
 Current="Add all entities inside safe zone to the filter"
-Translate=""
+Translate="Přidejte všechny entity uvnitř bezpečné zóny do filtru"
 
 ID=TooltipScreenMods_Category_All
 Current="All"
-Translate=""
+Translate="Všechny"
 
 ID=TooltipScreenMods_Category_Character
 Current="Character"
@@ -15216,51 +15217,51 @@ Translate="Postava"
 
 ID=ToolTipTerminalProduction_AssemblingMode
 Current="Assembling mode: ingots to components"
-Translate=""
+Translate="Režim sestavování: ingoty na komponenty"
 
 ID=ToolTipTerminalProduction_DisassemblingMode
 Current="Disassembling mode: components to ingots"
-Translate=""
+Translate="Režim rozebírání: komponenty na ingoty"
 
 ID=ToolTipTimerBlock_Silent
 Current="Turn off timer beep sounds"
-Translate=""
+Translate="Vypnout zvukové signály časovače"
 
 ID=ToolTipVideoOptionsEnableDamageEffects
-Current="Enable particle effects  for damaged blocks"
-Translate=""
+Current="Enable particle effects for damaged blocks"
+Translate="Povolit částicové efekty pro poškozené bloky"
 
 ID=ToolTipVideoOptionsRenderer
 Current="Changing the renderer requires restart of the game"
-Translate=""
+Translate="Změna renderovacího nastavení vyžaduje restart hry"
 
 ID=ToolTipWorldSettingsDifficulty
-Current="The damage given and taken to and from enemiesand environment. Higher difficulty means more realistic damage."
-Translate=""
+Current="The damage given and taken to and from enemies and environment. Higher difficulty means more realistic damage."
+Translate="Poškození způsobené a přijaté od nepřátel a prostředí. Vyšší obtížnost znamená realističtější poškození."
 
 ID=ToolTipWorldSettingsEnableCargoShips
 Current="Whether random cargo ships should be enabled"
-Translate=""
+Translate="Povolit náhodné nákladní lodě"
 
 ID=ToolTipWorldSettingsEnableCopyPaste
 Current="Copy paste allows to create new ships or stations directly from the clipboard."
-Translate=""
+Translate="Funkce kopírování a vkládání umožňuje vytvářet nové lodě nebo stanice přímo ze schránky."
 
 ID=ToolTipWorldSettingsFriendlyFire
 Current="When checked, allies can damage each other"
-Translate=""
+Translate="Pokud je zaškrtnuto, spojenci se mohou navzájem poškodit"
 
 ID=ToolTipWorldSettingsHardwareRequirements
 Current="Hardware requirements define how rich your world can be. Higher values are more demanding on computing performance of your computer (CPU and GPU) and will definitely require more memory."
-Translate=""
+Translate="Požadavky na hardware definují, jak bohatý může být váš svět. Vyšší hodnoty jsou náročnější na výkon vašeho počítače (CPU a GPU) a budou vyžadovat více paměti."
 
 ID=ToolTipWorldSettingsHarvestingMode
-Current="Creative Mode: unlimited resources, instant building, players don't die. Use creative mode when youjust want to build things.Survival Mode: realistic inventory capacity, constrained resources - you have to drill and harvest ore, process itin a refinery, construct components in assembler, build blocks using welder, disassemble using grinder,players can die - they re-spawn in their spawn point and if there's no spawn point available, then in a new shipas a new player at the border of the sector.Survival x3: same as "Survival", but 3x larger inventory capacity.Survival x10: same as "Survival", but 10x larger inventory capacity."
-Translate=""
+Current="Creative Mode: unlimited resources, instant building, players don't die. Use creative mode when you just want to build things. Survival Mode: realistic inventory capacity, constrained resources - you have to drill and harvest ore, process it in a refinery, construct components in assembler, build blocks using welder, disassemble using grinder, players can die - they re-spawn in their spawn point and if there's no spawn point available, then in a new ship as a new player at the border of the sector. Survival x3: same as 'Survival', but 3x larger inventory capacity. Survival x10: same as 'Survival', but 10x larger inventory capacity."
+Translate="Režim pro kreativní: neomezené zdroje, okamžité stavění, hráči neumírají. Použijte kreativní režim, pokud chcete pouze stavět věci. Režim přežití: realistická kapacita inventáře, omezené zdroje - musíte vrtat a těžit rudu, zpracovávat ji v rafinerii, vyrábět komponenty v assembleru, stavět bloky pomocí svářečky, rozebírat pomocí brusky, hráči mohou zemřít - respawnují se na svém bodu respawnu a pokud není bod respawnu k dispozici, respawnují se v nové lodi jako nový hráč na hranici sektoru. Přežití x3: stejné jako 'Přežití', ale kapacita inventáře je 3x větší. Přežití x10: stejné jako 'Přežití', ale kapacita inventáře je 10x větší."
 
 ID=ToolTipWorldSettingsMaxBlocksPerPlayer
 Current="Maximum number of blocks each player can build. Destroyed blocks are refunded."
-Translate=""
+Translate="Maximální počet bloků, které každý hráč může postavit. Zničené bloky jsou vráceny."
 
 ID=ToolTipWorldSettingsModeCreative
 Current="Unlimited resources, instant building, no death"
@@ -15275,36 +15276,36 @@ Current="Visibility of your game.Offline: Game runs in offline mode and does not
 Translate="Viditelnost Vaší hry. Offline: Hra běží v offline řezimu a nepotřebuje připojení k internetu. Soukromý: Pouze pozvaní hráči. Přátelé: Pouze Vaši {0} přátelé se mohou připojit. Veřejná: Každý {0} hráč se může připojit"
 
 ID=ToolTipWorldSettingsPermanentDeath
-Current="Enables players losing everything if they dieand don't have any available respawn points."
-Translate=""
+Current="Enables players losing everything if they die and don't have any available respawn points."
+Translate="Povolit hráčům ztratit vše, pokud zemřou a nemají žádné dostupné body respawnu."
 
 ID=ToolTipWorldSettingsPVP
 Current="PvE means that you cannot damage other players. PvP means that you can damage them and they can damage you."
-Translate=""
+Translate="PvE znamená, že nemůžete poškozovat ostatní hráče. PvP znamená, že je můžete poškozovat a oni vás mohou poškozovat."
 
 ID=ToolTipWorldSettingsRemoveTrash
-Current="If checked, ships that are considered to be trash will be removed to make the game run faster. To be considered trash, the grid has to contain just a few blocks, be in uniform linear motion, be unpowered, uncontrolled, without a medbay and far enough from all players so that they can barelysee it."
-Translate=""
+Current="If checked, ships that are considered to be trash will be removed to make the game run faster. To be considered trash, the grid has to contain just a few blocks, be in uniform linear motion, be unpowered, uncontrolled, without a medbay and far enough from all players so that they can barely see it."
+Translate="Pokud je zaškrtnuto, lodě, které jsou považovány za odpad, budou odstraněny, aby hra běžela rychleji. Aby byla loď považována za odpad, musí obsahovat jen několik bloků, být v jednotném lineárním pohybu, bez energie, nekontrolovaná, bez medbay a dost daleko od všech hráčů, aby ji téměř neviděli."
 
 ID=ToolTipWorldSettingsResetOwnership
 Current="Removes ownership of all blocks."
-Translate=""
+Translate="Odstraní vlastnictví všech bloků."
 
 ID=TooltipWorldSettingsRespawnShipDelete
 Current="Deletes respawn ships when players leave servers or spawn in new ships."
-Translate=""
+Translate="Smaže respawn lodě, když hráči opustí servery nebo se respawnují v nových lodích."
 
 ID=ToolTipWorldSettingsSoundInSpace
 Current="There's no sound in space. Turn it on to simulate Earth-like sound conditions (even though it's not realistic). Turn it off for a realistic mode where you can hear only sounds that your astronaut character can hear."
-Translate=""
+Translate="Ve vesmíru není zvuk. Zapněte ho pro simulaci zvukových podmínek podobných Zemi (i když to není realistické). Vypněte ho pro realistický režim, kde uslyšíte pouze zvuky, které může slyšet váš astronaut."
 
 ID=ToolTipWorldSettingsOptimalSpawnDistance
 Current="Optimal distance in meters the game should take into consideration when spawning new player near others."
-Translate=""
+Translate="Optimální vzdálenost v metrech, kterou by hra měla brát v úvahu při respawnování nového hráče v blízkosti ostatních."
 
 ID=ToolTipWorldSettingsAutorespawn
 Current="Enables automatic respawning at the nearest available respawn point."
-Translate=""
+Translate="Povolit automatický respawn na nejbližším dostupném bodě respawnu."
 
 ID=ToolTipWorldSettingsSupergridding
 Current="Allows supergridding exploit to be used."
@@ -15331,12 +15332,12 @@ Current="Assembler requires 3x less materials and is 3x faster"
 Translate="Konstruktéry potřebjí 3x méně materiálu a jsou 3x rychlejší"
 
 ID=ToolTipWorldSettings_CargoShipsEnabled
-Current="Enables random cargoships flying through the world from time to time."
-Translate=""
+Current="Enables random cargo ships flying through the world from time to time."
+Translate="Povolit náhodné nákladní lodě létající světem občas."
 
 ID=ToolTipWorldSettings_ClientCanSave
-Current="Client can save network game. If unchecked then only server can save"
-Translate=""
+Current="Client can save network game. If unchecked then only server can save."
+Translate="Klient může uložit síťovou hru. Pokud je nezaškrtnuto, pouze server může hru uložit."
 
 ID=ToolTipWorldSettings_EnableContainerDrops
 Current="Enables spawning of unknown signals."
@@ -15344,63 +15345,63 @@ Translate="Povolojí objevování se neznámých signálů"
 
 ID=ToolTipWorldSettings_EnableConvertToStation
 Current="Adds an option to ship terminals to convert ships to stations."
-Translate=""
+Translate="Přidává možnost na terminálech lodí převést lodě na stanice."
 
 ID=ToolTipWorldSettings_EnableDrones
-Current="Random NPC pirate ship will be generated from time to time.These ships are enemies and will try to attack you with their drones."
-Translate=""
+Current="Random NPC pirate ship will be generated from time to time. These ships are enemies and will try to attack you with their drones."
+Translate="Náhodně se vytvoří pirátská loď NPC, která bude občas generována. Tyto lodě jsou nepřátelské a pokusí se vás napadnout svými drony."
 
 ID=ToolTipWorldSettings_EnableEncounters
 Current="Enables randomly spawned abandoned ships and stations."
-Translate=""
+Translate="Povolit náhodně se spawnující opuštěné lodě a stanice."
 
 ID=ToolTipWorldSettings_EnableFlora
 Current="Enables flora for planets."
-Translate=""
+Translate="Povolit flóru pro planety."
 
 ID=ToolTipWorldSettings_EnableIngameScripts
-Current="Enables scripts running in game. Scripts are used in programmable blocks.They can also be used by some mods to create advanced logic and effects."
-Translate=""
+Current="Enables scripts running in game. Scripts are used in programmable blocks. They can also be used by some mods to create advanced logic and effects."
+Translate="Povolit skripty běžící ve hře. Skripty se používají v programovatelných blocích. Mohou je také používat některé mody pro vytvoření pokročilé logiky a efektů."
 
 ID=ToolTipWorldSettings_EnableJetpack
 Current="If this is turned off, characters won't be able to use jetpacks at all."
-Translate=""
+Translate="Pokud je toto vypnuto, postavy nebudou moci vůbec používat jetpacky."
 
 ID=ToolTipWorldSettings_EnableOxygen
 Current="Enables oxygen processing. Oxygen is used by space suits and cockpits."
-Translate=""
+Translate="Povolit zpracování kyslíku. Kyslík je používán skafandry a kokpity."
 
 ID=ToolTipWorldSettings_EnablePlanets
-Current="Enable/disable spawning of planets in world"
-Translate=""
+Current="Enable/disable spawning of planets in world."
+Translate="Povolit/zakázat spawnování planet ve světě."
 
 ID=TooltipWorldSettings_EnableRealisticDampeners
-Current="Enables realistic dampeners"
-Translate=""
+Current="Enables realistic dampeners."
+Translate="Povolit realistické tlumiče."
 
 ID=ToolTipWorldSettings_EnableRemoteBlockRemoval
-Current="Enables players to remotely remove owned blocksto free up their PCU limit."
-Translate=""
+Current="Enables players to remotely remove owned blocks to free up their PCU limit."
+Translate="Povolit hráčům vzdáleně odstraňovat vlastněné bloky a uvolnit tak jejich limit PCU."
 
 ID=ToolTipWorldSettings_EnableRespawnShips
-Current="Enables respawning in ships. If disabled, respawning is only possiblein the suit, in medical stations, or in survival kits."
-Translate=""
+Current="Enables respawning in ships. If disabled, respawning is only possible in the suit, in medical stations, or in survival kits."
+Translate="Povolit respawnování v lodích. Pokud je zakázáno, respawnování je možné pouze ve skafandrech, v lékařských stanicích nebo v přežití."
 
 ID=TooltipWorldSettings_EnableSubGridDamage
-Current="Enables damage to sub-grids originating from collisions, explosionsand other sources on connected grids. We recommend leaving this setting disabled for more stable behavior."
-Translate=""
+Current="Enables damage to sub-grids originating from collisions, explosions and other sources on connected grids. We recommend leaving this setting disabled for more stable behavior."
+Translate="Povolit poškození podgridů způsobených kolizemi, výbuchy a dalšími zdroji na připojených gridech. Doporučujeme tuto možnost nechat vypnutou pro stabilnější chování."
 
 ID=ToolTipWorldSettings_FloraDensity
-Current="Density of flora elements on planets"
-Translate=""
+Current="Density of flora elements on planets."
+Translate="Hustota prvků flóry na planetách."
 
 ID=ToolTipWorldSettings_ScenarioEditMode
-Current="Allows additional ingame options for creating scenario.Also displays your saved game in scenario start screen."
-Translate=""
+Current="Allows additional in-game options for creating scenarios. Also displays your saved game in scenario start screen."
+Translate="Povolit další možnosti ve hře pro vytváření scénářů. Také zobrazuje vaši uloženou hru na obrazovce startu scénáře."
 
 ID=ToolTipWorldSettings_StartInRespawnScreen
-Current="When played as scenario: player will start in respawn screen with new identity, all ownership will be lost"
-Translate=""
+Current="When played as scenario: player will start in respawn screen with new identity, all ownership will be lost."
+Translate="Při hraní jako scénář: hráč začne na obrazovce respawnu s novou identitou, všechna vlastnictví budou ztracena."
 
 ID=TrainingLevel
 Current="Training Level"
@@ -15432,11 +15433,11 @@ Translate="Spouštěče"
 
 ID=UnsavedChanges
 Current="Unsaved changes"
-Translate=""
+Translate="Neuložené změny"
 
 ID=UnsavedChangesQuestion
 Current="You have unsaved changes. Do you want to save current cutscene first?"
-Translate=""
+Translate="Máte neuložené změny. Chcete nejprve uložit aktuální scénu?"
 
 ID=WelcomeScreen_Signature
 Current="Marek Rosa"
@@ -20120,19 +20121,19 @@ Translate=""
 
 ID=Description_AntennaDish
 Current="Antennas can be used to broadcast positions, messages HUD markers and allows grids to be accessed or controlled from a distance.Antennas need to be able to send and receive, so make sure two antennas always overlap each other's position."
-Translate=""
+Translate="Antény mohou být použity k vysílání poloh, zpráv, markerů HUD a umožňují přístup nebo ovládání mřížek na dálku. Antény musí být schopny odesílat a přijímat, takže se ujistěte, že dvě antény vždy překrývají své pozice."
 
 ID=Description_OffsetDoor
 Current="Doors can seal off interiors and make them air tight while still allowing access for the player."
-Translate=""
+Translate="Dveře mohou uzavřít interiéry a učinit je vzduchotěsnými, přičemž stále umožňují přístup pro hráče."
 
 ID=BroadcastScreen_Antenna
 Current="   Antenna"
-Translate=""
+Translate="   Anténa"
 
 ID=BroadcastScreen_RemoteControl
 Current="   Remote Control"
-Translate=""
+Translate="   Dálkové ovládání"
 
 ID=MessageBoxWorldOperation_Quota
 Current="There is not enough space for the operation. Please, remove some saved games or blueprints and try again."
@@ -20416,7 +20417,7 @@ Translate="Zkratky"
 
 ID=ScreenDebugAdminMenu_Empty
 Current="&lt;Empty&gt;"
-Translate=""
+Translate="&lt;Empty&gt;"
 
 ID=Description_ExhaustPipe
 Current="The Exhaust Pipe emits particles like smoke and fire to decorate vehicles and structures."
@@ -20424,15 +20425,16 @@ Translate=""
 
 ID=String2
 Current="ERROR 3"
-Translate=""
+Translate="CHYBA 3"
 
 ID=Description_BuggyCockpit
 Current="The Buggy Cockpit is similar to the rover cockpit but with a roll cage to keep you safe. Please keep hands and feet inside. "
-Translate=""
+Translate="Buggy kokpit je podobný kokpitu roveru, ale s ochrannou klecí pro vaši bezpečnost. Prosím, mějte ruce a nohy uvnitř."
 
 ID=Description_RoverCockpit
 Current="The Rover Cockpit is a compact cockpit designed for rovers but works just as well for small ships or large small grid interiors. "
-Translate=""
+Translate="Rover kokpit je kompaktní kokpit navržený pro rovery, ale funguje stejně dobře pro malé lodě nebo velké interiéry malých mřížek."
+
 
 ID=DisplayName_TSS_Weather_ElectricStorm
 Current="Electric Storm"
@@ -20900,7 +20902,7 @@ Translate="Vysvětlit na zamčený cíl"
 
 ID=BlockPropertyTooltip_LargeTurretFireAtLockedTarget
 Current="Enabling this will make the turrets aim and fire at a locked target"
-Translate=""
+Translate="Povolení této možnosti způsobí, že věže budou zaměřovat a střílet na uzamčený cíl"
 
 ID=Description_DLC_HeavyIndustry
 Current="Heavy Industry"
@@ -21240,7 +21242,7 @@ Translate="{0} ke zrušení zameření"
 
 ID=BlockActionTooltip_LargeTurretFocusLockedTarget
 Current="Prioritize locked target while target lock is maintained"
-Translate=""
+Translate="Prioritizujte uzamčený cíl, dokud bude zámek cíle aktivní"
 
 ID=Notification_TargetOutOfRange
 Current="{0} Turret(s) have insufficient range"
@@ -23753,31 +23755,31 @@ Translate=""
 
 ID=BlockActionDropDownValue_RotationCW
 Current="Clockwise"
-Translate=""
+Translate="Po směru hodinových ručiček"
 
 ID=BlockActionDropDownValue_RotationCCW
 Current="Counter-Clockwise"
-Translate=""
+Translate="Proti směru hodinových ručiček"
 
 ID=BlockActionDropDownValueTip_RotationAuto
 Current="Automatically chooses the shortest rotation to the set angle"
-Translate=""
+Translate="Automaticky vybere nejkratší rotaci na nastavený úhel"
 
 ID=BlockActionDropDownValueTip_RotationCW
 Current="Rotate clockwise to the set angle"
-Translate=""
+Translate="Otáčet ve směru hodinových ručiček na nastavený úhel"
 
 ID=BlockActionDropDownValueTip_RotationCCW
 Current="Rotate counter-clockwise to the set angle"
-Translate=""
+Translate="Otáčet proti směru hodinových ručiček na nastavený úhel"
 
 ID=BlockActionTitle_Discharge
 Current="Discharge"
-Translate=""
+Translate="Vybít"
 
 ID=BlockActionTitle_Recharge
 Current="Recharge"
-Translate=""
+Translate="Nabít"
 
 ID=BlockActionTitle_RotateToAngle
 Current="Rotate To Angle"
@@ -23793,55 +23795,55 @@ Translate=""
 
 ID=BlockActionTitle_SetAngle
 Current="Set Angle"
-Translate=""
+Translate="Nastavit úhel"
 
 ID=BlockActionTitle_SetDistance
 Current="Set Distance"
-Translate=""
+Translate="Nastavit vzdálenost"
 
 ID=BlockActionTitle_SetVelocity
 Current="Set Velocity"
-Translate=""
+Translate="Nastavit rychlost"
 
 ID=BlockActionTitle_SetLowerLimit
 Current="Set Lower Limit"
-Translate=""
+Translate="Nastavit dolní limit"
 
 ID=BlockActionTitle_SetUpperLimit
 Current="Set Upper Limit"
-Translate=""
+Translate="Nastavit horní limit"
 
 ID=BlockPropertiesText_Productivity_Assembler
 Current="Production Speed:"
-Translate=""
+Translate="Rychlost výroby:"
 
 ID=BlockPropertyProperties_ChargeEfficiency
 Current="Charge Efficiency: "
-Translate=""
+Translate="Účinnost nabíjení: "
 
 ID=BlockPropertyTitle_SetFlightModeFormat
 Current="Set Flight Mode: {0}"
-Translate=""
+Translate="Nastavit režim letu: {0}"
 
 ID=DisplayName_Space_spider_black
 Current="Black Sabiroid"
-Translate=""
+Translate="Černý Sabiroid"
 
 ID=DisplayName_Space_spider_brown
 Current="Brown Sabiroid"
-Translate=""
+Translate="Hnědý Sabiroid"
 
 ID=DisplayName_Space_spider_green
 Current="Green Sabiroid"
-Translate=""
+Translate="Zelený Sabiroid"
 
 ID=DisplayName_Space_spider
 Current="Sabiroid"
-Translate=""
+Translate="Sabiroid"
 
 ID=DisplayName_Space_Wolf
 Current="Wolf"
-Translate=""
+Translate="Vlk"
 
 ID=Description_Transponder
 Current="Action Relay blocks, in conjunction with Antennas, can trigger actions on other Action Relay blocks on other grids using the corresponding channel."
@@ -24129,119 +24131,119 @@ Translate=""
 
 ID=BroadcastController_UseAntenna_Tooltip
 Current="Enable broadcasting using antennas. If left unchecked, only players inside cockpits on this grid will see the message(s)."
-Translate=""
+Translate="Povolte vysílání pomocí antén. Pokud není zaškrtnuto, zprávy uvidí pouze hráči uvnitř kokpitů na této mřížce."
 
 ID=BroadcastController_CustomName_Title
 Current="Custom Name"
-Translate=""
+Translate="Vlastní jméno"
 
 ID=BroadcastController_CustomName_Tooltip
 Current="Sets a custom name, displayed before each message."
-Translate=""
+Translate="Nastaví jméno, které se zobrazí před každou zprávou."
 
 ID=BroadcastController_Message1_Title
 Current="Message 1"
-Translate=""
+Translate="Zpráva 1"
 
 ID=BroadcastController_Message2_Title
 Current="Message 2"
-Translate=""
+Translate="Zpráva 2"
 
 ID=BroadcastController_Message3_Title
 Current="Message 3"
-Translate=""
+Translate="Zpráva 3"
 
 ID=BroadcastController_Message4_Title
 Current="Message 4"
-Translate=""
+Translate="Zpráva 4"
 
 ID=BroadcastController_Message5_Title
 Current="Message 5"
-Translate=""
+Translate="Zpráva 5"
 
 ID=BroadcastController_Message6_Title
 Current="Message 6"
-Translate=""
+Translate="Zpráva 6"
 
 ID=BroadcastController_Message7_Title
 Current="Message 7"
-Translate=""
+Translate="Zpráva 7"
 
 ID=BroadcastController_Message8_Title
 Current="Message 8"
-Translate=""
+Translate="Zpráva 8"
 
 ID=BroadcastController_TransmitMessage1_Title
 Current="Transmit Message 1"
-Translate=""
+Translate="Vyslat zprávu 1"
 
 ID=BroadcastController_TransmitMessage2_Title
 Current="Transmit Message 2"
-Translate=""
+Translate="Vyslat zprávu 2"
 
 ID=BroadcastController_TransmitMessage3_Title
 Current="Transmit Message 3"
-Translate=""
+Translate="Vyslat zprávu 3"
 
 ID=BroadcastController_TransmitMessage4_Title
 Current="Transmit Message 4"
-Translate=""
+Translate="Vyslat zprávu 4"
 
 ID=BroadcastController_TransmitMessage5_Title
 Current="Transmit Message 5"
-Translate=""
+Translate="Vyslat zprávu 5"
 
 ID=BroadcastController_TransmitMessage6_Title
 Current="Transmit Message 6"
-Translate=""
+Translate="Vyslat zprávu 6"
 
 ID=BroadcastController_TransmitMessage7_Title
 Current="Transmit Message 7"
-Translate=""
+Translate="Vyslat zprávu 7"
 
 ID=BroadcastController_TransmitMessage8_Title
 Current="Transmit Message 8"
-Translate=""
+Translate="Vyslat zprávu 8"
 
 ID=BroadcastController_TransmitRandomMessage_Title
 Current="Send Random Message"
-Translate=""
+Translate="Odeslat náhodnou zprávu"
 
 ID=BroadcastController_TransmitRandomMessage_Tooltip
 Current="Selects random message and transmits that message."
-Translate=""
+Translate="Vybere náhodnou zprávu a odešle ji."
 
 ID=BroadcastController_SendGps_Title
 Current="Send GPS"
-Translate=""
+Translate="Odeslat GPS"
 
 ID=BroadcastController_SendGps_Tooltip
 Current="Send current position"
-Translate=""
+Translate="Odeslat aktuální pozici"
 
 ID=BroadcastController_BroadcastTarget_Owner
 Current="Owner Only"
-Translate=""
+Translate="Pouze vlastník"
 
 ID=BroadcastController_BroadcastTarget_Faction
 Current="Faction Only"
-Translate=""
+Translate="Pouze frakce"
 
 ID=BroadcastController_BroadcastTarget_Everyone
 Current="Everyone"
-Translate=""
+Translate="Všichni"
 
 ID=BroadcastController_SetBroadcastTarget_Owner
 Current="Enable Owner Only"
-Translate=""
+Translate="Povolit pouze vlastníkovi"
 
 ID=BroadcastController_SetBroadcastTarget_Faction
 Current="Enable Faction Only"
-Translate=""
+Translate="Povolit pouze frakci"
 
 ID=BroadcastController_SetBroadcastTarget_Everyone
 Current="Enable Everyone"
-Translate=""
+Translate="Povolit všem"
 
 ID=ToolTipWorldSettingsMaxOfflineBroadcastDistance
 Current="The maximum distance Broadcast Controller will transmit messages when its owner is offline."
@@ -24437,11 +24439,11 @@ Translate=""
 
 ID=QuickStartNotification_Title
 Current="Would you like to try Quick Start instead?"
-Translate=""
+Translate="Chcete místo toho vyzkoušet Rychlý start?"
 
 ID=QuickStartNotification_Yes
 Current="Play Quick Start"
-Translate=""
+Translate="Rychlý start"
 
 ID=DisplayName_TemporaryContainer
 Current="Temporary Container"
@@ -24545,83 +24547,83 @@ Translate=""
 
 ID=SimpleNewGame_DeadDropArena_Description
 Current="A PvP scenario that allows pilots to test their skills against one another. Fighters are deployed from a central station high in the Martian atmosphere. Play 1v1 or in teams."
-Translate=""
+Translate="PvP scénář, který umožňuje pilotům testovat své dovednosti proti sobě. Letadla jsou nasazena z centrální stanice vysoko v martianské atmosféře. Hrajte 1v1 nebo v týmech."
 
 ID=SimpleNewGame_EasyStartConsole_Description
 Current="Start your journey on a planet or in deep space."
-Translate=""
+Translate="Začněte svou cestu na planetě nebo v hlubokém vesmíru."
 
 ID=SimpleNewGame_EasyStartGreen_Description
 Current="Begin your journey on a sprawling asteroid base. Use the base’s infrastructure as a launching point. Gather resources, refit existing craft or build your own, and explore the asteroid belt."
-Translate=""
+Translate="Začněte svou cestu na rozsáhlé základně na asteroidu. Použijte infrastrukturu základny jako odpalovací bod. Sbírejte suroviny, upravujte stávající plavidla nebo si postavte vlastní a prozkoumejte asteroidový pás."
 
 ID=SimpleNewGame_EasyStartSpace_Description
 Current="This world can serve as a jumping-off point for both survival and creative gameplay sessions, providing you with a station and a large cruiser. Where you go from there is up to you!"
-Translate=""
+Translate="Tento svět může sloužit jako výchozí bod pro přežití i kreativní herní sezení, poskytující vám stanici a velký křižník. Kam půjdete dál, je na vás!"
 
 ID=SimpleNewGame_EasyStart_Description
 Current="Start on a planet with a large outpost and plenty of supplies. Features multiple planetary locations ready for exploration and expansion."
-Translate=""
+Translate="Začněte na planetě s velkou základnou a spoustou zásob. Nabízí několik planetárních míst připravených k prozkoumání a rozšíření."
 
 ID=SimpleNewGame_EmptyWorld_Description
 Current="This world is a blank slate, unleash your creativity and populate it with your creations."
-Translate=""
+Translate="Tento svět je prázdný list, uvolněte svou kreativitu a naplňte ho svými výtvory."
 
 ID=SimpleNewGame_LearningToSurvive_Description
 Current="This is a nonlinear tutorial mission. Restore an old outpost to act as your base of operations and explore the remains of a once-thriving industrial outpost. Each location you discover will teach you the skills needed to survive in the universe of Space Engineers."
-Translate=""
+Translate="Jedná se o nelineární tutoriálovou misi. Obnovte starou základnu, aby sloužila jako vaše základna, a prozkoumejte zbytky kdysi prosperující průmyslové základny. Každé místo, které objevíte, vás naučí dovednosti potřebné k přežití ve vesmíru Space Engineers."
 
 ID=SimpleNewGame_LoneSurvivor_Description
 Current="Alone in the void. Choose your destiny."
-Translate=""
+Translate="Sám ve vesmíru. Zvolte svůj osud."
 
 ID=SimpleNewGame_NeverSurrender_Description
 Current="Start your journey on a planet or in deep space. Build at your own pace, and when you’ve gathered your forces challenge yourself by defending a small outpost from waves of relentless drones. Play alone or together. How you do it is up to you!"
-Translate=""
+Translate="Začněte svou cestu na planetě nebo v hlubokém vesmíru. Stavte podle svého tempa a když shromáždíte své síly, postavte se výzvám bránit malou základnu proti vlnám neúnavných dronů. Hrajte sami nebo společně. Jak to uděláte, záleží na vás!"
 
 ID=SimpleNewGame_PetramOrbiter_Description
 Current="High above the harsh deserts of the planet Pertam, a team of engineers has created an orbital station serving as a launching point for planetary exploration. Gather your supplies and drop to the planet's surface. Do you have what it takes to survive this wasteland?"
-Translate=""
+Translate="Vysoko nad drsnými pouštěmi planety Pertam vytvořil tým inženýrů orbitální stanici, která slouží jako odpalovací bod pro planetární průzkum. Shromážděte své zásoby a spadněte na povrch planety. Máte, co je potřeba, abyste přežili tuto pustinou?"
 
 ID=SimpleNewGame_RedShip2_Description
 Current="A modernized version of the classic Red Ship world. This world can serve as a jumping-off point for both survival and creative gameplay sessions. It is friendly to new players and has various examples and opportunities for you to engage and explore the features of Space Engineers."
-Translate=""
+Translate="Modernizovaná verze klasického světa Red Ship. Tento svět může sloužit jako výchozí bod pro přežití i kreativní herní sezení. Je přátelský pro nové hráče a má různé příklady a příležitosti k tomu, abyste se zapojili a prozkoumali funkce Space Engineers."
 
 ID=SimpleNewGame_RivalPlatforms_Description
 Current="Two rival teams have gathered their forces in an asteroid field, each with a cruiser and a squad of fighters ready to deploy. Choose a side, build up your base, and prepare for battle."
-Translate=""
+Translate="Dva rivalizující týmy shromáždily své síly v asteroidovém poli, každý s křižníkem a squadronou stíhaček připravených k nasazení. Vyberte si stranu, vybudujte svou základnu a připravte se na bitvu."
 
 ID=SimpleNewGame_ScrapRace_Description
 Current="Scrap Race is a fast-paced racing scenario designed for multiplayer. Pick your vehicle of choice, customize it to your liking, and compete against other lowlifes, thrillseekers, and speed freaks from across the system. Will your vehicle survive the wasteland, or will you be left in the dust?"
-Translate=""
+Translate="Scrap Race je rychlý závodní scénář navržený pro multiplayer. Vyberte si své vozidlo, přizpůsobte ho podle svých představ a soutěžte s ostatními zmetky, dobrodruhy a milovníky rychlosti z celého systému. Přežije vaše vozidlo pustinou, nebo zůstanete pozadu?"
 
 ID=SimpleNewGame_SpaceStandoff_Description
 Current="Space Standoff is a multiplayer scenario where two teams have acquired a valuable Data Container and the race to decrypt these devices has ignited tensions between them. Each team must defend their base while mobilizing their resources to destroy the enemy's container. The clock is ticking, and only the most skilled and coordinated team will emerge victorious."
-Translate=""
+Translate="Space Standoff je multiplayerový scénář, kde dva týmy získaly cenný Datový kontejner a závod o dešifrování těchto zařízení vyvolal napětí mezi nimi. Každý tým musí bránit svou základnu, zatímco mobilizuje své zdroje, aby zničil kontejner nepřítele. Čas běží a pouze ten nejzkušenější a nejlépe koordinovaný tým zvítězí."
 
 ID=SimpleNewGame_SparksOfTheFuture_Description
 Current="Welcome to Sparks of the Future! Enjoy some competition at the shooting range or on the dance floor. Explore the many shops available at Sparks of the Future Central. Looking for a distraction from your daily activities or do you seek vibrant city life? You can find it all here at Sparks of the Future!"
-Translate=""
+Translate="Vítejte ve Sparks of the Future! Užijte si soutěže na střelnici nebo na tanečním parketu. Prozkoumejte mnohé obchody dostupné v centru Sparks of the Future. Hledáte rozptýlení od každodenního života nebo se chcete ponořit do živého městského života? Všechno to najdete tady ve Sparks of the Future!"
 
 ID=SimpleNewGame_StarSystem_Description
 Current="One of the most popular worlds in Space Engineers, featuring several planets for you to build, explore, and survive on. Customize the settings and play to your heart’s content!"
-Translate=""
+Translate="Jeden z nejpopulárnějších světů ve Space Engineers, který nabízí několik planet pro stavění, prozkoumávání a přežití. Přizpůsobte si nastavení a hrajte podle svého!"
 
 ID=SimpleNewGame_UraniumHeist_Description
 Current="Gather resources and expand your arsenal as you defend your territory, construct defenses, and protect your uranium carrier. Carrying uranium will slow your speed considerably, work together when escorting this precious cargo back to base. Multiple paths to victory means no two games are ever the same. Is your team up to the challenge? Lock and load!"
-Translate=""
+Translate="Sbírejte suroviny a rozšiřujte svou výzbroj, zatímco bráníte své území, stavíte obranu a chráníte svůj nosič uranu. Nošení uranu výrazně zpomalí vaši rychlost, pracujte společně při eskortování tohoto cenného nákladu zpět na základnu. Více cest k vítězství znamená, že žádná dvě hraní nejsou stejná. Je váš tým připraven na výzvu? Naložte a začněte!"
 
 ID=ScenarioSelectionScreen_LocalScenario
 Current="Local scenario"
-Translate=""
+Translate="Místní scénář"
 
 ID=WorldSettings_EnableTemporaryContainers
 Current="Enable Temporary Containers"
-Translate=""
+Translate="Povolit dočasné kontejnery"
 
 ID=ToolTipWorldSettings_EnableTemporaryContainers
 Current="Enable Temporary Containers to spawn after destroying block with inventory."
-Translate=""
+Translate="Povolit dočasné kontejnery, které se objeví po zničení bloku s inventářem."
 
 ID=Description_ModularBridgeCockpit
 Current="A set of modular blocks to design elaborate bridges to helm your ship from."
@@ -24773,23 +24775,23 @@ Translate=""
 
 ID=Newsletter_Caption
 Current="Sign up for the Keen Software House Newsletter"
-Translate=""
+Translate="Přihlaste se k odběru newsletteru Keen Software House"
 
 ID=Newsletter_Signup
 Current="Sign up for our newsletter and get the Flush Cockpit for free!"
-Translate=""
+Translate="Přihlaste se k odběru našeho newsletteru a získejte Flush Cockpit zdarma!"
 
 ID=Newsletter_Description
 Current="Stay updated with the latest news, updates, and exclusive content from Keen Software House, and enjoy this special in-game reward as a thank you for joining us!"
-Translate=""
+Translate="Zůstaňte informováni o nejnovějších zprávách, aktualizacích a exkluzivním obsahu od Keen Software House a užijte si tuto speciální odměnu ve hře jako poděkování za připojení k nám!"
 
 ID=Newsletter_Email
 Current="Email address"
-Translate=""
+Translate="Emailová adresa"
 
 ID=Newsletter_Privacy
 Current="Privacy"
-Translate=""
+Translate="Ochrana soukromí"
 
 ID=Newsletter_PrivacyCheckbox
 Current="I have read and agree to the Keen Software House privacy policy. I understand I can opt out at any time."
@@ -24809,119 +24811,119 @@ Translate=""
 
 ID=DisplayName_Category_Automation
 Current="   Automation"
-Translate=""
+Translate="   Automatizace"
 
 ID=DisplayName_Category_Control
 Current="   Control"
-Translate=""
+Translate="   Ovládání"
 
 ID=DisplayName_Category_Decorative
 Current="   Decorative"
-Translate=""
+Translate="   Dekorace"
 
 ID=DisplayName_Category_DLCBlocks
 Current="DLC Blocks"
-Translate=""
+Translate="DLC Bloky"
 
 ID=DisplayName_Category_Logistics
 Current="   Logistics"
-Translate=""
+Translate="   Přeprava"
 
 ID=DisplayName_Category_Mechanical
 Current="   Mechanical"
-Translate=""
+Translate="   Mechanika"
 
 ID=DisplayName_Category_Propulsion
 Current="   Propulsion"
-Translate=""
+Translate="   Pohon"
 
 ID=DisplayName_Category_Structure
 Current="   Structure"
-Translate=""
+Translate="   Struktura"
 
 ID=DisplayName_Category_Utility
 Current="   Utility"
-Translate=""
+Translate="   Nástroje"
 
 ID=RadialMenuGroupTitle_Automation
 Current="Automation"
-Translate=""
+Translate="Automatizace"
 
 ID=RadialMenuGroupTitle_Control
 Current="Control"
-Translate=""
+Translate="Ovládání"
 
 ID=RadialMenuGroupTitle_Logistics1
 Current="Logistics #1"
-Translate=""
+Translate="Logistika #1"
 
 ID=RadialMenuGroupTitle_Logistics2
 Current="Logistics #2"
-Translate=""
+Translate="Logistika #2"
 
 ID=RadialMenuGroupTitle_Mechanical
 Current="Mechanical"
-Translate=""
+Translate="Mechanika"
 
 ID=RadialMenuGroupTitle_Power
 Current="Power"
-Translate=""
+Translate="Energie"
 
 ID=RadialMenuGroupTitle_Production
 Current="Production"
-Translate=""
+Translate="Výroba"
 
 ID=RadialMenuGroupTitle_Propulsion1
 Current="Movement #1"
-Translate=""
+Translate="Pohyb #1"
 
 ID=RadialMenuGroupTitle_Propulsion2
 Current="Movement #2"
-Translate=""
+Translate="Pohyb #2"
 
 ID=RadialMenuGroupTitle_Structure1
 Current="Structure #1"
-Translate=""
+Translate="Struktura #1"
 
 ID=RadialMenuGroupTitle_Structure2
 Current="Structure #2"
-Translate=""
+Translate="Struktura #2"
 
 ID=RadialMenuGroupTitle_Structure3
 Current="Structure #3"
-Translate=""
+Translate="Struktura #3"
 
 ID=RadialMenuGroupTitle_Utility1
 Current="Utility #1"
-Translate=""
+Translate="Nástroje #1"
 
 ID=RadialMenuGroupTitle_Utility2
 Current="Utility #2"
-Translate=""
+Translate="Nástroje #2"
 
 ID=RadialMenuGroupTitle_Weapons
 Current="Weapons"
-Translate=""
+Translate="Zbraně"
 
 ID=RadialMenuGroupTitle_Windows1
 Current="Windows #1"
-Translate=""
+Translate="Okna #1"
 
 ID=RadialMenuGroupTitle_Windows2
 Current="Windows #2"
-Translate=""
+Translate="Okna #2"
 
 ID=AdvancedWorldSettings_GlobalEncounterCap
 Current="Global Encounter Cap"
-Translate=""
+Translate="Globální limit střetnutí"
 
 ID=BlockActionTitle_AddMediumHingeHead
 Current="Add Medium Head"
-Translate=""
+Translate="Přidat střední hlavu"
 
 ID=BlockActionTitle_AddMediumRotorHead
 Current="Add Medium Head"
-Translate=""
+Translate="Přidat střední hlavu"
 
 ID=BlockActionTooltip_AddMediumHingeHead
 Current="Tries to add a Medium Hinge head on Large Hinge if no head is present"
@@ -24937,239 +24939,239 @@ Translate=""
 
 ID=DisplayName_Category_DLC_Automatons
 Current="   Automatons"
-Translate=""
+Translate="   Automatons"
 
 ID=DisplayName_Category_DLC_Contact
 Current="   Contact"
-Translate=""
+Translate="   Contact"
 
 ID=DisplayName_Category_DLC_DecorativePack
 Current="   Decorative Pack 1"
-Translate=""
+Translate="   Decorative Pack 1"
 
 ID=DisplayName_Category_DLC_DecorativePack2
 Current="   Decorative Pack 2"
-Translate=""
+Translate="   Decorative Pack 2"
 
 ID=DisplayName_Category_DLC_DecorativePack3
 Current="   Decorative Pack 3"
-Translate=""
+Translate="   Decorative Pack 3"
 
 ID=DisplayName_Category_DLC_Frostbite
 Current="   Frostbite"
-Translate=""
+Translate="   Frostbite"
 
 ID=DisplayName_Category_DLC_HeavyIndustry
 Current="   Heavy Industry"
-Translate=""
+Translate="   Heavy Industry"
 
 ID=DisplayName_Category_DLC_Signal
 Current="   Signal"
-Translate=""
+Translate="   Signal"
 
 ID=DisplayName_Category_DLC_Warfare1
 Current="   Warfare 1"
-Translate=""
+Translate="   Warfare 1"
 
 ID=DisplayName_Category_DLC_Warfare2
 Current="   Warfare 2"
-Translate=""
+Translate="   Warfare 2"
 
 ID=DisplayName_Category_DLC_SparksOfTheFuture
 Current="   Sparks Of The Future"
-Translate=""
+Translate="   Sparks Of The Future"
 
 ID=DisplayName_Category_DLC_Wasteland
 Current="   Wasteland"
-Translate=""
+Translate="   Wasteland"
 
 ID=DisplayName_Category_Tools
 Current="   Tools"
-Translate=""
+Translate="   Nástroje"
 
 ID=DisplayName_Category_Weapons
 Current="   Weapons"
-Translate=""
+Translate="   Zbraně"
 
 ID=DisplayName_Category_Nonarmor
 Current="Non-Armor Blocks"
-Translate=""
+Translate="Nepancéřované bloky"
 
 ID=ToolTipWorldSettingsEncountersAmount
 Current="Sets the density of procedurally generated encounters."
-Translate=""
+Translate="Nastavuje hustotu procedurálně generovaných střetnutí."
 
 ID=Encounter_Amount
 Current="Encounter amount"
-Translate=""
+Translate="Počet střetnutí"
 
 ID=EconomyFaction_Description_Military0
 Current="When it comes to waging war, we're what you want. Guns, ammo, and Medkits all available for purchase."
-Translate=""
+Translate="Pokud jde o vedení války, jsme to, co hledáte. Zbraně, munice a zdravotní balíčky jsou k dispozici na prodej."
 
 ID=EconomyFaction_Description_Military1
 Current="Whether it's tearing apart your enemies or putting together your friends, we've got what you need."
-Translate=""
+Translate="Ať už jde o roztrhání vašich nepřátel nebo zajištění vašich přátel, máme, co potřebujete."
 
 ID=EconomyFaction_Description_Military2
 Current="Our Medkits save lives. Our guns save lives too. As long as they're pointed at someone nasty."
-Translate=""
+Translate="Naše zdravotní balíčky zachraňují životy. Naše zbraně také zachraňují životy. Pokud jsou namířeny na někoho nebezpečného."
 
 ID=EconomyFaction_Description_Military3
 Current="We promise high-class weapons, affordable ammunition, and our guaranteed discretion on all transactions."
-Translate=""
+Translate="Slíbíme vám špičkové zbraně, dostupnou munici a naši zaručenou diskrétnost u všech transakcí."
 
 ID=EconomyFaction_Description_Military4
-Current="You can't put a price tag on peace of mind. We have rifles, pistols, ammunition, and all other security needs. "
-Translate=""
+Current="You can't put a price tag on peace of mind. We have rifles, pistols, ammunition, and all other security needs."
+Translate="Nejde stanovit cenu za klid na duši. Máme pušky, pistole, munici a všechny další bezpečnostní potřeby."
 
 ID=EconomyFaction_Description_Military
 Current="With our weaponry, the battle will be over before it even starts. The best weapons money can buy, directly to your hands."
-Translate=""
+Translate="S naší výzbrojí bude bitva u konce dřív, než vůbec začne. Nejlepší zbraně, které si peníze mohou koupit, přímo do vašich rukou."
 
 ID=EconomyFaction_Description_Pirate0
 Current="Guns, ammo, and more for sale. You don't ask where we got them from, we won't ask what you'll do with them."
-Translate=""
+Translate="Zbraně, munice a další věci na prodej. Neptáte se, odkud je máme, a my se nebudeme ptát, co s nimi uděláte."
 
 ID=EconomyFaction_Description_Pirate1
 Current="Our goods are unethical. So are our prices. Come for all your weaponry needs."
-Translate=""
+Translate="Naše zboží není etické. Stejně tak naše ceny. Přijďte pro všechny vaše potřeby v oblasti zbraní."
 
 ID=EconomyFaction_Description_Pirate2
 Current="Some call us criminals. We call ourselves entrepreneurs. Come browse our selection of fine wares."
-Translate=""
+Translate="Někteří nás nazývají zločinci. My se nazýváme podnikateli. Přijďte si prohlédnout náš výběr kvalitního zboží."
 
 ID=EconomyFaction_Description_Pirate3
 Current="Our wares fell off the back of a spaceship, in case any authorities ask. But if a customer is asking, all we'll say is that the price can't be beat."
-Translate=""
+Translate="Náš tovar spadl ze zadní části vesmírné lodi, pokud se na to zeptají úřady. Ale pokud se zeptá zákazník, řekneme jen, že cenu nelze překonat."
 
 ID=EconomyFaction_Description_Pirate4
 Current="Everyone has a right to afford security. If you can't afford conventional solutions, or they refuse to sell to you, our shop is always open."
-Translate=""
+Translate="Každý má právo na dostupnou bezpečnost. Pokud si nemůžete dovolit konvenční řešení, nebo vám je odmítnou prodat, náš obchod je vždy otevřen."
 
 ID=EconomyFaction_Description_Pirate
 Current="Guns, ammo, ships, components - we sell everything they wouldn't want you to have."
-Translate=""
+Translate="Zbraně, munice, lodě, komponenty - prodáváme vše, co by nechtěli, abyste měli."
 
 ID=Description_BlueprintClass_LargePrototechBlocks
-Current="Large Prototech Blocks- Click on any Large Prototech Block to assemble all componentsnecessary for it's construction except for the Prototech Frame."
-Translate=""
+Current="Large Prototech Blocks- Click on any Large Prototech Block to assemble all components necessary for it's construction except for the Prototech Frame."
+Translate="Velké Prototech bloky - Klikněte na jakýkoli velký Prototech blok pro sestavení všech komponent potřebných pro jeho konstrukci, kromě Prototech rámu."
 
 ID=Description_BlueprintClass_PrototechComponents
-Current="Prototech Components- Components are used in the construction of structural,mechanical, and electrical systems."
-Translate=""
+Current="Prototech Components- Components are used in the construction of structural, mechanical, and electrical systems."
+Translate="Prototech komponenty - Komponenty se používají při konstrukci strukturálních, mechanických a elektrických systémů."
 
 ID=Description_BlueprintClass_SmallPrototechBlocks
 Current="Small Prototech Blocks- Click on any Small Prototech Block to assemble all components necessary for it's construction except for the Prototech Frame."
-Translate=""
+Translate="Malé Prototech bloky - Klikněte na jakýkoli malý Prototech blok pro sestavení všech komponent potřebných pro jeho konstrukci, kromě Prototech rámu."
 
 ID=DisplayName_BlueprintClass_LargePrototechBlocks
 Current="Large Prototech Blocks"
-Translate=""
+Translate="Velké Prototech bloky"
 
 ID=DisplayName_BlueprintClass_PrototechComponents
 Current="Prototech Components"
-Translate=""
+Translate="Prototech komponenty"
 
 ID=DisplayName_BlueprintClass_SmallPrototechBlocks
 Current="Small Prototech Blocks"
-Translate=""
+Translate="Malé Prototech bloky"
 
 ID=DisplayName_Item_PrototechCapacitor
 Current="Prototech Capacitor"
-Translate=""
+Translate="Prototech kondenzátor"
 
 ID=DisplayName_Item_PrototechCircuitry
 Current="Prototech Circuitry"
-Translate=""
+Translate="Prototech obvody"
 
 ID=DisplayName_Item_PrototechCoolingUnit
 Current="Prototech Cooling Unit"
-Translate=""
+Translate="Prototech chladicí jednotka"
 
 ID=DisplayName_Item_PrototechFrame
 Current="Prototech Frame"
-Translate=""
+Translate="Prototech rám"
 
 ID=DisplayName_Item_PrototechMachinery
 Current="Prototech Machinery"
-Translate=""
+Translate="Prototech strojní zařízení"
 
 ID=DisplayName_Item_PrototechPanel
 Current="Prototech Panel"
-Translate=""
+Translate="Prototech panel"
 
 ID=DisplayName_Item_PrototechPropulsionUnit
 Current="Prototech Propulsion Unit"
-Translate=""
+Translate="Prototech pohonná jednotka"
 
 ID=DisplayName_Item_PrototechScrap
 Current="Prototech Scrap"
-Translate=""
+Translate="Prototech šrot"
 
 ID=GlobalEncounter_GPS_Name
 Current="Unidentified Signal"
-Translate=""
+Translate="Neidentifikovaný signál"
 
 ID=Terminal_BlockTransfers
 Current="Block Transfers"
-Translate=""
+Translate="Přenosy bloků"
 
 ID=Terminal_BlockTransfersTooltip
 Current="Manage incoming block ownership transfers"
-Translate=""
+Translate="Spravujte příchozí přenosy vlastnictví bloků"
 
 ID=BlockTransfers_Caption
 Current="Manage Block Transfers"
-Translate=""
+Translate="Spravovat přenosy bloků"
 
 ID=BlockTransfers_From
 Current="From:"
-Translate=""
+Translate="Od:"
 
 ID=BlockTransfers_Amount
 Current="Amount:"
-Translate=""
+Translate="Množství:"
 
 ID=BlockTransfers_OnGrid
 Current="On grid:"
-Translate=""
+Translate="Na mřížce:"
 
 ID=BlockTransfers_UnknownPlayer
 Current="Unknown Player"
-Translate=""
+Translate="Neznámý hráč"
 
 ID=BlockTransfers_UnknownGrid
 Current="Unknown Grid"
-Translate=""
+Translate="Neznámá mřížka"
 
 ID=BlockTransfers_Blocks
 Current="Block(s)"
-Translate=""
+Translate="Blok(y)"
 
 ID=BlockTransfers_AcceptTooltip
 Current="Accept this transfer and take ownership of these blocks."
-Translate=""
+Translate="Přijmout tento přenos a převzít vlastnictví těchto bloků."
 
 ID=BlockTransfers_DeclineTooltip
 Current="Decline this transfer."
-Translate=""
+Translate="Odmítnout tento přenos."
 
 ID=BlockTransfers_Close
 Current="Close"
-Translate=""
+Translate="Zavřít"
 
 ID=BlockTransfers_Decline
 Current="Decline"
-Translate=""
+Translate="Odmítnout"
 
 ID=Description_Faction_Factorum
 Current="The creators of Prototech. They’ve returned from the edge of known space to seek revenge."
-Translate=""
+Translate="Tvůrci Prototech. Vrátili se z okraje známého vesmíru, aby pomstili."
 
 ID=Description_Faction_Unknown
 Current="Space is vast. As humans push into the void of space, sometimes the void pushes back. Danger, mystery, or reward may lie ahead."
-Translate=""
+Translate="Vesmír je obrovský. Jak lidé tlačí do prázdnoty vesmíru, někdy prázdnota tlačí zpět. Nebezpečí, tajemství nebo odměna mohou čekat."
 
 ID=DisplayName_Faction_Factorum
 Current="{LOCG:DisplayName_Faction_Factorum_Translation}"
@@ -25213,63 +25215,63 @@ Translate=""
 
 ID=DisplayName_Category_CharacterItems
 Current="Character Items"
-Translate=""
+Translate="Osobní vybavení               "
 
 ID=Description_FirstAidCabinet
 Current="The First Aid Cabinet stores medical kits for quick access."
-Translate=""
+Translate="Lékařská skříňka uchovává zdravotní sady pro rychlý přístup."
 
 ID=DisplayName_Block_FirstAidCabinet
 Current="First Aid Cabinet"
-Translate=""
+Translate="Lékařská skříňka"
 
 ID=DisplayName_Block_SmallBlockJukeboxReskin
 Current="Media Player"
-Translate=""
+Translate="Mediální přehrávač"
 
 ID=DisplayName_Block_BunkBed
 Current="Bunk"
-Translate=""
+Translate="Patrová postel"
 
 ID=StoryTitle_PrototechComponents1
 Current="Score"
-Translate=""
+Translate="Úspěch"
 
 ID=StoryText_PrototechComponents1
 Current="It's shiny and it nearly cost him his life. No idea why he believed me that this wasn't worth anything. But hey, I'm not complaining."
-Translate=""
+Translate="Je lesklý a málem ho to stálo život. Nemám tušení, proč mi věřil, že to nic neznamená. Ale co, nebudu si stěžovat."
 
 ID=StoryTitle_PrototechComponents2
 Current="Junk"
-Translate=""
+Translate="Šrot"
 
 ID=StoryText_PrototechComponents2
 Current="What was I thinking? I'm not smart enough to figure out what this thing even does. I should find someone else to pawn it to when I can."
-Translate=""
+Translate="Co jsem to proboha myslel? Nejsem dost chytrý, abych pochopil, co to vůbec dělá. Měl bych najít někoho jiného, komu to prodat."
 
 ID=StoryTitle_PrototechComponents3
 Current="Anniversary"
-Translate=""
+Translate="Výročí"
 
 ID=StoryText_PrototechComponents3
 Current="I cannot believe it was today. I have nothing to give her. Maybe this? It's shiny enough."
-Translate=""
+Translate="Nemůžu uvěřit, že to bylo dnes. Nemám jí co dát. Možná tohle? Je to dost lesklé."
 
 ID=StoryTitle_PrototechComponents4
 Current="Scrapyard"
-Translate=""
+Translate="Šrotoviště"
 
 ID=StoryText_PrototechComponents4
 Current="Found this at work. Couldn't junk it, but couldn't tell you why. Just pretty, I guess. Call it a perk of the job."
-Translate=""
+Translate="Našel jsem to v práci. Nemohl jsem to vyhodit, ale nemůžu ti říct proč. Je to prostě hezké, asi. Říkej tomu perk práce."
 
 ID=StoryTitle_PrototechComponents5
 Current="Deconstructed"
-Translate=""
+Translate="Rozebrané"
 
 ID=StoryText_PrototechComponents5
 Current="I'm sending this to you to be deconstructed. Study it until we can make it ourselves. No excuses."
-Translate=""
+Translate="Posílám ti to, aby to bylo rozebráno. Prozkoumej to, dokud to nebudeme schopní vyrobit sami. Žádné výmluvy."
 
 ID=StoryTitle_PrototechComponents6
 Current="Relative"
@@ -25277,15 +25279,15 @@ Translate=""
 
 ID=StoryText_PrototechComponents6
 Current="I fought a saberoid last week. That was more interesting. But you can't put it in a museum. Sending you this sample."
-Translate=""
+Translate="Minulý týden jsem bojoval se saberoidem. To bylo zajímavější. Ale to nemůžeš dát do muzea. Posílám ti tento vzorek."
 
 ID=StoryTitle_PrototechComponents7
 Current="Destroy"
-Translate=""
+Translate="Zničit"
 
 ID=StoryText_PrototechComponents7
-Current="Please, get rid of it. Get rid of all of it. Things were fine before.This new group is not needed, nor are they wanted."
-Translate=""
+Current="Please, get rid of it. Get rid of all of it. Things were fine before. This new group is not needed, nor are they wanted."
+Translate="Prosím, zbav se toho. Zbav se všeho. Předtím bylo všechno v pořádku. Tato nová skupina není potřeba, ani není žádoucí."
 
 ID=StoryTitle_PrototechComponents8
 Current="Real"
@@ -25293,7 +25295,8 @@ Translate=""
 
 ID=StoryText_PrototechComponents8
 Current="I thought that group was fake. But this is from them, right? They're real? The guys? I am FREAKING out right now."
-Translate=""
+Translate="Myslel jsem, že ta skupina je falešná. Ale tohle je od nich, že? Jsou skuteční? Ti chlapi? Právě teď úplně panikařím."
+
 
 ID=StoryTitle_PrototechComponents9
 Current="Sol"
@@ -25309,7 +25312,7 @@ Translate=""
 
 ID=StoryText_PrototechComponents10
 Current="Nicked this off a pirate. Took it to four different blokes. No one knows what it is. Isn't that neat?"
-Translate=""
+Translate="Sebral jsem to od piráta. Dal jsem to čtyřem různým chlapíkům. Nikdo neví, co to je. Není to úhledné?"
 
 ID=StoryTitle_PrototechComponents11
 Current="Appraised"
@@ -26769,11 +26772,11 @@ Translate=""
 
 ID=StoryTitle_DerelictStories15
 Current="Belief"
-Translate=""
+Translate="Víra"
 
 ID=StoryText_DerelictStories15
 Current="I've been in stickier situations than this. Just trust in the plan - and we'll all get out of this alive."
-Translate=""
+Translate="Byl jsem už v těžších situacích než tahle. Stačí věřit plánu - a všichni se z toho dostaneme živí."
 
 ID=DisplayName_Block_ExtendedWindowCornerInverted
 Current="Bay Window Corner Inverted"

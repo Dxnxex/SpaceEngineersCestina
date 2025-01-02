@@ -14392,6 +14392,10 @@
 <value>Nemůžete odebrat posazeného hráče!</value>
 <comment>CZE</comment>
 </data>
+<data name="ScreenDebugAdminMenu_RemoveFloating" xml:space="preserve">
+<value>Odstranit plovoucí obj.</value>
+<comment>CZE</comment>
+</data>
 <data name="ScreenDebugAdminMenu_RemoveOwner" xml:space="preserve">
 <value>Smazat vše neaktivnímu vlastníkovi</value>
 <comment>CZE</comment>
@@ -14716,6 +14720,10 @@
 <value>Zvolený spouštěč</value>
 <comment>CZE</comment>
 </data>
+<data name="ServerDetails_BlockTypeLimits" xml:space="preserve">
+<value>Limity typu bloků</value>
+<comment>CZE</comment>
+</data>
 <data name="ServerDetails_ServerManagement" xml:space="preserve">
 <value>Správa serveru</value>
 <comment>CZE</comment>
@@ -14730,6 +14738,18 @@
 </data>
 <data name="SoundBlock_SoundName_ObjectiveComplete" xml:space="preserve">
 <value>Úkol dokončen</value>
+<comment>CZE</comment>
+</data>
+<data name="SpectatorControls_Free_Desc" xml:space="preserve">
+<value>Volný divák. Stále můžete střílet a vykonávat akce s ovládaným objektem</value>
+<comment>CZE</comment>
+</data>
+<data name="SpectatorControls_None_Desc" xml:space="preserve">
+<value>Vraťte se zpět do ovládané postavy / kokpitu</value>
+<comment>CZE</comment>
+</data>
+<data name="SpectatorControls_Static_Desc" xml:space="preserve">
+<value>Statický divák. Ovládáte postavu / kokpit, ale kamera je statická</value>
 <comment>CZE</comment>
 </data>
 <data name="StaticObjects" xml:space="preserve">
@@ -14748,24 +14768,88 @@
 <value>Opustit zvolený klan</value>
 <comment>CZE</comment>
 </data>
+<data name="SwitchBuilderMode" xml:space="preserve">
+<value>Přepnout na stavění z kokpitu</value>
+<comment>CZE</comment>
+</data>
+<data name="SwitchToNormalVT" xml:space="preserve">
+<value>V této verzi jsme výrazně změnili vizuály hry. Vaše nastavení grafiky bylo změněno na Střední, aby se předešlo problémům s výkonem.</value>
+<comment>CZE</comment>
+</data>
+<data name="TerminalControlPanel_EditCode_Tooltip" xml:space="preserve">
+<value>Otevře editor kódu, kde můžete vytvářet nové skripty a nahrávat/stahovat je z workshopu.</value>
+<comment>CZE</comment>
+</data>
+<data name="TerminalControlPanel_RunArgument_ToolTip" xml:space="preserve">
+<value>Argument předaný vašemu kódu při kliknutí na tlačítko Spustit</value>
+<comment>CZE</comment>
+</data>
 <data name="TerminalControlPanel_RunCodeDefault" xml:space="preserve">
 <value>Spustit s výchozím argumentem.</value>
+<comment>CZE</comment>
+</data>
+<data name="TerminalControlPanel_RunCode_Tooltip" xml:space="preserve">
+<value>Spustí aktuální skript a informuje o jakýchkoli výjimkách během spuštění.</value>
+<comment>CZE</comment>
+</data>
+<data name="TerminalTab_GPS_SaveWarning" xml:space="preserve">
+<value>Upozornění: nelegální data. Změny nebudou uloženy.</value>
 <comment>CZE</comment>
 </data>
 <data name="TerminalTab_Info_Description" xml:space="preserve">
 <value>Postavění konstrukce unitř terénu automaticky převede konstrukci na stanici. Stanice jsou nenáročné pro výkon, ale nemohou se pohybovat. Můžeš převézt stanici na loď, ale opatrně, aby nebyla žádná součást lodi zapuštěná do terénu. Loď potřebuje být statická pro přeměnu na stanici.</value>
 <comment>CZE</comment>
 </data>
+<data name="TerminalTab_Info_DestructibleBlocks_Tooltip" xml:space="preserve">
+<value>Přepíná zničitelné bloky pouze pro tuto mřížku. Pokud jsou zničitelné bloky zakázány v nastavení světa, tato možnost se ignoruje. Dostupné pouze ve scénářích.</value>
+<comment>CZE</comment>
+</data>
+<data name="Terminal_AuthorshipNotAvailable" xml:space="preserve">
+<value>Operace autorských práv nejsou dostupné při hraní bez omezení.</value>
+<comment>CZE</comment>
+</data>
+<data name="Terminal_PowerTransferOverride" xml:space="preserve">
+<value>Přepsat přenos energie</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolbarConfig_ResearchTabDisabledTooltip" xml:space="preserve">
 <value>Výzkum je momentálně nedostupný, můžeš jej povolit v pokročilém nastavení světa.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipAudioOptionsEnableReverb" xml:space="preserve">
+<value>Povolit zvukovou ozvěnu. Poznámka: Pokud je vaše audio frekvence vyšší než 48 kHz, tato funkce nebude fungovat. (Frekvenci zvuku můžete nastavit v nastavení reproduktorů systému)</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipBatteryBlock" xml:space="preserve">
+<value>Zaškrtněte pro ukládání energie, zrušte zaškrtnutí pro výstup energie</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipBatteryBlock_Semiauto" xml:space="preserve">
+<value>Nastaví na nabíjení, když je uložená energie na 0, nastaví na vybíjení, když je uložená energie na max.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipCharacterScreen_HideDuplicates" xml:space="preserve">
+<value>Zobrazit pouze jednu položku, pokud vlastníte více položek stejného typu</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipCharacterScreen_Model" xml:space="preserve">
+<value>Změnit model postavy</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipCharacterScreen_ShowOnlyDuplicates" xml:space="preserve">
+<value>Zobrazit pouze položky, které vlastníte více než jednou</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipFlaresIntensity" xml:space="preserve">
 <value>Násobič intenzity světel</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipOptionsDisplay_SpriteMainViewportScale" xml:space="preserve">
+<value>Měřítko obrazovky UI, aby se předešlo zobrazení textu mimo okraje TV.</value>
+<comment>CZE</comment>
+</data>
 <data name="LabelOptionsDisplay_SpriteMainViewportScale" xml:space="preserve">
-<value>Velikost UI</value>
+<value>Měřítko UI</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipItemFilter_AnyIngot" xml:space="preserve">
@@ -14780,12 +14864,24 @@
 <value>Jakýkoliv předmět vytvořený konstruktérem</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipJoinGameDirectConnect_Favorite" xml:space="preserve">
+<value>Zaškrtněte pro přidání této IP do seznamu oblíbených serverů</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipJoinGameServerSearch_EvnironmentHostility" xml:space="preserve">
+<value>Zobrazit pouze servery s odpovídající úrovní nehostinosti prostředí</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipJoinGameServerSearch_MaximumFilterValue" xml:space="preserve">
 <value>Maximální hodnota filtru</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipJoinGameServerSearch_MinimumFilterValue" xml:space="preserve">
 <value>Minimální hodnota filtru</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipJoinGameServerSearch_Mods" xml:space="preserve">
+<value>Nastavit hledání modifikací</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipJoinGameServerSearch_SameGameData" xml:space="preserve">
@@ -14796,12 +14892,28 @@
 <value>Aktualizovat současný filt vyhledávání serverů</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipJoinGameServerSearch_Settings" xml:space="preserve">
+<value>Nastavit základní možnosti hledání serverů</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipJoinGameServerSearch_Survival" xml:space="preserve">
 <value>Ukázat survival servery</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipJoinGame_Advanced" xml:space="preserve">
+<value>Otevřít pokročilá nastavení hledání serverů</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipJoinGame_DirectConnect" xml:space="preserve">
 <value>Připojit se na server pomocí IP</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipJoinGame_SearchClear" xml:space="preserve">
+<value>Vymazat hledání</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipJoinGame_ServerDetails" xml:space="preserve">
+<value>Otevřít detaily serveru</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipLoadGame_Backups" xml:space="preserve">
@@ -14852,6 +14964,26 @@
 <value>Nasavte hladinu hlasitosti zvukových efektů ve hře</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipOptionsAudio_SpeedBasedSounds" xml:space="preserve">
+<value>Přehrávat zvuky motoru lodě pouze na základě rychlosti plavidla. Zrušte zaškrtnutí pro realistický zvuk.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipOptionsAudio_UseContextualMusic" xml:space="preserve">
+<value>Změnit hudbu podle aktuální herní situace</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipOptionsAudio_VoiceChatVolume" xml:space="preserve">
+<value>Nastavit hlasitost hlasového chatu hráčů</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipOptionsControls_Category" xml:space="preserve">
+<value>Vyberte kategorii ovládání</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipOptionsControls_ClickToEdit" xml:space="preserve">
+<value>Klikněte pro úpravu. Pravým tlačítkem klikněte pro odstranění vazby</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipOptionsControls_InvertMouseX" xml:space="preserve">
 <value>Obrátit horizontální pohyb myší</value>
 <comment>CZE</comment>
@@ -14862,6 +14994,14 @@
 </data>
 <data name="ToolTipOptionsControls_JoystickGradualPrecision" xml:space="preserve">
 <value>Nastavte jak citlivě bude ovladač reagovat na pomalý pohyb.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipOptionsControls_JoystickOrGamepad" xml:space="preserve">
+<value>Vyberte aktivní ovladač</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipOptionsControls_JoystickSensitivity" xml:space="preserve">
+<value>Upravit citlivost vašeho ovladače</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipOptionsControls_MouseSensitivity" xml:space="preserve">
@@ -14916,6 +15056,10 @@
 <value>Vyberte kvalitu modelování</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipOptionsGraphics_PostProcessing" xml:space="preserve">
+<value>Povolí Bloom, Vignette, chromatickou aberaci a vyčistí Vaše hledí</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipOptionsGraphics_QualityPreset" xml:space="preserve">
 <value>Vyberte grafické přednastavení podle vašich HW specifikací</value>
 <comment>CZE</comment>
@@ -14968,8 +15112,64 @@
 <value>Nakonfigurujte grafické nastavení</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipSafeZone_AddContained" xml:space="preserve">
+<value>Přidejte všechny entity uvnitř bezpečné zóny do filtru</value>
+<comment>CZE</comment>
+</data>
+<data name="TooltipScreenMods_Category_All" xml:space="preserve">
+<value>Všechny</value>
+<comment>CZE</comment>
+</data>
 <data name="TooltipScreenMods_Category_Character" xml:space="preserve">
 <value>Postava</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipTerminalProduction_AssemblingMode" xml:space="preserve">
+<value>Režim sestavování: ingoty na komponenty</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipTerminalProduction_DisassemblingMode" xml:space="preserve">
+<value>Režim rozebírání: komponenty na ingoty</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipTimerBlock_Silent" xml:space="preserve">
+<value>Vypnout zvukové signály časovače</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipVideoOptionsEnableDamageEffects" xml:space="preserve">
+<value>Povolit částicové efekty pro poškozené bloky</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipVideoOptionsRenderer" xml:space="preserve">
+<value>Změna renderovacího nastavení vyžaduje restart hry</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsDifficulty" xml:space="preserve">
+<value>Poškození způsobené a přijaté od nepřátel a prostředí. Vyšší obtížnost znamená realističtější poškození.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsEnableCargoShips" xml:space="preserve">
+<value>Povolit náhodné nákladní lodě</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsEnableCopyPaste" xml:space="preserve">
+<value>Funkce kopírování a vkládání umožňuje vytvářet nové lodě nebo stanice přímo ze schránky.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsFriendlyFire" xml:space="preserve">
+<value>Pokud je zaškrtnuto, spojenci se mohou navzájem poškodit</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsHardwareRequirements" xml:space="preserve">
+<value>Požadavky na hardware definují, jak bohatý může být váš svět. Vyšší hodnoty jsou náročnější na výkon vašeho počítače (CPU a GPU) a budou vyžadovat více paměti.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsHarvestingMode" xml:space="preserve">
+<value>Režim pro kreativní: neomezené zdroje, okamžité stavění, hráči neumírají. Použijte kreativní režim, pokud chcete pouze stavět věci. Režim přežití: realistická kapacita inventáře, omezené zdroje - musíte vrtat a těžit rudu, zpracovávat ji v rafinerii, vyrábět komponenty v assembleru, stavět bloky pomocí svářečky, rozebírat pomocí brusky, hráči mohou zemřít - respawnují se na svém bodu respawnu a pokud není bod respawnu k dispozici, respawnují se v nové lodi jako nový hráč na hranici sektoru. Přežití x3: stejné jako 'Přežití', ale kapacita inventáře je 3x větší. Přežití x10: stejné jako 'Přežití', ale kapacita inventáře je 10x větší.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsMaxBlocksPerPlayer" xml:space="preserve">
+<value>Maximální počet bloků, které každý hráč může postavit. Zničené bloky jsou vráceny.</value>
 <comment>CZE</comment>
 </data>
 <data name="ToolTipWorldSettingsModeCreative" xml:space="preserve">
@@ -14984,6 +15184,38 @@
 <value>Viditelnost Vaší hry. Offline: Hra běží v offline řezimu a nepotřebuje připojení k internetu. Soukromý: Pouze pozvaní hráči. Přátelé: Pouze Vaši {0} přátelé se mohou připojit. Veřejná: Každý {0} hráč se může připojit</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipWorldSettingsPermanentDeath" xml:space="preserve">
+<value>Povolit hráčům ztratit vše, pokud zemřou a nemají žádné dostupné body respawnu.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsPVP" xml:space="preserve">
+<value>PvE znamená, že nemůžete poškozovat ostatní hráče. PvP znamená, že je můžete poškozovat a oni vás mohou poškozovat.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsRemoveTrash" xml:space="preserve">
+<value>Pokud je zaškrtnuto, lodě, které jsou považovány za odpad, budou odstraněny, aby hra běžela rychleji. Aby byla loď považována za odpad, musí obsahovat jen několik bloků, být v jednotném lineárním pohybu, bez energie, nekontrolovaná, bez medbay a dost daleko od všech hráčů, aby ji téměř neviděli.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsResetOwnership" xml:space="preserve">
+<value>Odstraní vlastnictví všech bloků.</value>
+<comment>CZE</comment>
+</data>
+<data name="TooltipWorldSettingsRespawnShipDelete" xml:space="preserve">
+<value>Smaže respawn lodě, když hráči opustí servery nebo se respawnují v nových lodích.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsSoundInSpace" xml:space="preserve">
+<value>Ve vesmíru není zvuk. Zapněte ho pro simulaci zvukových podmínek podobných Zemi (i když to není realistické). Vypněte ho pro realistický režim, kde uslyšíte pouze zvuky, které může slyšet váš astronaut.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsOptimalSpawnDistance" xml:space="preserve">
+<value>Optimální vzdálenost v metrech, kterou by hra měla brát v úvahu při respawnování nového hráče v blízkosti ostatních.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsAutorespawn" xml:space="preserve">
+<value>Povolit automatický respawn na nejbližším dostupném bodě respawnu.</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipWorldSettings_Assembler_x1" xml:space="preserve">
 <value>Výchozí nastavení rychlost a účinnosti konstrukterů</value>
 <comment>CZE</comment>
@@ -14996,8 +15228,76 @@
 <value>Konstruktéry potřebjí 3x méně materiálu a jsou 3x rychlejší</value>
 <comment>CZE</comment>
 </data>
+<data name="ToolTipWorldSettings_CargoShipsEnabled" xml:space="preserve">
+<value>Povolit náhodné nákladní lodě létající světem občas.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_ClientCanSave" xml:space="preserve">
+<value>Klient může uložit síťovou hru. Pokud je nezaškrtnuto, pouze server může hru uložit.</value>
+<comment>CZE</comment>
+</data>
 <data name="ToolTipWorldSettings_EnableContainerDrops" xml:space="preserve">
 <value>Povolojí objevování se neznámých signálů</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableConvertToStation" xml:space="preserve">
+<value>Přidává možnost na terminálech lodí převést lodě na stanice.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableDrones" xml:space="preserve">
+<value>Náhodně se vytvoří pirátská loď NPC, která bude občas generována. Tyto lodě jsou nepřátelské a pokusí se vás napadnout svými drony.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableEncounters" xml:space="preserve">
+<value>Povolit náhodně se spawnující opuštěné lodě a stanice.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableFlora" xml:space="preserve">
+<value>Povolit flóru pro planety.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableIngameScripts" xml:space="preserve">
+<value>Povolit skripty běžící ve hře. Skripty se používají v programovatelných blocích. Mohou je také používat některé mody pro vytvoření pokročilé logiky a efektů.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableJetpack" xml:space="preserve">
+<value>Pokud je toto vypnuto, postavy nebudou moci vůbec používat jetpacky.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableOxygen" xml:space="preserve">
+<value>Povolit zpracování kyslíku. Kyslík je používán skafandry a kokpity.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnablePlanets" xml:space="preserve">
+<value>Povolit/zakázat spawnování planet ve světě.</value>
+<comment>CZE</comment>
+</data>
+<data name="TooltipWorldSettings_EnableRealisticDampeners" xml:space="preserve">
+<value>Povolit realistické tlumiče.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableRemoteBlockRemoval" xml:space="preserve">
+<value>Povolit hráčům vzdáleně odstraňovat vlastněné bloky a uvolnit tak jejich limit PCU.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableRespawnShips" xml:space="preserve">
+<value>Povolit respawnování v lodích. Pokud je zakázáno, respawnování je možné pouze ve skafandrech, v lékařských stanicích nebo v přežití.</value>
+<comment>CZE</comment>
+</data>
+<data name="TooltipWorldSettings_EnableSubGridDamage" xml:space="preserve">
+<value>Povolit poškození podgridů způsobených kolizemi, výbuchy a dalšími zdroji na připojených gridech. Doporučujeme tuto možnost nechat vypnutou pro stabilnější chování.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_FloraDensity" xml:space="preserve">
+<value>Hustota prvků flóry na planetách.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_ScenarioEditMode" xml:space="preserve">
+<value>Povolit další možnosti ve hře pro vytváření scénářů. Také zobrazuje vaši uloženou hru na obrazovce startu scénáře.</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_StartInRespawnScreen" xml:space="preserve">
+<value>Při hraní jako scénář: hráč začne na obrazovce respawnu s novou identitou, všechna vlastnictví budou ztracena.</value>
 <comment>CZE</comment>
 </data>
 <data name="TrainingLevel" xml:space="preserve">
@@ -15026,6 +15326,14 @@
 </data>
 <data name="Triggers" xml:space="preserve">
 <value>Spouštěče</value>
+<comment>CZE</comment>
+</data>
+<data name="UnsavedChanges" xml:space="preserve">
+<value>Neuložené změny</value>
+<comment>CZE</comment>
+</data>
+<data name="UnsavedChangesQuestion" xml:space="preserve">
+<value>Máte neuložené změny. Chcete nejprve uložit aktuální scénu?</value>
 <comment>CZE</comment>
 </data>
 <data name="WelcomeScreen_Signature" xml:space="preserve">
@@ -17880,6 +18188,22 @@
 <value>Plakát - Průzkum V</value>
 <comment>CZE</comment>
 </data>
+<data name="Description_AntennaDish" xml:space="preserve">
+<value>Antény mohou být použity k vysílání poloh, zpráv, markerů HUD a umožňují přístup nebo ovládání mřížek na dálku. Antény musí být schopny odesílat a přijímat, takže se ujistěte, že dvě antény vždy překrývají své pozice.</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_OffsetDoor" xml:space="preserve">
+<value>Dveře mohou uzavřít interiéry a učinit je vzduchotěsnými, přičemž stále umožňují přístup pro hráče.</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastScreen_Antenna" xml:space="preserve">
+<value>   Anténa</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastScreen_RemoteControl" xml:space="preserve">
+<value>   Dálkové ovládání</value>
+<comment>CZE</comment>
+</data>
 <data name="RadialMenuGroupTitle_BlueprintActions" xml:space="preserve">
 <value>Plánky</value>
 <comment>CZE</comment>
@@ -17950,6 +18274,22 @@
 </data>
 <data name="ScreenSpectatorAdminMenu_Shortcuts" xml:space="preserve">
 <value>Zkratky</value>
+<comment>CZE</comment>
+</data>
+<data name="ScreenDebugAdminMenu_Empty" xml:space="preserve">
+<value>&lt;Empty&gt;</value>
+<comment>CZE</comment>
+</data>
+<data name="String2" xml:space="preserve">
+<value>CHYBA 3</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_BuggyCockpit" xml:space="preserve">
+<value>Buggy kokpit je podobný kokpitu roveru, ale s ochrannou klecí pro vaši bezpečnost. Prosím, mějte ruce a nohy uvnitř.</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_RoverCockpit" xml:space="preserve">
+<value>Rover kokpit je kompaktní kokpit navržený pro rovery, ale funguje stejně dobře pro malé lodě nebo velké interiéry malých mřížek.</value>
 <comment>CZE</comment>
 </data>
 <data name="DisplayName_TSS_Weather_ElectricStorm" xml:space="preserve">
@@ -18190,6 +18530,10 @@
 </data>
 <data name="BlockPropertyTitle_LargeTurretFireAtLockedTarget" xml:space="preserve">
 <value>Vysvětlit na zamčený cíl</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockPropertyTooltip_LargeTurretFireAtLockedTarget" xml:space="preserve">
+<value>Povolení této možnosti způsobí, že věže budou zaměřovat a střílet na uzamčený cíl</value>
 <comment>CZE</comment>
 </data>
 <data name="Description_DLC_HeavyIndustry" xml:space="preserve">
@@ -18522,6 +18866,10 @@
 </data>
 <data name="NotificationHintUnlockTarget" xml:space="preserve">
 <value>{0} ke zrušení zameření</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTooltip_LargeTurretFocusLockedTarget" xml:space="preserve">
+<value>Prioritizujte uzamčený cíl, dokud bude zámek cíle aktivní</value>
 <comment>CZE</comment>
 </data>
 <data name="BlockActionTitle_LargeTurretCopyTarget" xml:space="preserve">
@@ -20844,6 +21192,742 @@
 <value>Voyage To Andromeda</value>
 <comment>CZE</comment>
 </data>
+<data name="BlockActionDropDownValue_RotationCW" xml:space="preserve">
+<value>Po směru hodinových ručiček</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionDropDownValue_RotationCCW" xml:space="preserve">
+<value>Proti směru hodinových ručiček</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionDropDownValueTip_RotationAuto" xml:space="preserve">
+<value>Automaticky vybere nejkratší rotaci na nastavený úhel</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionDropDownValueTip_RotationCW" xml:space="preserve">
+<value>Otáčet ve směru hodinových ručiček na nastavený úhel</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionDropDownValueTip_RotationCCW" xml:space="preserve">
+<value>Otáčet proti směru hodinových ručiček na nastavený úhel</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_Discharge" xml:space="preserve">
+<value>Vybít</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_Recharge" xml:space="preserve">
+<value>Nabít</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_SetAngle" xml:space="preserve">
+<value>Nastavit úhel</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_SetDistance" xml:space="preserve">
+<value>Nastavit vzdálenost</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_SetVelocity" xml:space="preserve">
+<value>Nastavit rychlost</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_SetLowerLimit" xml:space="preserve">
+<value>Nastavit dolní limit</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_SetUpperLimit" xml:space="preserve">
+<value>Nastavit horní limit</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockPropertiesText_Productivity_Assembler" xml:space="preserve">
+<value>Rychlost výroby:</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockPropertyProperties_ChargeEfficiency" xml:space="preserve">
+<value>Účinnost nabíjení: </value>
+<comment>CZE</comment>
+</data>
+<data name="BlockPropertyTitle_SetFlightModeFormat" xml:space="preserve">
+<value>Nastavit režim letu: {0}</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Space_spider_black" xml:space="preserve">
+<value>Černý Sabiroid</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Space_spider_brown" xml:space="preserve">
+<value>Hnědý Sabiroid</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Space_spider_green" xml:space="preserve">
+<value>Zelený Sabiroid</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Space_spider" xml:space="preserve">
+<value>Sabiroid</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Space_Wolf" xml:space="preserve">
+<value>Vlk</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_UseAntenna_Tooltip" xml:space="preserve">
+<value>Povolte vysílání pomocí antén. Pokud není zaškrtnuto, zprávy uvidí pouze hráči uvnitř kokpitů na této mřížce.</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_CustomName_Title" xml:space="preserve">
+<value>Vlastní jméno</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_CustomName_Tooltip" xml:space="preserve">
+<value>Nastaví jméno, které se zobrazí před každou zprávou.</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message1_Title" xml:space="preserve">
+<value>Zpráva 1</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message2_Title" xml:space="preserve">
+<value>Zpráva 2</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message3_Title" xml:space="preserve">
+<value>Zpráva 3</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message4_Title" xml:space="preserve">
+<value>Zpráva 4</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message5_Title" xml:space="preserve">
+<value>Zpráva 5</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message6_Title" xml:space="preserve">
+<value>Zpráva 6</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message7_Title" xml:space="preserve">
+<value>Zpráva 7</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_Message8_Title" xml:space="preserve">
+<value>Zpráva 8</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage1_Title" xml:space="preserve">
+<value>Vyslat zprávu 1</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage2_Title" xml:space="preserve">
+<value>Vyslat zprávu 2</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage3_Title" xml:space="preserve">
+<value>Vyslat zprávu 3</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage4_Title" xml:space="preserve">
+<value>Vyslat zprávu 4</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage5_Title" xml:space="preserve">
+<value>Vyslat zprávu 5</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage6_Title" xml:space="preserve">
+<value>Vyslat zprávu 6</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage7_Title" xml:space="preserve">
+<value>Vyslat zprávu 7</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitMessage8_Title" xml:space="preserve">
+<value>Vyslat zprávu 8</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitRandomMessage_Title" xml:space="preserve">
+<value>Odeslat náhodnou zprávu</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_TransmitRandomMessage_Tooltip" xml:space="preserve">
+<value>Vybere náhodnou zprávu a odešle ji.</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_SendGps_Title" xml:space="preserve">
+<value>Odeslat GPS</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_SendGps_Tooltip" xml:space="preserve">
+<value>Odeslat aktuální pozici</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_BroadcastTarget_Owner" xml:space="preserve">
+<value>Pouze vlastník</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_BroadcastTarget_Faction" xml:space="preserve">
+<value>Pouze frakce</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_BroadcastTarget_Everyone" xml:space="preserve">
+<value>Všichni</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_SetBroadcastTarget_Owner" xml:space="preserve">
+<value>Povolit pouze vlastníkovi</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_SetBroadcastTarget_Faction" xml:space="preserve">
+<value>Povolit pouze frakci</value>
+<comment>CZE</comment>
+</data>
+<data name="BroadcastController_SetBroadcastTarget_Everyone" xml:space="preserve">
+<value>Povolit všem</value>
+<comment>CZE</comment>
+</data>
+<data name="QuickStartNotification_Title" xml:space="preserve">
+<value>Chcete místo toho vyzkoušet Rychlý start?</value>
+<comment>CZE</comment>
+</data>
+<data name="QuickStartNotification_Yes" xml:space="preserve">
+<value>Rychlý start</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_DeadDropArena_Description" xml:space="preserve">
+<value>PvP scénář, který umožňuje pilotům testovat své dovednosti proti sobě. Letadla jsou nasazena z centrální stanice vysoko v martianské atmosféře. Hrajte 1v1 nebo v týmech.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_EasyStartConsole_Description" xml:space="preserve">
+<value>Začněte svou cestu na planetě nebo v hlubokém vesmíru.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_EasyStartGreen_Description" xml:space="preserve">
+<value>Začněte svou cestu na rozsáhlé základně na asteroidu. Použijte infrastrukturu základny jako odpalovací bod. Sbírejte suroviny, upravujte stávající plavidla nebo si postavte vlastní a prozkoumejte asteroidový pás.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_EasyStartSpace_Description" xml:space="preserve">
+<value>Tento svět může sloužit jako výchozí bod pro přežití i kreativní herní sezení, poskytující vám stanici a velký křižník. Kam půjdete dál, je na vás!</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_EasyStart_Description" xml:space="preserve">
+<value>Začněte na planetě s velkou základnou a spoustou zásob. Nabízí několik planetárních míst připravených k prozkoumání a rozšíření.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_EmptyWorld_Description" xml:space="preserve">
+<value>Tento svět je prázdný list, uvolněte svou kreativitu a naplňte ho svými výtvory.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_LearningToSurvive_Description" xml:space="preserve">
+<value>Jedná se o nelineární tutoriálovou misi. Obnovte starou základnu, aby sloužila jako vaše základna, a prozkoumejte zbytky kdysi prosperující průmyslové základny. Každé místo, které objevíte, vás naučí dovednosti potřebné k přežití ve vesmíru Space Engineers.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_LoneSurvivor_Description" xml:space="preserve">
+<value>Sám ve vesmíru. Zvolte svůj osud.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_NeverSurrender_Description" xml:space="preserve">
+<value>Začněte svou cestu na planetě nebo v hlubokém vesmíru. Stavte podle svého tempa a když shromáždíte své síly, postavte se výzvám bránit malou základnu proti vlnám neúnavných dronů. Hrajte sami nebo společně. Jak to uděláte, záleží na vás!</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_PetramOrbiter_Description" xml:space="preserve">
+<value>Vysoko nad drsnými pouštěmi planety Pertam vytvořil tým inženýrů orbitální stanici, která slouží jako odpalovací bod pro planetární průzkum. Shromážděte své zásoby a spadněte na povrch planety. Máte, co je potřeba, abyste přežili tuto pustinou?</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_RedShip2_Description" xml:space="preserve">
+<value>Modernizovaná verze klasického světa Red Ship. Tento svět může sloužit jako výchozí bod pro přežití i kreativní herní sezení. Je přátelský pro nové hráče a má různé příklady a příležitosti k tomu, abyste se zapojili a prozkoumali funkce Space Engineers.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_RivalPlatforms_Description" xml:space="preserve">
+<value>Dva rivalizující týmy shromáždily své síly v asteroidovém poli, každý s křižníkem a squadronou stíhaček připravených k nasazení. Vyberte si stranu, vybudujte svou základnu a připravte se na bitvu.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_ScrapRace_Description" xml:space="preserve">
+<value>Scrap Race je rychlý závodní scénář navržený pro multiplayer. Vyberte si své vozidlo, přizpůsobte ho podle svých představ a soutěžte s ostatními zmetky, dobrodruhy a milovníky rychlosti z celého systému. Přežije vaše vozidlo pustinou, nebo zůstanete pozadu?</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_SpaceStandoff_Description" xml:space="preserve">
+<value>Space Standoff je multiplayerový scénář, kde dva týmy získaly cenný Datový kontejner a závod o dešifrování těchto zařízení vyvolal napětí mezi nimi. Každý tým musí bránit svou základnu, zatímco mobilizuje své zdroje, aby zničil kontejner nepřítele. Čas běží a pouze ten nejzkušenější a nejlépe koordinovaný tým zvítězí.</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_SparksOfTheFuture_Description" xml:space="preserve">
+<value>Vítejte ve Sparks of the Future! Užijte si soutěže na střelnici nebo na tanečním parketu. Prozkoumejte mnohé obchody dostupné v centru Sparks of the Future. Hledáte rozptýlení od každodenního života nebo se chcete ponořit do živého městského života? Všechno to najdete tady ve Sparks of the Future!</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_StarSystem_Description" xml:space="preserve">
+<value>Jeden z nejpopulárnějších světů ve Space Engineers, který nabízí několik planet pro stavění, prozkoumávání a přežití. Přizpůsobte si nastavení a hrajte podle svého!</value>
+<comment>CZE</comment>
+</data>
+<data name="SimpleNewGame_UraniumHeist_Description" xml:space="preserve">
+<value>Sbírejte suroviny a rozšiřujte svou výzbroj, zatímco bráníte své území, stavíte obranu a chráníte svůj nosič uranu. Nošení uranu výrazně zpomalí vaši rychlost, pracujte společně při eskortování tohoto cenného nákladu zpět na základnu. Více cest k vítězství znamená, že žádná dvě hraní nejsou stejná. Je váš tým připraven na výzvu? Naložte a začněte!</value>
+<comment>CZE</comment>
+</data>
+<data name="ScenarioSelectionScreen_LocalScenario" xml:space="preserve">
+<value>Místní scénář</value>
+<comment>CZE</comment>
+</data>
+<data name="WorldSettings_EnableTemporaryContainers" xml:space="preserve">
+<value>Povolit dočasné kontejnery</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettings_EnableTemporaryContainers" xml:space="preserve">
+<value>Povolit dočasné kontejnery, které se objeví po zničení bloku s inventářem.</value>
+<comment>CZE</comment>
+</data>
+<data name="Newsletter_Caption" xml:space="preserve">
+<value>Přihlaste se k odběru newsletteru Keen Software House</value>
+<comment>CZE</comment>
+</data>
+<data name="Newsletter_Signup" xml:space="preserve">
+<value>Přihlaste se k odběru našeho newsletteru a získejte Flush Cockpit zdarma!</value>
+<comment>CZE</comment>
+</data>
+<data name="Newsletter_Description" xml:space="preserve">
+<value>Zůstaňte informováni o nejnovějších zprávách, aktualizacích a exkluzivním obsahu od Keen Software House a užijte si tuto speciální odměnu ve hře jako poděkování za připojení k nám!</value>
+<comment>CZE</comment>
+</data>
+<data name="Newsletter_Email" xml:space="preserve">
+<value>Emailová adresa</value>
+<comment>CZE</comment>
+</data>
+<data name="Newsletter_Privacy" xml:space="preserve">
+<value>Ochrana soukromí</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Automation" xml:space="preserve">
+<value>   Automatizace</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Control" xml:space="preserve">
+<value>   Ovládání</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Decorative" xml:space="preserve">
+<value>   Dekorace</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLCBlocks" xml:space="preserve">
+<value>DLC Bloky</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Logistics" xml:space="preserve">
+<value>   Přeprava</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Mechanical" xml:space="preserve">
+<value>   Mechanika</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Propulsion" xml:space="preserve">
+<value>   Pohon</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Structure" xml:space="preserve">
+<value>   Struktura</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Utility" xml:space="preserve">
+<value>   Nástroje</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Automation" xml:space="preserve">
+<value>Automatizace</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Control" xml:space="preserve">
+<value>Ovládání</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Logistics1" xml:space="preserve">
+<value>Logistika #1</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Logistics2" xml:space="preserve">
+<value>Logistika #2</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Mechanical" xml:space="preserve">
+<value>Mechanika</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Power" xml:space="preserve">
+<value>Energie</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Production" xml:space="preserve">
+<value>Výroba</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Propulsion1" xml:space="preserve">
+<value>Pohyb #1</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Propulsion2" xml:space="preserve">
+<value>Pohyb #2</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Structure1" xml:space="preserve">
+<value>Struktura #1</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Structure2" xml:space="preserve">
+<value>Struktura #2</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Structure3" xml:space="preserve">
+<value>Struktura #3</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Utility1" xml:space="preserve">
+<value>Nástroje #1</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Utility2" xml:space="preserve">
+<value>Nástroje #2</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Weapons" xml:space="preserve">
+<value>Zbraně</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Windows1" xml:space="preserve">
+<value>Okna #1</value>
+<comment>CZE</comment>
+</data>
+<data name="RadialMenuGroupTitle_Windows2" xml:space="preserve">
+<value>Okna #2</value>
+<comment>CZE</comment>
+</data>
+<data name="AdvancedWorldSettings_GlobalEncounterCap" xml:space="preserve">
+<value>Globální limit střetnutí</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_AddMediumHingeHead" xml:space="preserve">
+<value>Přidat střední hlavu</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockActionTitle_AddMediumRotorHead" xml:space="preserve">
+<value>Přidat střední hlavu</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Automatons" xml:space="preserve">
+<value>   Automatons</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Contact" xml:space="preserve">
+<value>   Contact</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_DecorativePack" xml:space="preserve">
+<value>   Decorative Pack 1</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_DecorativePack2" xml:space="preserve">
+<value>   Decorative Pack 2</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_DecorativePack3" xml:space="preserve">
+<value>   Decorative Pack 3</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Frostbite" xml:space="preserve">
+<value>   Frostbite</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_HeavyIndustry" xml:space="preserve">
+<value>   Heavy Industry</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Signal" xml:space="preserve">
+<value>   Signal</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Warfare1" xml:space="preserve">
+<value>   Warfare 1</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Warfare2" xml:space="preserve">
+<value>   Warfare 2</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_SparksOfTheFuture" xml:space="preserve">
+<value>   Sparks Of The Future</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_DLC_Wasteland" xml:space="preserve">
+<value>   Wasteland</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Tools" xml:space="preserve">
+<value>   Nástroje</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Weapons" xml:space="preserve">
+<value>   Zbraně</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_Nonarmor" xml:space="preserve">
+<value>Nepancéřované bloky</value>
+<comment>CZE</comment>
+</data>
+<data name="ToolTipWorldSettingsEncountersAmount" xml:space="preserve">
+<value>Nastavuje hustotu procedurálně generovaných střetnutí.</value>
+<comment>CZE</comment>
+</data>
+<data name="Encounter_Amount" xml:space="preserve">
+<value>Počet střetnutí</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Military0" xml:space="preserve">
+<value>Pokud jde o vedení války, jsme to, co hledáte. Zbraně, munice a zdravotní balíčky jsou k dispozici na prodej.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Military1" xml:space="preserve">
+<value>Ať už jde o roztrhání vašich nepřátel nebo zajištění vašich přátel, máme, co potřebujete.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Military2" xml:space="preserve">
+<value>Naše zdravotní balíčky zachraňují životy. Naše zbraně také zachraňují životy. Pokud jsou namířeny na někoho nebezpečného.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Military3" xml:space="preserve">
+<value>Slíbíme vám špičkové zbraně, dostupnou munici a naši zaručenou diskrétnost u všech transakcí.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Military4" xml:space="preserve">
+<value>Nejde stanovit cenu za klid na duši. Máme pušky, pistole, munici a všechny další bezpečnostní potřeby.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Military" xml:space="preserve">
+<value>S naší výzbrojí bude bitva u konce dřív, než vůbec začne. Nejlepší zbraně, které si peníze mohou koupit, přímo do vašich rukou.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Pirate0" xml:space="preserve">
+<value>Zbraně, munice a další věci na prodej. Neptáte se, odkud je máme, a my se nebudeme ptát, co s nimi uděláte.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Pirate1" xml:space="preserve">
+<value>Naše zboží není etické. Stejně tak naše ceny. Přijďte pro všechny vaše potřeby v oblasti zbraní.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Pirate2" xml:space="preserve">
+<value>Někteří nás nazývají zločinci. My se nazýváme podnikateli. Přijďte si prohlédnout náš výběr kvalitního zboží.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Pirate3" xml:space="preserve">
+<value>Náš tovar spadl ze zadní části vesmírné lodi, pokud se na to zeptají úřady. Ale pokud se zeptá zákazník, řekneme jen, že cenu nelze překonat.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Pirate4" xml:space="preserve">
+<value>Každý má právo na dostupnou bezpečnost. Pokud si nemůžete dovolit konvenční řešení, nebo vám je odmítnou prodat, náš obchod je vždy otevřen.</value>
+<comment>CZE</comment>
+</data>
+<data name="EconomyFaction_Description_Pirate" xml:space="preserve">
+<value>Zbraně, munice, lodě, komponenty - prodáváme vše, co by nechtěli, abyste měli.</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_BlueprintClass_LargePrototechBlocks" xml:space="preserve">
+<value>Velké Prototech bloky - Klikněte na jakýkoli velký Prototech blok pro sestavení všech komponent potřebných pro jeho konstrukci, kromě Prototech rámu.</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_BlueprintClass_PrototechComponents" xml:space="preserve">
+<value>Prototech komponenty - Komponenty se používají při konstrukci strukturálních, mechanických a elektrických systémů.</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_BlueprintClass_SmallPrototechBlocks" xml:space="preserve">
+<value>Malé Prototech bloky - Klikněte na jakýkoli malý Prototech blok pro sestavení všech komponent potřebných pro jeho konstrukci, kromě Prototech rámu.</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_BlueprintClass_LargePrototechBlocks" xml:space="preserve">
+<value>Velké Prototech bloky</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_BlueprintClass_PrototechComponents" xml:space="preserve">
+<value>Prototech komponenty</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_BlueprintClass_SmallPrototechBlocks" xml:space="preserve">
+<value>Malé Prototech bloky</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechCapacitor" xml:space="preserve">
+<value>Prototech kondenzátor</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechCircuitry" xml:space="preserve">
+<value>Prototech obvody</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechCoolingUnit" xml:space="preserve">
+<value>Prototech chladicí jednotka</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechFrame" xml:space="preserve">
+<value>Prototech rám</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechMachinery" xml:space="preserve">
+<value>Prototech strojní zařízení</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechPanel" xml:space="preserve">
+<value>Prototech panel</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechPropulsionUnit" xml:space="preserve">
+<value>Prototech pohonná jednotka</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Item_PrototechScrap" xml:space="preserve">
+<value>Prototech šrot</value>
+<comment>CZE</comment>
+</data>
+<data name="GlobalEncounter_GPS_Name" xml:space="preserve">
+<value>Neidentifikovaný signál</value>
+<comment>CZE</comment>
+</data>
+<data name="Terminal_BlockTransfers" xml:space="preserve">
+<value>Přenosy bloků</value>
+<comment>CZE</comment>
+</data>
+<data name="Terminal_BlockTransfersTooltip" xml:space="preserve">
+<value>Spravujte příchozí přenosy vlastnictví bloků</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_Caption" xml:space="preserve">
+<value>Spravovat přenosy bloků</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_From" xml:space="preserve">
+<value>Od:</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_Amount" xml:space="preserve">
+<value>Množství:</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_OnGrid" xml:space="preserve">
+<value>Na mřížce:</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_UnknownPlayer" xml:space="preserve">
+<value>Neznámý hráč</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_UnknownGrid" xml:space="preserve">
+<value>Neznámá mřížka</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_Blocks" xml:space="preserve">
+<value>Blok(y)</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_AcceptTooltip" xml:space="preserve">
+<value>Přijmout tento přenos a převzít vlastnictví těchto bloků.</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_DeclineTooltip" xml:space="preserve">
+<value>Odmítnout tento přenos.</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_Close" xml:space="preserve">
+<value>Zavřít</value>
+<comment>CZE</comment>
+</data>
+<data name="BlockTransfers_Decline" xml:space="preserve">
+<value>Odmítnout</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_Faction_Factorum" xml:space="preserve">
+<value>Tvůrci Prototech. Vrátili se z okraje známého vesmíru, aby pomstili.</value>
+<comment>CZE</comment>
+</data>
+<data name="Description_Faction_Unknown" xml:space="preserve">
+<value>Vesmír je obrovský. Jak lidé tlačí do prázdnoty vesmíru, někdy prázdnota tlačí zpět. Nebezpečí, tajemství nebo odměna mohou čekat.</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Category_CharacterItems" xml:space="preserve">
+<value>Osobní vybavení               </value>
+<comment>CZE</comment>
+</data>
+<data name="Description_FirstAidCabinet" xml:space="preserve">
+<value>Lékařská skříňka uchovává zdravotní sady pro rychlý přístup.</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Block_FirstAidCabinet" xml:space="preserve">
+<value>Lékařská skříňka</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Block_SmallBlockJukeboxReskin" xml:space="preserve">
+<value>Mediální přehrávač</value>
+<comment>CZE</comment>
+</data>
+<data name="DisplayName_Block_BunkBed" xml:space="preserve">
+<value>Patrová postel</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_PrototechComponents1" xml:space="preserve">
+<value>Úspěch</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents1" xml:space="preserve">
+<value>Je lesklý a málem ho to stálo život. Nemám tušení, proč mi věřil, že to nic neznamená. Ale co, nebudu si stěžovat.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_PrototechComponents2" xml:space="preserve">
+<value>Šrot</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents2" xml:space="preserve">
+<value>Co jsem to proboha myslel? Nejsem dost chytrý, abych pochopil, co to vůbec dělá. Měl bych najít někoho jiného, komu to prodat.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_PrototechComponents3" xml:space="preserve">
+<value>Výročí</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents3" xml:space="preserve">
+<value>Nemůžu uvěřit, že to bylo dnes. Nemám jí co dát. Možná tohle? Je to dost lesklé.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_PrototechComponents4" xml:space="preserve">
+<value>Šrotoviště</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents4" xml:space="preserve">
+<value>Našel jsem to v práci. Nemohl jsem to vyhodit, ale nemůžu ti říct proč. Je to prostě hezké, asi. Říkej tomu perk práce.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_PrototechComponents5" xml:space="preserve">
+<value>Rozebrané</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents5" xml:space="preserve">
+<value>Posílám ti to, aby to bylo rozebráno. Prozkoumej to, dokud to nebudeme schopní vyrobit sami. Žádné výmluvy.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents6" xml:space="preserve">
+<value>Minulý týden jsem bojoval se saberoidem. To bylo zajímavější. Ale to nemůžeš dát do muzea. Posílám ti tento vzorek.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_PrototechComponents7" xml:space="preserve">
+<value>Zničit</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents7" xml:space="preserve">
+<value>Prosím, zbav se toho. Zbav se všeho. Předtím bylo všechno v pořádku. Tato nová skupina není potřeba, ani není žádoucí.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents8" xml:space="preserve">
+<value>Myslel jsem, že ta skupina je falešná. Ale tohle je od nich, že? Jsou skuteční? Ti chlapi? Právě teď úplně panikařím.</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_PrototechComponents10" xml:space="preserve">
+<value>Sebral jsem to od piráta. Dal jsem to čtyřem různým chlapíkům. Nikdo neví, co to je. Není to úhledné?</value>
+<comment>CZE</comment>
+</data>
 <data name="DisplayName_BlockGroup_Projectors" xml:space="preserve">
 <value>Projektory</value>
 <comment>CZE</comment>
@@ -20858,6 +21942,14 @@
 </data>
 <data name="DisplayName_BlockGroup_Rotors" xml:space="preserve">
 <value>Rotory</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryTitle_DerelictStories15" xml:space="preserve">
+<value>Víra</value>
+<comment>CZE</comment>
+</data>
+<data name="StoryText_DerelictStories15" xml:space="preserve">
+<value>Byl jsem už v těžších situacích než tahle. Stačí věřit plánu - a všichni se z toho dostaneme živí.</value>
 <comment>CZE</comment>
 </data>
 <data name="ProgrammableBlock_OpenInWorkshop" xml:space="preserve">
@@ -20980,74 +22072,11 @@
 <data name="ScenarioProgressPositionReached" xml:space="preserve">
 <value>Get closer than {3:0} meters to [{0:0},{1:0},{2:0}]</value>
 </data>
-<data name="ScreenDebugAdminMenu_RemoveFloating" xml:space="preserve">
-<value>Remove floating obj.</value>
-</data>
 <data name="ScreenDebugAdminMenu_RevertCloseToNPCGrids" xml:space="preserve">
 <value>Revert close to NPC grids</value>
 </data>
-<data name="ServerDetails_BlockTypeLimits" xml:space="preserve">
-<value>Block Type Limits</value>
-</data>
 <data name="SetTriggerSizeDialog" xml:space="preserve">
 <value>Set trigger size dialog</value>
-</data>
-<data name="SpectatorControls_Free_Desc" xml:space="preserve">
-<value>Free spectator. You can still shoot and do actions with controlled object</value>
-</data>
-<data name="SpectatorControls_None_Desc" xml:space="preserve">
-<value>Get back into controlled character / cockpit</value>
-</data>
-<data name="SpectatorControls_Static_Desc" xml:space="preserve">
-<value>Static spectator. You control character / cockpit, but camera is static</value>
-</data>
-<data name="SwitchBuilderMode" xml:space="preserve">
-<value>Switch cockpit builder mode</value>
-</data>
-<data name="SwitchToNormalVT" xml:space="preserve">
-<value>With this release we changed visuals of the game a lot. Your graphics settings were changed to Medium to avoid any performance issues.</value>
-</data>
-<data name="TerminalControlPanel_EditCode_Tooltip" xml:space="preserve">
-<value>Opens code editor where you can create new scripts and upload/download them from workshop</value>
-</data>
-<data name="TerminalControlPanel_RunArgument_ToolTip" xml:space="preserve">
-<value>An argument passed to your code when clicking the Run button</value>
-</data>
-<data name="TerminalControlPanel_RunCode_Tooltip" xml:space="preserve">
-<value>Run current script and notifies about any exception during run</value>
-</data>
-<data name="TerminalTab_GPS_SaveWarning" xml:space="preserve">
-<value>Warning: illegal data. Modifications will not be saved.</value>
-</data>
-<data name="TerminalTab_Info_DestructibleBlocks_Tooltip" xml:space="preserve">
-<value>Toogles destructible blocks only for this grid. If destructible blocks are disabled in world settings, this is ignored. Only available in scenarios.</value>
-</data>
-<data name="Terminal_AuthorshipNotAvailable" xml:space="preserve">
-<value>Authorship operations are not available when playing with no limits.</value>
-</data>
-<data name="Terminal_PowerTransferOverride" xml:space="preserve">
-<value>Override Power Transfer</value>
-</data>
-<data name="ToolTipAudioOptionsEnableReverb" xml:space="preserve">
-<value>Enable sound echo. Note that if your audio rate is larger than 48kHz, this feature will not work.(You can configure the audio rate in system's speaker properties)</value>
-</data>
-<data name="ToolTipBatteryBlock" xml:space="preserve">
-<value>Check for power storage, uncheck for power output</value>
-</data>
-<data name="ToolTipBatteryBlock_Semiauto" xml:space="preserve">
-<value>Sets to recharge when stored power is 0, sets to discharge when stored power is max.</value>
-</data>
-<data name="ToolTipCharacterScreen_HideDuplicates" xml:space="preserve">
-<value>Show only one item in case you ownmultiple items of the same type</value>
-</data>
-<data name="ToolTipCharacterScreen_Model" xml:space="preserve">
-<value>Change your character model</value>
-</data>
-<data name="ToolTipCharacterScreen_ShowOnlyDuplicates" xml:space="preserve">
-<value>Show only items you own more than one time</value>
-</data>
-<data name="ToolTipOptionsDisplay_SpriteMainViewportScale" xml:space="preserve">
-<value>Scale of the UI screens to prevent having text outside of the TV border.</value>
 </data>
 <data name="ToolTipItemFilter_AmmoMagazineInput" xml:space="preserve">
 <value>Any ammo magazine accepted by {0}</value>
@@ -21058,29 +22087,8 @@
 <data name="ToolTipItemFilter_GenericProductionBlockOutput" xml:space="preserve">
 <value>Any item produced by {0}</value>
 </data>
-<data name="ToolTipJoinGameDirectConnect_Favorite" xml:space="preserve">
-<value>Check to add this IP to your favorite servers list</value>
-</data>
 <data name="ToolTipJoinGameServerSearch_AllowedGroups" xml:space="preserve">
 <value>Show servers supporting {0} group whitelisting</value>
-</data>
-<data name="ToolTipJoinGameServerSearch_EvnironmentHostility" xml:space="preserve">
-<value>Show only servers with corresponding level ofenvironment hostility</value>
-</data>
-<data name="ToolTipJoinGameServerSearch_Mods" xml:space="preserve">
-<value>Configure mods search settings</value>
-</data>
-<data name="ToolTipJoinGameServerSearch_Settings" xml:space="preserve">
-<value>Configure basic server search settings</value>
-</data>
-<data name="ToolTipJoinGame_Advanced" xml:space="preserve">
-<value>Open advanced server search settings</value>
-</data>
-<data name="ToolTipJoinGame_SearchClear" xml:space="preserve">
-<value>Clear search</value>
-</data>
-<data name="ToolTipJoinGame_ServerDetails" xml:space="preserve">
-<value>Open server details screen</value>
 </data>
 <data name="UGCService_Email" xml:space="preserve">
 <value>Insert your email address to login to {0}: (temporary)</value>
@@ -21091,101 +22099,11 @@
 <data name="ToolTipOptionsAudio_MuteWhenInactive" xml:space="preserve">
 <value>Disable all sound when game window loses focus</value>
 </data>
-<data name="ToolTipOptionsAudio_SpeedBasedSounds" xml:space="preserve">
-<value>Play ship engine sounds based solely on the speed of the craft.Uncheck for realistic sound.</value>
-</data>
-<data name="ToolTipOptionsAudio_UseContextualMusic" xml:space="preserve">
-<value>Change music according to current in-game situation</value>
-</data>
-<data name="ToolTipOptionsAudio_VoiceChatVolume" xml:space="preserve">
-<value>Configure volume level of player voice chat</value>
-</data>
-<data name="ToolTipOptionsControls_Category" xml:space="preserve">
-<value>Choose controls category</value>
-</data>
-<data name="ToolTipOptionsControls_ClickToEdit" xml:space="preserve">
-<value>Click to editRight click to remove binding</value>
-</data>
 <data name="ToolTipOptionsControls_InvertMouseScrollBlockSelection" xml:space="preserve">
 <value>Reverse block selection by mouse scroll (scroll up = next block, scroll down = previous block)</value>
 </data>
 <data name="ToolTipOptionsControls_JoystickDeadzoneWidth" xml:space="preserve">
 <value>Adjust how much movement of the controller is needed before it activates</value>
-</data>
-<data name="ToolTipOptionsControls_JoystickOrGamepad" xml:space="preserve">
-<value>Select active controller</value>
-</data>
-<data name="ToolTipOptionsControls_JoystickSensitivity" xml:space="preserve">
-<value>Adjust sensitivty of your controller</value>
-</data>
-<data name="ToolTipOptionsGraphics_PostProcessing" xml:space="preserve">
-<value>Enables Bloom, Vignette, Chromatic Aberation and washes the visor up</value>
-</data>
-<data name="ToolTipSafeZone_AddContained" xml:space="preserve">
-<value>Add all entities inside safe zone to the filter</value>
-</data>
-<data name="TooltipScreenMods_Category_All" xml:space="preserve">
-<value>All</value>
-</data>
-<data name="ToolTipTerminalProduction_AssemblingMode" xml:space="preserve">
-<value>Assembling mode: ingots to components</value>
-</data>
-<data name="ToolTipTerminalProduction_DisassemblingMode" xml:space="preserve">
-<value>Disassembling mode: components to ingots</value>
-</data>
-<data name="ToolTipTimerBlock_Silent" xml:space="preserve">
-<value>Turn off timer beep sounds</value>
-</data>
-<data name="ToolTipVideoOptionsEnableDamageEffects" xml:space="preserve">
-<value>Enable particle effects  for damaged blocks</value>
-</data>
-<data name="ToolTipVideoOptionsRenderer" xml:space="preserve">
-<value>Changing the renderer requires restart of the game</value>
-</data>
-<data name="ToolTipWorldSettingsDifficulty" xml:space="preserve">
-<value>The damage given and taken to and from enemiesand environment. Higher difficulty means more realistic damage.</value>
-</data>
-<data name="ToolTipWorldSettingsEnableCargoShips" xml:space="preserve">
-<value>Whether random cargo ships should be enabled</value>
-</data>
-<data name="ToolTipWorldSettingsEnableCopyPaste" xml:space="preserve">
-<value>Copy paste allows to create new ships or stations directly from the clipboard.</value>
-</data>
-<data name="ToolTipWorldSettingsFriendlyFire" xml:space="preserve">
-<value>When checked, allies can damage each other</value>
-</data>
-<data name="ToolTipWorldSettingsHardwareRequirements" xml:space="preserve">
-<value>Hardware requirements define how rich your world can be. Higher values are more demanding on computing performance of your computer (CPU and GPU) and will definitely require more memory.</value>
-</data>
-<data name="ToolTipWorldSettingsHarvestingMode" xml:space="preserve">
-<value>Creative Mode: unlimited resources, instant building, players don't die. Use creative mode when youjust want to build things.Survival Mode: realistic inventory capacity, constrained resources - you have to drill and harvest ore, process itin a refinery, construct components in assembler, build blocks using welder, disassemble using grinder,players can die - they re-spawn in their spawn point and if there's no spawn point available, then in a new shipas a new player at the border of the sector.Survival x3: same as "Survival", but 3x larger inventory capacity.Survival x10: same as "Survival", but 10x larger inventory capacity.</value>
-</data>
-<data name="ToolTipWorldSettingsMaxBlocksPerPlayer" xml:space="preserve">
-<value>Maximum number of blocks each player can build. Destroyed blocks are refunded.</value>
-</data>
-<data name="ToolTipWorldSettingsPermanentDeath" xml:space="preserve">
-<value>Enables players losing everything if they dieand don't have any available respawn points.</value>
-</data>
-<data name="ToolTipWorldSettingsPVP" xml:space="preserve">
-<value>PvE means that you cannot damage other players. PvP means that you can damage them and they can damage you.</value>
-</data>
-<data name="ToolTipWorldSettingsRemoveTrash" xml:space="preserve">
-<value>If checked, ships that are considered to be trash will be removed to make the game run faster. To be considered trash, the grid has to contain just a few blocks, be in uniform linear motion, be unpowered, uncontrolled, without a medbay and far enough from all players so that they can barelysee it.</value>
-</data>
-<data name="ToolTipWorldSettingsResetOwnership" xml:space="preserve">
-<value>Removes ownership of all blocks.</value>
-</data>
-<data name="TooltipWorldSettingsRespawnShipDelete" xml:space="preserve">
-<value>Deletes respawn ships when players leave servers or spawn in new ships.</value>
-</data>
-<data name="ToolTipWorldSettingsSoundInSpace" xml:space="preserve">
-<value>There's no sound in space. Turn it on to simulate Earth-like sound conditions (even though it's not realistic). Turn it off for a realistic mode where you can hear only sounds that your astronaut character can hear.</value>
-</data>
-<data name="ToolTipWorldSettingsOptimalSpawnDistance" xml:space="preserve">
-<value>Optimal distance in meters the game should take into consideration when spawning new player near others.</value>
-</data>
-<data name="ToolTipWorldSettingsAutorespawn" xml:space="preserve">
-<value>Enables automatic respawning at the nearest available respawn point.</value>
 </data>
 <data name="ToolTipWorldSettingsSupergridding" xml:space="preserve">
 <value>Allows supergridding exploit to be used.</value>
@@ -21195,63 +22113,6 @@
 </data>
 <data name="ToolTipWorldSettings_AdaptiveSimulationQuality" xml:space="preserve">
 <value>Enables quality reduction of deformations and explosions affecting voxels in case the CPU is on fire.</value>
-</data>
-<data name="ToolTipWorldSettings_CargoShipsEnabled" xml:space="preserve">
-<value>Enables random cargoships flying through the world from time to time.</value>
-</data>
-<data name="ToolTipWorldSettings_ClientCanSave" xml:space="preserve">
-<value>Client can save network game. If unchecked then only server can save</value>
-</data>
-<data name="ToolTipWorldSettings_EnableConvertToStation" xml:space="preserve">
-<value>Adds an option to ship terminals to convert ships to stations.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableDrones" xml:space="preserve">
-<value>Random NPC pirate ship will be generated from time to time.These ships are enemies and will try to attack you with their drones.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableEncounters" xml:space="preserve">
-<value>Enables randomly spawned abandoned ships and stations.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableFlora" xml:space="preserve">
-<value>Enables flora for planets.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableIngameScripts" xml:space="preserve">
-<value>Enables scripts running in game. Scripts are used in programmable blocks.They can also be used by some mods to create advanced logic and effects.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableJetpack" xml:space="preserve">
-<value>If this is turned off, characters won't be able to use jetpacks at all.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableOxygen" xml:space="preserve">
-<value>Enables oxygen processing. Oxygen is used by space suits and cockpits.</value>
-</data>
-<data name="ToolTipWorldSettings_EnablePlanets" xml:space="preserve">
-<value>Enable/disable spawning of planets in world</value>
-</data>
-<data name="TooltipWorldSettings_EnableRealisticDampeners" xml:space="preserve">
-<value>Enables realistic dampeners</value>
-</data>
-<data name="ToolTipWorldSettings_EnableRemoteBlockRemoval" xml:space="preserve">
-<value>Enables players to remotely remove owned blocksto free up their PCU limit.</value>
-</data>
-<data name="ToolTipWorldSettings_EnableRespawnShips" xml:space="preserve">
-<value>Enables respawning in ships. If disabled, respawning is only possiblein the suit, in medical stations, or in survival kits.</value>
-</data>
-<data name="TooltipWorldSettings_EnableSubGridDamage" xml:space="preserve">
-<value>Enables damage to sub-grids originating from collisions, explosionsand other sources on connected grids. We recommend leaving this setting disabled for more stable behavior.</value>
-</data>
-<data name="ToolTipWorldSettings_FloraDensity" xml:space="preserve">
-<value>Density of flora elements on planets</value>
-</data>
-<data name="ToolTipWorldSettings_ScenarioEditMode" xml:space="preserve">
-<value>Allows additional ingame options for creating scenario.Also displays your saved game in scenario start screen.</value>
-</data>
-<data name="ToolTipWorldSettings_StartInRespawnScreen" xml:space="preserve">
-<value>When played as scenario: player will start in respawn screen with new identity, all ownership will be lost</value>
-</data>
-<data name="UnsavedChanges" xml:space="preserve">
-<value>Unsaved changes</value>
-</data>
-<data name="UnsavedChangesQuestion" xml:space="preserve">
-<value>You have unsaved changes. Do you want to save current cutscene first?</value>
 </data>
 <data name="WelcomeScreen_SignatureTitle" xml:space="preserve">
 <value>Creative Director</value>
@@ -22624,18 +23485,6 @@
 <data name="Description_FAQ_FrostbitePack" xml:space="preserve">
 <value>The Frostbite Pack includes a new scenario and four new blocks: Antenna Dish, Dead Engineers, Gate and the Offset Door. Additionally, this DLC features the Frozen Armor Skin and LCD Posters.</value>
 </data>
-<data name="Description_AntennaDish" xml:space="preserve">
-<value>Antennas can be used to broadcast positions, messages HUD markers and allows grids to be accessed or controlled from a distance.Antennas need to be able to send and receive, so make sure two antennas always overlap each other's position.</value>
-</data>
-<data name="Description_OffsetDoor" xml:space="preserve">
-<value>Doors can seal off interiors and make them air tight while still allowing access for the player.</value>
-</data>
-<data name="BroadcastScreen_Antenna" xml:space="preserve">
-<value>   Antenna</value>
-</data>
-<data name="BroadcastScreen_RemoteControl" xml:space="preserve">
-<value>   Remote Control</value>
-</data>
 <data name="MessageBoxWorldOperation_Quota" xml:space="preserve">
 <value>There is not enough space for the operation. Please, remove some saved games or blueprints and try again.</value>
 </data>
@@ -22792,20 +23641,8 @@
 <data name="ScreenSpectatorAdminMenu_Save" xml:space="preserve">
 <value>Ctrl + Num "number" - save camera position</value>
 </data>
-<data name="ScreenDebugAdminMenu_Empty" xml:space="preserve">
-<value>&lt;Empty&gt;</value>
-</data>
 <data name="Description_ExhaustPipe" xml:space="preserve">
 <value>The Exhaust Pipe emits particles like smoke and fire to decorate vehicles and structures.</value>
-</data>
-<data name="String2" xml:space="preserve">
-<value>ERROR 3</value>
-</data>
-<data name="Description_BuggyCockpit" xml:space="preserve">
-<value>The Buggy Cockpit is similar to the rover cockpit but with a roll cage to keep you safe. Please keep hands and feet inside. </value>
-</data>
-<data name="Description_RoverCockpit" xml:space="preserve">
-<value>The Rover Cockpit is a compact cockpit designed for rovers but works just as well for small ships or large small grid interiors. </value>
 </data>
 <data name="Description_OffsetLight" xml:space="preserve">
 <value>The Offset Light and Offset Spotlight function the same as regular lights and can be used to illuminate dark areas.</value>
@@ -22975,14 +23812,8 @@
 <data name="Description_BeamBlock" xml:space="preserve">
 <value>Beam blocks offer a variety of different shapes to be used as decoration or light structural support.</value>
 </data>
-<data name="BlockPropertyTooltip_LargeTurretFireAtLockedTarget" xml:space="preserve">
-<value>Enabling this will make the turrets aim and fire at a locked target</value>
-</data>
 <data name="TSS_TargetingInfo" xml:space="preserve">
 <value>Targeting Info</value>
-</data>
-<data name="BlockActionTooltip_LargeTurretFocusLockedTarget" xml:space="preserve">
-<value>Prioritize locked target while target lock is maintained</value>
 </data>
 <data name="Notification_TargetOutOfRange" xml:space="preserve">
 <value>{0} Turret(s) have insufficient range</value>
@@ -23125,27 +23956,6 @@
 <data name="BlockActionDropDownValue_RotationAuto" xml:space="preserve">
 <value>Auto</value>
 </data>
-<data name="BlockActionDropDownValue_RotationCW" xml:space="preserve">
-<value>Clockwise</value>
-</data>
-<data name="BlockActionDropDownValue_RotationCCW" xml:space="preserve">
-<value>Counter-Clockwise</value>
-</data>
-<data name="BlockActionDropDownValueTip_RotationAuto" xml:space="preserve">
-<value>Automatically chooses the shortest rotation to the set angle</value>
-</data>
-<data name="BlockActionDropDownValueTip_RotationCW" xml:space="preserve">
-<value>Rotate clockwise to the set angle</value>
-</data>
-<data name="BlockActionDropDownValueTip_RotationCCW" xml:space="preserve">
-<value>Rotate counter-clockwise to the set angle</value>
-</data>
-<data name="BlockActionTitle_Discharge" xml:space="preserve">
-<value>Discharge</value>
-</data>
-<data name="BlockActionTitle_Recharge" xml:space="preserve">
-<value>Recharge</value>
-</data>
 <data name="BlockActionTitle_RotateToAngle" xml:space="preserve">
 <value>Rotate To Angle</value>
 </data>
@@ -23154,45 +23964,6 @@
 </data>
 <data name="BlockActionTitle_SetAndMove" xml:space="preserve">
 <value>Set And Move</value>
-</data>
-<data name="BlockActionTitle_SetAngle" xml:space="preserve">
-<value>Set Angle</value>
-</data>
-<data name="BlockActionTitle_SetDistance" xml:space="preserve">
-<value>Set Distance</value>
-</data>
-<data name="BlockActionTitle_SetVelocity" xml:space="preserve">
-<value>Set Velocity</value>
-</data>
-<data name="BlockActionTitle_SetLowerLimit" xml:space="preserve">
-<value>Set Lower Limit</value>
-</data>
-<data name="BlockActionTitle_SetUpperLimit" xml:space="preserve">
-<value>Set Upper Limit</value>
-</data>
-<data name="BlockPropertiesText_Productivity_Assembler" xml:space="preserve">
-<value>Production Speed:</value>
-</data>
-<data name="BlockPropertyProperties_ChargeEfficiency" xml:space="preserve">
-<value>Charge Efficiency: </value>
-</data>
-<data name="BlockPropertyTitle_SetFlightModeFormat" xml:space="preserve">
-<value>Set Flight Mode: {0}</value>
-</data>
-<data name="DisplayName_Space_spider_black" xml:space="preserve">
-<value>Black Sabiroid</value>
-</data>
-<data name="DisplayName_Space_spider_brown" xml:space="preserve">
-<value>Brown Sabiroid</value>
-</data>
-<data name="DisplayName_Space_spider_green" xml:space="preserve">
-<value>Green Sabiroid</value>
-</data>
-<data name="DisplayName_Space_spider" xml:space="preserve">
-<value>Sabiroid</value>
-</data>
-<data name="DisplayName_Space_Wolf" xml:space="preserve">
-<value>Wolf</value>
 </data>
 <data name="Description_Transponder" xml:space="preserve">
 <value>Action Relay blocks, in conjunction with Antennas, can trigger actions on other Action Relay blocks on other grids using the corresponding channel.</value>
@@ -23407,93 +24178,6 @@
 <data name="BroadcastController_UseAntenna_Title" xml:space="preserve">
 <value>Use Antenna</value>
 </data>
-<data name="BroadcastController_UseAntenna_Tooltip" xml:space="preserve">
-<value>Enable broadcasting using antennas. If left unchecked, only players inside cockpits on this grid will see the message(s).</value>
-</data>
-<data name="BroadcastController_CustomName_Title" xml:space="preserve">
-<value>Custom Name</value>
-</data>
-<data name="BroadcastController_CustomName_Tooltip" xml:space="preserve">
-<value>Sets a custom name, displayed before each message.</value>
-</data>
-<data name="BroadcastController_Message1_Title" xml:space="preserve">
-<value>Message 1</value>
-</data>
-<data name="BroadcastController_Message2_Title" xml:space="preserve">
-<value>Message 2</value>
-</data>
-<data name="BroadcastController_Message3_Title" xml:space="preserve">
-<value>Message 3</value>
-</data>
-<data name="BroadcastController_Message4_Title" xml:space="preserve">
-<value>Message 4</value>
-</data>
-<data name="BroadcastController_Message5_Title" xml:space="preserve">
-<value>Message 5</value>
-</data>
-<data name="BroadcastController_Message6_Title" xml:space="preserve">
-<value>Message 6</value>
-</data>
-<data name="BroadcastController_Message7_Title" xml:space="preserve">
-<value>Message 7</value>
-</data>
-<data name="BroadcastController_Message8_Title" xml:space="preserve">
-<value>Message 8</value>
-</data>
-<data name="BroadcastController_TransmitMessage1_Title" xml:space="preserve">
-<value>Transmit Message 1</value>
-</data>
-<data name="BroadcastController_TransmitMessage2_Title" xml:space="preserve">
-<value>Transmit Message 2</value>
-</data>
-<data name="BroadcastController_TransmitMessage3_Title" xml:space="preserve">
-<value>Transmit Message 3</value>
-</data>
-<data name="BroadcastController_TransmitMessage4_Title" xml:space="preserve">
-<value>Transmit Message 4</value>
-</data>
-<data name="BroadcastController_TransmitMessage5_Title" xml:space="preserve">
-<value>Transmit Message 5</value>
-</data>
-<data name="BroadcastController_TransmitMessage6_Title" xml:space="preserve">
-<value>Transmit Message 6</value>
-</data>
-<data name="BroadcastController_TransmitMessage7_Title" xml:space="preserve">
-<value>Transmit Message 7</value>
-</data>
-<data name="BroadcastController_TransmitMessage8_Title" xml:space="preserve">
-<value>Transmit Message 8</value>
-</data>
-<data name="BroadcastController_TransmitRandomMessage_Title" xml:space="preserve">
-<value>Send Random Message</value>
-</data>
-<data name="BroadcastController_TransmitRandomMessage_Tooltip" xml:space="preserve">
-<value>Selects random message and transmits that message.</value>
-</data>
-<data name="BroadcastController_SendGps_Title" xml:space="preserve">
-<value>Send GPS</value>
-</data>
-<data name="BroadcastController_SendGps_Tooltip" xml:space="preserve">
-<value>Send current position</value>
-</data>
-<data name="BroadcastController_BroadcastTarget_Owner" xml:space="preserve">
-<value>Owner Only</value>
-</data>
-<data name="BroadcastController_BroadcastTarget_Faction" xml:space="preserve">
-<value>Faction Only</value>
-</data>
-<data name="BroadcastController_BroadcastTarget_Everyone" xml:space="preserve">
-<value>Everyone</value>
-</data>
-<data name="BroadcastController_SetBroadcastTarget_Owner" xml:space="preserve">
-<value>Enable Owner Only</value>
-</data>
-<data name="BroadcastController_SetBroadcastTarget_Faction" xml:space="preserve">
-<value>Enable Faction Only</value>
-</data>
-<data name="BroadcastController_SetBroadcastTarget_Everyone" xml:space="preserve">
-<value>Enable Everyone</value>
-</data>
 <data name="ToolTipWorldSettingsMaxOfflineBroadcastDistance" xml:space="preserve">
 <value>The maximum distance Broadcast Controller will transmit messages when its owner is offline.</value>
 </data>
@@ -23638,12 +24322,6 @@
 <data name="CustomWorld_RedShip2" xml:space="preserve">
 <value>Red Ship v2</value>
 </data>
-<data name="QuickStartNotification_Title" xml:space="preserve">
-<value>Would you like to try Quick Start instead?</value>
-</data>
-<data name="QuickStartNotification_Yes" xml:space="preserve">
-<value>Play Quick Start</value>
-</data>
 <data name="DisplayName_TemporaryContainer" xml:space="preserve">
 <value>Temporary Container</value>
 </data>
@@ -23718,66 +24396,6 @@
 </data>
 <data name="SimpleNewGame_CrashedRedShip_Description" xml:space="preserve">
 <value>A navigational accident has left your cruiser severely damaged. Use your skills to salvage, rebuild, and survive the harsh environment of space.</value>
-</data>
-<data name="SimpleNewGame_DeadDropArena_Description" xml:space="preserve">
-<value>A PvP scenario that allows pilots to test their skills against one another. Fighters are deployed from a central station high in the Martian atmosphere. Play 1v1 or in teams.</value>
-</data>
-<data name="SimpleNewGame_EasyStartConsole_Description" xml:space="preserve">
-<value>Start your journey on a planet or in deep space.</value>
-</data>
-<data name="SimpleNewGame_EasyStartGreen_Description" xml:space="preserve">
-<value>Begin your journey on a sprawling asteroid base. Use the base’s infrastructure as a launching point. Gather resources, refit existing craft or build your own, and explore the asteroid belt.</value>
-</data>
-<data name="SimpleNewGame_EasyStartSpace_Description" xml:space="preserve">
-<value>This world can serve as a jumping-off point for both survival and creative gameplay sessions, providing you with a station and a large cruiser. Where you go from there is up to you!</value>
-</data>
-<data name="SimpleNewGame_EasyStart_Description" xml:space="preserve">
-<value>Start on a planet with a large outpost and plenty of supplies. Features multiple planetary locations ready for exploration and expansion.</value>
-</data>
-<data name="SimpleNewGame_EmptyWorld_Description" xml:space="preserve">
-<value>This world is a blank slate, unleash your creativity and populate it with your creations.</value>
-</data>
-<data name="SimpleNewGame_LearningToSurvive_Description" xml:space="preserve">
-<value>This is a nonlinear tutorial mission. Restore an old outpost to act as your base of operations and explore the remains of a once-thriving industrial outpost. Each location you discover will teach you the skills needed to survive in the universe of Space Engineers.</value>
-</data>
-<data name="SimpleNewGame_LoneSurvivor_Description" xml:space="preserve">
-<value>Alone in the void. Choose your destiny.</value>
-</data>
-<data name="SimpleNewGame_NeverSurrender_Description" xml:space="preserve">
-<value>Start your journey on a planet or in deep space. Build at your own pace, and when you’ve gathered your forces challenge yourself by defending a small outpost from waves of relentless drones. Play alone or together. How you do it is up to you!</value>
-</data>
-<data name="SimpleNewGame_PetramOrbiter_Description" xml:space="preserve">
-<value>High above the harsh deserts of the planet Pertam, a team of engineers has created an orbital station serving as a launching point for planetary exploration. Gather your supplies and drop to the planet's surface. Do you have what it takes to survive this wasteland?</value>
-</data>
-<data name="SimpleNewGame_RedShip2_Description" xml:space="preserve">
-<value>A modernized version of the classic Red Ship world. This world can serve as a jumping-off point for both survival and creative gameplay sessions. It is friendly to new players and has various examples and opportunities for you to engage and explore the features of Space Engineers.</value>
-</data>
-<data name="SimpleNewGame_RivalPlatforms_Description" xml:space="preserve">
-<value>Two rival teams have gathered their forces in an asteroid field, each with a cruiser and a squad of fighters ready to deploy. Choose a side, build up your base, and prepare for battle.</value>
-</data>
-<data name="SimpleNewGame_ScrapRace_Description" xml:space="preserve">
-<value>Scrap Race is a fast-paced racing scenario designed for multiplayer. Pick your vehicle of choice, customize it to your liking, and compete against other lowlifes, thrillseekers, and speed freaks from across the system. Will your vehicle survive the wasteland, or will you be left in the dust?</value>
-</data>
-<data name="SimpleNewGame_SpaceStandoff_Description" xml:space="preserve">
-<value>Space Standoff is a multiplayer scenario where two teams have acquired a valuable Data Container and the race to decrypt these devices has ignited tensions between them. Each team must defend their base while mobilizing their resources to destroy the enemy's container. The clock is ticking, and only the most skilled and coordinated team will emerge victorious.</value>
-</data>
-<data name="SimpleNewGame_SparksOfTheFuture_Description" xml:space="preserve">
-<value>Welcome to Sparks of the Future! Enjoy some competition at the shooting range or on the dance floor. Explore the many shops available at Sparks of the Future Central. Looking for a distraction from your daily activities or do you seek vibrant city life? You can find it all here at Sparks of the Future!</value>
-</data>
-<data name="SimpleNewGame_StarSystem_Description" xml:space="preserve">
-<value>One of the most popular worlds in Space Engineers, featuring several planets for you to build, explore, and survive on. Customize the settings and play to your heart’s content!</value>
-</data>
-<data name="SimpleNewGame_UraniumHeist_Description" xml:space="preserve">
-<value>Gather resources and expand your arsenal as you defend your territory, construct defenses, and protect your uranium carrier. Carrying uranium will slow your speed considerably, work together when escorting this precious cargo back to base. Multiple paths to victory means no two games are ever the same. Is your team up to the challenge? Lock and load!</value>
-</data>
-<data name="ScenarioSelectionScreen_LocalScenario" xml:space="preserve">
-<value>Local scenario</value>
-</data>
-<data name="WorldSettings_EnableTemporaryContainers" xml:space="preserve">
-<value>Enable Temporary Containers</value>
-</data>
-<data name="ToolTipWorldSettings_EnableTemporaryContainers" xml:space="preserve">
-<value>Enable Temporary Containers to spawn after destroying block with inventory.</value>
 </data>
 <data name="Description_ModularBridgeCockpit" xml:space="preserve">
 <value>A set of modular blocks to design elaborate bridges to helm your ship from.</value>
@@ -23890,21 +24508,6 @@
 <data name="DisplayName_Block_MissileTurretReskin" xml:space="preserve">
 <value>Rocket Turret Type II</value>
 </data>
-<data name="Newsletter_Caption" xml:space="preserve">
-<value>Sign up for the Keen Software House Newsletter</value>
-</data>
-<data name="Newsletter_Signup" xml:space="preserve">
-<value>Sign up for our newsletter and get the Flush Cockpit for free!</value>
-</data>
-<data name="Newsletter_Description" xml:space="preserve">
-<value>Stay updated with the latest news, updates, and exclusive content from Keen Software House, and enjoy this special in-game reward as a thank you for joining us!</value>
-</data>
-<data name="Newsletter_Email" xml:space="preserve">
-<value>Email address</value>
-</data>
-<data name="Newsletter_Privacy" xml:space="preserve">
-<value>Privacy</value>
-</data>
 <data name="Newsletter_PrivacyCheckbox" xml:space="preserve">
 <value>I have read and agree to the Keen Software House privacy policy. I understand I can opt out at any time.</value>
 </data>
@@ -23917,93 +24520,6 @@
 <data name="Newsletter_Help" xml:space="preserve">
 <value>{CONTROL:GUI:BUTTON_X} Subscribe   {CONTROL:GUI:CANCEL} Back   {CONTROL:GUI:BUTTON_Y} Privacy Policy</value>
 </data>
-<data name="DisplayName_Category_Automation" xml:space="preserve">
-<value>   Automation</value>
-</data>
-<data name="DisplayName_Category_Control" xml:space="preserve">
-<value>   Control</value>
-</data>
-<data name="DisplayName_Category_Decorative" xml:space="preserve">
-<value>   Decorative</value>
-</data>
-<data name="DisplayName_Category_DLCBlocks" xml:space="preserve">
-<value>DLC Blocks</value>
-</data>
-<data name="DisplayName_Category_Logistics" xml:space="preserve">
-<value>   Logistics</value>
-</data>
-<data name="DisplayName_Category_Mechanical" xml:space="preserve">
-<value>   Mechanical</value>
-</data>
-<data name="DisplayName_Category_Propulsion" xml:space="preserve">
-<value>   Propulsion</value>
-</data>
-<data name="DisplayName_Category_Structure" xml:space="preserve">
-<value>   Structure</value>
-</data>
-<data name="DisplayName_Category_Utility" xml:space="preserve">
-<value>   Utility</value>
-</data>
-<data name="RadialMenuGroupTitle_Automation" xml:space="preserve">
-<value>Automation</value>
-</data>
-<data name="RadialMenuGroupTitle_Control" xml:space="preserve">
-<value>Control</value>
-</data>
-<data name="RadialMenuGroupTitle_Logistics1" xml:space="preserve">
-<value>Logistics #1</value>
-</data>
-<data name="RadialMenuGroupTitle_Logistics2" xml:space="preserve">
-<value>Logistics #2</value>
-</data>
-<data name="RadialMenuGroupTitle_Mechanical" xml:space="preserve">
-<value>Mechanical</value>
-</data>
-<data name="RadialMenuGroupTitle_Power" xml:space="preserve">
-<value>Power</value>
-</data>
-<data name="RadialMenuGroupTitle_Production" xml:space="preserve">
-<value>Production</value>
-</data>
-<data name="RadialMenuGroupTitle_Propulsion1" xml:space="preserve">
-<value>Movement #1</value>
-</data>
-<data name="RadialMenuGroupTitle_Propulsion2" xml:space="preserve">
-<value>Movement #2</value>
-</data>
-<data name="RadialMenuGroupTitle_Structure1" xml:space="preserve">
-<value>Structure #1</value>
-</data>
-<data name="RadialMenuGroupTitle_Structure2" xml:space="preserve">
-<value>Structure #2</value>
-</data>
-<data name="RadialMenuGroupTitle_Structure3" xml:space="preserve">
-<value>Structure #3</value>
-</data>
-<data name="RadialMenuGroupTitle_Utility1" xml:space="preserve">
-<value>Utility #1</value>
-</data>
-<data name="RadialMenuGroupTitle_Utility2" xml:space="preserve">
-<value>Utility #2</value>
-</data>
-<data name="RadialMenuGroupTitle_Weapons" xml:space="preserve">
-<value>Weapons</value>
-</data>
-<data name="RadialMenuGroupTitle_Windows1" xml:space="preserve">
-<value>Windows #1</value>
-</data>
-<data name="RadialMenuGroupTitle_Windows2" xml:space="preserve">
-<value>Windows #2</value>
-</data>
-<data name="AdvancedWorldSettings_GlobalEncounterCap" xml:space="preserve">
-<value>Global Encounter Cap</value>
-</data>
-<data name="BlockActionTitle_AddMediumHingeHead" xml:space="preserve">
-<value>Add Medium Head</value>
-</data>
-<data name="BlockActionTitle_AddMediumRotorHead" xml:space="preserve">
-<value>Add Medium Head</value>
-</data>
 <data name="BlockActionTooltip_AddMediumHingeHead" xml:space="preserve">
 <value>Tries to add a Medium Hinge head on Large Hinge if no head is present</value>
 </data>
@@ -24012,183 +24528,6 @@
 </data>
 <data name="DisplayName_Category_Prototech" xml:space="preserve">
 <value>   Prototech</value>
-</data>
-<data name="DisplayName_Category_DLC_Automatons" xml:space="preserve">
-<value>   Automatons</value>
-</data>
-<data name="DisplayName_Category_DLC_Contact" xml:space="preserve">
-<value>   Contact</value>
-</data>
-<data name="DisplayName_Category_DLC_DecorativePack" xml:space="preserve">
-<value>   Decorative Pack 1</value>
-</data>
-<data name="DisplayName_Category_DLC_DecorativePack2" xml:space="preserve">
-<value>   Decorative Pack 2</value>
-</data>
-<data name="DisplayName_Category_DLC_DecorativePack3" xml:space="preserve">
-<value>   Decorative Pack 3</value>
-</data>
-<data name="DisplayName_Category_DLC_Frostbite" xml:space="preserve">
-<value>   Frostbite</value>
-</data>
-<data name="DisplayName_Category_DLC_HeavyIndustry" xml:space="preserve">
-<value>   Heavy Industry</value>
-</data>
-<data name="DisplayName_Category_DLC_Signal" xml:space="preserve">
-<value>   Signal</value>
-</data>
-<data name="DisplayName_Category_DLC_Warfare1" xml:space="preserve">
-<value>   Warfare 1</value>
-</data>
-<data name="DisplayName_Category_DLC_Warfare2" xml:space="preserve">
-<value>   Warfare 2</value>
-</data>
-<data name="DisplayName_Category_DLC_SparksOfTheFuture" xml:space="preserve">
-<value>   Sparks Of The Future</value>
-</data>
-<data name="DisplayName_Category_DLC_Wasteland" xml:space="preserve">
-<value>   Wasteland</value>
-</data>
-<data name="DisplayName_Category_Tools" xml:space="preserve">
-<value>   Tools</value>
-</data>
-<data name="DisplayName_Category_Weapons" xml:space="preserve">
-<value>   Weapons</value>
-</data>
-<data name="DisplayName_Category_Nonarmor" xml:space="preserve">
-<value>Non-Armor Blocks</value>
-</data>
-<data name="ToolTipWorldSettingsEncountersAmount" xml:space="preserve">
-<value>Sets the density of procedurally generated encounters.</value>
-</data>
-<data name="Encounter_Amount" xml:space="preserve">
-<value>Encounter amount</value>
-</data>
-<data name="EconomyFaction_Description_Military0" xml:space="preserve">
-<value>When it comes to waging war, we're what you want. Guns, ammo, and Medkits all available for purchase.</value>
-</data>
-<data name="EconomyFaction_Description_Military1" xml:space="preserve">
-<value>Whether it's tearing apart your enemies or putting together your friends, we've got what you need.</value>
-</data>
-<data name="EconomyFaction_Description_Military2" xml:space="preserve">
-<value>Our Medkits save lives. Our guns save lives too. As long as they're pointed at someone nasty.</value>
-</data>
-<data name="EconomyFaction_Description_Military3" xml:space="preserve">
-<value>We promise high-class weapons, affordable ammunition, and our guaranteed discretion on all transactions.</value>
-</data>
-<data name="EconomyFaction_Description_Military4" xml:space="preserve">
-<value>You can't put a price tag on peace of mind. We have rifles, pistols, ammunition, and all other security needs. </value>
-</data>
-<data name="EconomyFaction_Description_Military" xml:space="preserve">
-<value>With our weaponry, the battle will be over before it even starts. The best weapons money can buy, directly to your hands.</value>
-</data>
-<data name="EconomyFaction_Description_Pirate0" xml:space="preserve">
-<value>Guns, ammo, and more for sale. You don't ask where we got them from, we won't ask what you'll do with them.</value>
-</data>
-<data name="EconomyFaction_Description_Pirate1" xml:space="preserve">
-<value>Our goods are unethical. So are our prices. Come for all your weaponry needs.</value>
-</data>
-<data name="EconomyFaction_Description_Pirate2" xml:space="preserve">
-<value>Some call us criminals. We call ourselves entrepreneurs. Come browse our selection of fine wares.</value>
-</data>
-<data name="EconomyFaction_Description_Pirate3" xml:space="preserve">
-<value>Our wares fell off the back of a spaceship, in case any authorities ask. But if a customer is asking, all we'll say is that the price can't be beat.</value>
-</data>
-<data name="EconomyFaction_Description_Pirate4" xml:space="preserve">
-<value>Everyone has a right to afford security. If you can't afford conventional solutions, or they refuse to sell to you, our shop is always open.</value>
-</data>
-<data name="EconomyFaction_Description_Pirate" xml:space="preserve">
-<value>Guns, ammo, ships, components - we sell everything they wouldn't want you to have.</value>
-</data>
-<data name="Description_BlueprintClass_LargePrototechBlocks" xml:space="preserve">
-<value>Large Prototech Blocks- Click on any Large Prototech Block to assemble all componentsnecessary for it's construction except for the Prototech Frame.</value>
-</data>
-<data name="Description_BlueprintClass_PrototechComponents" xml:space="preserve">
-<value>Prototech Components- Components are used in the construction of structural,mechanical, and electrical systems.</value>
-</data>
-<data name="Description_BlueprintClass_SmallPrototechBlocks" xml:space="preserve">
-<value>Small Prototech Blocks- Click on any Small Prototech Block to assemble all components necessary for it's construction except for the Prototech Frame.</value>
-</data>
-<data name="DisplayName_BlueprintClass_LargePrototechBlocks" xml:space="preserve">
-<value>Large Prototech Blocks</value>
-</data>
-<data name="DisplayName_BlueprintClass_PrototechComponents" xml:space="preserve">
-<value>Prototech Components</value>
-</data>
-<data name="DisplayName_BlueprintClass_SmallPrototechBlocks" xml:space="preserve">
-<value>Small Prototech Blocks</value>
-</data>
-<data name="DisplayName_Item_PrototechCapacitor" xml:space="preserve">
-<value>Prototech Capacitor</value>
-</data>
-<data name="DisplayName_Item_PrototechCircuitry" xml:space="preserve">
-<value>Prototech Circuitry</value>
-</data>
-<data name="DisplayName_Item_PrototechCoolingUnit" xml:space="preserve">
-<value>Prototech Cooling Unit</value>
-</data>
-<data name="DisplayName_Item_PrototechFrame" xml:space="preserve">
-<value>Prototech Frame</value>
-</data>
-<data name="DisplayName_Item_PrototechMachinery" xml:space="preserve">
-<value>Prototech Machinery</value>
-</data>
-<data name="DisplayName_Item_PrototechPanel" xml:space="preserve">
-<value>Prototech Panel</value>
-</data>
-<data name="DisplayName_Item_PrototechPropulsionUnit" xml:space="preserve">
-<value>Prototech Propulsion Unit</value>
-</data>
-<data name="DisplayName_Item_PrototechScrap" xml:space="preserve">
-<value>Prototech Scrap</value>
-</data>
-<data name="GlobalEncounter_GPS_Name" xml:space="preserve">
-<value>Unidentified Signal</value>
-</data>
-<data name="Terminal_BlockTransfers" xml:space="preserve">
-<value>Block Transfers</value>
-</data>
-<data name="Terminal_BlockTransfersTooltip" xml:space="preserve">
-<value>Manage incoming block ownership transfers</value>
-</data>
-<data name="BlockTransfers_Caption" xml:space="preserve">
-<value>Manage Block Transfers</value>
-</data>
-<data name="BlockTransfers_From" xml:space="preserve">
-<value>From:</value>
-</data>
-<data name="BlockTransfers_Amount" xml:space="preserve">
-<value>Amount:</value>
-</data>
-<data name="BlockTransfers_OnGrid" xml:space="preserve">
-<value>On grid:</value>
-</data>
-<data name="BlockTransfers_UnknownPlayer" xml:space="preserve">
-<value>Unknown Player</value>
-</data>
-<data name="BlockTransfers_UnknownGrid" xml:space="preserve">
-<value>Unknown Grid</value>
-</data>
-<data name="BlockTransfers_Blocks" xml:space="preserve">
-<value>Block(s)</value>
-</data>
-<data name="BlockTransfers_AcceptTooltip" xml:space="preserve">
-<value>Accept this transfer and take ownership of these blocks.</value>
-</data>
-<data name="BlockTransfers_DeclineTooltip" xml:space="preserve">
-<value>Decline this transfer.</value>
-</data>
-<data name="BlockTransfers_Close" xml:space="preserve">
-<value>Close</value>
-</data>
-<data name="BlockTransfers_Decline" xml:space="preserve">
-<value>Decline</value>
-</data>
-<data name="Description_Faction_Factorum" xml:space="preserve">
-<value>The creators of Prototech. They’ve returned from the edge of known space to seek revenge.</value>
-</data>
-<data name="Description_Faction_Unknown" xml:space="preserve">
-<value>Space is vast. As humans push into the void of space, sometimes the void pushes back. Danger, mystery, or reward may lie ahead.</value>
 </data>
 <data name="DisplayName_Faction_Factorum" xml:space="preserve">
 <value>{LOCG:DisplayName_Faction_Factorum_Translation}</value>
@@ -24220,68 +24559,11 @@
 <data name="BlockTransfers_OnGridValue" xml:space="preserve">
 <value>On grid: {0}</value>
 </data>
-<data name="DisplayName_Category_CharacterItems" xml:space="preserve">
-<value>Character Items</value>
-</data>
-<data name="Description_FirstAidCabinet" xml:space="preserve">
-<value>The First Aid Cabinet stores medical kits for quick access.</value>
-</data>
-<data name="DisplayName_Block_FirstAidCabinet" xml:space="preserve">
-<value>First Aid Cabinet</value>
-</data>
-<data name="DisplayName_Block_SmallBlockJukeboxReskin" xml:space="preserve">
-<value>Media Player</value>
-</data>
-<data name="DisplayName_Block_BunkBed" xml:space="preserve">
-<value>Bunk</value>
-</data>
-<data name="StoryTitle_PrototechComponents1" xml:space="preserve">
-<value>Score</value>
-</data>
-<data name="StoryText_PrototechComponents1" xml:space="preserve">
-<value>It's shiny and it nearly cost him his life. No idea why he believed me that this wasn't worth anything. But hey, I'm not complaining.</value>
-</data>
-<data name="StoryTitle_PrototechComponents2" xml:space="preserve">
-<value>Junk</value>
-</data>
-<data name="StoryText_PrototechComponents2" xml:space="preserve">
-<value>What was I thinking? I'm not smart enough to figure out what this thing even does. I should find someone else to pawn it to when I can.</value>
-</data>
-<data name="StoryTitle_PrototechComponents3" xml:space="preserve">
-<value>Anniversary</value>
-</data>
-<data name="StoryText_PrototechComponents3" xml:space="preserve">
-<value>I cannot believe it was today. I have nothing to give her. Maybe this? It's shiny enough.</value>
-</data>
-<data name="StoryTitle_PrototechComponents4" xml:space="preserve">
-<value>Scrapyard</value>
-</data>
-<data name="StoryText_PrototechComponents4" xml:space="preserve">
-<value>Found this at work. Couldn't junk it, but couldn't tell you why. Just pretty, I guess. Call it a perk of the job.</value>
-</data>
-<data name="StoryTitle_PrototechComponents5" xml:space="preserve">
-<value>Deconstructed</value>
-</data>
-<data name="StoryText_PrototechComponents5" xml:space="preserve">
-<value>I'm sending this to you to be deconstructed. Study it until we can make it ourselves. No excuses.</value>
-</data>
 <data name="StoryTitle_PrototechComponents6" xml:space="preserve">
 <value>Relative</value>
 </data>
-<data name="StoryText_PrototechComponents6" xml:space="preserve">
-<value>I fought a saberoid last week. That was more interesting. But you can't put it in a museum. Sending you this sample.</value>
-</data>
-<data name="StoryTitle_PrototechComponents7" xml:space="preserve">
-<value>Destroy</value>
-</data>
-<data name="StoryText_PrototechComponents7" xml:space="preserve">
-<value>Please, get rid of it. Get rid of all of it. Things were fine before.This new group is not needed, nor are they wanted.</value>
-</data>
 <data name="StoryTitle_PrototechComponents8" xml:space="preserve">
 <value>Real</value>
-</data>
-<data name="StoryText_PrototechComponents8" xml:space="preserve">
-<value>I thought that group was fake. But this is from them, right? They're real? The guys? I am FREAKING out right now.</value>
 </data>
 <data name="StoryTitle_PrototechComponents9" xml:space="preserve">
 <value>Sol</value>
@@ -24291,9 +24573,6 @@
 </data>
 <data name="StoryTitle_PrototechComponents10" xml:space="preserve">
 <value>Neat</value>
-</data>
-<data name="StoryText_PrototechComponents10" xml:space="preserve">
-<value>Nicked this off a pirate. Took it to four different blokes. No one knows what it is. Isn't that neat?</value>
 </data>
 <data name="StoryTitle_PrototechComponents11" xml:space="preserve">
 <value>Appraised</value>
@@ -25374,12 +25653,6 @@
 </data>
 <data name="StoryText_DerelictStories14" xml:space="preserve">
 <value>My sister was having her first kid. I was supposed to meet him. I'm not supposed to die here.</value>
-</data>
-<data name="StoryTitle_DerelictStories15" xml:space="preserve">
-<value>Belief</value>
-</data>
-<data name="StoryText_DerelictStories15" xml:space="preserve">
-<value>I've been in stickier situations than this. Just trust in the plan - and we'll all get out of this alive.</value>
 </data>
 <data name="DisplayName_Block_ExtendedWindowCornerInverted" xml:space="preserve">
 <value>Bay Window Corner Inverted</value>
