@@ -3356,7 +3356,7 @@ Translate="Varování: Zdraví je kriticky nízké."
 
 ID=NotificationHealthLow
 Czech="Varování: Zdraví je nizké."
-Translate="Varování: Zdraví je nízké."
+Translate="Varování: Nízký stav zdraví."
 
 ID=NotificationProjectorGridSize
 Czech="Špatná velikost konstrukce. Plánek musí být stejně velký jako projektor."
@@ -10068,11 +10068,11 @@ Translate="Zaseknutý? Stiskni {0} pro možnost oživení."
 
 ID=Hint21Text
 Czech="Veděl jsi že? Můžeš manuálně ovládat veže k lepšímu vybrání tvého cíle."
-Translate="Veděl jsi že? Můžeš manuálně ovládat věže k lepšímu vybrání tvého cíle."
+Translate="Věděli jste, že? Můžeš manuálně ovládat věže k lepšímu vybrání tvého cíle."
 
 ID=Hint22Text
 Czech="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
-Translate="Veděl jsi že? Tvé magnetické boty fungují jen když není okolo gravitace."
+Translate="Věděli jste, že? Tvé magnetické boty fungují jen když není okolo gravitace."
 
 ID=HintKeyboardOnly03Text
 Czech="Věděli jste, že? Dvojklik při sváření přepne svářečku do nepřetržitého provozu."
@@ -11204,7 +11204,7 @@ Translate="Menu admina je pouze dostupné pokud jsi adminem či tě admin pový�
 
 ID=Afterburner
 Current="Sprint"
-Translate=""
+Translate="Sprint"
 
 ID=AngleGrinderPrimaryAction
 Current="Press {0} to dismount target"
@@ -11296,7 +11296,7 @@ Translate="Omezuje výšku zdvihu odpružení. Nastavením na 0 % se odpružení
 
 ID=BlockPropertyDescription_SpaceBallRestitution
 Current="Restitution"
-Translate=""
+Translate="Obnovení"
 
 ID=BlockPropertyTitle_AssignedPB
 Current="Assigned Programmable Block"
@@ -11308,7 +11308,7 @@ Translate="Síla zlomu"
 
 ID=BlockPropertyTitle_MotorUsesWheelCommands
 Current="Uses wheel commands"
-Translate=""
+Translate="Používá příkazy kola"
 
 ID=BlockPropertyTitle_Motor_Damping
 Current="Damping"
@@ -11324,7 +11324,7 @@ Translate=""
 
 ID=BlockPropertyTitle_Motor_SteerReturnSpeed
 Current="Steer Return Speed"
-Translate=""
+Translate="Návratová rychlost řízení"
 
 ID=BlockPropertyTitle_Motor_SteerSpeed
 Current="Steering Speed"
@@ -11352,7 +11352,7 @@ Translate="Okamžité stavění"
 
 ID=BlockPropertyTitle_Projector_InstantBuilding_Tooltip
 Current="Enable the projector to build the blueprint instantly, even in survival"
-Translate="Umožňuje projektorům k okamžitému postavení (i v módu survival)"
+Translate="Umožnit projektoru okamžité sestavení plánku, dokonce i v režimu survival"
 
 ID=BlockPropertyTitle_Projector_NumberOfProjections_Tooltip
 Current="The maximum number of projections this projector can build instantly"
@@ -11608,7 +11608,7 @@ Translate="Zadat nastavení symetrie"
 
 ID=ControlMenuItemLabel_ExitSymmetrySetup
 Current="Exit Symmetry Setup"
-Translate=Opustit nastavení symetrie"
+Translate="Opustit nastavení symetrie"
 
 ID=ControlMenuItemLabel_ColorPicker
 Current="Open Color Picker"
@@ -11680,7 +11680,7 @@ Translate="Plánek je příliš velký, náhled je zakázaný"
 
 ID=CubeBuilder_CubeSizeModeChange
 Current="Press {0} again{1}to change block size."
-Translate=""
+Translate="Stiskněte {0} znovu{1}pro změnu velikosti bloku."
 
 ID=CustomWorld_HomeSystem
 Current="Home System"
@@ -11732,19 +11732,19 @@ Translate="Community Managers"
 
 ID=Department_CommunityPr
 Current="Community &amp; PR Manager"
-Translate="Community &amp; PR Manager"
+Translate="Komunitní &amp; PR Manažér"
 
 ID=Department_ExecutiveProducer
 Current="Executive Producer &amp; Creative Director"
-Translate="Executive Producer &amp; Creative Director"
+Translate="Výkonný Producent &amp; Kreativní Ředitel"
 
 ID=Department_GameDesigners
 Current="Game Designers"
-Translate="Game Designers"
+Translate="Herní designéři"
 
 ID=Department_LeadProducer
 Current="Producer"
-Translate="Producer"
+Translate="Producent"
 
 ID=Department_LeadProgrammers
 Current="Lead Programmers"
@@ -11764,7 +11764,7 @@ Translate="Pro více informací navštivte"
 
 ID=Department_Music
 Current="Music"
-Translate="Music"
+Translate="Hudba"
 
 ID=Department_Office
 Current="Office"
@@ -11772,11 +11772,11 @@ Translate="Office"
 
 ID=Department_Programmers
 Current="Programmers"
-Translate="Programmers"
+Translate="Programátoři"
 
 ID=Department_SoundDesign
 Current="Sound Design"
-Translate="Sound Design"
+Translate="Zvukový design"
 
 ID=Department_SpecialThanks
 Current="Special Thanks (in alphabetical order)"
@@ -11784,11 +11784,11 @@ Translate="Speciální poděkování (v abecedním pořadí)"
 
 ID=Department_Testers
 Current="QA Testers"
-Translate="QA Testers"
+Translate="Testeři kvality"
 
 ID=Department_Translators
 Current="Translators"
-Translate="Translators"
+Translate="Překladatelé"
 
 ID=Depower
 Current="Depower"
@@ -12624,7 +12624,7 @@ Translate="Rozhlížení se"
 
 ID=HelpScreen_ControllerLookAround_PassengerSeat
 Current="Look Around in passenger seat"
-Translate="Rozhlížení se v sedadle"
+Translate="Rozhlížení se v sedadle spolujezdce"
 
 ID=HelpScreen_ControllerCharacterSurvival
 Current="Survival Only Character"
@@ -12768,7 +12768,7 @@ Translate="Věděli jste, že? Když řidíte rover, zmáčknutím {0} zabrzdít
 
 ID=Hint12Text
 Current="Did you know?you can open the color picker by pressing {0}."
-Translate="Veděl jsi že? Můžeš otevřít palet s barvami stisknutím {0}."
+Translate="Věděli jste, že? Můžete otevřít palet s barvami stisknutím {0}."
 
 ID=Hint13Text
 Current="Batteries will automatically charge and distribute power when necessary according to their settings."
@@ -13388,19 +13388,19 @@ Translate="Helma zavřena"
 
 ID=NotificationHintJoystickPressToOpenButtonPanel
 Current="Access control menu to setup panel's buttons"
-Translate=""
+Translate="Přístup k nabídce ovládání pro nastavení tlačítek panelu"
 
 ID=NotificationHintJoystickPressToOpenControlPanel
 Current="Access control menu to open control panel of {0}"
-Translate=""
+Translate="Přístup k nabídce ovládání pro otevření ovládacího panelu {0}"
 
 ID=NotificationHintJoystickPressToOpenInventory
 Current="Access control menu to open inventory of {0}"
-Translate=""
+Translate="Přístup k nabídce ovládání pro otevření inventáře {0}"
 
 ID=NotificationHintJoystickPressToOpenTerminal
 Current="Access control menu to open terminal"
-Translate=""
+Translate="Přístup k nabídce ovládání pro otevření terminálu"
 
 ID=NotificationHintLeaveCryoChamber
 Current="Press {0} to leave cryo chamber"
@@ -13428,11 +13428,11 @@ Translate="Stiskni {0} k otevření ovládacího panelu {1}"
 
 ID=NotificationHintPressToShowScreen
 Current="Press {0} to show screen"
-Translate=""
+Translate="Stiskni {0} pro zobrazení obrazovky"
 
 ID=NotificationHintSwitchWeaponMode
 Current="Press {0} to switch between single/all weapon mode."
-Translate=""
+Translate="Stiskni {0} pro přepnutí mezi režimem jedné/všech zbraní."
 
 ID=NotificationHintTurnPowerOff
 Current="Press {0} to turn power off"
@@ -13444,7 +13444,7 @@ Translate="Stiskni {0} k zapnutí energie."
 
 ID=NotificationHint_CubeDefaultMountpoint
 Current="Press {0} to toggle auto orientation"
-Translate=""
+Translate="Stiskni {0} pro přepnutí automatické orientace"
 
 ID=NotificationJetpackOff
 Current=""
@@ -13456,7 +13456,7 @@ Translate="Jetpack VYP (Není vodík)"
 
 ID=NotificationJoystickColorFormat
 Current="Press {0} to apply color, access control menu to change color"
-Translate=""
+Translate="Stiskni {0} pro použití barvy, přístup do nabídky ovládání pro změnu barvy"
 
 ID=NotificationWeaponNotFullyCharged
 Current="Weapon is only {0} charged!"
@@ -13528,11 +13528,11 @@ Translate="Varování: Nízká hladina paliva."
 
 ID=NotificationStationRotation
 Current="Station rotation mode, press {0} to switch off"
-Translate=""
+Translate="Režim otáčení stanice, stiskni {0} pro vypnutí"
 
 ID=NotificationStationRotationOff
 Current="Press {0} for station rotation mode"
-Translate=""
+Translate="Stiskni {0} pro režim otáčení stanice"
 
 ID=NotificationSuitEnergyCritical
 Current="Warning: Suit energy is critically low. Life support failure imminent."
@@ -13560,7 +13560,7 @@ Translate="Dochází palivo pro jetpack"
 
 ID=NotificationUsingWeaponType
 Current="Using {0}"
-Translate=""
+Translate="Pomocí {0}"
 
 ID=NotificationWheelNotPlaced
 Current="Wheel could not be placed."
@@ -13584,11 +13584,11 @@ Translate="Autopilot povolen"
 
 ID=Notification_NoControlLowerPriority
 Current="Grid control forbidden.Seat/Remote with higher priority is already occupied."
-Translate=""
+Translate="Ovládání konstrukce je zakázáno.Sedadlo/dálkové ovládání s vyšší prioritou je již obsazeno."
 
 ID=Notification_NoControlOtherShip
 Current="A connected ship has taken control"
-Translate=""
+Translate="Propojená loď převzala kontrolu"
 
 ID=Notification_NoControlStation
 Current="Someone else is using this station!"
@@ -13628,7 +13628,7 @@ Translate="Kyslík nebo vzduchotěnost je zakázana v nastavění světa!"
 
 ID=Parachute_ConstraintItem
 Current="Parachute Material"
-Translate=""
+Translate="Materiál padáku"
 
 ID=Person_FB
 Current="Like us on Facebook: www.facebook.com/SpaceEngineers"
@@ -13712,15 +13712,15 @@ Translate="Editor kódu"
 
 ID=ProgrammableBlock_DefaultScript_Constructor
 Current="The constructor, called only once every session andalways before any other method is called. Use it toinitialize your script. The constructor is optional and can be removed if notneeded.It's recommended to set RuntimeInfo.UpdateFrequency here, which will allow your script to run itself without a timer block."
-Translate=""
+Translate="Konstruktor, který se volá pouze jednou za relaci a vždy před voláním jakékoli jiné metody. Použij jej k inicializaci skriptu. Konstruktor je nepovinný, a pokud jej nepotřebuješ, můžeš jej odstranit.Doporučujeme zde nastavit RuntimeInfo.UpdateFrequency, což umožní, aby tvůj skript běžel sám bez bloku časovače."
 
 ID=ProgrammableBlock_DefaultScript_Main
 Current="The main entry point of the script, invoked every timeone of the programmable block's Run actions are invoked,or the script updates itself. The updateSource argumentdescribes where the update came from.The method itself is required, but the arguments abovecan be removed if not needed."
-Translate=""
+Translate="Hlavní vstupní bod skriptu, který se vyvolá pokaždé, když je vyvolána jedna z akcí Run programovatelného bloku nebo když se skript sám aktualizuje. Argument updateSource popisuje, odkud aktualizace přišla.Samotná metoda je povinná, ale výše uvedené argumenty lze odstranit, pokud nejsou potřeba."
 
 ID=ProgrammableBlock_DefaultScript_Save
 Current="Called when the program needs to save its state. Usethis method to save your state to the Storage fieldor some other means. This method is optional and can be removed if notneeded."
-Translate=""
+Translate="Volá se, když program potřebuje uložit svůj stav. Tuto metodu použij k uložení stavu do pole Úložiště nebo jiným způsobem. Tato metoda je nepovinná a může být odstraněna, pokud není potřebná."
 
 ID=ProgrammableBlock_DeleteScriptDialogText
 Current="Are you sure you want to delete this script ?"
@@ -13772,15 +13772,15 @@ Translate="Zapamatovat současný skript a ponechat editor otevřený"
 
 ID=ProgrammableBlock_Exception_ExceptionCaught
 Current="Caught exception during execution of script:"
-Translate=""
+Translate="Zachycená výjimka během provádění skriptu:"
 
 ID=ProgrammableBlock_Exception_NestedTooComplex
 Current="Script execution halted temporarily. The combined execution between a calling programmable block and this script became too complex. This script has not been terminated, but the calling script has."
-Translate=""
+Translate="Provádění skriptu se dočasně zastavilo. Kombinované provádění mezi volajícím programovatelným blokem a tímto skriptem bylo příliš složité. Tento skript nebyl ukončen, ale volající skript ano."
 
 ID=ProgrammableBlock_Exception_NoAssembly
 Current="Assembly not found. Please compile script."
-Translate=""
+Translate="Sestava nebyla nalezena. Zkompilujte prosím skript."
 
 ID=ProgrammableBlock_Exception_NoMain
 Current="Main method not found. Please add Main method into script."
@@ -15917,7 +15917,7 @@ Translate="Používejte svářečku na bloky k jejich stavbě a opravám. Svařo
 
 ID=Description_FAQ_Mining
 Current="You can collect ore by using your drill on voxels like planets or asteroids. Your drill has a short-range detector that shows you the location of ores. "
-Translate=Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy.""
+Translate="Pomocí vrtáku můžete sbírat rudu na voxelech, jako jsou planety nebo asteroidy. Váš vrták má detektor krátkého dosahu, který vám ukáže polohu rudy."
 
 ID=Description_FAQ_Healing
 Current="You can heal yourself at a medical room or survival kit if you are injured. Hold {CONTROL:USE} to use the console. "
@@ -21751,11 +21751,11 @@ Translate="Přehrát"
 
 ID=BasicMissionBlock_SelectMission
 Current="Select Objective"
-Translate=""
+Translate="Vybrat úkol"
 
 ID=BasicMissionBlock_SelectMission_Tooltip
 Current="Follow Home - Allows you to select a home beacon or GPS that the grid should follow.Can be set up to wander while it is within range.Follow Player - The grid will follow the player who presses the “Follow Me” button.Autopilot - Allows the grid to move to GPS locations and patrol/circle between several locations.Patrol and Circle requires 2 GPS locations!"
-Translate=""
+Translate="Následovat domů - Umožňuje vybrat domovský maják nebo GPS, který má konstrukce následovat.Může být nastavena tak, aby se pohybovala, dokud je v dosahu.Následovat hráče - Konstrukce bude následovat hráče, který stiskne tlačítko "Následovat mě".Autopilot - Umožňuje konstrukci pohybovat se na místa GPS a hlídkovat/kroužit mezi několika místy.Hlídkování a kroužení vyžaduje 2 místa GPS!"
 
 ID=BasicMission_FollowHome
 Current="Follow Home"
@@ -21799,7 +21799,7 @@ Translate="Domovské pozice"
 
 ID=FollowHome_PositionList_Tooltip
 Current="Available home positions."
-Translate="Dostupné domácí pozice."
+Translate="Dostupné domovské pozice."
 
 ID=FollowHome_SetHome_Title
 Current="Set Current Position"
@@ -21903,11 +21903,11 @@ Translate="Bránit se proti"
 
 ID=DefensiveCombatBlock_DefendAgainst_Tooltip
 Current="Which other grids may be a threat?"
-Translate=""
+Translate="Které další konstrukce mohou být hrozbou?"
 
 ID=DefensiveCombatBlock_TargetLock
 Current="Target lock"
-Translate=""
+Translate="Uzamčení cíle"
 
 ID=DefensiveCombatBlock_TargetLock_Enemies
 Current="Enemies"
@@ -21923,11 +21923,11 @@ Translate="Nikoho"
 
 ID=DefensiveCombatBlock_SubsystemsToDestroy
 Current="Subsystems to destroy"
-Translate=""
+Translate="Podsystémy ke zničení"
 
 ID=DefensiveCombatBlock_FleeTo
 Current="Flee to"
-Translate=""
+Translate="Útěk do"
 
 ID=DefensiveCombatBlock_FleeTo_Tooltip
 Current="If this grid flees, it will flee towards the selected waypoint."
@@ -22151,7 +22151,7 @@ Translate="Přidat zbraň"
 
 ID=OffensiveCombatHitAndRun_AddWeapon_Tooltip
 Current="Add the selected weapon to the Selected Weapons list"
-Translate="Přidat vybrané zbraně do seznamu vybraných zbraní"
+Translate="Přidat vybranou zbraň do seznamu vybraných zbraní"
 
 ID=OffensiveCombatHitAndRun_RemoveWeapon_Title
 Current="Remove Weapon"
@@ -22391,27 +22391,27 @@ Translate="Obrátit pořadí všech tras."
 
 ID=BlockPropertyTooltip_PathRecorder_ShowPath
 Current="Displays the recorded path on the HUD.To see this, ensure you have “Show on HUD” enabled on this block, as well as “Show AI Functions” in the Info screen, and have an Antenna connection to this grid."
-Translate=""
+Translate="Zobrazí zaznamenanou trasu na HUD.Chcete-li ji vidět, ujistěte se, že máte na tomto bloku povoleno "Zobrazit na HUD", stejně jako "Zobrazit funkce UI" na obrazovce informací, a že máte k této konstrukci připojenou anténu."
 
 ID=BlockPropertyTooltip_PathRecorder_ShowPoints
 Current="Displays the selected point(s) on the HUD.To see this, ensure you have “Show on HUD” enabled on this block, as well as “Show AI Functions” in the Info screen, and have an Antenna connection to this grid."
-Translate=""
+Translate="Zobrazí vybraný(é) bod(y) na HUD.Chcete-li jej vidět, ujistěte se, že máte na tomto bloku povoleno "Zobrazit na HUD", stejně jako "Zobrazit funkce UI" na obrazovce informací, a že máte k této konstrukci připojenou anténu."
 
 ID=BlockPropertyTooltip_PathRecorder_RecordPath
 Current="Start recording a new path. Recording adds to the end of any existing record. A path cannot be recorded while the Autopilot is enabled."
-Translate=""
+Translate="Začněte nahrávat novou trasu. Nahrávání se přidá na konec jakéhokoli existujícího záznamu. Cestu nelze zaznamenat, pokud je zapnutý Autopilot."
 
 ID=BlockPropertyTooltip_PathRecorder_RecordsSteps
 Current="A waypoint is added when the time since the last waypoint is greater than this value, and the distance to the previous waypoint exceeds the Minimal Distance value."
-Translate=""
+Translate="Bod trasy je přidán, pokud je čas od posledního bodu trasy větší než tato hodnota a vzdálenost k předchozímu bodu trasy je větší než hodnota pro minimální vzdálenost."
 
 ID=BlockPropertyTooltip_PathRecorder_RecordsDistance
 Current="A waypoint is added when the distance to the last waypoint is greater than this value, and the time since the previous waypoint exceeds the Waypoint Addition Interval value."
-Translate=""
+Translate="Bod trasy se přidá, pokud je vzdálenost k poslednímu bodu trasy větší než tato hodnota a čas od předchozího bodu trasy přesáhne hodnotu zadanou pro interval přidávání bodů trasy."
 
 ID=BlockPropertyTooltip_PathRecorder_Beacons
 Current="When a reference is selected, the waypoints are in local space coordinates relative to the reference. If none is selected, the waypoints are relative to the world space coordinates."
-Translate=""
+Translate="Pokud je vybrána reference, jsou body trasy v lokálních prostorových souřadnicích vzhledem k referenci. Pokud není vybrán žádný, jsou body trasy vztaženy k souřadnicím světového prostoru."
 
 ID=BlockPropertyTooltip_PathRecorder_DeselectBeacons
 Current="Deselect reference beacon."
@@ -22595,7 +22595,7 @@ Translate="Konstrukce se pokusí zadržet nepřítele a vrazit do něj."
 
 ID=FlightBlock_StatusMessage_NoTaskBlock
 Current="[Color=#FFFF0000]ERROR: No movement input. Please add/activate a Task and/or Combat block![/Color]"
-Translate=""
+Translate="[Color=#FFFF0000]CHYBA: Není zadán žádný pohyb. Prosím, přidejte/aktivujte blok Úkol a/nebo Boj![/Color]"
 
 ID=AIBlocks_HudMessage_Error
 Current="ERROR"
@@ -23519,7 +23519,7 @@ Translate="Pohovka - Věstavená"
 
 ID=DisplayName_Block_InsetBookshelf
 Current="Inset Bookshelf"
-Translate="Knihovna  - Věstavená"
+Translate="Knihovna - Věstavená"
 
 ID=DisplayName_Block_InsetEntertainmentCorner
 Current="Inset Entertainment Corner"
@@ -23527,7 +23527,7 @@ Translate="Zábavný koutek - Věstavený"
 
 ID=DisplayName_Block_InsetAquarium
 Current="Inset Aquarium"
-Translate="Akvárium  - Věstavené"
+Translate="Akvárium - Věstavené"
 
 ID=DisplayName_Block_HoloLCD
 Current="Holo LCD"
